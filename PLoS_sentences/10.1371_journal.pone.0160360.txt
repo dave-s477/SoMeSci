@@ -1,0 +1,2 @@
+All statistical analyses were performed with the Mplus statistical package version 7.3 and IBM SPSS version 22.
+

@@ -1,0 +1,5 @@
+We designed and developed a new method, MSACompro, to synergistically incorporate predicted secondary structure, relative solvent accessibility, and residue-residue contact information into the currently most accurate posterior probability-based MSA methods to improve the accuracy of multiple sequence alignments.
+MSACompro is an efficient and reliable multiple protein sequence alignment tool that can effectively incorporate predicted protein structural information into multiple sequence alignment.
+The software is available at http://sysbio.rnet.missouri.edu/multicom_toolbox/.
+Then we developed MSACompro, a new multiple sequence alignment method, which effectively utilizes predicted secondary structure, relative solvent accessibility, and residue-residue contact map together with posterior alignment probabilities produced by both pair hidden Markov models and partition function as in MSAProbs [4].
+We tested the MSACompro method against this data with contact predictions.

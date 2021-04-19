@@ -1,0 +1,14 @@
+T1	Application_Usage 134 138	SPSS
+T2	Application_Usage 209 238	statistical analyses software
+T3	Version 149 153	19.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 155 158	IBM
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Application_Usage 240 243	SAS
+T6	Version 244 245	9
+R3	Specification_of Arg1:T5 Arg2:T2	
+R4	Version_of Arg1:T6 Arg2:T5	
+T7	Version 255 258	9.2
+R5	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 260 273	SAS Institute
+R6	Developer_of Arg1:T8 Arg2:T2	

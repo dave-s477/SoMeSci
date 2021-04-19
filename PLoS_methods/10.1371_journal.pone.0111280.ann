@@ -1,0 +1,13 @@
+T1	Application_Usage 5445 5450	Q-LAB
+T2	Application_Usage 5644 5651	Image J
+T3	Application_Usage 9584 9597	Primer3 Input
+T4	Application_Usage 9718 9725	Ensembl
+T5	Application_Usage 9787 9820	Basic Local Alignment Search Tool
+T6	Version 5452 5453	6
+R1	Version_of Arg1:T6 Arg2:T1	
+T7	Developer 5455 5473	Philips Healthcare
+R2	Developer_of Arg1:T7 Arg2:T1	
+T8	URL 5662 5687	http://rsbweb.nih.gov/ij/
+R3	URL_of Arg1:T8 Arg2:T2	
+T9	Version 9606 9609	0.4
+R4	Version_of Arg1:T9 Arg2:T3	

@@ -1,0 +1,1 @@
+Our survey results were analyzed using descriptive statistics, Pearson's chi2, Wilcoxon sign rank, and Kruskal-Wallis mean rank tests in STATA. 

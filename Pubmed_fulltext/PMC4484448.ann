@@ -1,0 +1,50 @@
+T1	Application_Usage 1206 1213	FunRich
+T2	Application_Usage 7169 7176	FunRich
+T3	PlugIn_Usage 15628 15634	ClueGO
+T4	Application_Usage 15635 15644	cytoscape
+T5	PlugIn_Usage 16315 16323	Reactome
+T6	Application_Usage 16334 16343	Cytoscape
+T7	Application_Usage 30360 30368	Bioworks
+T8	Version 30369 30374	3.3.1
+T9	Developer 30376 30393	Thermo Scientific
+R1	Version_of Arg1:T8 Arg2:T7	
+R2	Developer_of Arg1:T9 Arg2:T7	
+T10	Application_Usage 30867 30873	MASCOT
+T11	Version 30876 30879	2.4
+R3	Version_of Arg1:T11 Arg2:T10	
+T12	Developer 30881 30895	Matrix Science
+R4	Developer_of Arg1:T12 Arg2:T10	
+T13	PlugIn_Usage 33808 33814	ClueGO
+T14	Version 33816 33821	1.7.1
+R5	Version_of Arg1:T14 Arg2:T13	
+T15	Citation 33822 33826	[47]
+R6	Citation_of Arg1:T15 Arg2:T13	
+T16	Application_Usage 33830 33839	Cytoscape
+T17	Version 33841 33846	2.8.3
+R7	Version_of Arg1:T17 Arg2:T16	
+T18	Citation 33847 33851	[48]
+R8	Citation_of Arg1:T18 Arg2:T16	
+T19	Application_Usage 34059 34066	FunRich
+T20	Application_Usage 34275 34284	Cytoscape
+T21	Version 34287 34292	2.8.3
+R9	Version_of Arg1:T21 Arg2:T20	
+T22	PlugIn_Usage 34448 34460	clusterMaker
+T23	Version 34463 34466	1.8
+R10	Version_of Arg1:T23 Arg2:T22	
+T24	PlugIn_Usage 34471 34476	BiNGO
+T25	Version 34479 34483	2.44
+R11	Version_of Arg1:T25 Arg2:T24	
+T26	Application_Usage 34484 34493	cytoscape
+T27	Application_Usage 38174 38179	Prism
+T28	Version 38179 38180	5
+R12	Version_of Arg1:T28 Arg2:T27	
+T29	Developer 38182 38190	GraphPad
+R13	Developer_of Arg1:T29 Arg2:T27	
+T30	Application_Usage 38206 38218	Office Excel
+T31	Developer 38196 38205	Microsoft
+R14	Developer_of Arg1:T31 Arg2:T30	
+R15	PlugIn_of Arg1:T5 Arg2:T6	
+R16	PlugIn_of Arg1:T3 Arg2:T4	
+R17	PlugIn_of Arg1:T13 Arg2:T16	
+R18	PlugIn_of Arg1:T22 Arg2:T26	
+R19	PlugIn_of Arg1:T24 Arg2:T26	

@@ -1,0 +1,6 @@
+I introduce an open-source R package ‘dcGOR’ to provide the bioinformatics community with the ease to analyse ontologies and protein domain annotations, particularly those in the dcGO database.
+To meet these needs, I have developed ‘dcGOR’, a flexible R package that provides a basic infrastructure suitable for representing ontologies and annotations.
+The dcGOR is exclusively implemented on the R software environment.
+As open-source software, the dcGOR package is freely available under the GPL-2 license (see Software S1).
+For ease of installation (R package dependencies), it is distributed as part of CRAN, http://cran.r-project.org/package=dcGOR.
+For ease of version control, it is also distributed at GitHub, https://github.com/hfang-bristol/dcGOR.

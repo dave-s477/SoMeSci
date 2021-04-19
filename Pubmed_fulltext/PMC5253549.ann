@@ -1,0 +1,16 @@
+T1	Application_Usage 11383 11388	MLWin
+T2	Version 11391 11395	2.31
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 11446 11451	MLwiN
+R2	Specification_of Arg1:T3 Arg2:T1	
+T4	Version 11461 11466	2.31.
+R3	Version_of Arg1:T4 Arg2:T3	
+T5	Developer 11467 11498	Centre for Multilevel Modelling
+R4	Developer_of Arg1:T5 Arg2:T3	
+T6	Application_Usage 11761 11766	MLwiN
+T7	Version 11768 11773	2.31.
+R5	Version_of Arg1:T7 Arg2:T6	
+T8	Developer 11774 11805	Centre for Multilevel Modelling
+R6	Developer_of Arg1:T8 Arg2:T6	
+T9	Developer 11406 11445	Rasbash J, Charlton C, Browne W, et al.
+R7	Developer_of Arg1:T9 Arg2:T1	

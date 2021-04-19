@@ -1,0 +1,3 @@
+Here, we present a new approach to computer-assisted de novo design of ligand candidate structures, and describe its implementation in the software tool DOGS (Design Of Genuine Structures).
+DOGS implements 83 reactions (termed coupling reactions in the following), 58 of which are unique and 25 represent either charge variations (reactants) or regioisomer variations (products) of one of the unique reactions.
+The DOGS software was implemented in the programming language Java (Oracle Corporation, 500 Oracle Parkway, Redwood Shores, CA 94065, USA) version 1.6 and uses the Chemistry Development Kit (CDK, version 1.0.2) [23], [24].

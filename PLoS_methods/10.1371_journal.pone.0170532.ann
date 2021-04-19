@@ -1,0 +1,16 @@
+T1	Application_Usage 2088 2093	qBase
+T2	Application_Usage 2592 2602	Statistica
+T3	Application_Usage 3300 3314	Genevestigator
+T4	Application_Usage 2214 2219	qBase
+T5	Version 2094 2097	2.0
+T6	Developer 2099 2109	Biogazelle
+R1	Version_of Arg1:T5 Arg2:T1	
+R2	Developer_of Arg1:T6 Arg2:T1	
+T7	Version 2603 2606	7.1
+R3	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 2608 2621	Stat Soft Inc
+R4	Developer_of Arg1:T8 Arg2:T2	
+T9	URL 3315 3364	https://genevestigator.com/gv/doc/intro_plant.jsp
+R5	URL_of Arg1:T9 Arg2:T3	
+T10	Citation 3365 3369	[31]
+R6	Citation_of Arg1:T10 Arg2:T3	

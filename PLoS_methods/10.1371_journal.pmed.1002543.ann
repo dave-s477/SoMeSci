@@ -1,0 +1,13 @@
+T1	ProgrammingEnvironment_Usage 8221 8222	R
+T2	PlugIn_Usage 8253 8257	Mice
+T3	PlugIn_Usage 8261 8268	lattice
+T4	PlugIn_Usage 8272 8280	Survival
+T5	PlugIn_Usage 8283 8288	mitml
+T6	PlugIn_Usage 8296 8302	survC1
+T7	Version 8231 8236	3.3.0
+R1	Version_of Arg1:T7 Arg2:T1	
+R2	PlugIn_of Arg1:T2 Arg2:T1	
+R3	PlugIn_of Arg1:T3 Arg2:T1	
+R4	PlugIn_of Arg1:T4 Arg2:T1	
+R5	PlugIn_of Arg1:T5 Arg2:T1	
+R6	PlugIn_of Arg1:T6 Arg2:T1	

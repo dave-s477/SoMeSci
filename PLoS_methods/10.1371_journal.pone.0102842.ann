@@ -1,0 +1,12 @@
+T1	Application_Usage 3223 3231	Goldwave
+T2	ProgrammingEnvironment_Usage 6045 6051	Matlab
+T3	ProgrammingEnvironment_Usage 6734 6740	Matlab
+T4	ProgrammingEnvironment_Usage 8566 8572	Matlab
+T5	ProgrammingEnvironment_Usage 12821 12827	Matlab
+T6	ProgrammingEnvironment_Usage 18464 18470	Matlab
+T7	PlugIn_Usage 18441 18460	Statistical Toolbox
+T8	Version 3241 3245	5.57
+R1	Version_of Arg1:T8 Arg2:T1	
+T9	Developer 6053 6062	Mathworks
+R2	Developer_of Arg1:T9 Arg2:T2	
+R3	PlugIn_of Arg1:T7 Arg2:T6	

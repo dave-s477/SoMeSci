@@ -1,0 +1,1 @@
+To identify known miRNAs, we aligned all the small RNA reads to mature miRNAs and miRNA hairpins in miRBase13.0 with blast using an E-value threshold of 0.01. 

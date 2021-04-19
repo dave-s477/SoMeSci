@@ -1,0 +1,4 @@
+In this paper we developed a new algorithm called ESPRIT-Forest for parallel hierarchical clustering of sequences.
+The software is available at http://www.acsu.buffalo.edu/∼yijunsun/lab/ESPRIT-Forest.html.
+In this paper we propose a new parallel algorithm, ESPRIT-Forest, which is able to handle the problem of hierarchical clustering of tens of millions of sequences accurately, with subquadratic time and space complexity and a good scalability with respect to the number of CPUs.
+The ESPRIT-Forest software is available at http://www.acsu.buffalo.edu/∼yijunsun/lab/ESPRIT-Forest.html, including the source code of both MPI and OpenMP implementations with pre-compiled executable codes.

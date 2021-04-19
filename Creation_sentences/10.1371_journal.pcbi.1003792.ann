@@ -1,0 +1,19 @@
+T2	Application_Creation 39 45	VASP-E
+T67	AlternativeName 47 108	Volumetric Analysis of Surface Properties with Electrostatics
+R1	AlternativeName_of Arg1:T67 Arg2:T2	
+T8	Application_Usage 264 270	VASP-E
+T9	Application_Creation 538 544	VASP-E
+T68	AlternativeName 546 607	Volumetric Analysis of Surface Properties with Electrostatics
+R2	AlternativeName_of Arg1:T68 Arg2:T9	
+T26	Application_Mention 618 624	VASP-E
+T30	Application_Creation 835 841	VASP-E
+T69	ProgrammingEnvironment_Usage 864 865	C
+T70	ProgrammingEnvironment_Usage 866 869	C++
+T71	Application_Usage 876 879	gcc
+T72	AlternativeName 885 908	Gnu Compiler Collection
+T73	Version 918 923	4.4.7
+T75	Extension 928 934	64 bit
+T74	OperatingSystem_Usage 935 940	linux
+R3	AlternativeName_of Arg1:T72 Arg2:T71	
+R4	Version_of Arg1:T73 Arg2:T71	
+R5	Extension_of Arg1:T75 Arg2:T74	

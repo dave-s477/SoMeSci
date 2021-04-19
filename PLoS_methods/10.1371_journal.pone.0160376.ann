@@ -1,0 +1,4 @@
+T1	Application_Usage 4571 4580	Metamorph
+T2	Application_Usage 8373 8385	Quantity One
+T3	Developer 8396 8403	Bio-Rad
+R1	Developer_of Arg1:T3 Arg2:T2	

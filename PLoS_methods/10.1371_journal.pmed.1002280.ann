@@ -1,0 +1,10 @@
+T1	Application_Usage 10218 10223	Stata
+T2	Application_Usage 15848 15853	Stata
+T3	Version 10227 10231	13.1
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 15857 15861	14.1
+R2	Version_of Arg1:T4 Arg2:T2	
+T5	Extension 10224 10226	SE
+R3	Extension_of Arg1:T5 Arg2:T1	
+T6	Extension 15854 15856	SE
+R4	Extension_of Arg1:T6 Arg2:T2	

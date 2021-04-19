@@ -1,0 +1,4 @@
+We present ASPASIA (Automated Simulation Parameter Alteration and SensItivity Analysis), a cross-platform, open-source Java toolkit that addresses a key deficiency in software tools for understanding the impact an intervention has on system behaviour for models specified in Systems Biology Markup Language (SBML).
+ASPASIA, released under the Artistic License (2.0), can be downloaded from http://www.york.ac.uk/ycil/software.
+To address the challenge of capturing and analysing biological interventions in SBML, we have developed ASPASIA (Automated Simulation Parameter Alteration and SensItivity Analysis), a freely available software package that is compatible with all versions and levels of SBML and that complements currently available SBML solver software and statistical packages.
+ASPASIA is open source and available under the Artistic License (2.0).

@@ -1,0 +1,7 @@
+Here we present Pathomx, a workflow-based tool for the processing, analysis and visualisation of metabolomic and associated data in an intuitive and extensible environment.
+Pathomx is released with a base set of plugins for the import, processing and visualisation of data.
+Recognising the benefits that workflow-based analysis could offer to metabolomics analysis while hoping to overcome the limitations of batch-based processing, we developed Pathomx: a workflow-based tool for data analysis.
+Pathomx is an open source and cross-platform analysis tool.
+"Project name: Pathomx Project home page:http://pathomx.org Platform: Binaries are available for download on Windows and MacOS X.
+Installation on Linux (Ubuntu) is supported via PyPi.
+Source code is available. Programming language: Python 2.7, Qt 5.2 Other requirements: Package binary contains all requirements License: GNU GPL v3.0 Any restrictions to use by non-academics: N/A"

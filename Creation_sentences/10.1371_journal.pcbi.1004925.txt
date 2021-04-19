@@ -1,0 +1,5 @@
+Here, we present a new web server-based tool, the Pipeline for estimating EPIStatic genetic effects (PEPIS), for analyzing polygenic epistatic effects.
+The PEPIS is publically available at http://bioinfo.noble.org/PolyGenic_QTL/.
+Motivated by the challenge presented by the tremendous computational demand associated with epistatic QTL mapping, we conducted a thorough investigation of the model developed by Xu et al. and re-implemented the model algorithm using C/C++, resulting in the development of a web server-based tool named PEPIS (Pipeline for estimating EPIStatic genetic effects).
+We developed the PEPIS for rapid epistatic QTL mapping analyses.
+The PEPIS pipeline, the source code and the test data are freely available at http://bioinfo.noble.org/PolyGenic_QTL/.

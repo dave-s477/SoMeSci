@@ -1,0 +1,5 @@
+Here we elaborate on the implementation details of FIMTrack and give an in-depth explanation of the used algorithms.
+The source code is available under the GNU GPLv3 at https://github.com/i-git/FIMTrack and pre-compiled binaries for Windows and Mac are available at http://fim.uni-muenster.de.
+FIMTrack is freely available as a pre-built binary package for Windows and Mac at http://fim.uni-muenster.de.
+The source code of FIMTrack is licensed under the GNU GPLv3 and can be obtained from https://github.com/i-git/FIMTrack.
+Finally, FIMTrack does not include a module to resolve colliding animals so that the identities of animals participating in a collision get lost and the trajectories of these animals terminate.

@@ -1,0 +1,7 @@
+T1	ProgrammingEnvironment_Usage 62 68	Matlab
+T2	PlugIn_Deposition 102 128	Brain Connectivity Toolbox
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+T3	URL 130 164	www.brain-connectivity-toolbox.net
+R2	URL_of Arg1:T3 Arg2:T2	
+T4	Citation 166 170	[17]
+R3	Citation_of Arg1:T4 Arg2:T2	

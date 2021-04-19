@@ -1,0 +1,10 @@
+T53	Application_Deposition 138 181	Mechanochemical Dynamics of Active Networks
+T54	Abbreviation 183 189	MEDYAN
+T55	URL 259 273	www.medyan.org
+R2	Abbreviation_of Arg1:T54 Arg2:T53	
+R3	URL_of Arg1:T55 Arg2:T53	
+T41	Application_Creation 280 286	MEDYAN
+T2	ProgrammingEnvironment_Usage 319 322	C++
+T47	Application_Deposition 536 542	MEDYAN
+T52	URL 557 571	www.medyan.org
+R1	URL_of Arg1:T52 Arg2:T47	

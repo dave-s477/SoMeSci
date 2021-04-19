@@ -1,0 +1,1 @@
+We then compute the sample skewness and the sample kurtosis of the collection of all these differences, and use Matlab's Jarque-Berra test to check normality. 

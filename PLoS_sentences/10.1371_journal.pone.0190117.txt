@@ -1,0 +1,2 @@
+An excel database spreadsheet was developed to code the response of different categories (preference for home delivery or institutional delivery) attached to the participant’s unique identification number. Apart from Microsoft Excel [20] used to manage qualitative data, the statistical software Stata version 12 [21] was used to generate Table 1.
+

@@ -1,0 +1,12 @@
+T1	Application_Usage 43 46	SPM
+T2	ProgrammingEnvironment_Usage 150 156	MATLAB
+T3	Version 46 47	8
+T4	Developer 49 91	Wellcome Department of Cognitive Neurology
+R1	Developer_of Arg1:T4 Arg2:T1	
+R2	Version_of Arg1:T3 Arg2:T1	
+T5	URL 105 137	http://www.fil.ion.ucl.ac.uk/spm
+R3	URL_of Arg1:T5 Arg2:T1	
+T6	Release 157 162	2007b
+R4	Release_of Arg1:T6 Arg2:T2	
+T7	Developer 164 178	Mathworks Inc.
+R5	Developer_of Arg1:T7 Arg2:T2	

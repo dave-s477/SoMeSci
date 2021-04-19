@@ -1,0 +1,14 @@
+T1	Application_Usage 562 569	G*Power
+T2	Application_Usage 9150 9155	Prism
+T3	Version 570 573	3.1
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 592 599	3.1.9.2
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	URL 617 642	http://www.gpower.hhu.de/
+R3	URL_of Arg1:T5 Arg2:T1	
+T6	Citation 644 648	[27]
+R4	Citation_of Arg1:T6 Arg2:T1	
+T7	Version 9157 9161	5.02
+R5	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 9141 9149	GraphPad
+R6	Developer_of Arg1:T8 Arg2:T2	

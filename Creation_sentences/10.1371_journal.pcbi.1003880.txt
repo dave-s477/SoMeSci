@@ -1,0 +1,4 @@
+Here, we present a program, FamSeq, which reduces both false positive and false negative rates by incorporating the pedigree information from the Mendelian genetic model into variant calling.
+To accommodate variations in data complexity, FamSeq consists of four distinct implementations of the Mendelian genetic model: the Bayesian network algorithm, a graphics processing unit version of the Bayesian network algorithm, the Elston-Stewart algorithm and the Markov chain Monte Carlo algorithm.
+We developed a software package, FamSeq, which calls variants for family-based sequencing data.
+FamSeq is a free software package under GNU license (GPL v3), which can be downloaded from our website: http://bioinformatics.mdanderson.org/main/FamSeq, or from SourceForge: http://sourceforge.net/projects/famseq/.

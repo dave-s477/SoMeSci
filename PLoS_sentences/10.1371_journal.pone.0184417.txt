@@ -1,0 +1,1 @@
+Regression in SPSS version 24 is ruled out as it is limited to step-wise methods only, cannot conduct an all-possible subset analysis (used here for exploratory reasons), does not automatically identify and handle outliers, and cannot accommodate a model with a high variable to observation ratio [82]. 

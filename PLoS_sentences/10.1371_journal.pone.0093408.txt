@@ -1,0 +1,2 @@
+Clean sequences were subjected to NCBI BLAST to confirm that the isolates were E. coli (>95% of isolates were assigned to E. coli; others were excluded from further analyses).
+

@@ -1,0 +1,2 @@
+Analyses were performed using Stata, version 13 (StataCorp LP, TX).
+

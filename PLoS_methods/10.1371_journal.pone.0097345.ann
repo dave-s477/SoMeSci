@@ -1,0 +1,5 @@
+T1	Application_Usage 8422 8431	EyeVision
+T2	Application_Usage 8258 8267	EyeVision
+T3	Application_Usage 13406 13410	SPSS
+T4	Version 13419 13421	21
+R1	Version_of Arg1:T4 Arg2:T3	

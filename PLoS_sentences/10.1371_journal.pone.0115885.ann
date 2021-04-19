@@ -1,0 +1,6 @@
+T1	Application_Usage 52 60	Epi-Info
+T2	Application_Usage 79 83	SPSS
+T3	Version 69 74	3.5.2
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 92 94	19
+R2	Version_of Arg1:T4 Arg2:T2	

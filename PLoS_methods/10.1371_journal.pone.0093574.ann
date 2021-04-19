@@ -1,0 +1,17 @@
+T1	Application_Usage 4934 4940	Access
+T2	Application_Usage 4947 4954	EpiInfo
+T3	Application_Usage 4988 4992	SPSS
+T4	OperatingSystem_Usage 5014 5021	Windows
+T5	ProgrammingEnvironment_Usage 5076 5077	R
+T6	Developer 4924 4933	Microsoft
+R1	Developer_of Arg1:T6 Arg2:T1	
+T7	Application_Usage 4994 5009	SPSS Statistics
+R2	Specification_of Arg1:T7 Arg2:T3	
+T8	Version 5031 5035	20.0
+R3	Version_of Arg1:T8 Arg2:T7	
+T9	Developer 5049 5057	IBM Corp
+R4	Developer_of Arg1:T9 Arg2:T7	
+T10	Version 5087 5092	3.0.1
+R5	Version_of Arg1:T10 Arg2:T5	
+T11	Developer 5094 5136	The R Foundation for Statistical Computing
+R6	Developer_of Arg1:T11 Arg2:T5	

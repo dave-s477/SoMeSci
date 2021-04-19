@@ -1,0 +1,5 @@
+MAGPIE, a Modeling and Analysis Generic Platform with Integrated Evaluation, closes this gap by providing a software platform for both, publishing and executing computational models without restrictions on the programming language, thereby combining a maximum on flexibility for programmers with easy handling for non-technical users.
+We demonstrate the versatility of MAGPIE using four prototypic example cases.
+Our platform MAGPIE addresses this issue by providing a single platform where researchers from different domains can publish, exchange and execute models on-line (Fig 1) as well as publish and exchange data.
+MAGPIE was implemented in Ruby on Rails 5.
+The MAGPIE source code can be downloaded from the GitHub repository at https://github.com/christbald/magpie and installed on any public or private server, as well as on any local computer.

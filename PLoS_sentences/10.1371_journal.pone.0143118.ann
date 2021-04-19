@@ -1,0 +1,7 @@
+T1	Application_Usage 27 31	SPSS
+T2	Version 40 44	18.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Version 54 58	18.0
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 69 78	SPSS Inc.
+R3	Developer_of Arg1:T4 Arg2:T1	

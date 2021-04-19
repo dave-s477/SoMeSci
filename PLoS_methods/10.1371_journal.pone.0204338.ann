@@ -1,0 +1,34 @@
+T1	Application_Usage 3554 3557	SPM
+T2	PlugIn_Usage 4156 4163	Nilearn
+T3	ProgrammingEnvironment_Usage 4178 4184	Python
+T4	Application_Usage 6468 6475	Mricron
+T5	Application_Usage 6479 6486	FSLView
+T6	PlugIn_Usage 8882 8894	Scikit-learn
+T7	PlugIn_Usage 9870 9882	Scikit-learn
+T10	Application_Usage 6682 6692	NeuroSynth
+T11	Application_Usage 6729 6739	NeuroSynth
+T12	Application_Usage 8523 8533	NeuroSynth
+T13	Application_Usage 8582 8592	NeuroSynth
+T14	Application_Usage 10182 10192	NeuroSynth
+T15	Application_Usage 11332 11342	NeuroSynth
+T17	URL 3561 3586	www.fil.ion.ucl.ac.uk/spm
+T18	Version 3557 3559	12
+R2	Version_of Arg1:T18 Arg2:T1	
+R3	URL_of Arg1:T17 Arg2:T1	
+T19	Version 4164 4169	0.2.5
+T20	Citation 4170 4174	[30]
+R4	Version_of Arg1:T19 Arg2:T2	
+R5	Citation_of Arg1:T20 Arg2:T2	
+T21	Version 4185 4188	2.7
+R6	Version_of Arg1:T21 Arg2:T3	
+R7	PlugIn_of Arg1:T2 Arg2:T3	
+T23	Citation 6693 6697	[33]
+R9	Citation_of Arg1:T23 Arg2:T10	
+T24	Citation 8543 8547	[33]
+R10	Citation_of Arg1:T24 Arg2:T12	
+T25	Version 8593 8598	0.3.5
+R11	Version_of Arg1:T25 Arg2:T13	
+T26	Version 8895 8899	0.17
+R12	Version_of Arg1:T26 Arg2:T6	
+T27	Citation 8900 8904	[34]
+R13	Citation_of Arg1:T27 Arg2:T6	

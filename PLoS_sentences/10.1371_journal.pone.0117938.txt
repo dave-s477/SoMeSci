@@ -1,0 +1,1 @@
+Ideal pass filter is a data filtering tool offered by the time series tools of MATLAB R2010b. 

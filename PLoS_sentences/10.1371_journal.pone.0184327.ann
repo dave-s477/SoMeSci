@@ -1,0 +1,11 @@
+T1	Application_Usage 33 48	SPSS Statistics
+T2	Version 49 51	20
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 29 32	IBM
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Developer 53 61	IBM Corp
+R3	Developer_of Arg1:T4 Arg2:T1	
+T5	Citation 68 72	[35]
+R4	Citation_of Arg1:T5 Arg2:T1	
+T6	Release 62 66	2011
+R5	Release_of Arg1:T6 Arg2:T1	

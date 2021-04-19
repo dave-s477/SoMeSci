@@ -1,0 +1,3 @@
+Here we present PhyloGibbs-MP, an extension of PhyloGibbs in several directions that go well beyond standard motif-finding.
+PhyloGibbs-MP can localise predictions to small modules, not known a priori, in large quantities of input sequence.
+PhyloGibbs-MP is available at http://www.imsc.res.in/∼rsidd/phylogibbs-mp/.

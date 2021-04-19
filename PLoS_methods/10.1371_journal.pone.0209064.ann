@@ -1,0 +1,10 @@
+T1	Application_Usage 8295 8309	NQuery Advisor
+T2	Application_Usage 8370 8375	STATA
+T5	Developer 8313 8322	StatsSols
+R1	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 8331 8334	3.0
+R2	Version_of Arg1:T6 Arg2:T1	
+T7	Version 8376 8380	12.0
+R3	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 8384 8397	StataCorp LLC
+R4	Developer_of Arg1:T8 Arg2:T2	

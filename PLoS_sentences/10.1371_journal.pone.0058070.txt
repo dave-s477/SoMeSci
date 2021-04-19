@@ -1,0 +1,2 @@
+All graph algorithms used in this article were implemented in Matlab and are available as part of the Brain Connectivity Toolbox (www.brain-connectivity-toolbox.net) [17].
+

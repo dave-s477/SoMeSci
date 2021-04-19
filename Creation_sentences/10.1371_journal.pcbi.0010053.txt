@@ -1,0 +1,8 @@
+We developed a software tool, SNPdetector, for automated identification of SNPs and mutations in fluorescence-based resequencing reads.
+SNPdetector was designed to model the process of human visual inspection and has a very low false positive and false negative rate.
+SNPdetector runs on Unix/Linux platform and is available publicly (http://lpg.nci.nih.gov).
+We used SNPdetector for SNP discovery as part of the HapMap project [7].
+To compare the performance of SNPdetector with the other SNP detection programs, we reanalyzed a subset of ENCODE data (61 amplicons on Chromosome 18) using PolyPhred 5.0.2 and NovoSNP [17] (a new SNP detection software package).
+During the development of SNPdetector, we used the mouse resequencing data as the training dataset because heterozygotes in inbred mouse strains are almost always false positive as a result of mouse breeding history.
+SNPdetector runs on Unix and Linux and is publicly available by anonymous ftp (http://lpg.nci.nih.gov).
+SNPdetector was implemented in C and Perl.

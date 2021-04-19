@@ -1,0 +1,9 @@
+T20	Application_Usage 4 7	VBA
+T24	Application_Creation 256 259	VBA
+T27	Application_Deposition 374 377	VBA
+T31	License 406 432	GNU General Public Licence
+T32	Version 435 436	2
+T30	URL 506 571	http://code.google.com/p/mbb-vb-toolbox/wiki/InstallingTheToolbox
+R1	License_of Arg1:T31 Arg2:T27	
+R2	URL_of Arg1:T30 Arg2:T27	
+R3	Version_of Arg1:T32 Arg2:T31	

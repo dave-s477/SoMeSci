@@ -1,0 +1,1 @@
+Associations with teenage motherhood were modeled using multilevel logistic regression of the above structure using STATA MP statistical package version 14 (StataCorp L, College Station, Texas, USA). 

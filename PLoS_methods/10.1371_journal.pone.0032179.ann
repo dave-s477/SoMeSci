@@ -1,0 +1,30 @@
+T1	Application_Usage 1987 1995	SeqScape
+T2	Application_Usage 2240 2248	Arlequin
+T3	Application_Usage 2381 2391	STATISTICA
+T4	Application_Usage 2562 2572	STATISTICA
+T5	Application_Usage 3539 3546	Network
+T6	Application_Usage 3580 3586	mtPhyl
+T9	Version 1999 2002	2.5
+R1	Version_of Arg1:T9 Arg2:T1	
+T10	Developer 2013 2031	Applied Biosystems
+R2	Developer_of Arg1:T10 Arg2:T1	
+T11	Version 2267 2271	3.01
+T12	Citation 2272 2276	[72]
+R3	Version_of Arg1:T11 Arg2:T2	
+R4	Citation_of Arg1:T12 Arg2:T2	
+T13	Version 2392 2395	6.0
+R5	Version_of Arg1:T13 Arg2:T3	
+T14	Developer 2406 2420	StatSoft, Inc.
+R6	Developer_of Arg1:T14 Arg2:T3	
+T15	Version 2573 2576	6.0
+T16	Developer 2587 2601	StatSoft, Inc.
+R7	Developer_of Arg1:T16 Arg2:T4	
+R8	Version_of Arg1:T15 Arg2:T4	
+T18	Version 3547 3554	4.5.1.0
+R10	Version_of Arg1:T18 Arg2:T5	
+T19	Citation 3564 3568	[91]
+R11	Citation_of Arg1:T19 Arg2:T5	
+T20	Version 3587 3594	2.8.0.0
+R12	Version_of Arg1:T20 Arg2:T6	
+T21	URL 3605 3622	http://eltsov.org
+R13	URL_of Arg1:T21 Arg2:T6	

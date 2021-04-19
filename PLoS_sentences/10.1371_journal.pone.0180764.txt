@@ -1,0 +1,1 @@
+As preference for future living arrangement was a non-ordered categorical variable, a multinomial regression model was performed using SPSS Version 20.0 (IBM SPSS, Armonk, NY, USA) to estimate the associations between various attributes and preferences for future living arrangements. 

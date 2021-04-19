@@ -1,0 +1,7 @@
+Here we present a tool, Podbat (Positioning database and analysis tool), that incorporates data from various sources and allows detailed dissection of the entire range of chromatin modifications simultaneously.
+Podbat can be used to analyze, visualize, store and share epigenomics data.
+Podbat is open source software freely downloadable from www.podbat.org, distributed under the GNU LGPL license.
+Podbat requires Java version 1.6 or higher.
+We set out to develop an integrated computational tool, Podbat (Positioning database and analysis tool) for use on epigenomics datasets.
+Podbat is open source software implemented as a desktop application in Java and can be freely and anonymously downloaded from www.podbat.org or as supplemental material accompanying this paper (Software S1).
+Podbat is distributed under the GNU LGPL license.

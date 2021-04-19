@@ -1,0 +1,1 @@
+Manual annotations of social/sexual interactions and wheel running activity were done manually using the Caltech Behavior Annotator program, a software tool created in MATLAB designed to facilitate the rapid manual annotation of video sequences. 

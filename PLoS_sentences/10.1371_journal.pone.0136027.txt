@@ -1,0 +1,1 @@
+Preprocessing and statistical analysis of the fMRI data was performed with SPM8 (Wellcome Department of Cognitive Neurology, London UK) software for MATLAB (Version R2010a, The MathWorks Inc., Natick, MA). 

@@ -1,0 +1,42 @@
+T1	Application_Mention 89 93	GRAB
+T2	Application_Mention 640 644	GRAB
+T3	Application_Mention 1378 1382	READ
+T4	Application_Mention 1620 1624	GRAB
+T5	Application_Mention 2290 2294	GRAB
+T6	Application_Mention 2316 2320	GRAB
+T7	Application_Mention 2965 2969	READ
+T8	Application_Creation 3972 3976	READ
+T9	ProgrammingEnvironment_Usage 4837 4843	Python
+T10	ProgrammingEnvironment_Usage 4857 4862	GNU R
+T11	Application_Creation 4770 4810	Relationship Estimation from Ancient DNA
+T12	Application_Deposition 4907 4911	READ
+T13	Application_Usage 6464 6468	READ
+T14	Application_Usage 7009 7013	READ
+T15	Application_Usage 7283 7287	READ
+T16	Application_Usage 8144 8148	READ
+T17	Application_Usage 8783 8791	samtools
+T18	Application_Usage 5293 5301	vcftools
+T20	Citation 94 98	[14]
+R1	Citation_of Arg1:T20 Arg2:T1	
+T21	Citation 774 778	[14]
+R2	Citation_of Arg1:T21 Arg2:T2	
+T22	Citation 1625 1629	[14]
+R3	Citation_of Arg1:T22 Arg2:T4	
+T23	Citation 2295 2299	[14]
+R4	Citation_of Arg1:T23 Arg2:T5	
+T24	Abbreviation 4812 4816	READ
+R5	Abbreviation_of Arg1:T24 Arg2:T11	
+T25	Version 4844 4847	2.7
+R6	Version_of Arg1:T25 Arg2:T9	
+T26	Citation 4848 4852	[73]
+R7	Citation_of Arg1:T26 Arg2:T9	
+T27	Citation 4863 4867	[74]
+R8	Citation_of Arg1:T27 Arg2:T10	
+T28	URL 4939 4975	https://bitbucket.org/tguenther/read
+R9	URL_of Arg1:T28 Arg2:T12	
+T32	Version 5310 5316	0.1.11
+R12	Version_of Arg1:T32 Arg2:T18	
+T33	Citation 5317 5321	[75]
+R13	Citation_of Arg1:T33 Arg2:T18	
+T34	Citation 8792 8796	[77]
+R14	Citation_of Arg1:T34 Arg2:T17	

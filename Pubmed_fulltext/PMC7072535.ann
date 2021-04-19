@@ -1,0 +1,40 @@
+T1	Application_Usage 7317 7326	J-Express
+T2	Citation 7370 7374	[16]
+R1	Citation_of Arg1:T2 Arg2:T1	
+T3	Developer 7328 7335	Molmine
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	ProgrammingEnvironment_Usage 7420 7421	R
+T5	Citation 7422 7426	[17]
+R3	Citation_of Arg1:T5 Arg2:T4	
+T6	Version 7436 7440	2.15
+R4	Version_of Arg1:T6 Arg2:T4	
+T7	PlugIn_Usage 7446 7458	BioConductor
+T8	Citation 7459 7463	[18]
+R5	Citation_of Arg1:T8 Arg2:T7	
+T9	Version 7473 7477	2.10
+R6	Version_of Arg1:T9 Arg2:T7	
+T10	Application_Usage 7558 7562	GSEA
+T11	Version 7564 7567	5.0
+R7	Version_of Arg1:T11 Arg2:T10	
+T12	Citation 7568 7572	[19]
+R8	Citation_of Arg1:T12 Arg2:T10	
+T13	Application_Usage 8685 8692	Cluster
+T14	Version 8693 8696	3.0
+R9	Version_of Arg1:T14 Arg2:T13	
+T15	Application_Usage 8701 8709	TreeView
+T16	Application_Usage 8835 8861	Large Average Submatricies
+T17	Abbreviation 8863 8866	LAS
+R10	Abbreviation_of Arg1:T17 Arg2:T16	
+T18	Citation 8888 8892	[25]
+R11	Citation_of Arg1:T18 Arg2:T16	
+T19	Application_Usage 12378 12392	Image-Pro Plus
+T20	Version 12396 12401	7.0.1
+R12	Version_of Arg1:T20 Arg2:T19	
+T21	Developer 12403 12418	MediaCybenetics
+R13	Developer_of Arg1:T21 Arg2:T19	
+T22	Application_Usage 13226 13229	SAS
+T23	Developer 13240 13258	SAS Institute Inc.
+R14	Developer_of Arg1:T23 Arg2:T22	
+T24	Application_Usage 13567 13570	LAS
+T25	Application_Usage 16735 16738	LAS
+R15	PlugIn_of Arg1:T7 Arg2:T4	

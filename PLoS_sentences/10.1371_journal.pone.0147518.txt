@@ -1,0 +1,2 @@
+STATA (StataCorp, College Station, TX, USA), version IC 13.1, was used in all the statistical analyses.
+

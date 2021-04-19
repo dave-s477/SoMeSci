@@ -1,0 +1,1 @@
+Analyses were conducted using STATA 13/SE;[28] sample weights were used to account for the MCS complex survey design and cohort attrition over time. 

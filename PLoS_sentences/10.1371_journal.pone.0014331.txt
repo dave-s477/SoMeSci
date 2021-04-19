@@ -1,0 +1,2 @@
+The SAS syntax suggested by van Houwelingen, Arends, and Stijnen [77] was used.
+

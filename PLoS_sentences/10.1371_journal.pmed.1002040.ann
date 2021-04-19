@@ -1,0 +1,6 @@
+T1	Application_Usage 29 34	Stata
+T2	Application_Usage 50 64	REALCOM-IMPUTE
+T3	Version 43 45	13
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Citation 74 78	[38]
+R2	Citation_of Arg1:T4 Arg2:T2	

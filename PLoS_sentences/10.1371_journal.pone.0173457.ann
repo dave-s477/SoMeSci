@@ -1,0 +1,6 @@
+T1	Application_Usage 114 118	SPSS
+T2	Application_Usage 66 78	AcqKnowledge
+T3	Version 128 130	23
+T4	Developer 132 140	IBM Corp
+R1	Version_of Arg1:T3 Arg2:T1	
+R2	Developer_of Arg1:T4 Arg2:T1	

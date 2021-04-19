@@ -1,0 +1,2 @@
+All analyses were performed using STATA 11 (Stata Corporation, College Station, TX, U.S.A.)
+

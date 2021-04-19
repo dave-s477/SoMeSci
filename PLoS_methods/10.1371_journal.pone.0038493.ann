@@ -1,0 +1,10 @@
+T1	ProgrammingEnvironment_Usage 1374 1380	MATLAB
+T2	Application_Usage 2480 2487	E-prime
+T3	PlugIn_Usage 1346 1370	image processing toolbox
+T4	Developer 1382 1396	Mathworks Inc.
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Application_Usage 2498 2505	E-prime
+R2	Specification_of Arg1:T5 Arg2:T2	
+T6	Developer 2506 2536	Psychology Software Tools Inc.
+R3	Developer_of Arg1:T6 Arg2:T5	
+R4	PlugIn_of Arg1:T3 Arg2:T1	

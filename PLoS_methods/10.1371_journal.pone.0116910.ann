@@ -1,0 +1,11 @@
+T1	Application_Usage 2345 2350	VPixx
+T2	Application_Usage 3026 3036	Habit 2000
+T3	Application_Usage 9010 9019	TouchStat
+T4	Citation 2361 2365	[34]
+R1	Citation_of Arg1:T4 Arg2:T1	
+T6	Citation 3046 3050	[35]
+R3	Citation_of Arg1:T6 Arg2:T2	
+T7	Version 9020 9023	3.0
+R4	Version_of Arg1:T7 Arg2:T3	
+T8	Citation 9025 9029	[41]
+R5	Citation_of Arg1:T8 Arg2:T3	

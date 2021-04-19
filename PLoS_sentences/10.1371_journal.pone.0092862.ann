@@ -1,0 +1,6 @@
+T1	Application_Usage 42 57	PASW Statistics
+T2	OperatingSystem_Usage 73 80	Windows
+T3	Version 66 68	18
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 82 91	SPSS Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	

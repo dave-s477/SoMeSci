@@ -1,0 +1,26 @@
+T3	Application_Creation 51 59	FIMTrack
+T38	SoftwareCoreference_Deposition 121 132	source code
+T39	License 156 163	GNU GPL
+T40	Version 164 165	3
+T5	URL 169 202	https://github.com/i-git/FIMTrack
+T44	SoftwareCoreference_Deposition 207 228	pre-compiled binaries
+T41	OperatingSystem_Mention 233 240	Windows
+T42	OperatingSystem_Mention 245 248	Mac
+T43	URL 266 292	http://fim.uni-muenster.de
+R5	Version_of Arg1:T40 Arg2:T39	
+R6	License_of Arg1:T39 Arg2:T38	
+R7	URL_of Arg1:T5 Arg2:T38	
+R8	URL_of Arg1:T43 Arg2:T44	
+T22	Application_Deposition 294 302	FIMTrack
+T24	OperatingSystem_Mention 357 364	Windows
+T33	OperatingSystem_Mention 369 372	Mac
+T34	URL 376 402	http://fim.uni-muenster.de
+R1	URL_of Arg1:T34 Arg2:T22	
+T23	Application_Deposition 423 431	FIMTrack
+T35	License 454 461	GNU GPL
+T36	Version 462 463	3
+T37	URL 489 522	https://github.com/i-git/FIMTrack
+R2	License_of Arg1:T35 Arg2:T23	
+R3	Version_of Arg1:T36 Arg2:T35	
+R4	URL_of Arg1:T37 Arg2:T23	
+T28	Application_Mention 533 541	FIMTrack

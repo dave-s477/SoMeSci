@@ -1,0 +1,8 @@
+T1	ProgrammingEnvironment_Mention 3 4	R
+T2	PlugIn_Deposition 17 22	T3_MM
+T3	URL 52 102	http://biocomputer.bio.cuhk.edu.hk/softwares/T3_MM
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+R2	URL_of Arg1:T3 Arg2:T2	
+T4	Application_Deposition 104 109	T3_MM
+T5	URL 122 171	http://biocomputer.bio.cuhk.edu.hk/T3DB/T3_MM.php
+R3	URL_of Arg1:T5 Arg2:T4	

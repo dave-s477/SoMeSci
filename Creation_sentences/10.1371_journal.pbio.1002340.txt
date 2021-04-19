@@ -1,0 +1,1 @@
+Here, we present a new open-source software, Microscopy Image Browser (MIB) [9], that was designed for, but not limited to, easy and effective segmentation of multidimensional datasets, improving and facilitating the full utilization and quantitation of acquired data.

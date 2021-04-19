@@ -1,0 +1,10 @@
+T1	Application_Usage 30 34	SPSS
+T2	OperatingSystem_Usage 79 86	Windows
+T3	Version 43 45	24
+T4	Application_Usage 59 74	SPSS Statistics
+T5	Developer 55 58	IBM
+R2	Developer_of Arg1:T5 Arg2:T4	
+R1	Version_of Arg1:T3 Arg2:T1	
+T6	Version 96 98	23
+R3	Version_of Arg1:T6 Arg2:T4	
+T7	OperatingSystem_Usage 50 53	Mac

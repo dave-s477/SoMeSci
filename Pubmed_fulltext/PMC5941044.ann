@@ -1,0 +1,8 @@
+T1	Application_Usage 8761 8764	SAS
+T2	Application_Usage 8766 8769	SAS
+R1	Specification_of Arg1:T2 Arg2:T1	
+T3	Version 8771 8774	9.2
+R2	Version_of Arg1:T3 Arg2:T2	
+T4	Developer 8776 8794	SAS Institute Inc.
+R3	Developer_of Arg1:T4 Arg2:T2	
+T5	Application_Usage 8951 8954	SAS

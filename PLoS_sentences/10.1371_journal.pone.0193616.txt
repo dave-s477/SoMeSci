@@ -1,0 +1,2 @@
+The dependent eye movement measures of total dwell time, relative dwell time, entry time, number of fixations, first fixation duration and average fixation duration were each subjected to a generalized linear mixed model analysis (GLMM; GENLINMIXED in SPSS) to account for repeated measures of the same subject. All analyses were performed using SPSS (Version 22, release 22.0.0.2, IBM Corp., USA).
+

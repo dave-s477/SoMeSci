@@ -1,0 +1,1 @@
+To complement analysis of weighted positional scores, we used the coordinate data imported into MATLAB to construct a bar graph. 

@@ -1,0 +1,4 @@
+T2	Application_Usage 10442 10448	GitHub
+T3	URL 10452 10497	https://github.com/esander91/SignedGroupModel
+R1	URL_of Arg1:T3 Arg2:T1	
+T1	SoftwareCoreference_Deposition 10323 10327	Code

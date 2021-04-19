@@ -1,0 +1,1 @@
+For each participant, mean amplitudes of the components of interest (see above) were exported and read into SPSS (version 21, IBM). 

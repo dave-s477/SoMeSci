@@ -1,0 +1,5 @@
+T1	Application_Usage 122 127	STATA
+T2	PlugIn_Usage 103 110	punafcc
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+T3	Version 128 130	14
+R2	Version_of Arg1:T3 Arg2:T1	

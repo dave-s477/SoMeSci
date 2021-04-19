@@ -1,0 +1,1 @@
+In order to analyse the relationships between ‘number of teeth’ and anthropometric measures, we categorised participants into five approximately equal sized groups (using xtile in stata) based on number of paired of teeth (teeth are known to erupt in pairs), both for clarity and to maximize statistical power. 

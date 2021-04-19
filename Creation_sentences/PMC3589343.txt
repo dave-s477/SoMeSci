@@ -1,0 +1,2 @@
+An R package for T3_MM is freely downloadable from: http://biocomputer.bio.cuhk.edu.hk/softwares/T3_MM.
+T3_MM web server: http://biocomputer.bio.cuhk.edu.hk/T3DB/T3_MM.php.

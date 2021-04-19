@@ -1,0 +1,2 @@
+All analyses were performed using the STATA software (version11.2).
+

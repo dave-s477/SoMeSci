@@ -1,0 +1,1 @@
+Further data editing used SQL and SPSS software. For analysis we used Stata v14. 

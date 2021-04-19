@@ -1,0 +1,21 @@
+T2	Application_Creation 24 30	Podbat
+T3	Application_Mention 211 217	Podbat
+T6	Application_Deposition 287 293	Podbat
+T30	URL 343 357	www.podbat.org
+T31	License 381 389	GNU LGPL
+R1	URL_of Arg1:T30 Arg2:T6	
+R2	License_of Arg1:T31 Arg2:T6	
+T7	Application_Mention 399 405	Podbat
+T32	ProgrammingEnvironment_Mention 415 419	Java
+T33	Version 428 431	1.6
+R3	Version_of Arg1:T33 Arg2:T32	
+T8	Application_Creation 499 505	Podbat
+T34	AlternativeName 507 545	Positioning database and analysis tool
+R4	AlternativeName_of Arg1:T34 Arg2:T8	
+T24	Application_Deposition 580 586	Podbat
+T35	ProgrammingEnvironment_Usage 651 655	Java
+T36	URL 706 720	www.podbat.org
+R5	URL_of Arg1:T36 Arg2:T24	
+T25	Application_Deposition 788 794	Podbat
+T37	License 820 828	GNU LGPL
+R6	License_of Arg1:T37 Arg2:T25	

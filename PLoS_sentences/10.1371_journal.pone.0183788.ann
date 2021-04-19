@@ -1,0 +1,3 @@
+T1	Application_Usage 128 132	SPSS
+T2	Version 141 143	21
+R1	Version_of Arg1:T2 Arg2:T1	

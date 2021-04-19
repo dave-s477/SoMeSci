@@ -1,0 +1,5 @@
+T1	Application_Usage 31 37	MAXQDA
+T2	Version 38 40	11
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Citation 99 103	[88]
+R2	Citation_of Arg1:T3 Arg2:T1	

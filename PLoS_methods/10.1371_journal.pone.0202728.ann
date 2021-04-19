@@ -1,0 +1,9 @@
+T1	Application_Usage 1086 1097	Soscisurvey
+T2	Application_Usage 6215 6226	Soscisurvey
+T3	PlugIn_Usage 10581 10585	mice
+T4	ProgrammingEnvironment_Usage 10602 10603	R
+T5	URL 1100 1118	www.soscisurvey.de
+R1	URL_of Arg1:T5 Arg2:T1	
+T6	Citation 10594 10598	[36]
+R2	Citation_of Arg1:T6 Arg2:T3	
+R3	PlugIn_of Arg1:T3 Arg2:T4	

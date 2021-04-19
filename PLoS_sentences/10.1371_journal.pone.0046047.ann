@@ -1,0 +1,5 @@
+T1	Application_Usage 102 107	Stata
+T2	PlugIn_Usage 87 90	ice
+T3	Version 116 120	11.2
+R1	Version_of Arg1:T3 Arg2:T1	
+R2	PlugIn_of Arg1:T2 Arg2:T1	

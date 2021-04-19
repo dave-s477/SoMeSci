@@ -1,0 +1,14 @@
+T1	Application_Usage 30 34	SPSS
+T2	Application_Usage 96 101	Prism
+T3	Version 39 43	20.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 45 54	IBM Corp.
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 87 95	GraphPad
+T6	Version 102 105	7.0
+R3	Version_of Arg1:T6 Arg2:T2	
+R4	Developer_of Arg1:T5 Arg2:T2	
+T7	Developer 116 139	GraphPad Software, Inc.
+R5	Developer_of Arg1:T7 Arg2:T2	
+T8	Release 65 69	2011
+R6	Release_of Arg1:T8 Arg2:T1	

@@ -1,0 +1,1 @@
+Comb area, T and CORT concentrations were log-transformed and fitted to models using a normal error distribution (GLM or Mixed procedures; SAS, 2001). Comb area and T levels were measured prior to and after treatments, so we tested for treatment effects on changes over time using Generalized Linear Mixed Models (Mixed procedure in SAS). 

@@ -1,0 +1,4 @@
+T1	Application_Usage 50 58	Refworks
+T2	Application_Usage 91 96	Excel
+T3	Developer 81 90	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T2	

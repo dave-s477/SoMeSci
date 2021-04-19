@@ -1,0 +1,1 @@
+All analyses were performed using the ESRI™ suite of ArcGIS 10.3 software and Stata/SE Software version 12.1 for Windows™. 

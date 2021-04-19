@@ -1,0 +1,9 @@
+T1	ProgrammingEnvironment_Usage 4812 4813	R
+T2	PlugIn_Usage 4843 4847	fmsb
+T11	Version 4823 4828	3.2.2
+R5	Version_of Arg1:T11 Arg2:T1	
+T12	Citation 4829 4833	[30]
+R6	Citation_of Arg1:T12 Arg2:T1	
+R7	PlugIn_of Arg1:T2 Arg2:T1	
+T13	Citation 4856 4860	[31]
+R8	Citation_of Arg1:T13 Arg2:T2	

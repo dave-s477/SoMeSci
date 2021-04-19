@@ -1,0 +1,14 @@
+T1	Application_Usage 115 144	Analysis of Moment Structures
+T2	Application_Usage 42 85	Statistical Package for the Social Sciences
+T3	Version 94 98	20.0
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Application_Usage 100 104	SPSS
+R2	Specification_of Arg1:T4 Arg2:T2	
+T5	Version 105 109	20.0
+T6	Version 153 157	20.0
+T7	Application_Usage 159 163	AMOS
+R3	Specification_of Arg1:T7 Arg2:T1	
+T8	Version 164 168	20.0
+R4	Version_of Arg1:T8 Arg2:T7	
+R5	Version_of Arg1:T5 Arg2:T4	
+R6	Version_of Arg1:T6 Arg2:T1	

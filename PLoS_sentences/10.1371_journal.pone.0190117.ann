@@ -1,0 +1,11 @@
+T1	Application_Usage 3 8	excel
+T2	Application_Usage 296 301	Stata
+T3	Application_Usage 227 232	Excel
+T4	Citation 233 237	[20]
+R1	Citation_of Arg1:T4 Arg2:T3	
+T5	Developer 217 226	Microsoft
+R2	Developer_of Arg1:T5 Arg2:T3	
+T6	Version 310 312	12
+R3	Version_of Arg1:T6 Arg2:T2	
+T7	Citation 313 317	[21]
+R4	Citation_of Arg1:T7 Arg2:T2	

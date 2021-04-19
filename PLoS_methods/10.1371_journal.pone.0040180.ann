@@ -1,0 +1,18 @@
+T1	Application_Usage 6680 6689	Haploview
+T2	Application_Usage 8206 8212	Access
+T3	Application_Usage 8242 8285	Statistical Package for the Social Sciences
+T4	ProgrammingEnvironment_Usage 8322 8323	R
+T5	Version 6692 6695	4.1
+R1	Version_of Arg1:T5 Arg2:T1	
+T6	Developer 8196 8205	Microsoft
+R2	Developer_of Arg1:T6 Arg2:T2	
+T7	Abbreviation 8287 8291	PASW
+R3	Abbreviation_of Arg1:T7 Arg2:T3	
+T8	Version 8315 8317	18
+R4	Version_of Arg1:T8 Arg2:T3	
+T9	Abbreviation 8301 8305	SPSS
+R5	Abbreviation_of Arg1:T9 Arg2:T3	
+T10	Version 8332 8337	2.9.2
+T11	Developer 8339 8377	R Foundation for Statistical Computing
+R6	Developer_of Arg1:T11 Arg2:T4	
+R7	Version_of Arg1:T10 Arg2:T4	

@@ -1,0 +1,6 @@
+T1	Application_Usage 82 88	Access
+T2	Application_Usage 135 140	Excel
+T3	Developer 72 81	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Developer 125 134	Microsoft
+R2	Developer_of Arg1:T4 Arg2:T2	

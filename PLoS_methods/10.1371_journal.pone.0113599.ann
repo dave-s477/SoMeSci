@@ -1,0 +1,5 @@
+T1	Application_Usage 6452 6457	STATA
+T3	Version 6466 6470	12.1
+T4	Developer 6472 6482	StataCorp.
+R1	Developer_of Arg1:T4 Arg2:T1	
+R2	Version_of Arg1:T3 Arg2:T1	

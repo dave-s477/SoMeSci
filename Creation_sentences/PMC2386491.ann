@@ -1,0 +1,13 @@
+T1	Application_Creation 22 31	GenomePop
+T2	Application_Creation 134 143	GenomePop
+T3	Application_Deposition 201 210	GenomePop
+T4	Version 214 217	1.0
+T5	URL 237 278	http://webs.uvigo.es/acraaj/GenomePop.htm
+T6	OperatingSystem_Usage 300 307	Windows
+T7	OperatingSystem_Usage 312 317	Linux
+T8	OperatingSystem_Mention 362 365	Mac
+T9	ProgrammingEnvironment_Usage 389 392	C++
+T10	License 402 409	GNU GPL
+R1	Version_of Arg1:T4 Arg2:T3	
+R2	URL_of Arg1:T5 Arg2:T3	
+R3	License_of Arg1:T10 Arg2:T3	

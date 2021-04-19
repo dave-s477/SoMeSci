@@ -1,0 +1,5 @@
+T1	Application_Usage 2948 2959	LSM imaging
+T2	Application_Usage 6965 6972	Openlab
+T3	Application_Usage 9824 9834	Chromeleon
+T4	Developer 6953 6964	Improvision
+R1	Developer_of Arg1:T4 Arg2:T2	

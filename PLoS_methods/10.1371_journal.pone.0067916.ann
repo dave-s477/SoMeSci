@@ -1,0 +1,11 @@
+T1	Application_Usage 583 590	G*Power
+T2	Developer 1751 1754	SMI
+T3	Application_Usage 1765 1782	Experiment Center
+T4	Application_Usage 1788 1795	iView X
+T5	Application_Usage 9502 9508	BeGaze
+T6	Version 591 592	3
+R1	Version_of Arg1:T6 Arg2:T1	
+T7	Citation 603 607	[21]
+R2	Citation_of Arg1:T7 Arg2:T1	
+R3	Developer_of Arg1:T2 Arg2:T3	
+R4	Developer_of Arg1:T2 Arg2:T4	

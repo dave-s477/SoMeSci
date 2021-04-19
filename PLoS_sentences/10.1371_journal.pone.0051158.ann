@@ -1,0 +1,8 @@
+T1	Application_Usage 52 55	SAS
+T2	Application_Usage 141 144	JMP
+T3	Version 64 67	8.1
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 69 87	SAS Institute Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 146 164	SAS Institute Inc.
+R3	Developer_of Arg1:T5 Arg2:T2	

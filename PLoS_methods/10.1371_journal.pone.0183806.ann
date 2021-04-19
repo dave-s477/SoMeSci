@@ -1,0 +1,5 @@
+T1	Application_Usage 4472 4477	Mplus
+T2	Version 4486 4489	7.3
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Citation 4490 4494	[51]
+R2	Citation_of Arg1:T3 Arg2:T1	

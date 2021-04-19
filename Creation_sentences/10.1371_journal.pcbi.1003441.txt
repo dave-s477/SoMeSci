@@ -1,0 +1,3 @@
+The VBA toolbox is then used to invert a “dynamical” variant of the Q-learning model (cf. section “Reinforcement learning models of choice data”), given the agent's sequence of choices.
+In this paper, we have exposed the main algorithmic components of the VBA toolbox, which implements a probabilistic treatment of nonlinear models for neurobiological and behavioural data.
+VBA's code is under open-source GNU General Public Licence (v2), and is freely downloadable from the toolbox's internet wiki pages (http://code.google.com/p/mbb-vb-toolbox/wiki/InstallingTheToolbox).

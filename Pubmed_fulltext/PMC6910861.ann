@@ -1,0 +1,46 @@
+T1	Application_Usage 5418 5426	microRNA
+T2	URL 5428 5468	http://www.microrna.org/microrna/home.do
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 5471 5481	TargetScan
+T4	URL 5483 5508	http://www.targetscan.org
+R2	URL_of Arg1:T4 Arg2:T3	
+T5	Application_Usage 5515 5520	miRDB
+T6	URL 5522 5539	http://mirdb.org/
+R3	URL_of Arg1:T6 Arg2:T5	
+T7	Application_Usage 5577 5582	Venny
+T8	Version 5592 5597	2.1.0
+R4	Version_of Arg1:T8 Arg2:T7	
+T9	URL 5599 5650	http://bioinfogp.cnb.csic.es/tools/venny/index.html
+R5	URL_of Arg1:T9 Arg2:T7	
+T10	Application_Usage 5665 5676	PPI Network
+T11	URL 5678 5708	https://www.theppinetwork.com/
+R6	URL_of Arg1:T11 Arg2:T10	
+T12	PlugIn_Usage 5769 5774	MCODE
+T13	URL 5780 5816	http://apps.cytoscape.org/apps/mcode
+R7	URL_of Arg1:T13 Arg2:T12	
+T14	Application_Usage 6125 6129	Xena
+T15	Developer 6120 6124	UCSC
+R8	Developer_of Arg1:T15 Arg2:T14	
+T16	URL 6140 6168	https://xenabrowser.net/hub/
+R9	URL_of Arg1:T16 Arg2:T14	
+T17	Application_Usage 6245 6249	Xena
+T18	Application_Usage 10649 10658	Image lab
+T19	Version 10660 10663	3.0
+R10	Version_of Arg1:T19 Arg2:T18	
+T20	Developer 10674 10681	Bio-Rad
+R11	Developer_of Arg1:T20 Arg2:T18	
+T21	Application_Usage 11807 11813	ModFit
+T22	Version 11831 11834	3.2
+R12	Version_of Arg1:T22 Arg2:T21	
+T23	Developer 11836 11857	Verity Software House
+R13	Developer_of Arg1:T23 Arg2:T21	
+T24	Application_Usage 11932 11936	SPSS
+T25	Version 11937 11941	20.0
+R14	Version_of Arg1:T25 Arg2:T24	
+T26	Developer 11964 11967	IBM
+R15	Developer_of Arg1:T26 Arg2:T24	
+T27	Application_Usage 12647 12657	TargetScan
+T28	Application_Usage 12662 12667	miRDB
+T29	Application_Usage 12637 12645	microRNA
+T30	PlugIn_Usage 13012 13017	MCODE
+T31	Application_Usage 14543 14554	PPI Network

@@ -1,0 +1,14 @@
+T1	Application_Usage 72 77	STATA
+T2	Application_Usage 32 37	Excel
+T3	Developer 22 31	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Version 38 42	10.0
+R2	Version_of Arg1:T4 Arg2:T2	
+T5	Developer 44 53	Microsoft
+R3	Developer_of Arg1:T5 Arg2:T2	
+T6	Version 81 85	12.1
+R4	Version_of Arg1:T6 Arg2:T1	
+T7	Developer 87 97	Stata Corp
+R5	Developer_of Arg1:T7 Arg2:T1	
+T8	Extension 78 80	IC
+R6	Extension_of Arg1:T8 Arg2:T1	

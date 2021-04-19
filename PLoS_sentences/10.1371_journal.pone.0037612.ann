@@ -1,0 +1,5 @@
+T1	Application_Usage 41 50	SigmaPlot
+T2	Version 51 55	11.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 57 69	Systat, Inc.
+R2	Developer_of Arg1:T3 Arg2:T1	

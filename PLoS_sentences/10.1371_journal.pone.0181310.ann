@@ -1,0 +1,7 @@
+T1	Application_Usage 57 65	EPI info
+T2	Application_Usage 122 126	SPSS
+T3	OperatingSystem_Usage 127 134	windows
+T4	Version 74 79	3.5.3
+T5	Version 143 145	20
+R1	Version_of Arg1:T5 Arg2:T2	
+R2	Version_of Arg1:T4 Arg2:T1	

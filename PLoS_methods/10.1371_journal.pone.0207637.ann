@@ -1,0 +1,18 @@
+T1	ProgrammingEnvironment_Usage 4660 4666	MATLAB
+T2	ProgrammingEnvironment_Usage 5100 5106	MATLAB
+T3	ProgrammingEnvironment_Usage 6092 6098	MATLAB
+T4	Application_Usage 6243 6248	Excel
+T5	ProgrammingEnvironment_Usage 4668 4674	MATLAB
+R1	Specification_of Arg1:T5 Arg2:T1	
+T6	Release 4675 4680	2017b
+R2	Release_of Arg1:T6 Arg2:T5	
+T7	Developer 4682 4701	The MathWorks, Inc.
+R3	Developer_of Arg1:T7 Arg2:T5	
+T8	Application_Usage 6260 6265	Excel
+T9	Release 6266 6270	2013
+R4	Release_of Arg1:T9 Arg2:T8	
+T10	Developer 6250 6259	Microsoft
+R5	Developer_of Arg1:T10 Arg2:T8	
+T11	Developer 6272 6293	Microsoft Corporation
+R6	Developer_of Arg1:T11 Arg2:T8	
+R7	Specification_of Arg1:T8 Arg2:T4	

@@ -1,0 +1,5 @@
+We present CGBayesNets, a BN package focused around prediction of a clinical phenotype from mixed discrete and continuous variables, which fills these gaps.
+CGBayesNets provides a full suite of functions for model exploration and verification, including cross validation, bootstrapping, and AUC manipulation.
+CGBayesNets is implemented in MATLAB and available as MATLAB source code, under an Open Source license and anonymous download at http://www.cgbayesnets.com.
+CGBayesNets provides functions for making testing on multiple different datasets simple and direct.
+The CGBayesNets package is available from the authors and via anonymous download from www.cgbayesnets.com.

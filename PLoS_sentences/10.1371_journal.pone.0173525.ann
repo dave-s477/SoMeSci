@@ -1,0 +1,7 @@
+T1	PlugIn_Usage 57 65	NIRS_SPM
+T2	ProgrammingEnvironment_Usage 85 91	MATLAB
+T3	Citation 75 79	[40]
+R1	Citation_of Arg1:T3 Arg2:T1	
+R2	PlugIn_of Arg1:T1 Arg2:T2	
+T4	Developer 93 102	Mathworks
+R3	Developer_of Arg1:T4 Arg2:T2	

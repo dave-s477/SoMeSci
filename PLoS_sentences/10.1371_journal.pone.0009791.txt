@@ -1,0 +1,1 @@
+We tested for effects of the number of voles in each cage upon body weight using General Linear Models (GLM; Minitab ver. 15.1).

@@ -1,0 +1,1 @@
+We analyzed data using JMP® v.8.0 (SAS Institute Inc., Cary, NC), comparing males and females for all variables using a t-test and considered results significant if α≤0.05 [47]. 

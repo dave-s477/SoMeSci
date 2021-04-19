@@ -1,0 +1,2 @@
+Receipt of QAC data was acknowledged, entered into a password-protected Microsoft Access database, and cross-checked through Microsoft Excel.
+

@@ -1,0 +1,12 @@
+T1	Application_Usage 16701 16706	Mplus
+T2	OperatingSystem_Usage 16715 16722	Windows
+T3	PlugIn_Usage 17121 17131	AmeliaView
+T4	Application_Usage 20089 20094	MPlus
+T5	Version 16707 16710	6.0
+R1	Version_of Arg1:T5 Arg2:T1	
+T6	Citation 16723 16727	[43]
+R2	Citation_of Arg1:T6 Arg2:T1	
+T7	Citation 17132 17136	[44]
+R3	Citation_of Arg1:T7 Arg2:T3	
+T9	Version 20095 20098	6.0
+R5	Version_of Arg1:T9 Arg2:T4	

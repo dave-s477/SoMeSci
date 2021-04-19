@@ -1,0 +1,24 @@
+T1	Application_Usage 2627 2632	PLINK
+T2	Application_Mention 3139 3144	PLINK
+T3	Application_Usage 3504 3509	PLINK
+T4	Application_Usage 3929 3935	Primer
+T5	Application_Usage 5146 5163	Mutation Surveyor
+T6	Application_Usage 6653 6658	BLAST
+T7	Application_Usage 7396 7410	Genome browser
+T8	Application_Usage 7535 7543	PolyPhen
+T26	Version 2634 2638	1.03
+R5	Version_of Arg1:T26 Arg2:T1	
+T27	Citation 2665 2669	[45]
+R6	Citation_of Arg1:T27 Arg2:T1	
+T29	URL 3938 3962	http://frodo.wi.mit.edu/
+R8	URL_of Arg1:T29 Arg2:T4	
+T30	Version 5165 5169	3.10
+T31	Developer 5171 5183	SoftGenetics
+R9	Developer_of Arg1:T31 Arg2:T5	
+R10	Version_of Arg1:T30 Arg2:T5	
+T37	Developer 7391 7395	UCSC
+R16	Developer_of Arg1:T37 Arg2:T7	
+T38	URL 7412 7435	http://genome.ucsc.edu/
+R17	URL_of Arg1:T38 Arg2:T7	
+T40	Version 3935 3936	3
+R19	Version_of Arg1:T40 Arg2:T4	

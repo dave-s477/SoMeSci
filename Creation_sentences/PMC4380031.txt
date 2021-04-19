@@ -1,0 +1,5 @@
+We developed Hi-Corrector, an easy-to-use, open source implementation of the Hi-C data normalization algorithm.
+The package is freely available at http://zhoulab.usc.edu/Hi-Corrector/.
+We developed Hi-Corrector, a scalable and memory-efficient package for bias removal in HiC data.
+Hi-Corrector can run on any single computer or a computer cluster with limited memory size to complete the task.
+Therefore, Hi-Corrector is a timely resource addressing the challenge of normalizing high-resolution Hi-C data.

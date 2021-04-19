@@ -1,0 +1,2 @@
+To overcome these drawbacks, we implemented LAILAPS-QSM, a machine learning approach that reconstruct possible linguistic contexts of a given keyword query.
+The source code of LAILAPS-QSM is available under GNU General Public License version 2 in Bitbucket GIT repository: https://bitbucket.org/ipk_bit_team/bioescorte-suggestion

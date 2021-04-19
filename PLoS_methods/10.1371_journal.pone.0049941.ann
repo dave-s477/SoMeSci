@@ -1,0 +1,7 @@
+T2	Application_Usage 4713 4720	Protégé
+T3	Application_Usage 5178 5185	OntoFox
+T4	Application_Usage 5251 5258	Protégé
+T23	Version 4721 4726	4.0.2
+R9	Version_of Arg1:T23 Arg2:T2	
+T24	Citation 5194 5198	[16]
+R10	Citation_of Arg1:T24 Arg2:T3	

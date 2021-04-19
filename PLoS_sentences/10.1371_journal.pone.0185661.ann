@@ -1,0 +1,15 @@
+T1	Application_Usage 55 61	SUDAAN
+T2	Application_Usage 289 295	SUDAAN
+T3	Application_Usage 243 246	SAS
+T4	Version 62 66	11.0
+T5	Developer 68 71	RTI
+R1	Version_of Arg1:T4 Arg2:T1	
+R2	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 255 258	9.3
+R3	Version_of Arg1:T6 Arg2:T3	
+T7	Developer 260 273	SAS Institute
+R4	Developer_of Arg1:T7 Arg2:T3	
+T8	Version 304 310	11.0.1
+R5	Version_of Arg1:T8 Arg2:T2	
+T9	Developer 312 329	RTI International
+R6	Developer_of Arg1:T9 Arg2:T2	

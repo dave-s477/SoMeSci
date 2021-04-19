@@ -1,0 +1,6 @@
+T1	Application_Usage 230 235	Stata
+T2	Application_Usage 306 311	Stata
+T3	Version 236 237	8
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 312 313	8
+R2	Version_of Arg1:T4 Arg2:T2	

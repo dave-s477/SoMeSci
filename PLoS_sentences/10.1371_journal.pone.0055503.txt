@@ -1,0 +1,2 @@
+We conducted all analyses in SAS [45], and used residual analyses to confirm the usual normality and homoscedasticity assumptions.
+

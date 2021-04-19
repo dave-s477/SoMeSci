@@ -1,0 +1,6 @@
+T1	Application_Usage 3441 3446	PRISM
+T2	Application_Mention 3557 3562	Prism
+T3	Application_Mention 3640 3645	Prism
+T4	Application_Usage 3823 3828	Excel
+T5	Version 3447 3450	5.0
+R1	Version_of Arg1:T5 Arg2:T1	

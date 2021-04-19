@@ -1,0 +1,12 @@
+T1	Application_Usage 60 90	Statistical Parametric Mapping
+T2	ProgrammingEnvironment_Usage 180 186	MATLAB
+T3	Application_Usage 92 95	SPM
+T4	Version 95 96	8
+R1	Version_of Arg1:T4 Arg2:T3	
+R2	Specification_of Arg1:T3 Arg2:T1	
+T5	Developer 108 151	Wellcome Department of Imaging Neuroscience
+R3	Developer_of Arg1:T5 Arg2:T1	
+T6	Release 187 193	R2009b
+R4	Release_of Arg1:T6 Arg2:T2	
+T7	Developer 195 204	MathWorks
+R5	Developer_of Arg1:T7 Arg2:T2	

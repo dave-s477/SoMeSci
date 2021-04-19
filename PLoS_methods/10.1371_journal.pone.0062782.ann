@@ -1,0 +1,11 @@
+T1	Application_Usage 6883 6891	JWatcher
+T2	Application_Usage 9232 9236	SPSS
+T3	Application_Usage 8455 8462	Digilab
+T4	Developer 8449 8454	Motic
+R1	Developer_of Arg1:T4 Arg2:T3	
+T5	Version 8463 8465	II
+R2	Version_of Arg1:T5 Arg2:T3	
+T6	Developer 8467 8489	Motic Instruments Inc.
+R3	Developer_of Arg1:T6 Arg2:T3	
+T7	Version 9238 9242	19.0
+R4	Version_of Arg1:T7 Arg2:T2	

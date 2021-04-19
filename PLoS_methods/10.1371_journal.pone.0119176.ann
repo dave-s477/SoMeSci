@@ -1,0 +1,13 @@
+T1	Application_Usage 2582 2612	Statistical Parametric Mapping
+T2	Application_Usage 3568 3571	SPM
+T3	Application_Usage 2623 2626	SPM
+T4	Version 2626 2627	8
+R1	Version_of Arg1:T4 Arg2:T3	
+T5	URL 2629 2676	http://www.fil.ion.ucl.ac.uk/spm/software/spm8/
+R2	URL_of Arg1:T5 Arg2:T3	
+T6	Version 3571 3572	8
+R3	Version_of Arg1:T6 Arg2:T2	
+R4	Specification_of Arg1:T3 Arg2:T1	
+T7	PlugIn_Usage 2995 3070	diffeomorphic anatomical registration through the exponentiated Lie algebra
+T8	Abbreviation 3072 3078	DARTEL
+R5	Abbreviation_of Arg1:T8 Arg2:T7	

@@ -1,0 +1,1 @@
+The distribution of individual mean values within these categories fitted to a normal distribution according to the Kolmogorov-Smirnov-Test as implemented in SPSS 22.0. 

@@ -1,0 +1,1 @@
+The analyses were conducted by using the PROCESS macro written by Andrew F. Hayes [38], which can be implemented in SPSS, and it is based on an ordinary least squares regression. 

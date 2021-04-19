@@ -1,0 +1,34 @@
+T1	PlugIn_Creation 17 25	coXpress
+T2	ProgrammingEnvironment_Mention 30 31	R
+R1	PlugIn_of Arg1:T1 Arg2:T2	
+T3	PlugIn_Creation 148 156	coXpress
+T4	PlugIn_Creation 254 262	coXpress
+T5	PlugIn_Mention 374 382	CoXpress
+T6	PlugIn_Creation 525 533	CoXpress
+T7	ProgrammingEnvironment_Mention 563 564	R
+R2	PlugIn_of Arg1:T6 Arg2:T7	
+T8	PlugIn_Creation 566 574	CoXpress
+T9	ProgrammingEnvironment_Usage 600 601	R
+T10	OperatingSystem_Usage 645 652	windows
+T11	OperatingSystem_Usage 657 662	linux
+T12	PlugIn_Deposition 681 689	coXpress
+T13	URL 711 733	http://coxpress.sf.net
+T14	OperatingSystem_Usage 755 762	Windows
+T15	OperatingSystem_Usage 764 769	Linux
+T16	ProgrammingEnvironment_Usage 794 795	R
+T17	ProgrammingEnvironment_Mention 818 819	R
+T18	PlugIn_Mention 821 827	gplots
+T19	PlugIn_Mention 829 835	gtools
+T20	PlugIn_Mention 837 842	gdata
+T21	PlugIn_Mention 859 865	hu6800
+T22	PlugIn_Mention 867 875	hgu95av2
+T23	PlugIn_Mention 877 884	plotrix
+T24	License 911 918	GNU GPL
+R3	URL_of Arg1:T13 Arg2:T12	
+R4	PlugIn_of Arg1:T18 Arg2:T17	
+R5	PlugIn_of Arg1:T19 Arg2:T17	
+R6	PlugIn_of Arg1:T20 Arg2:T17	
+R7	PlugIn_of Arg1:T21 Arg2:T17	
+R8	PlugIn_of Arg1:T22 Arg2:T17	
+R9	PlugIn_of Arg1:T23 Arg2:T17	
+R10	License_of Arg1:T24 Arg2:T12	

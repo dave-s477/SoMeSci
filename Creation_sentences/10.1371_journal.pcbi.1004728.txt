@@ -1,0 +1,4 @@
+Ensembler is free and open source software licensed under the GNU General Public License (GPL) v2.
+Ensembler is written in Python, and can be used via a command-line tool (ensembler) or via a flexible Python API to allow integration of its components into other applications.
+The Ensembler modeling pipeline comprises a series of stages which are performed in a defined order.
+The code for Ensembler is hosted on the collaborative open source software development platform GitHub (github.com/choderalab/ensembler).

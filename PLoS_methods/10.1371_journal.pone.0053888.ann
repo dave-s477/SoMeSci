@@ -1,0 +1,33 @@
+T1	Application_Usage 9121 9131	Videotrack
+T2	Application_Usage 16837 16846	Photoshop
+T3	Application_Usage 18524 18530	pClamp
+T4	Application_Usage 19615 19621	pClamp
+T5	Application_Usage 19629 19637	Igor pro
+T6	Application_Usage 19856 19863	Visilog
+T7	Application_Usage 20407 20414	Visilog
+T8	Application_Usage 9809 9819	VideoTrack
+T9	Application_Usage 10652 10662	VideoTrack
+T21	Developer 9133 9142	Viewpoint
+R1	Developer_of Arg1:T21 Arg2:T1	
+T22	Developer 16831 16836	Adobe
+R2	Developer_of Arg1:T22 Arg2:T2	
+T23	Version 16847 16852	8.0.1
+R3	Version_of Arg1:T23 Arg2:T2	
+T24	Developer 16854 16867	Adobe Systems
+R4	Developer_of Arg1:T24 Arg2:T2	
+T25	Version 18531 18533	10
+R5	Version_of Arg1:T25 Arg2:T3	
+T26	Developer 18544 18561	Molecular Devices
+R6	Developer_of Arg1:T26 Arg2:T3	
+T27	Version 19622 19624	10
+R7	Version_of Arg1:T27 Arg2:T4	
+T28	Developer 19648 19659	WaveMetrics
+R8	Developer_of Arg1:T28 Arg2:T5	
+T29	Version 19864 19867	6.3
+R9	Version_of Arg1:T29 Arg2:T6	
+T30	Developer 19869 19875	Noesis
+R10	Developer_of Arg1:T30 Arg2:T6	
+T31	Version 20415 20418	6.3
+R11	Version_of Arg1:T31 Arg2:T7	
+T32	Developer 20420 20426	Noesis
+R12	Developer_of Arg1:T32 Arg2:T7	

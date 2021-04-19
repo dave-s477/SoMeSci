@@ -1,0 +1,13 @@
+T2	Application_Creation 0 6	MAGPIE
+T72	AlternativeName 10 75	Modeling and Analysis Generic Platform with Integrated Evaluation
+R1	AlternativeName_of Arg1:T72 Arg2:T2	
+T4	Application_Usage 369 375	MAGPIE
+T6	Application_Creation 426 432	MAGPIE
+T13	Application_Creation 621 627	MAGPIE
+T73	ProgrammingEnvironment_Usage 647 660	Ruby on Rails
+T74	Version 661 662	5
+R2	Version_of Arg1:T74 Arg2:T73	
+T18	Application_Deposition 668 674	MAGPIE
+T75	Application_Usage 714 720	GitHub
+T76	URL 735 771	https://github.com/christbald/magpie
+R3	URL_of Arg1:T76 Arg2:T18	

@@ -1,0 +1,8 @@
+T1	Application_Usage 8813 8819	NEURON
+T2	Application_Usage 8931 8937	NEURON
+T3	Application_Mention 9206 9212	NEURON
+T4	Application_Mention 9390 9396	NEURON
+T5	Citation 8820 8824	[25]
+R1	Citation_of Arg1:T5 Arg2:T1	
+T6	Citation 8938 8942	[25]
+R2	Citation_of Arg1:T6 Arg2:T2	

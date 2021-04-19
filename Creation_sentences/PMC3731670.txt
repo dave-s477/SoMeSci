@@ -1,0 +1,3 @@
+Here, we present a novel Python-based toolbox called HDDM (hierarchical drift diffusion model), which allows fast and flexible estimation of the the drift-diffusion model and the related linear ballistic accumulator model.
+HDDM requires fewer data per subject/condition than non-hierarchical methods, allows for full Bayesian data analysis, and can handle outliers in the data.
+The software and documentation can be downloaded at: http://ski.clps.brown.edu/hddm_docs/

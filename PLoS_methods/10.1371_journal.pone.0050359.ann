@@ -1,0 +1,24 @@
+T1	Application_Usage 6897 6918	Brain Vision Analyzer
+T2	Application_Usage 7632 7654	FMRIB Software Library
+T3	Application_Usage 8187 8190	FSL
+T4	Application_Usage 8103 8106	FSL
+T5	Application_Usage 12573 12576	FSL
+T6	Application_Usage 13271 13274	FSL
+T7	Developer 6929 6943	Brain Products
+R1	Developer_of Arg1:T7 Arg2:T1	
+T8	Abbreviation 7656 7659	FSL
+R2	Abbreviation_of Arg1:T8 Arg2:T2	
+T9	URL 7662 7680	www.fmrib.ox.ac.uk
+R3	URL_of Arg1:T9 Arg2:T2	
+T10	Application_Usage 7695 7698	FSL
+R4	Specification_of Arg1:T10 Arg2:T2	
+T11	Version 7707 7710	4.1
+T12	Citation 7711 7715	[25]
+T13	Citation 7717 7721	[26]
+R5	Version_of Arg1:T11 Arg2:T10	
+R6	Citation_of Arg1:T12 Arg2:T10	
+R7	Citation_of Arg1:T13 Arg2:T10	
+T14	Citation 12577 12581	[39]
+R8	Citation_of Arg1:T14 Arg2:T5	
+T15	Citation 13275 13279	[39]
+R9	Citation_of Arg1:T15 Arg2:T6	

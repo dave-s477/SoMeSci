@@ -1,0 +1,1 @@
+For the purposes of the analysis, the dataset was partitioned by discipline and a Correspondence Analysis (CA) [41–43] was applied to these subsets following the procedure described in Díaz-Faes and Bordons [25] and using a MATLAB program [44]. 

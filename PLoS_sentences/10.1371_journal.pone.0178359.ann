@@ -1,0 +1,5 @@
+T2	Application_Usage 114 125	Questionpro
+T3	Application_Usage 193 196	SAS
+T1	Version 197 200	9.3
+R1	Version_of Arg1:T1 Arg2:T3	
+T4	Application_Mention 129 133	SPSS

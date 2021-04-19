@@ -1,0 +1,6 @@
+We present a bioinformatics solution (3PD) to support the experimentalist in detecting long-ranging intra or inter chromosomal contacts by Chromosome conformation capture (3C) assays.
+In summary, our software 3PD facilitates genome-wide primer design for 3C experiments in a matter of seconds.
+Our software is available as a web server at: http://www.pristionchus.org/3CPrimerDesign/.
+Finally, we have introduced a web interface to our 3PD software and we have provided a runtime benchmark on real-world problem sizes.
+Our software is freely available to academic users as a web server at: http://www.pristionchus.org/3CPrimerDesign/.
+"• Project name: 3C Primer Design • Project home page: http://www.pristionchus.org/3CPrimerDesign/ • Operating system(s): Platform independent • Programming language: Java • Other requirements: Any web browser supporting forms • License: The web interface is freely available to academic users • Any restrictions to use by non-academics: Licence needed"

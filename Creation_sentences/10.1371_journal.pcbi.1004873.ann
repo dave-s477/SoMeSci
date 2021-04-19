@@ -1,0 +1,27 @@
+T2	PlugIn_Creation 83 89	CNVkit
+T5	PlugIn_Deposition 222 228	CNVkit
+T75	URL 254 284	https://github.com/etal/cnvkit
+R2	URL_of Arg1:T75 Arg2:T5	
+T9	PlugIn_Creation 301 307	CNVkit
+T73	ProgrammingEnvironment_Usage 313 319	Python
+T74	Version 320 323	2.7
+R1	Version_of Arg1:T74 Arg2:T73	
+T27	PlugIn_Mention 417 423	CNVkit
+T76	PlugIn_Mention 486 495	Biopython
+T77	Citation 496 500	[35]
+T78	PlugIn_Mention 502 511	Reportlab
+T79	URL 513 549	http://www.reportlab.com/opensource/
+T80	PlugIn_Mention 555 565	matplotlib
+T81	URL 567 588	http://matplotlib.org
+R3	Citation_of Arg1:T77 Arg2:T76	
+R4	URL_of Arg1:T79 Arg2:T78	
+R5	URL_of Arg1:T81 Arg2:T80	
+T67	PlugIn_Deposition 591 597	CNVkit
+T82	URL 635 665	https://github.com/etal/cnvkit
+T83	License 676 690	Apache License
+T84	Version 691 694	2.0
+T85	URL 696 738	http://www.apache.org/licenses/LICENSE-2.0
+R6	URL_of Arg1:T82 Arg2:T67	
+R7	Version_of Arg1:T84 Arg2:T83	
+R8	URL_of Arg1:T85 Arg2:T83	
+R9	License_of Arg1:T83 Arg2:T67	

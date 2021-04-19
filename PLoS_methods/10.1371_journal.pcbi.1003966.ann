@@ -1,0 +1,5 @@
+T1	ProgrammingEnvironment_Usage 23734 23740	MATLAB
+T2	ProgrammingEnvironment_Usage 23992 23998	MATLAB
+T3	Application_Usage 24037 24041	SPSS
+T4	Developer 24033 24036	IBM
+R1	Developer_of Arg1:T4 Arg2:T3	

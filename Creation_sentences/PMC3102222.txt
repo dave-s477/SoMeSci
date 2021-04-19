@@ -1,0 +1,4 @@
+ProDySummary: We developed a Python package, ProDy, for structure-based analysis of protein dynamics.
+Availability: ProDy is open source and freely available under GNU General Public License from http://www.csb.pitt.edu/ProDy/.
+We developed ProDy to analyze and retrieve biologically significant information from such heterogeneous structural datasets.
+In ProDy, we implemented algorithms for optimal alignment of such heterogeneous datasets and building corresponding covariance matrices.

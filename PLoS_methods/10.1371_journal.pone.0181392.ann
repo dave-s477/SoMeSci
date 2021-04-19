@@ -1,0 +1,76 @@
+T1	Application_Usage 5667 5689	FMRIB Software Library
+T2	PlugIn_Usage 6128 6163	FMRIB's Automated Segmentation Tool
+T3	PlugIn_Usage 6847 6853	DTIFit
+T4	PlugIn_Usage 6863 6888	FMRIB’s Diffusion Toolbox
+T5	Application_Usage 7139 7142	FSL
+T6	PlugIn_Usage 7463 7493	FMRIB's ICA-based X-noiseifier
+T7	Application_Usage 7857 7860	FSL
+T8	PlugIn_Usage 8055 8062	FSL-VBM
+T9	PlugIn_Usage 8093 8146	FMRIB’s Integrated Registration and Segmentation Tool
+T10	Application_Usage 8351 8355	SPSS
+T11	PlugIn_Usage 8452 8477	FMRIB’s Diffusion Toolbox
+T12	Application_Usage 8636 8639	FSL
+T13	Application_Usage 10031 10035	SPSS
+T14	Application_Usage 10539 10544	CubeX
+T15	PlugIn_Usage 6022 6027	FLIRT
+T16	PlugIn_Usage 6045 6050	FNIRT
+T17	PlugIn_Usage 7143 7226	Multivariate Exploratory Linear Optimized Decomposition into Independent Components
+T18	PlugIn_Usage 7641 7646	FNIRT
+T19	PlugIn_Usage 8482 8512	tract-based spatial statistics
+T20	PlugIn_Usage 8640 8655	dual regression
+T21	PlugIn_Usage 8748 8755	MELODIC
+T22	Abbreviation 5691 5694	FSL
+R1	Abbreviation_of Arg1:T22 Arg2:T1	
+T23	Version 5703 5706	5.0
+R2	Version_of Arg1:T23 Arg2:T1	
+T24	URL 5708 5746	http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
+R3	URL_of Arg1:T24 Arg2:T1	
+T25	Citation 5748 5752	[21]
+R4	Citation_of Arg1:T25 Arg2:T1	
+T26	Abbreviation 6165 6169	FAST
+R5	Abbreviation_of Arg1:T26 Arg2:T2	
+T27	Citation 6278 6282	[22]
+R6	Citation_of Arg1:T27 Arg2:T2	
+R7	PlugIn_of Arg1:T3 Arg2:T4	
+T28	Citation 6939 6943	[24]
+R8	Citation_of Arg1:T28 Arg2:T4	
+T29	Abbreviation 7228 7235	MELODIC
+R9	Abbreviation_of Arg1:T29 Arg2:T17	
+T30	Citation 7237 7241	[25]
+R10	Citation_of Arg1:T30 Arg2:T17	
+R11	PlugIn_of Arg1:T17 Arg2:T5	
+T31	Abbreviation 7495 7498	FIX
+R12	Abbreviation_of Arg1:T31 Arg2:T6	
+T32	Citation 7500 7508	[26, 27]
+R13	Citation_of Arg1:T32 Arg2:T6	
+T33	Version 7868 7871	5.0
+R14	Version_of Arg1:T33 Arg2:T7	
+T34	Citation 8063 8067	[29]
+R15	Citation_of Arg1:T34 Arg2:T8	
+T35	Abbreviation 8148 8153	FIRST
+T36	Citation 8154 8158	[30]
+T37	Abbreviation 8514 8518	TBSS
+R16	Abbreviation_of Arg1:T37 Arg2:T19	
+T38	Citation 8583 8587	[31]
+R17	Citation_of Arg1:T38 Arg2:T19	
+R18	PlugIn_of Arg1:T20 Arg2:T12	
+T39	Citation 8928 8932	[25]
+R19	Citation_of Arg1:T39 Arg2:T21	
+T40	PlugIn_Usage 8964 8967	VBM
+T41	PlugIn_Usage 8969 8973	TBSS
+T42	PlugIn_Usage 8975 8990	dual regression
+T43	PlugIn_Usage 9171 9205	threshold-free cluster enhancement
+T44	Abbreviation 9207 9211	TFCE
+R20	Abbreviation_of Arg1:T44 Arg2:T43	
+T45	Citation 9213 9217	[33]
+R21	Citation_of Arg1:T45 Arg2:T43	
+T46	Version 10053 10055	23
+R22	Version_of Arg1:T46 Arg2:T13	
+T47	Developer 10057 10066	SPSS Inc.
+R23	Developer_of Arg1:T47 Arg2:T13	
+T48	Citation 10545 10549	[34]
+R24	Citation_of Arg1:T48 Arg2:T14	
+T49	URL 10551 10586	http://www.oege.org/software/cubex/
+R25	URL_of Arg1:T49 Arg2:T14	
+R26	Abbreviation_of Arg1:T35 Arg2:T9	
+R27	Citation_of Arg1:T36 Arg2:T9	

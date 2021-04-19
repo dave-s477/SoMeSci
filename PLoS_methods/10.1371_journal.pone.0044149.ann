@@ -1,0 +1,11 @@
+T1	Application_Usage 2066 2073	Digipro
+T2	Application_Usage 8543 8554	Scion image
+T3	Application_Usage 10269 10273	SPSS
+T4	Version 2093 2096	140
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 2098 2118	AccuScan Instruments
+R2	Developer_of Arg1:T5 Arg2:T1	
+T6	Developer 8565 8576	Scion Corp.
+R3	Developer_of Arg1:T6 Arg2:T2	
+T7	Version 10292 10296	19.0
+R4	Version_of Arg1:T7 Arg2:T3	

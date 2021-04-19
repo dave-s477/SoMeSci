@@ -1,0 +1,13 @@
+T1	Application_Usage 4927 4933	Cervus
+T2	Application_Usage 5248 5254	COLONY
+T3	Application_Usage 6687 6690	SAS
+T4	Version 4934 4937	3.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Citation 4938 4946	[49, 50]
+R2	Citation_of Arg1:T5 Arg2:T1	
+T6	Version 5255 5256	2
+R3	Version_of Arg1:T6 Arg2:T2	
+T7	Citation 5265 5269	[51]
+R4	Citation_of Arg1:T7 Arg2:T2	
+T8	Citation 6691 6695	[52]
+R5	Citation_of Arg1:T8 Arg2:T3	

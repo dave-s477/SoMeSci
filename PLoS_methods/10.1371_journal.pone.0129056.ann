@@ -1,0 +1,23 @@
+T1	OperatingSystem_Usage 7638 7645	Windows
+T2	OperatingSystem_Mention 8001 8008	Windows
+T3	Application_Usage 8565 8578	Visual Studio
+T4	ProgrammingEnvironment_Usage 8539 8541	C#
+T5	Application_Usage 8609 8612	NET
+T6	ProgrammingEnvironment_Usage 8667 8669	C#
+T7	ProgrammingEnvironment_Mention 8948 8949	R
+T8	ProgrammingEnvironment_Mention 8951 8957	Matlab
+T9	ProgrammingEnvironment_Mention 8959 8963	Java
+T10	ProgrammingEnvironment_Mention 8969 8975	Python
+T11	OperatingSystem_Mention 8881 8888	Windows
+T26	Developer 7628 7637	Microsoft
+R9	Developer_of Arg1:T26 Arg2:T1	
+T27	Version 7646 7647	7
+R10	Version_of Arg1:T27 Arg2:T1	
+T28	Version 7661 7666	64bit
+R11	Version_of Arg1:T28 Arg2:T1	
+T29	Release 8579 8583	2008
+R12	Release_of Arg1:T29 Arg2:T3	
+T30	Version 8632 8635	3.5
+R13	Version_of Arg1:T30 Arg2:T5	
+T31	Developer 8871 8880	Microsoft
+R14	Developer_of Arg1:T31 Arg2:T11	

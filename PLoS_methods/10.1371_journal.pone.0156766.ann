@@ -1,0 +1,6 @@
+T1	Application_Usage 8395 8405	STATISTICA
+T2	OperatingSystem_Usage 8406 8413	Windows
+T4	Version 8414 8416	XP
+R1	Version_of Arg1:T4 Arg2:T2	
+T5	Version 8425 8427	12
+R2	Version_of Arg1:T5 Arg2:T1	

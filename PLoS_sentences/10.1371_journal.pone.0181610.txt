@@ -1,0 +1,1 @@
+In the lose condition, participants received 8 noise blasts, one each after the 8 rounds they lost (noise blast sequence: 60, -, 70, 80, -, 100, 90, 90, 90, 90, 90). 

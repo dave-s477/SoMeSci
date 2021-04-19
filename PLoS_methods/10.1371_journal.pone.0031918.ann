@@ -1,0 +1,10 @@
+T1	Application_Usage 1801 1806	CALIB
+T2	Application_Usage 3178 3184	Mimics
+T5	Version 1807 1811	6.02
+R1	Version_of Arg1:T5 Arg2:T1	
+T3	Version 3191 3196	13.02
+R2	Version_of Arg1:T3 Arg2:T2	
+T4	Application_Usage 3714 3721	Strand7
+T6	Version 3728 3731	2.4
+R3	Version_of Arg1:T6 Arg2:T4	
+T7	Application_Usage 3794 3801	Strand7

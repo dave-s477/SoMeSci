@@ -1,0 +1,5 @@
+We present Telescope, a computational software tool that provides accurate estimation of transposable element expression (retrotranscriptome) resolved to specific genomic locations.
+Telescope is available at https://github.com/mlbendall/telescope.
+Here, we introduce Telescope, a tool which provides accurate estimation of TE expression resolved to specific genomic locations.
+We use Telescope to investigate the expression of HERVs in cell types from the ENCODE consortium.
+Telescope is implemented in Python, is available as an open-source program under the MIT license, and has been developed and tested on Linux and MacOS.

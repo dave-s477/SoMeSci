@@ -1,0 +1,9 @@
+T1	Application_Usage 1710 1717	Firefox
+T2	PlugIn_Usage 1667 1676	Altmetric
+T3	Application_Usage 2022 2026	SPSS
+T9	Version 2027 2031	20.0
+R3	Version_of Arg1:T9 Arg2:T3	
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+T4	PlugIn_Usage 1591 1600	Altmetric
+T5	URL 1602 1660	https://www.altmetric.com/products/free-tools/bookmarklet/
+R2	URL_of Arg1:T5 Arg2:T4	

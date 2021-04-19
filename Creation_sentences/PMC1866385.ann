@@ -1,0 +1,10 @@
+T1	Application_Mention 0 15	NemaFootPrinter
+T2	AlternativeName 17 85	Nematode Transcription Factor Scan Through Philogenetic Footprinting
+R1	AlternativeName_of Arg1:T2 Arg2:T1	
+T3	Application_Deposition 241 256	NemaFootPrinter
+T4	URL 276 324	http://bio.ifom-firc.it/NTFootPrinter/index.html
+T5	OperatingSystem_Usage 338 342	UNIX
+T6	ProgrammingEnvironment_Usage 414 417	SQL
+T7	ProgrammingEnvironment_Usage 419 423	Perl
+T8	ProgrammingEnvironment_Usage 425 429	Java
+R2	URL_of Arg1:T4 Arg2:T3	

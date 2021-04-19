@@ -1,0 +1,2 @@
+All analyses were performed using Stata 12.0 SE.
+

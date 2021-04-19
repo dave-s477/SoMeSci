@@ -1,0 +1,8 @@
+T1	Application_Usage 5001 5016	SPSS Statistics
+T2	Application_Usage 5130 5135	Excel
+T3	Developer 4997 5000	IBM
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 5025 5029	22.0
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 5120 5129	Microsoft
+R3	Developer_of Arg1:T5 Arg2:T2	

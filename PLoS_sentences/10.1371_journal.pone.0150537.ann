@@ -1,0 +1,8 @@
+T1	Application_Usage 44 83	Statistical Package for Social Sciences
+T2	Application_Usage 34 39	Excel
+T3	Developer 24 33	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Abbreviation 85 89	SPSS
+R2	Abbreviation_of Arg1:T4 Arg2:T1	
+T5	Version 99 101	16
+R3	Version_of Arg1:T5 Arg2:T1	

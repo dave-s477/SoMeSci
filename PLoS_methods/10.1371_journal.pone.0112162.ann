@@ -1,0 +1,11 @@
+T1	Application_Usage 1384 1389	Stata
+T2	Application_Usage 2935 2942	CT-Expo
+T3	Application_Usage 9593 9598	Stata
+T4	Version 1390 1394	12.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Version 2946 2949	2.1
+R2	Version_of Arg1:T5 Arg2:T2	
+T6	Version 9599 9603	12.0
+T7	Developer 9605 9617	StataCorp LP
+R3	Developer_of Arg1:T7 Arg2:T3	
+R4	Version_of Arg1:T6 Arg2:T3	

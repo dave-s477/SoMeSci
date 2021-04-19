@@ -1,0 +1,7 @@
+T1	Application_Deposition 2 7	HMMER
+T2	URL 20 44	http://hmmer.janelia.org
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Deposition 172 177	HMMER
+T4	URL 188 212	http://hmmer.janelia.org
+T5	Application_Mention 247 252	HMMER
+R2	URL_of Arg1:T4 Arg2:T3	

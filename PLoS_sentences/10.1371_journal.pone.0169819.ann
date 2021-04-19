@@ -1,0 +1,5 @@
+T1	Application_Usage 105 110	Excel
+T2	Developer 95 104	Microsoft
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Release 117 121	2003
+R2	Release_of Arg1:T3 Arg2:T1	

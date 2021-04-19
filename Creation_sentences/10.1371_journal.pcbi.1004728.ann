@@ -1,0 +1,15 @@
+T4	Application_Deposition 0 9	Ensembler
+T1	License 62 88	GNU General Public License
+T2	Abbreviation 90 93	GPL
+T55	Version 96 97	2
+R1	License_of Arg1:T1 Arg2:T4	
+R2	Abbreviation_of Arg1:T2 Arg2:T1	
+R3	Version_of Arg1:T55 Arg2:T1	
+T8	Application_Creation 99 108	Ensembler
+T56	ProgrammingEnvironment_Usage 123 129	Python
+T57	ProgrammingEnvironment_Mention 201 207	Python
+T10	Application_Mention 280 289	Ensembler
+T44	Application_Deposition 390 399	Ensembler
+T58	Application_Usage 473 479	GitHub
+T59	URL 481 512	github.com/choderalab/ensembler
+R4	URL_of Arg1:T59 Arg2:T44	

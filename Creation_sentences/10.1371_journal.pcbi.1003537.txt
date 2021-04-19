@@ -1,0 +1,6 @@
+We present a new open source, extensible and flexible software platform for Bayesian evolutionary analysis called BEAST 2.
+A second major improvement is the ability to read/write the entire state of the MCMC chain to/from disk allowing it to be easily shared between multiple instances of the BEAST software.
+The first generation Bayesian Evolutionary Analysis by Sampling Trees (BEAST) package [1], [2] has become a popular platform for solving such problems and takes a modeling philosophy that all of these evolutionary analysis problems share at their core one or more phylogenetic time-trees.
+This paper describes the overarching design and implementation details of a re-write of the BEAST platform that we have designated BEAST 2, as well as presenting examples of some significant new models developed especially for this new platform.
+The BEAST 2 platform is an open source project and is anonymously available on a source repository hosted by GitHub at https://github.com/CompEvol/beast2 and supplementary material Code S1.
+This example file runs on BEAST 2.1.0 with the MultiTypeTree package (http://compevol.github.io/MultiTypeTree/).

@@ -1,0 +1,21 @@
+T1	Application_Creation 26 33	MetaSel
+T2	Application_Mention 63 70	MetaSel
+T4	SoftwareCoreference_Deposition 290 297	program
+T3	URL 329 371	http://www4a.biotec.or.th/GI/tools/metasel
+R6	URL_of Arg1:T3 Arg2:T4	
+T5	Application_Creation 395 402	MetaSel
+T6	Application_Creation 580 587	MetaSel
+T7	ProgrammingEnvironment_Usage 626 628	C#
+T9	Developer 632 641	Microsoft
+T8	OperatingSystem_Usage 642 649	Windows
+T10	Version 650 651	7
+R1	Developer_of Arg1:T9 Arg2:T8	
+R2	Version_of Arg1:T10 Arg2:T8	
+T11	SoftwareCoreference_Deposition 675 683	software
+T12	OperatingSystem_Mention 689 696	Windows
+T13	Version 697 699	XP
+T14	Version 703 704	7
+T15	URL 770 812	http://www4a.biotec.or.th/GI/tools/metasel
+R3	Version_of Arg1:T13 Arg2:T12	
+R4	Version_of Arg1:T14 Arg2:T12	
+R5	URL_of Arg1:T15 Arg2:T11	

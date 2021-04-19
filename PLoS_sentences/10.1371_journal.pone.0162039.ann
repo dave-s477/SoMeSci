@@ -1,0 +1,10 @@
+T1	Application_Usage 86 89	SPM
+T2	ProgrammingEnvironment_Usage 141 147	MATLAB
+T3	Version 89 90	8
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	URL 92 124	http://www.fil.ion.ucl.ac.uk/spm
+R2	URL_of Arg1:T4 Arg2:T1	
+T5	Release 148 154	R2012b
+T6	Developer 156 165	MathWorks
+R3	Release_of Arg1:T5 Arg2:T2	
+R4	Developer_of Arg1:T6 Arg2:T2	

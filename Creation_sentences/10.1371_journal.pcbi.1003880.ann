@@ -1,0 +1,12 @@
+T2	Application_Creation 28 34	FamSeq
+T3	Application_Mention 238 244	FamSeq
+T7	Application_Creation 527 533	FamSeq
+T35	Application_Deposition 590 596	FamSeq
+T36	License 643 646	GPL
+T43	Version 648 649	3
+T41	URL 694 742	http://bioinformatics.mdanderson.org/main/FamSeq
+T42	URL 765 804	http://sourceforge.net/projects/famseq/
+R1	License_of Arg1:T36 Arg2:T35	
+R2	URL_of Arg1:T41 Arg2:T35	
+R3	URL_of Arg1:T42 Arg2:T35	
+R4	Version_of Arg1:T43 Arg2:T36	

@@ -1,0 +1,1 @@
+However, there is currently not a way of obtaining an overall p-value for categorical variables in SPSS, which is necessary for selective backward logistic regression. 

@@ -1,0 +1,25 @@
+T5	Application_Creation 16 24	NeuroMap
+T6	ProgrammingEnvironment_Mention 44 50	Matlab
+T4	Application_Mention 115 123	NeuroMap
+T1	SoftwareCoreference_Deposition 208 215	package
+T2	License 237 263	GNU General Public License
+T3	URL 281 326	http://sites.google.com/site/neuromapsoftware
+R6	License_of Arg1:T2 Arg2:T1	
+R7	URL_of Arg1:T3 Arg2:T1	
+T7	Application_Creation 428 436	NeuroMap
+T8	ProgrammingEnvironment_Mention 453 459	Matlab
+T9	Application_Usage 527 535	NeuroMap
+T10	Application_Deposition 637 645	NeuroMap
+T11	License 694 720	GNU General Public License
+T12	Abbreviation 722 725	GPL
+T13	URL 730 775	http://sites.google.com/site/neuromapsoftware
+R1	License_of Arg1:T11 Arg2:T10	
+R2	Abbreviation_of Arg1:T12 Arg2:T11	
+R3	URL_of Arg1:T13 Arg2:T10	
+T14	Application_Creation 836 844	NeuroMap
+T15	Application_Deposition 973 981	NeuroMap
+T16	License 1000 1007	GNU GPL
+T17	URL 1063 1108	http://sites.google.com/site/neuromapsoftware
+R4	License_of Arg1:T16 Arg2:T15	
+R5	URL_of Arg1:T17 Arg2:T15	
+T18	Application_Creation 1124 1132	NeuroMap

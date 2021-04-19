@@ -1,0 +1,6 @@
+T1	Application_Usage 4044 4051	EpiInfo
+T2	Application_Usage 4062 4067	Stata
+T3	Version 4052 4057	3.5.4
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 4068 4070	10
+R2	Version_of Arg1:T4 Arg2:T2	

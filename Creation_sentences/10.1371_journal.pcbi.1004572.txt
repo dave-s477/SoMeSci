@@ -1,0 +1,6 @@
+In response, we have created Wham (Whole-genome Alignment Metrics) to provide a single, integrated framework for both structural variant calling and association testing, thereby bypassing many of the difficulties that currently frustrate attempts to employ SVs in association testing.
+Wham and all associated software are covered under the MIT License and can be freely downloaded from github (https://github.com/zeeev/wham), with documentation on a wiki (http://zeeev.github.io/wham/).
+Wham clusters all the candidate breakpoints and rounds their positions to the nearest tenth base pair.
+To do this, Wham should be run over a BAM file containing SVs that have been validated.
+We also use Wham to identify biologically important structural variants in non-human data.
+Wham and all associated software can be found on github (https://github.com/zeeev/wham), documentation is on the wiki (http://zeeev.github.io/wham/).

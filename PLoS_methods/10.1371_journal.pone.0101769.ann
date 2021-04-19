@@ -1,0 +1,11 @@
+T1	Application_Usage 2250 2260	Visual C++
+T2	ProgrammingEnvironment_Usage 4072 4078	Matlab
+T3	Application_Usage 10976 10991	SPSS Statistics
+T4	Developer 2262 2283	Microsoft Corporation
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Release 4088 4093	R2008
+R2	Release_of Arg1:T5 Arg2:T2	
+T6	Developer 4095 4110	MathWorks, Inc.
+R3	Developer_of Arg1:T6 Arg2:T2	
+T7	Developer 10993 11002	SPSS Inc.
+R4	Developer_of Arg1:T7 Arg2:T3	

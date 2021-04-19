@@ -1,0 +1,8 @@
+Here, we addressed this by developing a web-based software tool, PhosphOrtholog (http://www.phosphortholog.com) that accurately maps protein modification sites between different species.
+Here we describe PhosphOrtholog, a web-based application for mapping known and novel orthologous PTM sites from experimental data obtained from different species.
+To this end, we have developed an automated web-based tool, PhosphOrtholog, which allows batch processing and mapping of large species-specific PTM datasets to compare overlap at a site-specific level.
+Here we present PhosphOrtholog, a web-based tool providing cross-species mapping functionality for novel and known phosphorylation and other PTM sites quantified in independent MS-based experiments.
+The web-tool can be accessed from http://www.phosphortholog.com/ using any typical web browser (except Internet Explorer).
+In this study, we present PhosphOrtholog, a web-based tool, which allows mapping of both novel and annotated PTM sites across species for large MS-based phosphoproteomics datasets.
+"Project name: PhosphOrtholog Project home page: http://www.phosphortholog.com/ Operating system(s): Platform independent.
+Compatible with any modern web browser except Internet Explorer (we tested it on Firefox v30.0, Chrome v36.0, Safari v6.1) Programming language: jQuery/HTML5, Python/Django, R Other requirements: A VirtualBox installation (for expansion and modification) License: GPL Any restrictions to use by non-academics: None"

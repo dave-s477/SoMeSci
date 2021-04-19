@@ -1,0 +1,10 @@
+T1	Application_Usage 5886 5891	STATA
+T2	Application_Usage 5842 5847	Excel
+T3	Developer 5832 5841	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Release 5848 5852	2007
+R2	Release_of Arg1:T4 Arg2:T2	
+T5	Version 5900 5904	12.0
+R3	Version_of Arg1:T5 Arg2:T1	
+T6	Citation 5939 5943	[28]
+R4	Citation_of Arg1:T6 Arg2:T1	

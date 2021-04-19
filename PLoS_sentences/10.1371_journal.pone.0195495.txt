@@ -1,0 +1,1 @@
+We imputed the data under an MAR assumption through multiple imputation using chained equations (Stata ICE package). 

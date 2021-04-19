@@ -1,0 +1,21 @@
+T1	PlugIn_Creation 0 4	PyMS
+T2	ProgrammingEnvironment_Usage 91 97	Python
+T3	PlugIn_Creation 99 103	PyMS
+T4	PlugIn_Creation 297 301	PyMS
+T5	PlugIn_Creation 402 406	PyMS
+T6	PlugIn_Creation 733 737	PyMS
+T7	PlugIn_Deposition 899 903	PyMS
+T8	URL 922 952	http://code.google.com/p/pyms/
+T9	ProgrammingEnvironment_Usage 1017 1023	Python
+T10	PlugIn_Mention 1044 1049	NumPy
+T11	PlugIn_Mention 1051 1057	Netcdf
+T12	PlugIn_Mention 1059 1064	Pycdf
+T13	PlugIn_Mention 1066 1075	Pycluster
+T14	PlugIn_Mention 1077 1087	matplotlib
+T15	Application_Mention 1089 1092	tcl
+T16	Application_Mention 1094 1096	tk
+T17	License 1106 1113	GNU GPL
+T18	Version 1113 1114	2
+R1	URL_of Arg1:T8 Arg2:T7	
+R2	Version_of Arg1:T18 Arg2:T17	
+R3	License_of Arg1:T17 Arg2:T7	

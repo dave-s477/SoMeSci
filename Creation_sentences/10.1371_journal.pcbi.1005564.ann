@@ -1,0 +1,12 @@
+T2	PlugIn_Creation 13 20	sourceR
+T21	ProgrammingEnvironment_Usage 25 26	R
+R1	PlugIn_of Arg1:T2 Arg2:T21	
+T6	PlugIn_Creation 235 242	sourceR
+T15	PlugIn_Deposition 376 383	sourceR
+T22	License 456 459	GPL
+T23	Version 460 461	3
+R2	Version_of Arg1:T23 Arg2:T22	
+R3	License_of Arg1:T22 Arg2:T15	
+T24	SoftwareCoreference_Deposition 475 494	development version
+T16	URL 511 561	http://fhm-chicas-code.lancs.ac.uk/millerp/sourceR
+R4	URL_of Arg1:T16 Arg2:T24	

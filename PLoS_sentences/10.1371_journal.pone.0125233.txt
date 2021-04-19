@@ -1,0 +1,1 @@
+Stata Version 13.0 was used for the age-sex standardised prevalence for obesity and diabetes and was calculated using the Australia 2011 Census. 

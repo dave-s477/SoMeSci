@@ -1,0 +1,10 @@
+T1	Application_Usage 15758 15763	Prism
+T2	Developer 15749 15757	GraphPad
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 15765 15768	7.0
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 15770 15787	GraphPad Software
+R3	Developer_of Arg1:T4 Arg2:T1	
+T5	ProgrammingEnvironment_Usage 15904 15905	R
+T6	Developer 15916 15928	R Foundation
+R4	Developer_of Arg1:T6 Arg2:T5	

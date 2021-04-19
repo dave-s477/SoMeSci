@@ -1,0 +1,1 @@
+The normality tests, repeated measures and multivariate ANOVAs, Student t-test (two-tailed) and Mann-Withney analysis were done using SPSS statistic 19.0 (IBM). Linear regression analyses were performed using statistical analyses software (SAS 9) version 9.2 (SAS Institute, Cary, NC). 

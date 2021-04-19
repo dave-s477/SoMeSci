@@ -1,0 +1,1 @@
+For both approaches we used the GLIMMIX procedure in SAS University Edition Software (SAS Institute, Cary, NC). 

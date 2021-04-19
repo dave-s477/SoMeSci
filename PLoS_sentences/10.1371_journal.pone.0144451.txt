@@ -1,0 +1,1 @@
+The identity of the amplicons was confirmed by comparing each sequence using BLAST (Basic Local Alignment Search Tool). 

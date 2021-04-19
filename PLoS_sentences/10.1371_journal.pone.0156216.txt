@@ -1,0 +1,2 @@
+All analyses were conducted with Stata 14.1 using sampling weights and the suite of svy commands to accurately estimate standard errors.
+

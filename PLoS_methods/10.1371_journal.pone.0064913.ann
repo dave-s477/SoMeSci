@@ -1,0 +1,9 @@
+T1	Application_Usage 3811 3821	GPS Sample
+T2	OperatingSystem_Usage 3826 3840	Windows Mobile
+T3	Application_Usage 7768 7773	STATA
+T4	Developer 3807 3810	CDC
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	URL 3849 3898	https://sites.google.com/a/wolkon.com/gps-sample/
+R2	URL_of Arg1:T5 Arg2:T1	
+T6	Version 7774 7776	11
+R3	Version_of Arg1:T6 Arg2:T3	

@@ -1,0 +1,25 @@
+T1	ProgrammingEnvironment_Usage 11170 11177	Fortran
+T2	Application_Usage 12877 12880	FSL
+T3	Version 12881 12886	4.1.4
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	URL 12888 12910	www.fmrib.ox.ac.uk/fsl
+R2	URL_of Arg1:T4 Arg2:T2	
+T5	PlugIn_Usage 13068 13073	FLIRT
+T6	Citation 13075 13099	Jenkinson and Smith 2001
+R3	Citation_of Arg1:T6 Arg2:T5	
+T7	Application_Usage 13333 13336	FSL
+T8	Version 13337 13342	4.1.4
+R4	Version_of Arg1:T8 Arg2:T7	
+T9	PlugIn_Usage 14343 14348	FLIRT
+T10	Citation 14350 14374	Jenkinson and Smith 2001
+R5	Citation_of Arg1:T10 Arg2:T9	
+T11	Application_Usage 14376 14379	FSL
+R6	PlugIn_of Arg1:T9 Arg2:T11	
+T12	Version 14380 14385	4.1.4
+R7	Version_of Arg1:T12 Arg2:T11	
+T13	Application_Usage 14745 14748	FSL
+T14	Application_Usage 15537 15540	FSL
+T15	Version 15541 15546	4.1.4
+R8	Version_of Arg1:T15 Arg2:T14	
+T16	URL 15548 15570	www.fmrib.ox.ac.uk/fsl
+R9	URL_of Arg1:T16 Arg2:T14	

@@ -1,0 +1,6 @@
+T1	Application_Usage 2188 2196	CompuSyn
+T2	Application_Usage 9504 9509	Excel
+T3	Citation 2206 2213	[26,27]
+R1	Citation_of Arg1:T3 Arg2:T1	
+T4	Developer 9511 9520	Microsoft
+R2	Developer_of Arg1:T4 Arg2:T2	

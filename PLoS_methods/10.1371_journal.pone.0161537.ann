@@ -1,0 +1,14 @@
+T1	Application_Usage 2882 2889	Acrobat
+T2	Application_Usage 7067 7073	FlowJo
+T3	Application_Usage 8365 8373	ToupView
+T4	Application_Usage 8747 8755	Statview
+T5	Developer 2876 2881	Adobe
+R1	Developer_of Arg1:T5 Arg2:T1	
+T6	Developer 7084 7093	Tree Star
+R2	Developer_of Arg1:T6 Arg2:T2	
+T7	Version 8764 8769	5.0.1
+R3	Version_of Arg1:T7 Arg2:T4	
+T8	Developer 8780 8800	Scientific Computing
+R4	Developer_of Arg1:T8 Arg2:T4	
+T9	Extension 2890 2893	Pro
+R5	Extension_of Arg1:T9 Arg2:T1	

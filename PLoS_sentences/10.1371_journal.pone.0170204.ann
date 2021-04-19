@@ -1,0 +1,5 @@
+T1	Application_Usage 140 167	Statistical Analysis System
+T2	Version 185 188	9.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 207 224	SAS Institute Inc
+R2	Developer_of Arg1:T3 Arg2:T1	

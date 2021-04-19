@@ -1,0 +1,16 @@
+T2	PlugIn_Creation 64 70	SCOTTI
+T104	AlternativeName 72 121	Structured COalescent Transmission Tree Inference
+R1	AlternativeName_of Arg1:T104 Arg2:T2	
+T3	PlugIn_Creation 124 130	SCOTTI
+T105	Application_Mention 202 207	BEAST
+T106	Version 207 208	2
+R2	Version_of Arg1:T106 Arg2:T105	
+R3	PlugIn_of Arg1:T3 Arg2:T105	
+T6	PlugIn_Creation 243 249	SCOTTI
+T9	PlugIn_Creation 326 332	SCOTTI
+T107	Application_Mention 413 418	BEAST
+T108	Version 418 419	2
+T109	Citation 420 424	[28]
+R4	Version_of Arg1:T108 Arg2:T107	
+R5	Citation_of Arg1:T109 Arg2:T107	
+R6	PlugIn_of Arg1:T9 Arg2:T107	

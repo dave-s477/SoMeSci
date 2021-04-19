@@ -1,0 +1,335 @@
+Streptococcus agalactiaeAbstract
+Objective:
+ to validate the content of the prevention protocol for early sepsis caused by
+Streptococcus agalactiaein newborns. 
+
+Method:
+ a transversal, descriptive and methodological study, with a quantitative
+approach. The sample was composed of 15 judges, 8 obstetricians and 7
+pediatricians. The validation occurred through the assessment of the content of
+the protocol by the judges that received the instrument for data collection -
+checklist - which contained 7 items that represent the requisites to be met by the
+protocol. The validation of the content was achieved by applying the Content
+Validity Index. 
+
+Result:
+ in the judging process, all the items that represented requirements considered by
+the protocol obtained concordance within the established level (Content Validity
+Index > 0.75). Of 7 items, 6 have obtained full concordance (Content Validity
+Index 1.0) and the feasibility item obtained a Content Validity Index of 0.93. The
+global assessment of the instruments obtained a Content Validity Index of 0.99.
+
+
+Conclusion:
+ the validation of content that was done was an efficient tool for the adjustment
+of the protocol, according to the judgment of experienced professionals, which
+demonstrates the importance of conducting a previous validation of the
+instruments. It is expected that this study will serve as an incentive for the
+adoption of universal tracking by other institutions through validated
+protocols.
+
+
+Introduction
+The neonatal infection by the B group β-hemolytic Streptococcus (EGB),
+or Streptococcus agalactiae, is considered an important problem of
+public health, being the main cause of early neonatal sepsis, the generalized infection
+that occurs on the first 48 hours of life, having a direct relationship with the
+gestational or intra-partum period, according to the definition by the Brazilian
+Ministry of Health. The sepsis represents one of the most important causes of neonatal
+morbidity and mortality, and its incidence varies from one to eight cases for every
+thousand born alive. In Brazil, the rate of mortality is around 25%. International
+databases demonstrate that around 30 million of newborns are diagnosed with sepsis and
+from one to two million of them die. 
+Among other complications due to the infection by the Streptococcus
+agalactiaein newborns some of them need to be emphasized: meningitis,
+pneumonia, septic abortion, chorioamnionitis, endometritis, increase in mortality and
+morbidity, neurological deficit, long-term hospital confinement and neonatal decease.
+Vertical transmission is the most common and its determining factor is the exposure of
+the newborn to the EGB that are present in the vagina, which is colonized in the
+intra-partum period. Among the newborns of mothers that possess the EGB, the
+colonization occurs in 50% of the cases. Considering the prevalence of the national
+maternal colonization in 20%, there will be incidence of two cases for every thousand
+born, provided the absence of prophylactic interventions. 
+With the understanding of the relevance of this issue in the context of public health,
+in the late 1990's, a process of implementation of prophylactic interventions started,
+intending to control the EGB infection in newborns, which were improved through time. In
+1996, the Center for Diseases Control and Prevention (CDC) published in the USA the
+first national consensus directives about perinatal prevention of infections caused by
+Streptococcus agalactiae. Two prophylactic strategies for the
+intra-partum period were established. The first was based on the risk factors and the
+second in the results of the tracking on the genitorectal secretion cultures, collected
+between the 35 and the 37 week of pregnancy, for the EGB
+research.
+In August 2002, based on the new evidences of a retrospective study, these directives
+were updated, being now recommended the universal tracking through genitorectal culture
+between the 35 and the 37 week of gestation as the only
+strategy for the orientation of the intra-partum chemoprophylaxis of the early infection
+by the EGB. This approach consists in doing a microbiological examination, with the goal
+of limiting, in terms of candidacy to the intra-partum prophylaxis, just the patients
+colonized by the EGB, regardless of the risk factors. This study demonstrated that the
+effectiveness of the late antenatal tracking, through the EGB culture, was 50% superior
+to the alternate approach based on the risk factors.
+In 2010, the 3 review of the directives based on the updated evidences of
+perinatal prevention for the EGB was published. The CDC 2010 version highlights the
+indications for universal "screening" on the 3 trimester of the gestation,
+standardizing the laboratory methods about the collection and transportation of samples
+for the detection of the GBS, taking into consideration the changes in the arrangement
+and of the indication of the antimicrobials recommended for the intrapartum prophylaxis
+and by supplying updates for the recommendations for newborns at risk to have an early
+infection.
+The change of conduct in the USA, through the implementation of the orientations
+established by the CDC, suggests a decline in the incidence of the early disease caused
+by the EGB in the country, provided that, among newborns with up to 6 days of life, the
+incidence of the B group streptococcus disease was reduced from 0.47 of a thousand
+successful births, between 1999 and 2001, to 0.34 of a thousand successful births,
+between 
+2003 and 2005, which corresponds to a reduction of 27% after the implementation of the
+CDC 2002 guide. Other data evinced that in the USA there was a reduction equivalent to
+1.2% in the annual rate of hospitalization among the pre-term newborns, between 1988 and
+2006, and that can be a consequence of the results of the implementation of the
+preventive measures.
+The Hospital das Clínicas of the Federal University of Pernambuco (HC/UFPE) did not have
+the protocol for the prevention of the neonatal infection by the EGB. This way, the
+genitorectal culture is not done frequently, which makes it impossible to know the state
+of the maternal colonization. Given that, the prevention of the perinatal infection by
+EGB is done through the administration of the intra-partum antibiotic in pregnant women
+that present risk factors on neonatal transmission, such as the long period necessary
+for the rupture of the amniotic membrane and the premature labor. However, this approach
+presents a limited efficiency and such indiscriminate use of antibiotics, in all
+pregnant women with risk factors, may contribute for the emergence of new and more
+resistant strains.
+Given the available evidences about the relevance of the infection within public health
+policies, the consequences for the concept and the precision of the intra-partum
+prophylaxis based on the universal tracking, it was developed a protocol for the
+prevention of the neonatal sepsis by the EGB, based on the recommendations of the CDC
+2010 guide, to be implemented in the pre-natal, obstetrics and neonatal units of the
+HC/UFPE.
+Taken into consideration the importance of the adequacy of the protocol regarding the
+semantic and content aspects, the validation of the content by judges emerge as a tool
+to meet this requirement, because it allows professionals that are experienced in this
+area to provide significant collaborations to the protocol.
+Provided what was mentioned previously, this study had the goal of validating the
+content of the prevention protocol of the early sepsis caused by
+theStreptococcus agalactiaein newborns.
+
+Method
+This is a transversal, descriptive and methodological study with a quantitative
+approach, conducted at the HC/UFPE, an institution specialized in the care of highrisk
+pregnancies, between May and August 2013.
+The population was made of obstetricians and pediatricians from the Obstetrics Center at
+the HC/UFPE, with a minimum experience of four years in pediatrics or obstetrics. The
+sample, by willfulness, included 10 obstetricians and 10 pediatricians. These were
+included due to a 4 year minimum experience in neonatology at the HC/ UFPE. The adopted
+criteria for exclusion were the following: failure to deliver the questionnaire within
+the established deadline or the inadequate filling of the questionnaires. 
+The validation by the judges occurred through the evaluation of the content of the
+protocol for the prevention of neonatal sepsis caused by EGB, based on the CDC 2010
+guide. Through this, the contact was established in order to invite pediatricians and
+obstetricians to participate in the research. For all those that accepted participating,
+the protocol that was made to meet the requirements of the study was delivered, as well
+as a letter containing the objectives of the study, the justification of the process of
+the assessment protocol and the instrument for the data collection, a checklist
+containing seven items that represent the requisites to be met by the protocol.
+The evaluation of the instrument occurred from the classification of every item in terms
+of being adequate, partially adequate or inadequate. The ones considered adequate were
+those that completely met the established requirement; partially adequate were those
+that required some changes; and inadequate were those that expressed a complete
+non-compliance in relation to the established criteria.
+The judges were instructed to give the material back after the analysis and to give
+their final opinion personally to the researchers, within the 30 day deadline. For the
+cases in which were considered to have inadequacies, the reasons were explained, the
+suggestions described and the contents rewritten, improved and submitted to a new
+assessment. To the judges were also granted explanations, when they were requested,
+related to the practices established in the protocol.
+The variables that were analyzed were: vocabulary, relevance, clinical-scientific
+aspects, clarity, feasibility, organization and scope. After the assessment of the
+protocol, the validation of the content was done, with the application of the Content
+Validity Index (CVI) that measures the proportion or percentage of the judges that
+express agreement in relation to the instrument's items.
+The specialized literature presents different possibilities for the calculation of the
+CVI, as well as for the establishment of its minimum level of concordance. It is
+possible to calculate the score of this Index by adding up the items that were deemed
+relevant. In the case of this study, it was considered an adequate judgment by all
+judges. The CVI calculation for the instrument, as a whole, was done through the
+addition of all the CVIs, calculated separately, divided by the number of items of the
+instruments. It was considered the minimum concordance index for the CVI the number
+0.75, by consensus, both for the assessment of every item and the instrument general
+assessment.
+The data collected were electronically processed, with the aid of the Excel 20 program.
+For the analysis the manual calculation of the CVI was applied, as it was previously
+described and percentages for the characterization of the sample were utilized.
+All the judges were informed about the goals of the research, being included only the
+participants that signed the Informed Consent Form. The ethical aspects were observed,
+with respect to the Resolution 466/2012 of the Brazilian National Health Council (CNS).
+The data collection started after the approval of the project by the Research Ethics
+Committee of the Center of Health Sciences at the Federal University of Pernambuco
+(ruling 487.861).
+
+Results
+Initially, the sample included 20 judges. However, there were 5 exclusions: 2 for
+refusal in participating in all phases, 1 for inadequate filling of the form, 1 for not
+returning the material and 1 that abandoned. This way, the sample was made up by 15
+judges, 8 obstetricians and 7 pediatricians. Table
+1shows the characterization of the judges.
+
+Data related to the identification of the judges, according to gender,
+experience and titration. Recife, PE, Brazil, 2013.
+
+
+It can be observed in Table 1that among the
+participants there was the prevalence of the feminine gender (9 = 60%). The experience
+years varied from 10 to 38 years, and 14 (93.5%) of the judges had an experience time
+greater than 10 years. Regarding the titration, 5 (33.3%) had a Master's degree and 2
+(13.3%) had a PhD.
+As it was demonstrated in Table 2, in the process
+of judging the requisites related to the protocol of prevention of the neonatal sepsis
+caused by EGB, after the first assessment which was done by the judges no item was
+deemed as inadequate. However, only the item relevance had total approval (CVI 1.0) and
+the others required changes. It was observed that the items vocabulary, clarity and
+feasibility had a CVI below the established level (CVI < 0.75).
+
+First step of judgment made by the judges about the items of the protocol
+of prevention of the early infection by theStreptococcus
+agalactiaein a newborn. Recife, PE, Brazil, 2013.
+
+
+
+- Second step of the judgment of the items of the protocol of prevention of
+the early infection by Streptococcus agalactiaein newborns.
+Recife, PE, Brazil, 2013.
+
+
+When the protocol was submitted for a new analysis after its correction, considering the
+suggestions of the judges, all the items obtained concordance within the established
+level (CVI > 0.75). Of the 7 items, 6 obtained full concordance (CVI = 1.0) and the
+item Feasibility obtained a CVI of 0.93. The global assessment of the instruments had a
+CVI of 0.99, demonstrating concordance within the established level ( Table 3).
+The most important questionings highlighted by the judges considered to be necessary for
+adjustments were related to the structure of the flowcharts, the adequacy of the
+vocabulary, the lack of description of the evidence levels, repeated information, the
+need for the elaboration of sentences more clearly and the inclusion of the diagram in
+the description of the prenatal conduct. For other questionings, clarifications were
+provided by personal contact established with the judge.
+
+Discussion
+Considering the titration of the judges and the minimum experience time of 10 years in
+almost all cases, adding that the HC/UFPE is a hospital-school in which the activities
+are together with the learning, research and extension inseparably, it is possible to
+state that it is an experienced group and it is inserted in a context that provides the
+opportunity for constant updating, suggesting that the judges possess the desirable
+qualification for the judgment of the protocol.
+The obstetrics nurses are qualified to provide care for low-risk pregnancies during the
+prenatal period, for normal childbirth without dystocia and in the puerperium, in health
+facilities or at home. In case there is any complication during pregnancy that may
+characterize a high-risk pregnancy, these professionals should refer the pregnant woman
+to the doctor, so that he or she can continue to provide assistance. Keeping in mind
+that HC/UFPE is an institution specialized in the care of high-risk pregnancies, in
+which the care to these patients in the Prenatal and at the Obstetrics Center is given
+by the doctor - the sample did not include nurses.
+The low-risk prenatal is done by the professionals that belong to the Program for the
+Family's Health (PSF), which is present in 92% of Brazilian cities. Given that, the
+doctors and nurses that act within the PSF need to pay attention to the importance of
+doing the microbiological exam for the detection of the B
+groupβ-hemolitic Streptococcus. The challenge consists in, up to the
+present moment, the limited availability in the labs entailed to the Brazilian Sistema
+Único de Saúde (Unified Health System) for the prenatal routine, which suggests the need
+for stimulating the professionals to the introduction of the classification of the
+Streptococcus agalactiaebetween the 35 and the
+37 weeks in the assessment of the pregnant women, in their respective
+local health facility.
+Regarding the judgment process, it can be observed that the item Relevance obtained
+consensual total approval, which highlights the importance of doing
+theswabin the pregnant women for the research of the B
+groupβ-hemolitic Streptococcus, as a way to orientate the
+prophylaxis and the treatment directed to the reduction of the prevalence of the
+neonatal infection by the group B Streptococcusare limited, provided
+that the recommendation for the universal tracking for the EGB research in all pregnant
+women between the 35 and the 37 weeks is not present in the
+manuals written by the Ministry of Health, which is restricted to special situations,
+such as: premature rupture of the membrane, premature labor and pregnant women that are
+HIV-positive.
+The justification is based on a systematic review, that assessed the use of the
+intra-partum prophylactic antibiotic and the maternal and neonatal outcomes, making
+clear that, although there is a decrease in the occurrence of the infection caused by
+the EGB (RR 0.17, CI 95%, 0.04 to 0.74), there is a possibility that the results were
+influenced by the authors, due to a methodological flaw of the studies. The authors add
+that currently there are no satisfactory evidences to state that the intra-partum
+antibiotic prophylaxis is related to the reduction of the neonatal mortality due to this
+disease.
+As the recognition of these controversies, related to the viability and the impact of
+the orientations published by the CDC, has a result in the lack of standardization of
+the preventive strategies in many countries and the uncertainty about the efficiency of
+these practices, recently a systematic review with meta-analysis, through an electronic
+query at the Cochrane Library, that had the goal of determining the best tracking
+strategy for the EGB in pregnant women. The results of this study demonstrated that the
+adoption of the universal tracking and of the antibiotic prophylaxis resulted in an
+important reduction in the incidence of the neonatal sepsis, making clear that the
+adoption of the universal tracking for pregnant women, added to the antibiotic
+prophylaxis, are efficient measures.
+As the importance of this theme is considered in the context of Public Health, the City
+Department of Health of São Paulo published a technical note based on the CDC 2002
+guide, for the tracking and prophylaxis of the EGB among the pregnant women registered
+in the Mãe Paulistana Program. Statistical data referring to the acquired infections in
+the perinatal period in the city of São Paulo demonstrate that there was a reduction
+from 57.8%, in 2000, to 55.1% in 2008, and that can be related to the impact of the
+actions of the public policies regarding the care to the neonatal infection caused by
+the EGB.
+It is of great importance that the tracking for the research of the EGB in all pregnant
+women between the 35 and the 37 weeks is included in the
+Ministry of Health's manuals, given that the indiscriminate use of antibiotics may
+entail an increase in the resistant strains. Furthermore, it is known that policies
+based on prevention result in a cost-effectiveness relation that is superior to the
+healing model.
+At the HC/UFPE, the prophylaxis is based in the administration of crystalline penicillin
+in pregnant women that present risk factors. However, the impossibility of identifying
+the state of the maternal colonization can be interpreted as a risk for the transmission
+of the infection. This fact was demonstrated in the study conducted in pregnant women
+that have undergone intra-partum prophylaxis for the prevention of the maternal
+transmission of the EGB infection, based on risk factors in a maternity hospital in
+Minas Gerais, Brazil. The results revealed that 71.2% of the patients that received
+intra-partum prophylaxis according to their risk factors were not colonized by the EGB.
+On the other hand, 33.3% of the patients that did not receive the intra-partum
+prophylaxis were colonized. While the first piece of information may indicate that the
+clinical judgment led to the unnecessary use of antibiotics in around 7 out of 10
+pregnant women, the second one indicates that the clinical judgment has flaws, provided
+that the colonized patients, that do not present risk factors, will not benefit from the
+prophylaxis.
+The penicillin remains as the antibiotic of choice for the intra-partum prophylaxis,
+given that the EGB presents a considerable sensibility. On the other hand, a study done
+in a maternity hospital in Ceará, Brazil, demonstrated a high resistance in 4 out of 9
+cases of pregnant women colonized by the Streptococcus agalactiae. This
+finding may be justified by the identification of molecular forms of these bacteria that
+present mutations in the gene of the protein of penicillin bonding, resulting in the
+reduction of the susceptibility to this medicine. Given that, the promotion of the
+rational use of the antibiotics becomes important, which was made possible through the
+development of the protocols. In the present study the protocol that was developed
+limited the chemo-prophylaxis, provided that in the pregnant women with a positive
+result for the culture this should only be indicated for the women colonized by the EGB
+or in the presence of asymptomatic bacteriuria, intra-partum fever, or a history of
+newborns stricken by the infection by the Streptococcus agalactiaein
+previous births.
+It is worth highlighting that this study presented a limitation, provided that the
+validity of the content is a subjective process, being necessary a future validation
+through additional clinical application. This fact remits to the need for the conduction
+of future researches, with the intent of verifying the results of the application of the
+protocol in the neonatology and obstetrics sectors of the HC/UFPE.
+
+Conclusion
+The validation of the content done in this study was an effective tool to assess the
+adequacy of the protocol, in agreement with the judgment emitted by professionals with a
+wide experience in their area. According to the results that were obtained, after
+pondering the suggestions proposed by the judges, the content of the protocol for the
+prevention of the early neonatal sepsis by the Streptococcus
+agalactiaecan be considered satisfactory and adequate, demonstrating the
+importance of doing a previous validation of the instruments. This first step represents
+an important phase in the validation process; however, the need for the production of
+studies should be highlighted, with the intention of submitting them to clinical
+applications.
+Bearing in mind the serious consequences of the early perinatal streptococcal disease,
+in opposition to the methods of tracking of the B-group Streptococcus in the prenatal
+period, it is expected that this study works as an incentive to the adoption of the
+universal tracking by other institutions, both in the public and private healthcare
+systems, through validated protocols, based on the scientific knowledge that comes from
+researches based on the prevalence, prophylaxis and therapeutics of this relevant
+perinatal pathology.
+

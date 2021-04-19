@@ -1,0 +1,32 @@
+T1	Application_Creation 20 29	DCE@urLAB
+T2	URL 103 146	http://www.die.upm.es/im/archives/DCEurLAB/
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 209 218	DCE@urLAB
+T4	Application_Creation 303 312	DCE@urLAB
+T5	Application_Creation 349 358	DCE@urLAB
+T6	Application_Deposition 495 504	DCE@urLAB
+T7	URL 578 621	http://www.die.upm.es/im/archives/DCEurLAB/
+R2	URL_of Arg1:T7 Arg2:T6	
+T8	Application_Deposition 674 683	DCE@urLAB
+T9	Version 684 687	1.0
+T10	URL 705 748	http://www.die.upm.es/im/archives/DCEurLAB/
+T12	Developer 769 778	Microsoft
+T11	OperatingSystem_Usage 779 786	Windows
+T13	Version 787 788	7
+T14	Version 789 794	Vista
+T15	Version 795 797	XP
+T16	ProgrammingEnvironment_Usage 819 822	IDL
+T17	ProgrammingEnvironment_Mention 842 845	IDL
+T18	Version 846 849	6.4
+T20	Application_Mention 861 880	IDL Virtual Machine
+T21	Version 881 884	6.4
+T19	License 903 914	BSD license
+R3	Version_of Arg1:T9 Arg2:T8	
+R4	URL_of Arg1:T10 Arg2:T8	
+R5	Developer_of Arg1:T12 Arg2:T11	
+R6	Version_of Arg1:T13 Arg2:T11	
+R7	Version_of Arg1:T14 Arg2:T11	
+R8	Version_of Arg1:T15 Arg2:T11	
+R9	Version_of Arg1:T18 Arg2:T17	
+R10	License_of Arg1:T19 Arg2:T8	
+R11	Version_of Arg1:T21 Arg2:T20	

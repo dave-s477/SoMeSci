@@ -1,0 +1,16 @@
+T1	ProgrammingEnvironment_Usage 11387 11388	R
+T2	PlugIn_Usage 11355 11359	NLME
+T3	Application_Usage 13178 13186	R Studio
+T4	Application_Usage 13209 13213	SPSS
+T5	Version 11376 11383	3.1–118
+R1	Version_of Arg1:T5 Arg2:T2	
+R2	PlugIn_of Arg1:T2 Arg2:T1	
+T6	Version 13195 13204	0.98.1102
+R3	Version_of Arg1:T6 Arg2:T3	
+T7	Application_Usage 13219 13234	SPSS Statistics
+R4	Specification_of Arg1:T7 Arg2:T4	
+T8	Developer 13215 13218	IBM
+R5	Developer_of Arg1:T8 Arg2:T7	
+T10	Version 13258 13262	22.0
+R6	Version_of Arg1:T10 Arg2:T7	
+T9	OperatingSystem_Usage 13239 13248	Macintosh

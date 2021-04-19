@@ -1,0 +1,1 @@
+Information was double entered using Microsoft Excel for Windows, and then transferred to STATA version 12 (STATA Corp, College Station, TX, US) for analysis. Robust standard errors were utilized to estimate relative risks (RR) and 95%CI as well as the population attributable fraction using the punaf command in STATA [22]. 

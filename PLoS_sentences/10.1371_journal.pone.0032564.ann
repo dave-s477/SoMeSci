@@ -1,0 +1,9 @@
+T1	Application_Usage 143 150	Minitab
+T2	Application_Usage 252 259	Minitab
+T3	Application_Usage 462 469	Minitab
+T4	Version 153 157	15.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Version 262 266	15.0
+R2	Version_of Arg1:T5 Arg2:T2	
+T6	Version 472 476	15.0
+R3	Version_of Arg1:T6 Arg2:T3	

@@ -1,0 +1,10 @@
+T1	Application_Usage 4427 4438	WinEpiscope
+T2	Application_Usage 16167 16171	NCSS
+T7	Version 4440 4443	2.0
+R1	Version_of Arg1:T7 Arg2:T1	
+T8	Citation 4453 4457	[39]
+R2	Citation_of Arg1:T8 Arg2:T1	
+T9	Version 16207 16214	07.1.15
+R3	Version_of Arg1:T9 Arg2:T2	
+T10	Release 16172 16176	2007
+R4	Release_of Arg1:T10 Arg2:T2	

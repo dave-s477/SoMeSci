@@ -1,0 +1,38 @@
+T1	Application_Usage 9834 9842	Cytobank
+T2	URL 9844 9867	http://www.cytobank.org
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 12123 12129	ImageJ
+T4	PlugIn_Usage 12151 12155	Fiji
+R2	PlugIn_of Arg1:T4 Arg2:T3	
+T5	Application_Usage 13612 13624	Rotor-Gene Q
+T6	Application_Usage 15600 15612	Quantity One
+T7	Developer 15623 15630	Bio-Rad
+R3	Developer_of Arg1:T7 Arg2:T6	
+T8	Application_Usage 16056 16061	Prism
+T9	Developer 16047 16055	GraphPad
+R4	Developer_of Arg1:T9 Arg2:T8	
+T10	Version 16062 16065	5.0
+R5	Version_of Arg1:T10 Arg2:T8	
+T11	Application_Usage 19185 19192	TopSpin
+T12	Version 19193 19196	2.2
+R6	Version_of Arg1:T12 Arg2:T11	
+T13	Developer 19198 19209	Bruker GmbH
+R7	Developer_of Arg1:T13 Arg2:T11	
+T14	Application_Usage 19471 19475	AMIX
+T15	Developer 19486 19497	Bruker GmbH
+R8	Developer_of Arg1:T15 Arg2:T14	
+T16	Application_Usage 19615 19632	Chenomx NMR Suite
+T17	Version 19633 19636	8.0
+R9	Version_of Arg1:T17 Arg2:T16	
+T18	Developer 19638 19650	Chenomx Inc.
+R10	Developer_of Arg1:T18 Arg2:T16	
+T19	Application_Usage 19957 19964	Chenomx
+T20	Application_Usage 20752 20759	SIMCA-P
+T21	Application_Usage 20321 20328	TopSpin
+T22	Developer 20330 20341	Bruker GmbH
+R11	Developer_of Arg1:T22 Arg2:T21	
+T23	Version 20760 20762	13
+R12	Version_of Arg1:T23 Arg2:T20	
+T24	Developer 20764 20772	Umetrics
+R13	Developer_of Arg1:T24 Arg2:T20	
+T25	Application_Usage 27954 27961	Chenomx

@@ -1,0 +1,19 @@
+T2	Application_Creation 11 18	ASPASIA
+T78	AlternativeName 20 86	Automated Simulation Parameter Alteration and SensItivity Analysis
+T79	ProgrammingEnvironment_Usage 119 123	Java
+R1	AlternativeName_of Arg1:T78 Arg2:T2	
+T6	Application_Deposition 315 322	ASPASIA
+T80	License 343 359	Artistic License
+T81	Version 361 364	2.0
+T82	URL 390 425	http://www.york.ac.uk/ycil/software
+R2	URL_of Arg1:T82 Arg2:T6	
+R3	License_of Arg1:T80 Arg2:T6	
+R4	Version_of Arg1:T81 Arg2:T80	
+T7	Application_Creation 531 538	ASPASIA
+T83	AlternativeName 540 606	Automated Simulation Parameter Alteration and SensItivity Analysis
+R5	AlternativeName_of Arg1:T83 Arg2:T7	
+T68	Application_Deposition 789 796	ASPASIA
+T84	License 836 852	Artistic License
+T85	Version 854 857	2.0
+R6	License_of Arg1:T84 Arg2:T68	
+R7	Version_of Arg1:T85 Arg2:T84	

@@ -1,0 +1,2 @@
+A HMMER web server (http://hmmer.janelia.org) has been designed and implemented such that most protein database searches return within a few seconds.
+We have developed the HMMER web site (http://hmmer.janelia.org) to not only provide downloadable HMMER binaries, documentation and source code as it has done in the past, but now also to provide an interface for performing protein sequence searches with near interactive response times.

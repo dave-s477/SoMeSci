@@ -1,0 +1,8 @@
+T1	Application_Usage 4131 4138	Datacam
+T2	Application_Usage 8976 8983	Datacam
+T3	Application_Usage 9586 9593	Datacam
+T4	Application_Usage 10355 10359	SPSS
+T5	Application_Usage 10364 10369	Excel
+T6	Version 10388 10392	2010
+R1	Version_of Arg1:T6 Arg2:T5	
+T7	OperatingSystem_Usage 10397 10400	Mac

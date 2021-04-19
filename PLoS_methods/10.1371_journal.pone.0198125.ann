@@ -1,0 +1,5 @@
+T1	Application_Usage 3715 3720	Stata
+T2	Version 3721 3725	12.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 3727 3739	StataCorp LP
+R2	Developer_of Arg1:T3 Arg2:T1	

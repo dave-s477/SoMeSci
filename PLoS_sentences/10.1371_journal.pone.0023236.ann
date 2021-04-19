@@ -1,0 +1,6 @@
+T1	Application_Usage 41 45	SPSS
+T2	OperatingSystem_Usage 80 87	Windows
+T3	Version 46 50	16.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 52 61	SPSS Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	

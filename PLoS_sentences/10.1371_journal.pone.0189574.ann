@@ -1,0 +1,5 @@
+T1	ProgrammingEnvironment_Usage 26 29	SQL
+T2	Application_Usage 34 38	SPSS
+T3	Application_Usage 70 75	Stata
+T4	Version 77 79	14
+R1	Version_of Arg1:T4 Arg2:T3	

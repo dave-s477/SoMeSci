@@ -1,0 +1,5 @@
+The EpiGRAPH web service http://epigraph.mpi-inf.mpg.de/ enables biologists to uncover hidden associations in vertebrate genome and epigenome datasets.
+With the development of EpiGRAPH, we have pulled together our experiences and established workflows from several studies [10,20-23] and incorporated them into a powerful and easy-to-use web service.
+We developed EpiGRAPH to fill this gap, thereby enabling biologists to perform advanced bioinformatic analysis and prediction with little need for bioinformatic support.
+EpiGRAPH was developed with this scenario in mind and prototypes software paradigms required for distributed genome analysis by concerted action of specialized tools.
+EpiGRAPH facilitates reproducibility and data sharing by encoding all analyses in standardized analysis description files that can be re-run by other users.

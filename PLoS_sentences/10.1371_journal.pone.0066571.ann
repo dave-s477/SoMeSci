@@ -1,0 +1,6 @@
+T1	Application_Usage 43 81	Statistical Package for Social Science
+T2	OperatingSystem_Usage 139 146	Windows
+T3	Developer 83 87	SPSS
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 130 134	19.0
+R2	Version_of Arg1:T4 Arg2:T1	

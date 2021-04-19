@@ -1,0 +1,58 @@
+T6	Application_Usage 14849 14854	LAS X
+T7	Application_Usage 15155 15160	LAS X
+T8	Application_Usage 15296 15302	Imaris
+T9	Version 15303 15308	9.1.2
+R4	Version_of Arg1:T9 Arg2:T8	
+T10	Developer 15310 15318	Bitplane
+R5	Developer_of Arg1:T10 Arg2:T8	
+T11	Application_Usage 15342 15348	Imaris
+T12	PlugIn_Usage 15478 15482	Fiji
+T13	URL 15484 15500	https://fiji.sc/
+R6	URL_of Arg1:T13 Arg2:T12	
+T14	Application_Usage 15509 15518	Photoshop
+T15	Extension 15519 15521	CC
+T16	Developer 15503 15508	Adobe
+R7	Developer_of Arg1:T16 Arg2:T14	
+R8	Extension_of Arg1:T15 Arg2:T14	
+T17	Version 15523 15529	19.1.8
+R9	Version_of Arg1:T17 Arg2:T14	
+T18	Application_Usage 15536 15545	Quicktime
+T19	Version 15546 15551	7.6.3
+R10	Version_of Arg1:T19 Arg2:T18	
+T20	Extension 15552 15555	Pro
+R11	Extension_of Arg1:T20 Arg2:T18	
+T21	Developer 15557 15562	Apple
+R12	Developer_of Arg1:T21 Arg2:T18	
+T22	Application_Usage 15868 15877	Photoshop
+T23	Extension 15878 15880	CC
+T24	Developer 15862 15867	Adobe
+R13	Developer_of Arg1:T24 Arg2:T22	
+R14	Extension_of Arg1:T23 Arg2:T22	
+T25	Version 15882 15888	19.1.8
+R15	Version_of Arg1:T25 Arg2:T22	
+T26	Application_Usage 15894 15905	Illustrator
+T27	Extension 15906 15908	CC
+R16	Extension_of Arg1:T27 Arg2:T26	
+T28	Version 15910 15914	22.1
+R17	Version_of Arg1:T28 Arg2:T26	
+T29	PlugIn_Usage 16370 16374	Fiji
+T30	Application_Usage 17144 17149	Prism
+T31	Version 17150 17155	8.2.1
+R18	Version_of Arg1:T31 Arg2:T30	
+T32	Developer 17157 17165	GraphPad
+R19	Developer_of Arg1:T32 Arg2:T30	
+T33	Application_Usage 17196 17207	Illustrator
+T34	Developer 17190 17195	Adobe
+R20	Developer_of Arg1:T34 Arg2:T33	
+T35	Extension 17208 17210	CC
+R21	Extension_of Arg1:T35 Arg2:T33	
+T36	Version 17212 17216	22.1
+R22	Version_of Arg1:T36 Arg2:T33	
+T1	Application_Usage 1866 1869	CFD
+T2	Version 1879 1883	18.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 1889 1894	Ansys
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Application_Usage 2031 2034	CAD
+T5	Developer 2049 2059	SolidWorks
+R3	Developer_of Arg1:T5 Arg2:T4	

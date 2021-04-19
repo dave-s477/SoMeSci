@@ -1,0 +1,13 @@
+T43	Application_Creation 73 89	interactive DREM
+T44	Abbreviation 91 96	iDREM
+R3	Abbreviation_of Arg1:T44 Arg2:T43	
+T4	Application_Creation 140 156	interactive DREM
+T42	Abbreviation 158 163	iDREM
+R2	Abbreviation_of Arg1:T42 Arg2:T4	
+T16	Application_Creation 316 321	iDREM
+T40	ProgrammingEnvironment_Usage 360 364	Java
+T41	ProgrammingEnvironment_Usage 369 379	Javascript
+T30	Application_Deposition 385 390	iDREM
+T2	Application_Usage 485 491	GitHub
+T39	URL 493 529	https://github.com/phoenixding/idrem
+R1	URL_of Arg1:T39 Arg2:T30	

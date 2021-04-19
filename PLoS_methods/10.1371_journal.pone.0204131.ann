@@ -1,0 +1,24 @@
+T1	ProgrammingEnvironment_Usage 2347 2359	Visual Basic
+T2	Application_Usage 3582 3591	Photoshop
+T3	Application_Usage 3640 3650	Pixelmator
+T4	ProgrammingEnvironment_Usage 6624 6625	R
+T5	PlugIn_Usage 6647 6651	lme4
+T7	Developer 2336 2345	Microsoft
+R1	Developer_of Arg1:T7 Arg2:T1	
+T8	Release 2361 2365	2010
+R2	Release_of Arg1:T8 Arg2:T1	
+T9	Developer 2376 2391	Microsoft Corp.
+R3	Developer_of Arg1:T9 Arg2:T1	
+T10	Developer 3576 3581	Adobe
+R4	Developer_of Arg1:T10 Arg2:T2	
+T11	Developer 3602 3615	Adobe Systems
+R5	Developer_of Arg1:T11 Arg2:T2	
+T12	Developer 3652 3672	Pixelmator Team Ltd.
+R6	Developer_of Arg1:T12 Arg2:T3	
+T13	Version 6626 6631	3.3.1
+R7	Version_of Arg1:T13 Arg2:T4	
+T14	Citation 6632 6636	[37]
+R8	Citation_of Arg1:T14 Arg2:T4	
+R9	PlugIn_of Arg1:T5 Arg2:T4	
+T15	Citation 6660 6664	[38]
+R10	Citation_of Arg1:T15 Arg2:T5	

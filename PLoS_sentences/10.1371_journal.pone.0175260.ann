@@ -1,0 +1,9 @@
+T2	Application_Usage 53 59	ArcGIS
+T3	Application_Usage 78 83	Stata
+T4	OperatingSystem_Usage 113 120	Windows
+T1	Version 60 64	10.3
+R1	Version_of Arg1:T1 Arg2:T2	
+T5	Version 104 108	12.1
+R2	Version_of Arg1:T5 Arg2:T3	
+T6	Extension 84 86	SE
+R3	Extension_of Arg1:T6 Arg2:T3	

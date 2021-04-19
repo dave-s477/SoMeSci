@@ -1,0 +1,13 @@
+T1	Application_Usage 9591 9594	SAS
+T2	Application_Usage 9948 9951	SAS
+T3	Application_Usage 10084 10127	Statistical Package for the Social Sciences
+T4	Application_Usage 10171 10174	SAS
+T5	OperatingSystem_Usage 10183 10190	Windows
+T6	Developer 10129 10133	SPSS
+R1	Developer_of Arg1:T6 Arg2:T3	
+T7	Version 10161 10165	21.0
+R2	Version_of Arg1:T7 Arg2:T3	
+T8	Version 10175 10178	9.2
+R3	Version_of Arg1:T8 Arg2:T4	
+T9	Developer 10209 10227	SAS Institute Inc.
+R4	Developer_of Arg1:T9 Arg2:T4	

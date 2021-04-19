@@ -1,0 +1,5 @@
+T1	Application_Usage 2095 2122	Comprehensive Meta-Analysis
+T4	Version 2125 2128	2.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 2130 2137	Biostat
+R2	Developer_of Arg1:T5 Arg2:T1	

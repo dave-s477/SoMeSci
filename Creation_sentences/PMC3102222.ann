@@ -1,0 +1,9 @@
+T1	ProgrammingEnvironment_Mention 29 35	Python
+T2	PlugIn_Creation 45 50	ProDy
+T3	PlugIn_Deposition 116 121	ProDy
+T4	License 164 190	GNU General Public License
+T5	URL 196 226	http://www.csb.pitt.edu/ProDy/
+R1	License_of Arg1:T4 Arg2:T3	
+R2	URL_of Arg1:T5 Arg2:T3	
+T6	PlugIn_Creation 241 246	ProDy
+T7	PlugIn_Creation 356 361	ProDy

@@ -1,0 +1,1 @@
+As the name already indicates, the random effects model has the limiting assumption that the unobserved heterogeneity is randomly distributed, and therefore independent from the regressors (we have used the XTNBREG, FE command in Stata 8 to estimate our fixed effects model, and the XTNBREG, RE command in Stata 8 to estimate our random effects model). 

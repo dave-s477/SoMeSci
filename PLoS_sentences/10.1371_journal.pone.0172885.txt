@@ -1,0 +1,2 @@
+A multiple linear regression was conducted to isolate independent predictors of nutritional outcomes of child using SPSS version 21 windows software.
+

@@ -1,0 +1,3 @@
+T1	Application_Usage 109 116	Minitab
+T2	Version 122 126	15.1
+R1	Version_of Arg1:T2 Arg2:T1	

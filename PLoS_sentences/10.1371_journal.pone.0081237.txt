@@ -1,0 +1,2 @@
+For the permutation test we used Matlab v. 7.10.0.499.
+

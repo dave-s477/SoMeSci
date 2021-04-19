@@ -1,0 +1,4 @@
+T1	Application_Usage 160 165	Excel
+T2	Application_Usage 487 491	SPSS
+T3	Version 492 494	24
+R1	Version_of Arg1:T3 Arg2:T2	

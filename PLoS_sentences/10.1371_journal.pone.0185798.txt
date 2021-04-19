@@ -1,0 +1,1 @@
+Linear regression analysis was carried out using STATA 14 to examine associations between wellbeing and i) father’s social class, ii) adult social class, iii) father’s and adult social class included together. 

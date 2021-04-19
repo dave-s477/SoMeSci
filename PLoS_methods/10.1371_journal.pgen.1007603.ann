@@ -1,0 +1,76 @@
+T1	Application_Usage 8101 8108	GenCall
+T2	Application_Usage 8704 8709	PLINK
+T3	Application_Usage 8895 8903	SMARTPCA
+T4	Application_Usage 11296 11304	SHAPEITv
+T5	Application_Usage 11342 11348	IMPUTE
+T6	Application_Usage 12007 12014	SNPTEST
+T7	ProgrammingEnvironment_Usage 14506 14507	R
+T8	PlugIn_Usage 14479 14482	rms
+T9	Application_Usage 14586 14592	Quanto
+T10	Application_Usage 14691 14698	SNPTEST
+T11	ProgrammingEnvironment_Usage 15118 15119	R
+T12	Application_Usage 15186 15193	DISSECT
+T13	ProgrammingEnvironment_Usage 15872 15873	R
+T14	PlugIn_Usage 15882 15885	GTX
+T15	ProgrammingEnvironment_Usage 16327 16328	R
+T16	PlugIn_Usage 16319 16326	ordinal
+T17	Application_Usage 18495 18500	PLINK
+T18	Application_Usage 18790 18797	SNPTEST
+T19	Application_Usage 19114 19121	SNPTEST
+T20	Application_Usage 21200 21209	METACARPA
+T21	Application_Usage 21279 21284	METAL
+T22	Application_Usage 21366 21371	METAL
+T28	Application_Usage 9592 9596	KING
+T30	Application_Usage 10187 10191	KING
+T35	Application_Usage 12183 12191	BOLT-LMM
+T54	Application_Usage 4548 4578	Haplotype Reference Consortium
+T55	Abbreviation 4580 4583	HRC
+T56	Application_Usage 6147 6150	HRC
+T57	Version 8711 8715	1.07
+T58	Citation 8716 8720	[58]
+R4	Version_of Arg1:T57 Arg2:T2	
+T59	Version 8905 8910	10210
+T60	Citation 8911 8915	[59]
+R5	Version_of Arg1:T59 Arg2:T3	
+R6	Citation_of Arg1:T60 Arg2:T3	
+T61	Citation 9597 9601	[60]
+R7	Citation_of Arg1:T61 Arg2:T28	
+T62	Version 11304 11305	2
+R8	Version_of Arg1:T62 Arg2:T4	
+T63	Citation 11306 11310	[61]
+R9	Citation_of Arg1:T63 Arg2:T4	
+T64	Version 11348 11349	2
+R10	Version_of Arg1:T64 Arg2:T5	
+T65	Citation 11350 11357	[62,63]
+R11	Citation_of Arg1:T65 Arg2:T5	
+T66	Version 12016 12019	2.5
+R12	Version_of Arg1:T66 Arg2:T6	
+T67	Citation 12020 12024	[65]
+T68	Citation 12192 12196	[66]
+R13	Citation_of Arg1:T68 Arg2:T35	
+T73	Citation 14491 14495	[71]
+R15	Citation_of Arg1:T73 Arg2:T8	
+T74	Version 14497 14502	4.5.0
+R16	Version_of Arg1:T74 Arg2:T8	
+T75	Citation 14508 14512	[72]
+R17	Citation_of Arg1:T75 Arg2:T7	
+R18	PlugIn_of Arg1:T8 Arg2:T7	
+T76	Citation 14593 14597	[73]
+R19	Citation_of Arg1:T76 Arg2:T9	
+T77	Citation 15194 15198	[74]
+R20	Citation_of Arg1:T77 Arg2:T12	
+R21	PlugIn_of Arg1:T14 Arg2:T13	
+T78	URL 15887 15941	https://cran.r-project.org/web/packages/gtx/index.html
+R22	URL_of Arg1:T78 Arg2:T14	
+R23	PlugIn_of Arg1:T16 Arg2:T15	
+T80	Citation 18501 18505	[58]
+R25	Citation_of Arg1:T80 Arg2:T17	
+T81	Citation 21210 21214	[75]
+R26	Citation_of Arg1:T81 Arg2:T20	
+T82	Citation 21285 21289	[76]
+R27	Citation_of Arg1:T82 Arg2:T21	
+R28	Citation_of Arg1:T58 Arg2:T2	
+R30	Citation_of Arg1:T67 Arg2:T6	
+R1	Abbreviation_of Arg1:T55 Arg2:T54	
+T23	Citation 4591 4595	[54]
+R2	Citation_of Arg1:T23 Arg2:T54	

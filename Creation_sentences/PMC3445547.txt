@@ -1,0 +1,6 @@
+We present a general fragmentation methodology and accompanying tools called FragIt to help setup these calculations.
+We present an open source fragmentation methodology, an accompanying command line tool and a corresponding web service called FragIt that enables one to easily fragment any molecule or system of interest using predefined (or custom) patterns to locate fragmentation points.
+We have tested FragIt on several artificial and naturally occurring proteins with patterns of fragmentation to make reasonable fragments both in terms of the involved chemistry and size.
+The web service [44] available at http://www.fragit.org enables users to upload their structure, fragment it and download the resulting input file to GAMESS.
+For greater flexibility, we strongly encourage the use of the command line tool which can be downloaded from the above URL or accessed from the development source at http://www.github.com/FragIt/.
+The FragIt source code is distributed under an open source license (GPL, version 2 or later) and users of the FragIt code are encouraged to submit changes and additions, especially for their own (fragmentation) methods.

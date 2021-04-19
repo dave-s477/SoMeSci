@@ -1,0 +1,20 @@
+T1	Application_Usage 3349 3381	Land Cover Classification System
+T2	ProgrammingEnvironment_Usage 5406 5407	R
+T3	ProgrammingEnvironment_Usage 5380 5381	R
+T4	PlugIn_Usage 5426 5431	rgdal
+T5	PlugIn_Usage 5433 5439	raster
+T6	PlugIn_Usage 5444 5448	mgcv
+T7	Application_Usage 3473 3477	GDAL
+T8	Developer 3342 3348	UN-FAO
+R1	Developer_of Arg1:T8 Arg2:T1	
+T9	Citation 3410 3414	[21]
+R2	Citation_of Arg1:T9 Arg2:T1	
+T10	AlternativeName 3479 3514	Geospatial Data Abstraction Library
+R3	AlternativeName_of Arg1:T10 Arg2:T7	
+R4	PlugIn_of Arg1:T4 Arg2:T2	
+R5	PlugIn_of Arg1:T5 Arg2:T2	
+R6	PlugIn_of Arg1:T6 Arg2:T2	
+T11	URL 5471 5497	http://cran.r-project.org/
+R7	URL_of Arg1:T11 Arg2:T6	
+R8	URL_of Arg1:T11 Arg2:T5	
+R9	URL_of Arg1:T11 Arg2:T4	

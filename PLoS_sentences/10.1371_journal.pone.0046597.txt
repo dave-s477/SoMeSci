@@ -1,0 +1,1 @@
+Text files of the R-R interval data were extracted from the Polar watch and were entered into Kubios HRV (version 2.0, 2008, biosignal analysis and medical imaging group, University of Kuopio, Finland, MATLAB). 

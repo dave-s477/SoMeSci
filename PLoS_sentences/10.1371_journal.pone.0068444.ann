@@ -1,0 +1,10 @@
+T1	Application_Usage 41 45	SPSS
+T2	Application_Usage 112 117	Prism
+T3	Version 54 60	19.0.1
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 62 65	IBM
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 126 130	5.0d
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 132 140	GraphPad
+R4	Developer_of Arg1:T6 Arg2:T2	

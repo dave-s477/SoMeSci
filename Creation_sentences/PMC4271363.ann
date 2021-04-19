@@ -1,0 +1,22 @@
+T1	Application_Creation 16 23	Pathomx
+T2	Application_Creation 173 180	Pathomx
+T3	Application_Creation 446 453	Pathomx
+T4	Application_Mention 496 503	Pathomx
+T5	Application_Deposition 571 578	Pathomx
+T6	URL 597 615	http://pathomx.org
+T7	OperatingSystem_Mention 665 672	Windows
+T8	OperatingSystem_Mention 677 684	MacOS X
+R1	URL_of Arg1:T6 Arg2:T5	
+T15	OperatingSystem_Mention 702 707	Linux
+T16	OperatingSystem_Mention 709 715	Ubuntu
+T17	Application_Usage 734 738	PyPi
+T9	ProgrammingEnvironment_Usage 788 794	Python
+T10	Version 795 798	2.7
+T11	Application_Usage 800 802	Qt
+T12	Version 803 806	5.2
+T13	License 877 884	GNU GPL
+T14	Version 886 889	3.0
+R2	Version_of Arg1:T10 Arg2:T9	
+R3	Version_of Arg1:T12 Arg2:T11	
+R5	Version_of Arg1:T14 Arg2:T13	
+R4	License_of Arg1:T13 Arg2:T5	

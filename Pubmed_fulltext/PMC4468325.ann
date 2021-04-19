@@ -1,0 +1,32 @@
+T1	Application_Usage 16731 16739	CompuSyn
+T2	Application_Usage 27306 27311	Prism
+T3	Developer 27297 27305	GraphPad
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Application_Usage 27487 27495	CompuSin
+T5	Developer 27506 27520	ComboSyn, Inc.
+R2	Developer_of Arg1:T5 Arg2:T4	
+T6	Application_Usage 28066 28075	CellQuest
+T7	Application_Usage 28833 28842	CellQuest
+T8	Application_Usage 29646 29655	CellQuest
+T9	Application_Usage 29511 29520	CellQuest
+T10	Application_Usage 30270 30279	CellQuest
+T11	OperatingSystem_Usage 30439 30452	Linux Red Hat
+T12	Application_Usage 30485 30498	Autodock Vina
+T13	Citation 30499 30503	[57]
+R3	Citation_of Arg1:T13 Arg2:T12	
+T14	Release 30536 30540	2005
+T15	Developer 30542 30555	Accelrys Ltd.
+T16	Application_Usage 30508 30517	InsightII
+R4	Release_of Arg1:T14 Arg2:T16	
+R5	Developer_of Arg1:T15 Arg2:T16	
+T17	Application_Usage 30858 30862	Vina
+T18	Application_Usage 31064 31073	InsightII
+T19	Application_Usage 31397 31402	PyMOL
+T20	Developer 31413 31434	DeLano Scientific LLC
+R6	Developer_of Arg1:T20 Arg2:T19	
+T21	Application_Usage 31500 31509	InsightII
+T23	Application_Usage 34594 34606	Quantity One
+T24	Developer 34617 34623	BioRad
+R8	Developer_of Arg1:T24 Arg2:T23	
+T25	Release 27533 27537	2007
+R9	Release_of Arg1:T25 Arg2:T4	

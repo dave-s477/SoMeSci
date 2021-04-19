@@ -1,0 +1,6 @@
+T1	Application_Usage 105 110	Stata
+T2	Application_Usage 44 51	EpiData
+T3	Version 52 55	3.1
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Version 111 115	10.0
+R2	Version_of Arg1:T4 Arg2:T1	

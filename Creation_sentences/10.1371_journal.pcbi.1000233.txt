@@ -1,0 +1,4 @@
+Here we introduced PSICIC as a robust and generally-applicable computational method for automating the high-resolution quantitative analysis of cellular image data.
+We have thus made available the source code, software, and documentation for PSICIC (see link at http://www.molbio1.princeton.edu/labs/gitai/), and encourage others to modify, expand, and adapt the software capabilities to suit their own applications.
+The original images overlaid with the cell borders identified by PSICIC were manually verified to check for false positives.
+We gratefully acknowledge Sidhartha Goyal and Kerwyn Huang for helpful discussions during the development of PSICIC and Gitai lab members for their assistance with experiments.

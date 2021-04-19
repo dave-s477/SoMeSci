@@ -1,0 +1,9 @@
+T2	Application_Creation 15 23	VDJtools
+T4	Application_Deposition 245 253	VDJtools
+T32	URL 298 333	https://github.com/mikessh/vdjtools
+R1	URL_of Arg1:T32 Arg2:T4	
+T9	Application_Mention 335 343	VDJtools
+T15	Application_Deposition 453 461	VDJtools
+T33	Application_Usage 525 531	GitHub
+T34	Citation 532 536	[40]
+R2	Citation_of Arg1:T34 Arg2:T15	

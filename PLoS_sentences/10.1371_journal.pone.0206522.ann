@@ -1,0 +1,14 @@
+T1	Application_Usage 93 97	SPSS
+T2	Application_Usage 210 214	SPSS
+T3	PlugIn_Usage 104 111	PROCESS
+T4	PlugIn_Usage 221 228	PROCESS
+T5	Citation 73 77	[53]
+T6	Version 87 91	2.16
+R1	PlugIn_of Arg1:T3 Arg2:T1	
+R2	PlugIn_of Arg1:T4 Arg2:T2	
+R3	Version_of Arg1:T6 Arg2:T3	
+R4	Citation_of Arg1:T5 Arg2:T3	
+T7	Developer 64 69	Hayes
+R5	Developer_of Arg1:T7 Arg2:T3	
+T8	Developer 202 207	Hayes
+R6	Developer_of Arg1:T8 Arg2:T4	

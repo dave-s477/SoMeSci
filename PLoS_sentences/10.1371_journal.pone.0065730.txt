@@ -1,0 +1,2 @@
+Estimates and standard errors for long run effects, lagged short run effects and the instantaneous short run combined effect of same sex marriages contemporaneous with strong same sex unions were calculated using the delta method using the nlcom command in Stata.
+

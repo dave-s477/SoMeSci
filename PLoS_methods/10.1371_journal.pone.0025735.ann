@@ -1,0 +1,19 @@
+T1	Application_Usage 7316 7324	Videomot
+T2	Application_Usage 10101 10107	ImageJ
+T3	Application_Usage 10156 10161	Prism
+T4	Application_Usage 12723 12734	Patchmaster
+T5	Application_Usage 17120 17133	Spectrum Mill
+T7	Application_Usage 20367 20380	Spectrum Mill
+T8	Application_Usage 20872 20885	Spectrum Mill
+T9	Version 7325 7326	2
+T10	Developer 7337 7340	TSE
+R1	Version_of Arg1:T9 Arg2:T1	
+R2	Developer_of Arg1:T10 Arg2:T1	
+T11	Developer 10109 10112	NIH
+R3	Developer_of Arg1:T11 Arg2:T2	
+T12	Developer 12736 12740	HEKA
+T13	Version 17152 17160	4.0 beta
+T14	Developer 17162 17182	Agilent Technologies
+R4	Developer_of Arg1:T14 Arg2:T5	
+R5	Version_of Arg1:T13 Arg2:T5	
+R7	Developer_of Arg1:T12 Arg2:T4	

@@ -1,0 +1,36 @@
+T104	PlugIn_Creation 121 126	IDEPI
+T105	AlternativeName 128 145	IDentify EPItopes
+R3	AlternativeName_of Arg1:T105 Arg2:T104	
+T3	PlugIn_Mention 238 243	IDEPI
+T2	ProgrammingEnvironment_Usage 422 428	Python
+T102	License 461 464	GPL
+T119	Version 465 468	3.0
+T5	PlugIn_Deposition 551 556	IDEPI
+T103	URL 573 601	https://github.com/veg/idepi
+R1	License_of Arg1:T102 Arg2:T5	
+R2	URL_of Arg1:T103 Arg2:T5	
+R11	Version_of Arg1:T119 Arg2:T102	
+T8	PlugIn_Creation 677 682	IDEPI
+T9	PlugIn_Mention 834 839	IDEPI
+T106	PlugIn_Mention 897 909	scikit-learn
+T107	URL 911 928	scikit-learn.org/
+T108	Application_Mention 951 956	HMMER
+T109	URL 958 976	hmmer.janelia.org/
+T110	PlugIn_Mention 1002 1011	BioPython
+T111	URL 1013 1026	biopython.org
+T112	PlugIn_Mention 1050 1056	joblib
+T113	URL 1058 1081	pythonhosted.org/joblib
+R4	URL_of Arg1:T107 Arg2:T106	
+R5	URL_of Arg1:T109 Arg2:T108	
+R6	URL_of Arg1:T111 Arg2:T110	
+R7	URL_of Arg1:T113 Arg2:T112	
+T115	Developer 1266 1272	Oracle
+T116	Application_Usage 1275 1285	VirtualBox
+T96	PlugIn_Deposition 1332 1337	IDEPI
+T117	ProgrammingEnvironment_Mention 1383 1389	Python
+T118	URL 1468 1496	http://github.com/veg/idepi/
+R9	Developer_of Arg1:T115 Arg2:T116	
+R10	URL_of Arg1:T118 Arg2:T96	
+T101	PlugIn_Deposition 1567 1572	IDEPI
+T114	URL 1642 1670	https://github.com/veg/idepi
+R8	URL_of Arg1:T114 Arg2:T101	

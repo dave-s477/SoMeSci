@@ -1,0 +1,2 @@
+Regression models were estimated using IBM SPSS Version 22.
+

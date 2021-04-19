@@ -1,0 +1,7 @@
+T1	Application_Usage 7527 7532	Stata
+T2	Version 7533 7537	13.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 7542 7554	StataCorp LP
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Extension 7538 7540	IC
+R3	Extension_of Arg1:T4 Arg2:T1	

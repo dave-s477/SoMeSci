@@ -1,0 +1,9 @@
+We introduce MicroSyn software as a means of detecting microsynteny in adjacent genomic regions surrounding genes in gene families.
+MicroSyn was designed for both experienced and non-expert users with a user-friendly graphical-user interface.
+MicroSyn is available from: http://fcsb.njau.edu.cn/microsyn/.
+We have developed a tool, called MicroSyn, to semi-automatically detect microsynteny within an individual gene family.
+In particular, MicroSyn was designed for both experienced and non-expert users.
+To demonstrate the utility and use of MicroSyn, we presented a case study of the evolution of miR167 gene family in Arabidopsis thaliana (Arabidopsis), Populus trichocarpa (Populus), Vitis vinifera (grape) and Oryza sativa (rice).
+In this study, we took advantages of newly available whole genome resources, and developed a program, MicroSyn, a semi-automated tool, to provide an additional valuable means to address the problem intrinsic in the computational methods and sequence qualities themselves in gene family analysis.
+MicroSyn is now implemented in C# on Windows platform.
+"Project name: MicroSyn Project home page: http://fcsb.njau.edu.cn/microsyn Operating system(s): Windows Programming language: C# Requirements: .net framework on Windows"

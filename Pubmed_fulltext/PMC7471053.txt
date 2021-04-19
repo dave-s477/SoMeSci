@@ -1,0 +1,121 @@
+DTX1DTX1et al.CorrespondenceThoracic Cancer
+Deltex-1 (DTX1) is a negative regulator of the Notch signaling pathway. Here, we investigated the clinical effect of DTX1 rs1732786A > G, which is associated with better prognosis in patients with early-stage non-small cell lung cancer (NSCLC), in 261 patients with small cell lung cancer (SCLC). DTX1 rs1732786A > G was associated with a significantly worse chemotherapy response and lower overall survival in the codominant model (odds ratio = 0.42, 95% confidence interval [CI]: 0.26-0.66, P = 2 × 10; hazard ratio = 1.47, 95% CI: 1.17-1.84, P = 0.001, respectively). An in vitro luciferase assay was performed, and the 1732786G allele demonstrated significantly higher promoter activity than the 1732786A allele (P = 2 × 10). In summary, DTX1 rs1732786A > G was associated with poor prognosis in patients with SCLC as opposed to patients with NSCLC.
+
+Key points
+
+Significant findings of the study
+
+DTX1 rs1732786A > G was associated with better prognosis in patients with early-stage non-small cell lung cancer (NSCLC) in our previous study.
+
+What this study adds
+
+DTX1 rs1732786A > G was associated with a significantly worse chemotherapy response and lower overall survival in small cell lung cancer (SCLC).
+
+
+
+DTX1 rs1732786A>G was associated with better prognosis in patients with early-stage non-small cell lung cancer, in the previous study. DTX1 rs1732786A>G was associated with a significantly worse chemotherapy response and lower overall survival in small cell lung cancer.
+
+Introduction
+Lung cancer is classified into two main types: small cell lung cancer (SCLC) and non-small cell lung cancer (NSCLC). SCLC, which accounts for 15% of all lung cancers, is characterized by a more rapid growth rate and earlier metastasis than NSCLC.
+
+ Smoking is a major risk factor for both types of cancer, and 95% of SCLC patients present with a history of smoking. Specific genetic mutations, including those in the Myc family and p53 genes, have been detected in both NSCLC and SCLC patients, although the incidence is different.
+
+
+
+The Notch signaling pathway plays important roles in cell proliferation, differentiation, development, and homeostasis.
+
+ Aberrant Notch signaling has been reported in many cancers, including lung cancer.
+
+, 
+
+ Mutations in the Notch signaling pathway genes influence the prognosis of patients with various cancers.
+
+, 
+
+, 
+
+ Recently, we reported that genetic variation in the Notch regulator DTX1 can predict the survival of patients with surgically resected NSCLC.
+
+ In our previous study, DTX1 rs1732786A > G was associated with significantly better overall survival (OS) and disease-free survival (DFS) rates. Considering that Notch mutations are frequently detected in patients with SCLC,
+
+, 
+
+, 
+
+ this variant might also affect SCLC prognosis. Therefore, we explored the association of DTX1 rs1732786A > G with survival outcomes of patients with SCLC.
+
+Methods
+Patients
+We enrolled 261 patients diagnosed with SCLC in Kyungpook National University Hospital (KNUH) in Daegu, Korea, between March 2001 and November 2017. All patients were of Korean ethnicity. Tumor staging was determined as either limited or extensive stage, in accordance with the system of the Veterans Administration Lung Study Group.
+
+ Chemotherapy response was evaluated after every two cycles of treatment using the response evaluation criteria in solid tumors (RECIST).
+
+ To avoid the confounding effect of radiation on chemotherapy response, we excluded patients who had undergone concurrent chemoradiotherapy. However, patients who received radiotherapy after chemotherapy were enrolled. This study was approved by the institutional review board of KNUH, and written informed consent was obtained from all patients.
+
+Polymorphism and genotyping
+
+DTX1 rs1732786A > G, which influenced the clinical outcomes of patients with NSCLC in our previous study, was selected. Blood samples for genotyping were provided by the National Biobank of KNUH, which was supported by the Ministry of Health, Welfare and Family Affairs. Blood samples were obtained prior to the initiation of cancer treatment, when the patients were diagnosed with SCLC. Genotyping was performed blindly using MassARRAY iPLEX assay (Sequenom Inc., San Diego, CA, USA).
+
+Promoter-luciferase constructs and luciferase assay
+An in vitro luciferase assay was performed, and a 618 bp fragment including rs1732786A > G was synthesized by polymerase chain reaction using genomic DNA from a donor-carrying heterozygote. The primer sequence was as follows: forward primer with KpnI restriction site, 5′-GGGGTACCGACGCAGTTGGGAGTGCAAA-3′, and reverse primer with XhoI restriction site, 5′-CCGCTCGAGCGTTCTCAATGTGGTGGCAC-3′. The pGL3-basic vector (Promega, Madison, WI, USA) was used to make pGL3-Basic-DTX1 constructs containing either the rs1732786 A or G allele. The SCLC cell line (H146) was transfected with pRL-SV40 (Promega) and pGL3-basic vectors using lipofectamine 3000 transfection reagent (Thermo Fisher, Waltham, MA, USA). The cells were harvested after 48 hours of transfection. We used the Synergy HTX Multi-Mode Microplate Reader (BioTek Instruments, Winooski, VT, USA) to measure luciferase activity. The results were compared with pRL-SV40 Renilla luciferase activity.
+
+Statistical analysis
+We analyzed the association between the rs1732786A > G genotype and clinical outcomes of patients with SCLC. Patients’ response to chemotherapy was calculated using unconditional logistic regression. OS was determined from the date of the first chemotherapy treatment to death or last follow-up and was analyzed by the Kaplan-Meier method and log-rank test. To estimate the hazard ratio (HR) and 95% confidence interval (CI), we used multivariate Cox proportional hazards models. Student's t-test was used to compare promotor activity of DTX1 rs1732786 A or G allele. The Statistical Analysis System for Windows, version 9.4 (SAS Institute, Cary, NC, USA), was used for analysis.
+
+
+Results
+Clinical characteristics and univariate analyses of clinical outcomes are shown in Table [1]. Age, stage, Eastern Cooperative Oncology Group performance status, weight loss, neuron-specific enolase level, second-line chemotherapy, and radiation to tumor were associated with OS. DTX1 rs1732786A > G was associated with both chemotherapy response and OS of patients with SCLC. rs1732786A > G was associated with significantly worse chemotherapy response and lower OS in the codominant model (odds ratio = 0.42, 95% CI: 0.26-0.66, P = 2 × 10; HR = 1.47, 95% CI: 1.17-1.84, P = 0.001, respectively; Table [2] and Fig [1]). When stratified by clinical variables, the effects of rs1732786A > G on chemotherapy response and OS did not differ in each subgroup (P-values for homogeneity test >0.05; Table S1), except for chemotherapy response by weight loss.
+Univariate analysis for response to chemotherapy and overall survival by clinical variables
+Genotypes of rs1732786 polymorphisms and their associations with the response to chemotherapy and overall survival in SCLC
+rs1732786A > G is located in the DTX1 promoter region (−16 from the transcription start site). To investigate whether rs1732786A > G modulated the promoter activity of the DTX1 gene, we conducted an in vitro functional study using a luciferase assay. The 1732786G allele showed significantly higher promoter activity than the 1732786A allele (P = 2 × 10; Fig [2]).
+
+Discussion
+In this study, DTX1 rs1732786A > G was associated with worse chemotherapy response and lower OS of patients with SCLC. However, in our previous study, DTX1 rs1732786A > G was associated with better OS and DFS of patients with early-stage NSCLC.
+
+ This contradictory result might be attributed to the different roles of the Notch pathway based on the type of cancer. The Notch signaling pathway plays pleiotropic roles during embryonic development and is important in cell-to-cell communication.
+
+, 
+
+ Notch signaling dysregulation contributes to carcinogenesis, and its role seems to be mostly oncogenic.
+
+, 
+
+, 
+
+ The oncogenic role of Notch signaling has also been reported in NSCLC.
+
+, 
+
+ However, Notch signaling are remarkably varied depending on the cellular context and can be either oncogenic or tumor suppressive. It has been previously determined that Notch receptors can function as cell autonomous oncoproteins, cell autonomous tumor suppressors, or microenvironment-dependent oncoproteins in different cellular contexts.
+
+ The role of Notch signaling as a tumor suppressor has been reported in several cancers, including SCLC.
+
+, 
+
+, 
+
+, 
+
+ Sriuranpong et al. showed that a decrease in human achaete-scute homologue-1 expression through Notch signaling could lead to cell cycle arrest and reduce tumor potential in SCLC.
+
+ Therefore, these different roles of Notch signaling (i.e., an oncogenic role in NSCLC and a tumor suppressing role in SCLC) may produce opposite effects, even in the same variant.
+
+DTX1 is one of the key negative regulators of the Notch pathway.
+
+, 
+
+ Recently, poor prognosis of patients with diffuse large B-cell lymphoma with DTX1 mutations has been reported.
+
+ rs1732786A > G is located in the promoter region of DTX1, and our in vitro functional study showed that rs1732786A > G was associated with increased promoter activity. In our previous study, the variant also increased DTX1 mRNA expression in surgically resected NSCLC.
+
+ Thus, rs1732786A > G could increase DTX1 activity, which would suppress Notch signaling. However, because surgery is rarely used in SCLC, it is difficult to obtain sufficient tissue for examination, so the difference between gene polymorphism and gene expression in SCLC tumor tissue could not be investigated. Considering the tumor suppressor effect of Notch signaling in SCLC, suppression of Notch signaling would lead to poor chemotherapy response and prognosis. However, the exact biological mechanism through which the variant affects SCLC prognosis requires further study.
+In summary, DTX1 rs1732786A > G is associated with worse clinical outcomes of patient with SCLC. The opposite result previously found in NSCLC with the same variant may be attributed to the different roles of Notch signaling based on cancer subtype. Further studies are warranted to confirm this finding.
+
+Disclosure
+The authors have declared no conflicts of interest.
+
+Supporting information
+
+Supplementary Table S1 Stratified Analysis of the Effects of the rs1732786 Genotypes under a Codominant Model.
+Click here for additional data file.
+

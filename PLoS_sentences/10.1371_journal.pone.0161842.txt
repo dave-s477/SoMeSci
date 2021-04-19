@@ -1,0 +1,2 @@
+Frequency distributions were calculated using the statistical package Stata 13.0.
+

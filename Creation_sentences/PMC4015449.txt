@@ -1,0 +1,6 @@
+The software tool, termed MetaSel, was developed.
+Furthermore, MetaSel offers an intuitive, yet comprehensive, workflow to assist karyotyping, including tools for editing chromosome (split, merge and fix) and a karyotyping editor (moving, rotating, and pairing homologous chromosomes).
+The program can be freely downloaded from "http://www4a.biotec.or.th/GI/tools/metasel".
+The software, called MetaSel, is the first attempt to offer a free assistive karyotyping tool for chromosome analysis.
+This classification module was incorporated into our karyotyping software tool, called MetaSel, which was written from scratch using C# on Microsoft Windows 7 operating system.
+Both software (for Windows XP or 7 only) and user manual can be freely downloaded from our website, http://www4a.biotec.or.th/GI/tools/metasel.

@@ -1,0 +1,27 @@
+T1	Application_Usage 1546 1552	WinEEG
+T2	ProgrammingEnvironment_Usage 1712 1718	MATLAB
+T3	ProgrammingEnvironment_Usage 2085 2091	MATLAB
+T4	Application_Usage 2228 2234	EEGLab
+T5	Application_Usage 3001 3005	SPSS
+T6	Application_Usage 3893 3897	SPSS
+T7	Application_Usage 7768 7774	MapWin
+T8	Application_Usage 8659 8665	MapWin
+T9	Application_Usage 9271 9277	MapWin
+T10	Application_Usage 10408 10414	Mapwin
+T11	Application_Usage 10664 10669	Excel
+T12	Application_Usage 10895 10899	SPSS
+T13	Application_Usage 6074 6081	sLORETA
+T14	Application_Usage 6836 6843	sLORETA
+T15	Application_Usage 7727 7734	sLORETA
+T16	Version 1555 1558	2.8
+R1	Version_of Arg1:T16 Arg2:T1	
+T17	Citation 2243 2247	[19]
+R2	Citation_of Arg1:T17 Arg2:T4	
+T18	Version 3898 3900	16
+R3	Version_of Arg1:T18 Arg2:T6	
+T19	Citation 6082 6086	[21]
+R4	Citation_of Arg1:T19 Arg2:T13	
+T20	Citation 7784 7788	[23]
+R5	Citation_of Arg1:T20 Arg2:T7	
+T21	Developer 10654 10663	Microsoft
+R6	Developer_of Arg1:T21 Arg2:T11	

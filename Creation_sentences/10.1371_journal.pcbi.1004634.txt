@@ -1,0 +1,6 @@
+Herein, we present Molecular Interactions in Super Resolution (MIiSR) software which provides quantitative analysis tools for use with super-resolution images.
+MIiSR combines multiple tools for analyzing intermolecular interactions, molecular clustering and image segmentation.
+To address these limitations we have developed Molecular Interactions in Super-Resolution (MIiSR), a validated set of software tools for quantifying intermolecular interactions and the formation of higher-order molecular complexes in super-resolution images.
+MIiSR natively supports positions files from Leica GSD-SR Ground-State Depletion microscopes, Zeiss ELYRA PS1 dSTORM microscopes, and any microscope running QuickPALM software [34].
+MIiSR is an open-source project licensed under the GNU General Public License and is available as S1 –MIiSR Program in this paper, with updated versions published at http://www.phagocytes.ca/miisr/.
+MIiSR works on any Linux, Windows and Macintosh computer running an appropriate version of Matlab equipped with the image processing, statistics and parallel processing toolboxes.

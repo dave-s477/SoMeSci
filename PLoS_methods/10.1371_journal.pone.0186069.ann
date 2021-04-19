@@ -1,0 +1,18 @@
+T1	Application_Usage 8443 8450	BioEdit
+T2	Application_Usage 8712 8716	MEGA
+T3	PlugIn_Usage 10533 10537	EpiR
+T4	PlugIn_Usage 10586 10593	ggplot2
+T5	PlugIn_Usage 10641 10645	mgcv
+T6	ProgrammingEnvironment_Usage 10681 10682	R
+T7	Application_Usage 10781 10785	QGIS
+T9	Citation 8726 8730	[38]
+R1	Citation_of Arg1:T9 Arg2:T2	
+T10	Citation 10704 10708	[43]
+R2	Citation_of Arg1:T10 Arg2:T6	
+R3	PlugIn_of Arg1:T3 Arg2:T6	
+R4	PlugIn_of Arg1:T5 Arg2:T6	
+R5	PlugIn_of Arg1:T4 Arg2:T6	
+T11	Version 10786 10790	2.14
+R6	Version_of Arg1:T11 Arg2:T7	
+T12	Citation 10797 10801	[44]
+R7	Citation_of Arg1:T12 Arg2:T7	

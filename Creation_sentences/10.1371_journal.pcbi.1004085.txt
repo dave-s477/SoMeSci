@@ -1,0 +1,6 @@
+Additionally, PathVisio 3 introduces a new powerful extension systems that allows other developers to contribute additional functionality in form of plugins without changing the core application.PathVisio can be downloaded from http://www.pathvisio.org and in 2014 PathVisio 3 has been downloaded over 5,500 times.
+PathVisio is a freely available, open-source tool published under the Apache 2.0 license (http://www.apache.org/licenses/LICENSE-2.0).
+In 2008, we presented the first version of our pathway visualization and analysis tool PathVisio [1].
+PathVisio is implemented in Java and thus runs on all major operating systems.
+The PathVisio repository is located at http://repository.pathvisio.org.
+To enable the integration of PathVisio in an automated workflow, we developed PathVisioRPC (http://projects.bigcat.unimaas.nl/pathvisiorpc/) to be able to call PathVisio from other programming languages through an XML-RPC server.

@@ -1,0 +1,5 @@
+T1	Application_Usage 38 42	SPSS
+T2	Application_Usage 73 77	PASW
+R1	Specification_of Arg1:T2 Arg2:T1	
+T3	Version 78 82	18.0
+R2	Version_of Arg1:T3 Arg2:T2	

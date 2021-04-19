@@ -1,0 +1,1 @@
+The results are presented as a set of predicted probabilities of being fully immunized, estimated using logistic regression post-estimation command available in Stata 10.0 [52]. 

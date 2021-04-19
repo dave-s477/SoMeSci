@@ -1,0 +1,5 @@
+In order to solve this problem, here we developed a Portable System for the Analysis of Metabolic Models (PSAMM), a new open-source software package that supports the integration of heterogeneous metadata in model annotations and provides a user-friendly interface for the analysis of metabolic models.
+PSAMM is independent of paid software environments like MATLAB, and all its dependencies are freely available for academic users.
+Here, we present a Portable System for the Analysis of Metabolic Models (PSAMM), an open source software package that was implemented to support the iterative curation of GEMs by connecting model annotations with mathematical simulations.
+PSAMM was developed as an integrated software package that supports calling simulation functions using simple one-line commands.
+Besides the availability of diverse functions and implementations of model import/export, model checking, and constraint-based analysis, a unique feature of PSAMM is the availability of easily accessible help information that assists the users in selecting program functions and parameter values.

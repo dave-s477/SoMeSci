@@ -1,0 +1,5 @@
+T1	Application_Usage 34 39	Stata
+T2	Version 40 44	12.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Extension 45 47	SE
+R2	Extension_of Arg1:T3 Arg2:T1	

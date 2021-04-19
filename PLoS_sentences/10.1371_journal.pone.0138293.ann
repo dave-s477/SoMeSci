@@ -1,0 +1,7 @@
+T1	Application_Usage 51 57	InStat
+T2	Developer 42 50	GraphPad
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 66 70	3.10
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 72 95	GraphPad Software, Inc.
+R3	Developer_of Arg1:T4 Arg2:T1	

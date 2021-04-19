@@ -1,0 +1,28 @@
+T1	Application_Creation 18 24	LAMINA
+T2	AlternativeName 26 50	Leaf shApe deterMINAtion
+R1	AlternativeName_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 116 122	LAMINA
+T4	ProgrammingEnvironment_Usage 156 160	Java
+T5	Application_Usage 259 265	ImageJ
+T6	Citation 266 270	[20]
+T7	Application_Usage 275 281	LAMINA
+R2	Citation_of Arg1:T6 Arg2:T5	
+T8	Application_Deposition 298 304	LAMINA
+T9	AlternativeName 306 330	Leaf shApe deterMINAtion
+T10	URL 350 388	http://sourceforge.net/projects/lamina
+T11	ProgrammingEnvironment_Usage 453 457	Java
+T12	ProgrammingEnvironment_Mention 478 482	Java
+T13	Version 483 488	1.4.x
+R3	AlternativeName_of Arg1:T9 Arg2:T8	
+R4	URL_of Arg1:T10 Arg2:T8	
+R5	Version_of Arg1:T13 Arg2:T12	
+T16	Application_Mention 500 506	LAMINA
+T14	Application_Usage 516 537	Java Advanced Imaging
+T15	Abbreviation 539 542	JAI
+T17	URL 552 610	http://java.sun.com/javase/technologies/desktop/media/jai/
+R6	Abbreviation_of Arg1:T15 Arg2:T14	
+R7	URL_of Arg1:T17 Arg2:T14	
+T18	License 754 761	GNU GPL
+T19	Version 761 762	2
+R8	Version_of Arg1:T19 Arg2:T18	
+R9	License_of Arg1:T18 Arg2:T8	

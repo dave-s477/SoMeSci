@@ -1,0 +1,8 @@
+T1	Application_Usage 6875 6878	SAS
+T3	Version 6879 6882	9.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Application_Usage 7158 7161	GIS
+T5	Version 7162 7164	10
+R2	Version_of Arg1:T5 Arg2:T4	
+T2	Application_Usage 7118 7147	geographic information system
+R3	Specification_of Arg1:T4 Arg2:T2	

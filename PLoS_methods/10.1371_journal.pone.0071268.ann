@@ -1,0 +1,12 @@
+T1	Application_Usage 6022 6025	SAS
+T2	Application_Usage 6092 6097	Stata
+T3	Version 6052 6055	9.2
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 6057 6070	SAS Institute
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 6119 6123	12.1
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 6125 6134	StataCorp
+R4	Developer_of Arg1:T6 Arg2:T2	
+T7	Extension 6098 6100	SE
+R5	Extension_of Arg1:T7 Arg2:T2	

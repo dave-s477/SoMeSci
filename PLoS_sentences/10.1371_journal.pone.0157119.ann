@@ -1,0 +1,6 @@
+T1	Application_Usage 156 160	SPSS
+T2	Application_Usage 254 258	SPSS
+T3	Version 259 261	19
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	PlugIn_Usage 161 176	Complex Samples
+R2	PlugIn_of Arg1:T4 Arg2:T1	

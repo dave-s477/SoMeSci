@@ -1,0 +1,10 @@
+T1	ProgrammingEnvironment_Usage 5947 5953	Matlab
+T2	Application_Usage 6462 6501	Statistical Package for Social Sciences
+T3	Developer 5956 5974	The MathWorks Inc.
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Release 5984 5990	R2014a
+R2	Release_of Arg1:T4 Arg2:T1	
+T5	Version 6502 6506	11.0
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 6508 6517	SPSS Inc.
+R4	Developer_of Arg1:T6 Arg2:T2	

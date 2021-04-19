@@ -1,0 +1,5 @@
+Results: We have developed an SV discovery method, called DELLY, that integrates short insert paired-ends, long-range mate-pairs and split-read alignments to accurately delineate genomic rearrangements at single-nucleotide resolution.
+DELLY is suitable for detecting copy-number variable deletion and tandem duplication events as well as balanced rearrangements such as inversions or reciprocal translocations.
+On real data, DELLY reliably uncovers SVs from the 1000 Genomes Project and cancer genomes, and validation experiments of randomly selected deletion loci show a high specificity.
+Availability: DELLY is available at http://www.korbel.embl.de/software.html
+Herein, we report a new integrative approach, called DELLY, that combines short-range and long-range paired-end mapping and split-read analysis for the discovery-at single nucleotide resolution-of balanced and unbalanced forms of structural variation, i.e. deletions, tandem duplications, inversions and translocations, achieving high sensitivity and specificity throughout the genome and for SVs falling into a wide size spectrum.

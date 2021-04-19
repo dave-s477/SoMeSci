@@ -1,0 +1,8 @@
+T1	Application_Usage 32 37	MLwiN
+T2	Application_Usage 64 69	Stata
+T3	Version 38 42	2.25
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 70 72	13
+R2	Version_of Arg1:T4 Arg2:T2	
+T5	PlugIn_Usage 118 126	runmlwin
+R3	PlugIn_of Arg1:T5 Arg2:T2	

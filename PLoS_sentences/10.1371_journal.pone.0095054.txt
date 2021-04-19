@@ -1,0 +1,1 @@
+Multivariable analysis was carried out using Cox's proportional hazard regression in SAS. 

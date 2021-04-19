@@ -1,0 +1,9 @@
+T2	Application_Creation 44 55	LAILAPS-QSM
+T4	Application_Deposition 176 187	LAILAPS-QSM
+T16	License 207 233	GNU General Public License
+T17	Version 242 243	2
+T18	Application_Usage 247 256	Bitbucket
+T19	URL 273 329	https://bitbucket.org/ipk_bit_team/bioescorte-suggestion
+R1	License_of Arg1:T16 Arg2:T4	
+R2	Version_of Arg1:T17 Arg2:T16	
+R3	URL_of Arg1:T19 Arg2:T4	

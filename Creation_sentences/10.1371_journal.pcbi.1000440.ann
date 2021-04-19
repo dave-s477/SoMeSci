@@ -1,0 +1,14 @@
+T2	Application_Creation 18 28	PoreWalker
+T62	SoftwareCoreference_Deposition 159 167	software
+T3	URL 208 262	http://www.ebi.ac.uk/thornton-srv/software/PoreWalker/
+R1	URL_of Arg1:T3 Arg2:T62	
+T4	Application_Creation 282 292	PoreWalker
+T5	Application_Mention 475 485	PoreWalker
+T63	SoftwareCoreference_Deposition 663 671	software
+T6	URL 714 768	http://www.ebi.ac.uk/thornton-srv/software/PoreWalker/
+R2	URL_of Arg1:T6 Arg2:T63	
+T11	Application_Creation 871 881	PoreWalker
+T64	ProgrammingEnvironment_Usage 917 918	C
+T65	ProgrammingEnvironment_Usage 923 927	PERL
+T51	Application_Creation 964 974	PoreWalker
+T52	Application_Mention 1122 1132	PoreWalker

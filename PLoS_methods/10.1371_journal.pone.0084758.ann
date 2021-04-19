@@ -1,0 +1,29 @@
+T1	Application_Usage 4960 4964	ENVI
+T2	Application_Usage 6227 6259	geo-spatial modeling environment
+T3	Application_Usage 6303 6312	Fragstats
+T4	Application_Usage 8255 8260	STATA
+T5	Application_Usage 10601 10607	ArcGIS
+T6	AlternativeName 4966 5000	Environment for Visualizing Images
+R1	AlternativeName_of Arg1:T6 Arg2:T1	
+T7	Developer 5012 5015	ITT
+R2	Developer_of Arg1:T7 Arg2:T1	
+T8	Version 6283 6293	0.5.8 beta
+R3	Version_of Arg1:T8 Arg2:T2	
+T9	Citation 6294 6298	[41]
+R4	Citation_of Arg1:T9 Arg2:T2	
+T10	Abbreviation 6261 6264	GME
+R5	Abbreviation_of Arg1:T10 Arg2:T2	
+T11	Version 6330 6333	3.3
+R6	Version_of Arg1:T11 Arg2:T3	
+T12	Citation 6334 6338	[42]
+R7	Citation_of Arg1:T12 Arg2:T3	
+T13	Version 8273 8277	12.0
+T14	Developer 8279 8296	STATA Corporation
+R8	Version_of Arg1:T13 Arg2:T4	
+R9	Developer_of Arg1:T14 Arg2:T4	
+T15	PlugIn_Usage 10608 10626	Spatial Statistics
+R10	PlugIn_of Arg1:T15 Arg2:T5	
+T16	Release 5016 5020	2011
+R11	Release_of Arg1:T16 Arg2:T1	
+T17	Extension 8261 8263	SE
+R12	Extension_of Arg1:T17 Arg2:T4	

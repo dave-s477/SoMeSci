@@ -1,0 +1,10 @@
+T1	Application_Usage 4 47	Statistical Package for the Social Sciences
+T2	PlugIn_Usage 92 98	XLSTAT
+T3	Abbreviation 49 53	SPSS
+T4	Version 63 67	19.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 69 73	SPSS
+R2	Developer_of Arg1:T5 Arg2:T1	
+T6	Developer 100 114	Addinsoft SARL
+R3	Developer_of Arg1:T6 Arg2:T2	
+R4	Abbreviation_of Arg1:T3 Arg2:T1	

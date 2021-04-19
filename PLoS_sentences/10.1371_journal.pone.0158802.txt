@@ -1,0 +1,1 @@
+Reported morbidity and comorbidity of needs (speech-language alone; SEB alone; comorbid speech-language and SEB) was entered as a nominal outcome in a multinomial logistic regression model, using the mlogit command in Stata, so as to examine the relative risk associated with specific family and community characteristics, compared to children without speech-language or SEB needs. 

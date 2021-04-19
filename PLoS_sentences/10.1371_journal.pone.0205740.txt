@@ -1,0 +1,2 @@
+Data were analyzed in Microsoft Excel 10.0 (Microsoft, Redmond, WA) and STATA/IC 12.1 (Stata Corp, College Station, TX).
+

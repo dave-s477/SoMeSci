@@ -1,0 +1,13 @@
+T1	Application_Usage 8576 8594	Remote Proctor Now
+T2	Application_Usage 8647 8655	ProctorU
+T6	PlugIn_Usage 15408 15415	ggplot2
+T7	ProgrammingEnvironment_Usage 15397 15398	R
+T8	Developer 8600 8615	Software Secure
+R1	Developer_of Arg1:T8 Arg2:T1	
+T9	URL 8617 8642	http://softwaresecure.com
+R2	URL_of Arg1:T9 Arg2:T1	
+T10	URL 8657 8676	http://proctoru.com
+R3	URL_of Arg1:T10 Arg2:T2	
+R4	PlugIn_of Arg1:T6 Arg2:T7	
+T11	Citation 15416 15420	[32]
+R5	Citation_of Arg1:T11 Arg2:T6	

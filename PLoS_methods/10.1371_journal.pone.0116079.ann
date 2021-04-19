@@ -1,0 +1,11 @@
+T1	Application_Usage 2816 2822	Revman
+T2	ProgrammingEnvironment_Usage 3296 3297	R
+T3	Application_Usage 5178 5198	MapInfo Professional
+T19	Version 2823 2826	5.1
+R4	Version_of Arg1:T19 Arg2:T1	
+T20	Version 3307 3312	3.1.2
+R5	Version_of Arg1:T20 Arg2:T2	
+T21	Developer 3314 3356	The R Foundation for Statistical Computing
+R6	Developer_of Arg1:T21 Arg2:T2	
+T22	Version 5199 5203	11.0
+R7	Version_of Arg1:T22 Arg2:T3	

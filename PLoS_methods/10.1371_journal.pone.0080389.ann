@@ -1,0 +1,6 @@
+T1	Application_Usage 7125 7137	BrainVoyager
+T2	Application_Usage 8681 8694	Brain Voyager
+T3	Developer 7142 7158	Brain Innovation
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Extension 7138 7140	QX
+R2	Extension_of Arg1:T4 Arg2:T1	

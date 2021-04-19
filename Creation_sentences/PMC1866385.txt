@@ -1,0 +1,2 @@
+NemaFootPrinter (Nematode Transcription Factor Scan Through Philogenetic Footprinting) is a web-based software for interactive identification of conserved, non-exonic DNA segments in the genomes of C. elegans and C. briggsae.
+"Project name: NemaFootPrinter Project home page: http://bio.ifom-firc.it/NTFootPrinter/index.html server side: UNIX type platforms client side: Any operating system Programming language: SQL, Perl, Java Other requirements: The web-based application was tested and is compatible with the more common Internet browser.

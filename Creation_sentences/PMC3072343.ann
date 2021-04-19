@@ -1,0 +1,18 @@
+T1	Application_Creation 13 21	MicroSyn
+T2	Application_Creation 132 140	MicroSyn
+T3	Application_Deposition 243 251	MicroSyn
+T4	URL 271 304	http://fcsb.njau.edu.cn/microsyn/
+R1	URL_of Arg1:T4 Arg2:T3	
+T5	Application_Creation 339 347	MicroSyn
+T6	Application_Creation 440 448	MicroSyn
+T7	Application_Usage 543 551	MicroSyn
+T8	Application_Creation 838 846	MicroSyn
+T9	Application_Creation 1032 1040	MicroSyn
+T10	ProgrammingEnvironment_Usage 1063 1065	C#
+T11	OperatingSystem_Usage 1069 1076	Windows
+T12	Application_Deposition 1102 1110	MicroSyn
+T13	URL 1130 1162	http://fcsb.njau.edu.cn/microsyn
+T14	OperatingSystem_Usage 1184 1191	Windows
+T15	ProgrammingEnvironment_Usage 1214 1216	C#
+T16	OperatingSystem_Mention 1249 1256	Windows
+R2	URL_of Arg1:T13 Arg2:T12	

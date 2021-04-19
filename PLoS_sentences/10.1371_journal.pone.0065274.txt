@@ -1,0 +1,1 @@
+Stimulus presentation and timing of all stimuli and response events were achieved using Matlab (Mathworks) and Psychtoolbox (www.psychtoolbox.org) on an IBM-compatible PC. 

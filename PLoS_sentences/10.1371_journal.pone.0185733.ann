@@ -1,0 +1,10 @@
+T1	ProgrammingEnvironment_Usage 35 41	MATLAB
+T2	ProgrammingEnvironment_Usage 101 107	MATLAB
+T3	Application_Usage 278 282	SPSS
+T4	PlugIn_Usage 88 96	voicebox
+T5	Release 111 117	R2014a
+R1	Release_of Arg1:T5 Arg2:T2	
+T6	Version 292 294	21
+R2	Version_of Arg1:T6 Arg2:T3	
+T7	Developer 296 305	SPSS Inc.
+R3	Developer_of Arg1:T7 Arg2:T3	

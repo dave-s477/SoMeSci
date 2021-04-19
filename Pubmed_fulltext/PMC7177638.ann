@@ -1,0 +1,11 @@
+T1	Application_Usage 17593 17599	Alogps
+T2	Version 17600 17603	2.1
+T3	URL 17605 17619	www.vcclab.org
+R1	URL_of Arg1:T3 Arg2:T1	
+R2	Version_of Arg1:T2 Arg2:T1	
+T4	Application_Usage 29820 29825	iTeva
+T5	Developer 29836 29853	Thermo Scientific
+R3	Developer_of Arg1:T5 Arg2:T4	
+T6	Application_Usage 39422 39430	MultiPak
+T7	Version 39443 39451	9.8.0.19
+R4	Version_of Arg1:T7 Arg2:T6	

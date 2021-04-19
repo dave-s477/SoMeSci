@@ -1,0 +1,5 @@
+T1	ProgrammingEnvironment_Usage 35 41	Matlab
+T2	PlugIn_Usage 42 56	Tensor Toolbox
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+T3	Citation 57 61	[18]
+R2	Citation_of Arg1:T3 Arg2:T2	

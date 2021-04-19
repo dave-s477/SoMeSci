@@ -1,0 +1,10 @@
+T1	Application_Usage 57 62	Prism
+T2	OperatingSystem_Usage 80 87	Windows
+T3	Developer 48 56	GraphPad
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 71 75	5.04
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 89 106	GraphPad Software
+R3	Developer_of Arg1:T5 Arg2:T1	
+T6	URL 123 139	www.graphpad.com
+R4	URL_of Arg1:T6 Arg2:T5	

@@ -1,0 +1,18 @@
+T1	Application_Creation 77 83	FragIt
+T2	Application_Creation 244 250	FragIt
+T3	Application_Usage 407 413	FragIt
+T4	SoftwareCoreference_Deposition 583 594	web service
+T5	Citation 595 599	[44]
+T6	URL 613 634	http://www.fragit.org
+T7	Application_Mention 729 735	GAMESS
+R3	Citation_of Arg1:T5 Arg2:T4	
+R4	URL_of Arg1:T6 Arg2:T4	
+T8	SoftwareCoreference_Deposition 881 899	development source
+T9	URL 903 932	http://www.github.com/FragIt/
+R5	URL_of Arg1:T9 Arg2:T8	
+T10	Application_Deposition 938 944	FragIt
+T11	License 1002 1005	GPL
+T12	Version 1015 1016	2
+T13	Application_Mention 1044 1050	FragIt
+R1	License_of Arg1:T11 Arg2:T10	
+R2	Version_of Arg1:T12 Arg2:T11	

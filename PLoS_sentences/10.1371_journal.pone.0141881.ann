@@ -1,0 +1,3 @@
+T1	Application_Usage 56 60	SPSS
+T2	Developer 62 65	IBM
+R1	Developer_of Arg1:T2 Arg2:T1	

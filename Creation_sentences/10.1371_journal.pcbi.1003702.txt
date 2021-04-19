@@ -1,0 +1,4 @@
+To address the need for comprehensive, fully automated, and biology-driven analyses of C. elegans swim motion, we developed the program CeleST (C. elegans Swim Test), which accomplishes multi-animal tracking, measurement, and data analysis without need for investigator intervention.
+CeleST can track multiple animals simultaneously (we use 5/drop but more are possible), and can import data from other trackers to score measures.
+The CeleST software can be used as a platform, and with application-specific tracking methods and measures, other cellular or animal behaviors can be analyzed (sperm mobility, zebrafish swimming, etc.) for any application that can use video (mating, sleeping, feeding, foraging, etc.).
+Overall, the CeleST program constitutes an accessible and comprehensive approach for C. elegans locomotory quantitation that translates analysis of complex swimming patterns to a new level of resolution and efficiency.

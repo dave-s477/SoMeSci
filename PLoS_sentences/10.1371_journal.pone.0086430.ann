@@ -1,0 +1,7 @@
+T1	ProgrammingEnvironment_Usage 150 156	MATLAB
+T2	PlugIn_Usage 165 175	get_totals
+T3	Developer 189 196	Ridgway
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Citation 197 201	[77]
+R2	Citation_of Arg1:T4 Arg2:T2	
+R3	PlugIn_of Arg1:T2 Arg2:T1	

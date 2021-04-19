@@ -1,0 +1,5 @@
+T1	Application_Usage 96 100	SPSS
+T2	PlugIn_Usage 73 80	PROCESS
+T3	Citation 101 105	[32]
+R1	Citation_of Arg1:T3 Arg2:T2	
+R2	PlugIn_of Arg1:T2 Arg2:T1	

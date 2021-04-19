@@ -1,0 +1,15 @@
+T1	Application_Usage 11688 11714	Ingenuity Pathway Analysis
+T2	Application_Usage 45733 45747	Genomics Suite
+T3	Developer 45726 45732	Partek
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Developer 45749 45760	Partek Inc.
+R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Application_Usage 45988 45994	Partek
+T6	Application_Usage 13150 13159	Ingenuity
+T7	Application_Usage 13263 13272	Ingenuity
+T8	Application_Usage 49518 49523	Prism
+T9	Developer 49509 49517	GraphPad
+R3	Developer_of Arg1:T9 Arg2:T8	
+T10	Version 49532 49535	5.0
+R4	Version_of Arg1:T10 Arg2:T8	
+T11	OperatingSystem_Usage 49540 49548	Mac OS X

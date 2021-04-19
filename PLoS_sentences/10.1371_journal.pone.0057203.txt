@@ -1,0 +1,1 @@
+Data were double-entered into a predesigned EpiData 3.1 database with validation checks, and exported to Stata 10.0 for analysis. 

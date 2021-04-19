@@ -1,0 +1,1 @@
+We used the AMOS extension to IBM SPSS (v. 21.0) for structural equation modeling in order to identify associations of AR CAG repeat number, ethnicity and age with the number of children, mediated through BPAQ aggression scores. 

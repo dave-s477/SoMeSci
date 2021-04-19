@@ -1,0 +1,1 @@
+Descriptive statistics of survey data were performed in STATA (Version 13; STATA Corp, College Station, TX, USA). 

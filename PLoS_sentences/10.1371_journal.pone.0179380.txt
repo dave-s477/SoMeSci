@@ -1,0 +1,2 @@
+Statistical analyses were performed in STATA (version 12.1, Stata Corp, College Station, TX).
+

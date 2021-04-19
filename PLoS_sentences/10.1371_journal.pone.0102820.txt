@@ -1,0 +1,1 @@
+An adapted version of Probability Weighted Iterative Generalised Least Squares technique was used for the WAACHS data to account for the complex survey design of children within families within communities using SAS software [33]. SAS version 9.2 was used for all analyses (SAS Institute Inc., Cary, NC, USA, 2000–2008). 

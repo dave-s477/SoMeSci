@@ -1,0 +1,2 @@
+We carried out all our analyses using Stata 12 [50].
+

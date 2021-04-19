@@ -1,0 +1,14 @@
+T2	PlugIn_Creation 19 24	PyPhi
+T50	ProgrammingEnvironment_Mention 28 34	Python
+R5	PlugIn_of Arg1:T2 Arg2:T50	
+T5	PlugIn_Deposition 197 202	PyPhi
+T51	License 241 244	GPL
+T52	Version 245 246	3
+T53	Application_Usage 277 283	GitHub
+T54	URL 287 319	https://github.com/wmayner/pyphi
+R1	Version_of Arg1:T52 Arg2:T51	
+R2	License_of Arg1:T51 Arg2:T5	
+R3	URL_of Arg1:T54 Arg2:T5	
+T6	PlugIn_Creation 338 343	PyPhi
+T55	ProgrammingEnvironment_Mention 347 353	Python
+R4	PlugIn_of Arg1:T6 Arg2:T55	

@@ -1,0 +1,11 @@
+T1	OperatingSystem_Usage 8503 8510	Windows
+T2	Version 8511 8513	XP
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 8775 8783	Imagelab
+T4	Developer 8824 8848	SOFTIUM Informática LTDA
+R2	Developer_of Arg1:T4 Arg2:T3	
+T5	Application_Usage 8997 9012	SPSS Statistics
+T6	Version 9014 9016	21
+R3	Version_of Arg1:T6 Arg2:T5	
+T7	Developer 8993 8996	IBM
+R4	Developer_of Arg1:T7 Arg2:T5	

@@ -1,0 +1,22 @@
+T2	Application_Creation 53 59	NFTsim
+T8	Application_Deposition 182 188	NFTsim
+T31	License 214 220	Apache
+T105	Version 221 224	2.0
+R1	Version_of Arg1:T105 Arg2:T31	
+R2	License_of Arg1:T31 Arg2:T8	
+T9	Application_Creation 307 313	NFTsim
+T106	ProgrammingEnvironment_Usage 519 522	C++
+T87	Application_Creation 524 530	NFTsim
+T107	OperatingSystem_Usage 561 566	Linux
+T108	OperatingSystem_Usage 582 586	RHEL
+T112	Version 587 590	6.9
+T109	OperatingSystem_Usage 592 596	RHEL
+T113	Version 597 600	7.4
+T110	OperatingSystem_Usage 602 610	OpenSUSE
+T114	Version 611 615	13.2
+T111	OperatingSystem_Usage 617 625	OpenSUSE
+T115	Version 626 630	42.2
+R3	Version_of Arg1:T115 Arg2:T111	
+R4	Version_of Arg1:T114 Arg2:T110	
+R5	Version_of Arg1:T113 Arg2:T109	
+R6	Version_of Arg1:T112 Arg2:T108	

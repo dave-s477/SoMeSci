@@ -1,0 +1,1 @@
+We used multiple imputation (Proc MI in SAS) to assign values for variables with missing data. 

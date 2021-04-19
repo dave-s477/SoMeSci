@@ -1,0 +1,29 @@
+T2	Application_Creation 0 9	PhysiCell
+T4	Application_Usage 221 230	PhysiCell
+T7	Application_Deposition 422 431	PhysiCell
+T8	License 506 517	BSD license
+T9	URL 521 552	http://PhysiCell.MathCancer.org
+T122	URL 557 580	http://PhysiCell.sf.net
+R1	License_of Arg1:T8 Arg2:T7	
+R2	URL_of Arg1:T9 Arg2:T7	
+R3	URL_of Arg1:T122 Arg2:T7	
+T30	Application_Creation 582 591	PhysiCell
+T123	ProgrammingEnvironment_Usage 632 635	C++
+T31	Application_Usage 702 711	PhysiCell
+T124	OperatingSystem_Usage 715 722	Windows
+T126	Application_Usage 731 740	MinGW-w64
+T125	OperatingSystem_Usage 749 752	OSX
+T127	Application_Usage 767 770	g++
+T32	Application_Mention 784 793	PhysiCell
+T69	Application_Deposition 816 825	PhysiCell
+T130	SoftwareCoreference_Deposition 866 883	virtual appliance
+T70	URL 900 959	https://sourceforge.net/projects/physicell/files/PhysiCell/
+R4	URL_of Arg1:T70 Arg2:T130	
+T71	Application_Mention 1009 1018	PhysiCell
+T128	Version 1019 1024	1.2.2
+T72	URL 1057 1112	https://github.com/MathCancer/PhysiCell/releases/latest
+R5	Version_of Arg1:T128 Arg2:T71	
+R6	URL_of Arg1:T72 Arg2:T71	
+T75	Application_Deposition 1113 1122	PhysiCell
+T129	License 1156 1167	BSD license
+R7	License_of Arg1:T129 Arg2:T75	

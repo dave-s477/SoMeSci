@@ -1,0 +1,1 @@
+We use Stata’s margins command to calculate proportions from saturated logit models and test the statistical significance of the differences between proportions using Wald tests of linear hypotheses. 

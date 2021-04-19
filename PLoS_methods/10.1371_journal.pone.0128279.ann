@@ -1,0 +1,10 @@
+T1	ProgrammingEnvironment_Usage 4300 4301	R
+T2	Application_Usage 5858 5861	SAS
+T3	Developer 4312 4335	R Development Core Team
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 4351 4357	2.11.1
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Version 5888 5891	9.2
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Release 4337 4341	2010
+R4	Release_of Arg1:T6 Arg2:T1	

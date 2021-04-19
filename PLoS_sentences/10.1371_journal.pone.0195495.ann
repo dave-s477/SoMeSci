@@ -1,0 +1,3 @@
+T1	Application_Usage 97 102	Stata
+T2	PlugIn_Usage 103 106	ICE
+R1	PlugIn_of Arg1:T2 Arg2:T1	

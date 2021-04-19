@@ -1,0 +1,19 @@
+T1	Application_Usage 1750 1765	SPSS Statistics
+T2	Application_Usage 1687 1692	Excel
+T3	Application_Usage 2006 2010	QGIS
+T4	Application_Usage 2021 2028	ArcView
+T5	Application_Usage 1966 1974	DIVA-GIS
+T8	Developer 1677 1686	Microsoft
+R1	Developer_of Arg1:T8 Arg2:T2	
+T9	Release 1693 1697	2010
+R2	Release_of Arg1:T9 Arg2:T2	
+T10	Developer 1746 1749	IBM
+R3	Developer_of Arg1:T10 Arg2:T1	
+T11	Version 1774 1776	20
+R4	Version_of Arg1:T11 Arg2:T1	
+T12	URL 1976 2000	http://www.diva-gis.org/
+R5	URL_of Arg1:T12 Arg2:T5	
+T13	Version 2011 2016	1.8.0
+R6	Version_of Arg1:T13 Arg2:T3	
+T14	Version 2029 2032	3.2
+R7	Version_of Arg1:T14 Arg2:T4	

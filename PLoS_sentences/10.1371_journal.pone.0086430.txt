@@ -1,0 +1,1 @@
+Total intracranial volume was obtained by summing up the overall volumes of grey matter, white matter, and CSF, which were calculated by means of the MATLAB script “get_totals” provided by Ridgway [77]. 

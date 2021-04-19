@@ -1,0 +1,1 @@
+All statistical tests were analysed using IBM SPSS version 22. Mediation analyses were computed using the MEDIATE SPSS custom dialog [21]. 

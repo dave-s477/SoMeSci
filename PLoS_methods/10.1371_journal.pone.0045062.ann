@@ -1,0 +1,15 @@
+T1	Application_Usage 5100 5108	Aninhado
+T2	Application_Usage 5490 5498	netcarto
+T3	Application_Usage 5508 5513	Pajek
+T4	Application_Usage 7174 7182	netcarto
+T5	ProgrammingEnvironment_Usage 8899 8900	R
+T6	Citation 5109 5112	[3]
+R1	Citation_of Arg1:T6 Arg2:T1	
+T7	Citation 5500 5503	[5]
+R2	Citation_of Arg1:T7 Arg2:T2	
+T8	Citation 5514 5518	[42]
+R3	Citation_of Arg1:T8 Arg2:T3	
+T9	PlugIn_Usage 8901 8910	bipartite
+R4	PlugIn_of Arg1:T9 Arg2:T5	
+T10	Citation 8912 8916	[48]
+R5	Citation_of Arg1:T10 Arg2:T9	

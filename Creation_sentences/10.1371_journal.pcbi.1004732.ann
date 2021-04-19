@@ -1,0 +1,10 @@
+T8	Application_Creation 52 104	Portable System for the Analysis of Metabolic Models
+T108	Abbreviation 106 111	PSAMM
+R1	Abbreviation_of Arg1:T108 Arg2:T8	
+T3	Application_Mention 303 308	PSAMM
+T109	ProgrammingEnvironment_Mention 359 365	MATLAB
+T2	Application_Creation 452 504	Portable System for the Analysis of Metabolic Models
+T110	Abbreviation 506 511	PSAMM
+R2	Abbreviation_of Arg1:T110 Arg2:T2	
+T12	Application_Creation 672 677	PSAMM
+T18	Application_Mention 958 963	PSAMM

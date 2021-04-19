@@ -1,0 +1,6 @@
+T1	Application_Usage 14 19	Mplus
+T2	Application_Usage 0 4	SPSS
+T3	Version 5 9	18.0
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Version 20 23	7.0
+R2	Version_of Arg1:T4 Arg2:T1	

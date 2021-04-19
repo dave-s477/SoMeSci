@@ -1,0 +1,1 @@
+All statistical tests were conducted in Stata 11 (Stata Corp., College Station, TX [41]). 

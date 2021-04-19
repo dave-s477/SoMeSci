@@ -1,0 +1,6 @@
+T51	Application_Creation 19 25	PSICIC
+T66	Application_Deposition 242 248	PSICIC
+T2	URL 262 306	http://www.molbio1.princeton.edu/labs/gitai/
+R1	URL_of Arg1:T2 Arg2:T66	
+T67	Application_Usage 482 488	PSICIC
+T75	Application_Creation 651 657	PSICIC

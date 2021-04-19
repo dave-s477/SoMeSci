@@ -1,0 +1,17 @@
+T1	Application_Usage 1836 1842	ImageJ
+T2	Application_Usage 2348 2351	JMP
+T3	Application_Usage 10569 10572	JMP
+T4	Application_Usage 10782 10786	SPSS
+T5	ProgrammingEnvironment_Usage 15862 15863	R
+T6	PlugIn_Usage 15891 15895	nlme
+T7	Version 1843 1847	1.48
+R1	Version_of Arg1:T7 Arg2:T1	
+T8	Citation 1848 1852	[45]
+R2	Citation_of Arg1:T8 Arg2:T1	
+T9	Developer 2353 2371	SAS Institute Inc.
+R3	Developer_of Arg1:T9 Arg2:T2	
+T10	Citation 15876 15880	[50]
+R4	Citation_of Arg1:T10 Arg2:T5	
+R5	PlugIn_of Arg1:T6 Arg2:T5	
+T11	Citation 15904 15908	[51]
+R6	Citation_of Arg1:T11 Arg2:T6	

@@ -1,0 +1,29 @@
+T8	Application_Mention 14 23	PathVisio
+T97	Version 24 25	3
+T9	Application_Deposition 195 204	PathVisio
+T98	URL 228 252	http://www.pathvisio.org
+T10	Application_Mention 265 274	PathVisio
+T99	Version 275 276	3
+R1	Version_of Arg1:T97 Arg2:T8	
+R2	URL_of Arg1:T98 Arg2:T9	
+R3	Version_of Arg1:T99 Arg2:T10	
+T11	Application_Deposition 315 324	PathVisio
+T100	License 385 391	Apache
+T105	Version 392 395	2.0
+T106	URL 405 447	http://www.apache.org/licenses/LICENSE-2.0
+R4	License_of Arg1:T100 Arg2:T11	
+R8	Version_of Arg1:T105 Arg2:T100	
+R9	URL_of Arg1:T106 Arg2:T100	
+T12	Application_Mention 537 546	PathVisio
+T102	URL 547 550	[1]
+R5	URL_of Arg1:T102 Arg2:T12	
+T23	Application_Creation 552 561	PathVisio
+T101	ProgrammingEnvironment_Usage 580 584	Java
+T36	Application_Deposition 635 644	PathVisio
+T103	URL 670 701	http://repository.pathvisio.org
+R6	URL_of Arg1:T103 Arg2:T36	
+T74	Application_Mention 732 741	PathVisio
+T75	Application_Deposition 781 793	PathVisioRPC
+T104	URL 795 842	http://projects.bigcat.unimaas.nl/pathvisiorpc/
+T76	Application_Mention 863 872	PathVisio
+R7	URL_of Arg1:T104 Arg2:T75	

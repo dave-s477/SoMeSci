@@ -1,0 +1,5 @@
+T1	Application_Usage 3803 3808	STATA
+T4	Version 3809 3813	11.0
+T5	Developer 3815 3824	StataCorp
+R1	Version_of Arg1:T4 Arg2:T1	
+R2	Developer_of Arg1:T5 Arg2:T1	

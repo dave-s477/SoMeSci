@@ -1,0 +1,9 @@
+T1	Application_Usage 50 54	SPSS
+T2	Application_Usage 69 84	SPSS Statistics
+R1	Specification_of Arg1:T2 Arg2:T1	
+T3	Developer 65 68	IBM
+R2	Developer_of Arg1:T3 Arg2:T2	
+T4	Version 85 87	20
+R3	Version_of Arg1:T4 Arg2:T2	
+T5	Developer 89 104	IBM Corporation
+R4	Developer_of Arg1:T5 Arg2:T2	

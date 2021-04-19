@@ -1,0 +1,6 @@
+A public release of DCE@urLAB, together with the open source code and sample datasets, is available at http://www.die.upm.es/im/archives/DCEurLAB/.
+In this section, the compartmental models implemented in the DCE@urLAB analysis tool are described.
+Thus, an additional MRI model has been included in the DCE@urLAB application and is discussed later.
+DCE@urLAB has been implemented in a flexible and modular way, so that the addition of new analysis models is straightforward.
+A public release of DCE@urLAB, together with the open source code and sample datasets, is available at http://www.die.upm.es/im/archives/DCEurLAB/ and in Additional files [1] and [2].
+"Project name: DCE@urLAB 1.0Project home page:http://www.die.upm.es/im/archives/DCEurLAB/Operating system(s): Microsoft Windows 7/Vista/XPProgramming language: IDLOther requirements: IDL 6.4 or higher, IDL Virtual Machine 6.4 or higherLicense: BSD license"

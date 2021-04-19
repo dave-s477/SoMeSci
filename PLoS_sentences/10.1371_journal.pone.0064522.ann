@@ -1,0 +1,10 @@
+T1	Application_Usage 29 32	SAS
+T2	Application_Usage 64 70	SUDAAN
+T3	Version 50 53	9.2
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Citation 54 58	[30]
+R2	Citation_of Arg1:T4 Arg2:T1	
+T5	Version 88 92	10.0
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Citation 93 97	[31]
+R4	Citation_of Arg1:T6 Arg2:T2	

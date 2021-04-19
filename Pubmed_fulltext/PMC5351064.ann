@@ -1,0 +1,7 @@
+T1	Application_Usage 7607 7624	Open Meta-Analyst
+T2	Developer 7626 7665	Center for Evidence Synthesis in Health
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Citation 7705 7708	[9]
+R2	Citation_of Arg1:T3 Arg2:T1	
+T4	ProgrammingEnvironment_Usage 9123 9124	R
+T6	Application_Usage 9146 9163	Open Meta-Analyst

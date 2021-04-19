@@ -1,0 +1,5 @@
+T1	Application_Usage 1062 1092	Sightlines DxCG Risk Solutions
+T2	Version 1095 1098	3.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 1100 1117	Verisk Health Inc
+R2	Developer_of Arg1:T3 Arg2:T1	

@@ -1,0 +1,2 @@
+Metabomatching is written for Matlab and compatible with octave.
+Metabomatching is also available as a docker container, and within the metabolomics e-infrastructure PhenoMeNal http://phenomenal-h2020.eu.

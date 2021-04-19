@@ -1,0 +1,1 @@
+“Tabodds”, a STATA command tabulates unadjusted and adjusted odds ratios (OR), for each level of the exposure variable against a reference level which by default was the lowest level of the social capital quintile variable[27]. 

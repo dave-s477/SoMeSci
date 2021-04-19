@@ -1,0 +1,1 @@
+All preprocessing, time–frequency SPM analyses, and ERP analyses were performed using SPM8 (http://www.fil.ion.ucl.ac.uk/spm) implemented in MATLAB R2012b (MathWorks). 

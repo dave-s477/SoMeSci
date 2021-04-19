@@ -1,0 +1,7 @@
+We present CapR, an efficient algorithm that calculates the probability that each RNA base position is located within each secondary structural context.
+Using CapR, we demonstrate that several RBPs bind to their target RNA molecules under specific structural contexts.
+CapR is available at https://sites.google.com/site/fukunagatsu/software/capr.
+We implemented our efficient algorithm as software named ‘CapR’, which can compute the structural profiles for tens of thousands of long RNAs within a reasonable time by enumerating all the possible secondary structures of the RNAs.
+In this study, we developed an efficient algorithm that calculates the structural profiles of RNAs, and implemented it as CapR.
+The algorithm was implemented as software named CapR and was applied to the CLIP-seq data of various RBPs.
+We implemented the algorithms in C++ as a program named CapR.

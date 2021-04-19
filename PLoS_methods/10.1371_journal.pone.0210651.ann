@@ -1,0 +1,6 @@
+T1	Application_Usage 7854 7864	Statistica
+T2	OperatingSystem_Usage 7874 7881	Windows
+T3	Version 7865 7869	10.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 7885 7893	StatSoft
+R2	Developer_of Arg1:T4 Arg2:T1	

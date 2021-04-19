@@ -1,0 +1,7 @@
+T1	Application_Creation 13 25	Hi-Corrector
+T3	SoftwareCoreference_Deposition 116 123	package
+T2	URL 147 183	http://zhoulab.usc.edu/Hi-Corrector/
+R1	URL_of Arg1:T2 Arg2:T3	
+T4	Application_Creation 198 210	Hi-Corrector
+T5	Application_Mention 282 294	Hi-Corrector
+T6	Application_Mention 406 418	Hi-Corrector

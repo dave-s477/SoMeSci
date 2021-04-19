@@ -1,0 +1,5 @@
+T2	Application_Usage 12940 12943	SAS
+T7	Version 12952 12955	9∙3
+R3	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 12957 12970	SAS Institute
+R4	Developer_of Arg1:T8 Arg2:T2	

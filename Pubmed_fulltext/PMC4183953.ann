@@ -1,0 +1,37 @@
+T1	ProgrammingEnvironment_Usage 21779 21785	Matlab
+T2	Developer 21787 21796	MathWorks
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 21802 21808	Cogent
+T4	Developer 21810 21813	FIL
+R2	Developer_of Arg1:T4 Arg2:T3	
+T5	Application_Usage 23394 23398	AFNI
+T6	Developer 23400 23403	NIH
+R3	Developer_of Arg1:T6 Arg2:T5	
+T7	Application_Usage 24328 24332	AFNI
+T8	PlugIn_Usage 25509 25521	3dDeconvolve
+T9	PlugIn_Usage 26621 26630	3dmaskave
+T10	Application_Usage 26614 26618	AFNI
+R4	PlugIn_of Arg1:T9 Arg2:T10	
+T11	Application_Usage 27985 27989	SPSS
+T12	Version 27991 27993	21
+R5	Version_of Arg1:T12 Arg2:T11	
+T13	Developer 27995 27998	IBM
+R6	Developer_of Arg1:T13 Arg2:T11	
+T14	Application_Usage 29178 29182	AFNI
+T15	PlugIn_Usage 29734 29743	3dmaskave
+T16	PlugIn_Usage 29789 29798	3dDetrend
+T17	Application_Usage 30051 30055	AFNI
+T18	PlugIn_Usage 30056 30061	waver
+T19	Application_Usage 31095 31099	AFNI
+T20	Application_Usage 31188 31216	Advanced Normalization Tools
+T21	Abbreviation 31218 31222	ANTs
+R7	Abbreviation_of Arg1:T21 Arg2:T20	
+T22	Application_Usage 31805 31809	AFNI
+T23	PlugIn_Usage 31812 31822	3dttest+ +
+T24	PlugIn_Usage 32431 32441	3dttest+ +
+T25	PlugIn_Usage 32555 32562	3dFWHMx
+T26	PlugIn_Usage 32577 32587	3dClustsim
+T27	URL 29199 29249	http://afni.nimh.nih.gov/sscc/gangc/CD-CorrAna.htm
+R8	URL_of Arg1:T27 Arg2:T14	
+R9	PlugIn_of Arg1:T18 Arg2:T17	
+R10	PlugIn_of Arg1:T23 Arg2:T22	

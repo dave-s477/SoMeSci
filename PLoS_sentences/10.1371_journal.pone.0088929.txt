@@ -1,0 +1,1 @@
+To analyze associations between individual and environmental variables and walking for transportation, we estimated several multilevel logit ordinal regression models using the Dual Quasi-Newton optimization estimation approach of Proc Glimmix in SAS 9.3 (SAS Institute Inc., Cary, North Carolina). 

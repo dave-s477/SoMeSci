@@ -1,0 +1,14 @@
+T1	ProgrammingEnvironment_Usage 12455 12456	R
+T2	Version 12466 12471	3.1.3
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	PlugIn_Usage 12485 12501	OptimalCutpoints
+T4	Application_Usage 11761 11766	Blast
+T5	Developer 11756 11760	NCBI
+R2	Developer_of Arg1:T5 Arg2:T4	
+T6	URL 11768 11808	https://blast.ncbi.nlm.nih.gov/Blast.cgi
+R3	URL_of Arg1:T6 Arg2:T4	
+T7	Application_Usage 11814 11820	Primer
+T8	Version 11821 11822	3
+R4	Version_of Arg1:T8 Arg2:T7	
+T9	URL 11824 11859	http://bioinfo.ut.ee/primer3-0.4.0/
+R5	URL_of Arg1:T9 Arg2:T7	

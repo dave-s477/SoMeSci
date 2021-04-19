@@ -1,0 +1,3 @@
+Further analyses regarding behavioural data (t-test for paired samples) were carried out using SPSS 11 (SPSS Inc., Chicago, USA).
+
+All further statistical analyses (t-tests for dependent samples) were calculated using the software package SPSS 11.5 (SPSS Inc., Chicago, USA). 

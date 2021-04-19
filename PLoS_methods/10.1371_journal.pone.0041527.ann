@@ -1,0 +1,18 @@
+T1	Application_Usage 7960 7963	SAS
+T2	Application_Usage 7860 7868	Epi Info
+T3	Application_Usage 8409 8415	MAXQDA
+T4	Application_Usage 8603 8609	MAXQDA
+T6	Version 7869 7874	3.5.1
+T7	Developer 7876 7879	CDC
+R1	Version_of Arg1:T6 Arg2:T2	
+R2	Developer_of Arg1:T7 Arg2:T2	
+T8	Version 7964 7967	9.2
+R3	Version_of Arg1:T8 Arg2:T1	
+T9	Developer 7969 7982	SAS Institute
+R4	Developer_of Arg1:T9 Arg2:T1	
+T10	Version 8416 8418	10
+T11	Developer 8420 8466	VERBI Software, Consult. Sozialforschung. GmbH
+R5	Developer_of Arg1:T11 Arg2:T3	
+R6	Version_of Arg1:T10 Arg2:T3	
+T12	Version 8610 8612	10
+R7	Version_of Arg1:T12 Arg2:T4	

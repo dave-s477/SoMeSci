@@ -1,0 +1,2 @@
+The 2006-survey data were double entered and cleaned in Epi Info 6.04 (CDC, Atlanta; WHO, Geneva 1996), and analyzed with STATA 9.0 software (Stata Corp., College Station, TX). Descriptive statistics were computed using the “svy” command in STATA, in order to take into account the survey characteristics.
+

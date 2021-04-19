@@ -1,0 +1,19 @@
+T1	Application_Usage 4520 4529	Cyberball
+T2	Application_Mention 5128 5137	Cyberball
+T3	Application_Usage 7482 7485	SPM
+T4	Application_Usage 7893 7896	SPM
+T5	Application_Usage 8767 8770	SPM
+T6	Application_Usage 8920 8923	SPM
+T7	Application_Usage 3459 3468	Cyberball
+T8	Application_Mention 5277 5286	Cyberball
+T9	Application_Usage 6377 6386	Cyberball
+T10	Version 7485 7486	8
+R1	Version_of Arg1:T10 Arg2:T3	
+T11	URL 7488 7520	http://www.fil.ion.ucl.ac.uk/spm
+R2	URL_of Arg1:T11 Arg2:T3	
+T12	Version 7896 7897	8
+R3	Version_of Arg1:T12 Arg2:T4	
+T13	Version 8770 8771	8
+T14	Version 8923 8924	8
+R4	Version_of Arg1:T13 Arg2:T5	
+R5	Version_of Arg1:T14 Arg2:T6	

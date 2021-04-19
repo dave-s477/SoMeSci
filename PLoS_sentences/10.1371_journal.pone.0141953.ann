@@ -1,0 +1,7 @@
+T1	Application_Usage 61 66	STATA
+T2	Extension 67 71	S.E.
+R1	Extension_of Arg1:T2 Arg2:T1	
+T3	Version 72 76	10.0
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 78 95	STATA Corp., Inc.
+R3	Developer_of Arg1:T4 Arg2:T1	

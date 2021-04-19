@@ -1,0 +1,6 @@
+T1	Application_Usage 5005 5012	OpenEpi
+T2	Application_Usage 5094 5097	SAS
+T3	Citation 5027 5031	[25]
+R1	Citation_of Arg1:T3 Arg2:T1	
+T4	Version 5106 5109	9.2
+R2	Version_of Arg1:T4 Arg2:T2	

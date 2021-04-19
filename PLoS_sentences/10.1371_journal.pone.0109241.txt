@@ -1,0 +1,1 @@
+Distance matrices for the introductory syllable and the shared syllable measurements were built as the Euclidean distance between the group centroids of first discriminant functions using SPSS, in which variables were scaled to values between 0 and 1. 

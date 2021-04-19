@@ -1,0 +1,1 @@
+Data are weighted to control for the survey design and random intercept models run in Stata 13 [30]. 

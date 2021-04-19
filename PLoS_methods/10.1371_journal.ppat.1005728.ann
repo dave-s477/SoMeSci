@@ -1,0 +1,7 @@
+T1	PlugIn_Usage 14284 14292	survival
+T2	ProgrammingEnvironment_Usage 14312 14313	R
+T3	Citation 14302 14306	[27]
+R1	Citation_of Arg1:T3 Arg2:T1	
+R2	PlugIn_of Arg1:T1 Arg2:T2	
+T4	Citation 14314 14318	[28]
+R3	Citation_of Arg1:T4 Arg2:T2	

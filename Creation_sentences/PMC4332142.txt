@@ -1,0 +1,4 @@
+We introduce MatrixConverter, a program that helps expedite and facilitate the transformation of raw phenomic character data into discrete character matrices that can be used in most evolutionary inference programs.
+• Methods and Results: MatrixConverter is an open source program written in Java; a platform-independent binary executable, as well as sample data sets and a user’s manual, are available at https://github.com/gburleigh/MatrixConverter/tree/master/distribution.
+MatrixConverter is an open source program written in Java.
+The source code is available at https://github.com/gburleigh/MatrixConverter/.

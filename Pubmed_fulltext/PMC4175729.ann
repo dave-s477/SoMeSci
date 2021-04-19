@@ -1,0 +1,5 @@
+T1	Application_Usage 8821 8825	SPSS
+T2	Version 8860 8864	18.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Extension 8826 8829	Pc+
+R2	Extension_of Arg1:T3 Arg2:T1	

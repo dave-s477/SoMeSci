@@ -1,0 +1,1 @@
+In our study, it was calculated by fitting model 2 to the first set of imputed data and then using the punafcc package in STATA 14. 

@@ -1,0 +1,10 @@
+T1	Application_Usage 3909 3917	Xcalibur
+T2	Application_Usage 8867 8876	OriginLab
+T3	Version 3918 3921	1.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 8882 8883	8
+R2	Version_of Arg1:T4 Arg2:T2	
+T5	Developer 8885 8900	OriginLab Corp.
+R3	Developer_of Arg1:T5 Arg2:T2	
+T6	Extension 8878 8881	Pro
+R4	Extension_of Arg1:T6 Arg2:T2	

@@ -1,0 +1,15 @@
+T1	Application_Usage 4655 4664	CellQuest
+T2	Application_Usage 6087 6126	Statistical Package for Social Sciences
+T3	Application_Usage 6221 6226	Prism
+T4	Developer 4675 4689	BD Biosciences
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 6135 6139	15.0
+R2	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 6150 6159	SPSS inc.
+R3	Developer_of Arg1:T6 Arg2:T2	
+T7	Developer 6212 6220	GraphPad
+R4	Developer_of Arg1:T7 Arg2:T3	
+T8	Version 6227 6228	5
+R5	Version_of Arg1:T8 Arg2:T3	
+T9	Developer 6239 6261	GraphPad Software inc.
+R6	Developer_of Arg1:T9 Arg2:T3	

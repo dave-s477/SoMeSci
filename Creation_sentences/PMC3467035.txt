@@ -1,0 +1,4 @@
+Availability: FunciSNP is available from Bioconductor (bioconductor.org).
+Here, we describe a new bioinformatic tool, called Functional Identification of SNPs (FunciSNP) to aid in the identification of candidate functional SNPs associated with a phenotype by integrating and correlating knowledge obtained from three whole-genome sequencing data types (1000 genomes, GWAS SNPs and sequence-based chromatin maps).
+FunciSNP is an R package, which is licensed under the General Public License (GPLv3) and is freely available through the Bioconductor repository ( [31]).
+We developed FunciSNP to fully integrate information derived from GWAS, 1000 genomes database and chromatin mapping/epigenomics data in order to identify candidate functional SNPs.

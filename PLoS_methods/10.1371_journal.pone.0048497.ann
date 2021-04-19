@@ -1,0 +1,11 @@
+T1	Application_Usage 6623 6630	OOIBase
+T2	Developer 6616 6622	Optics
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 6635 6642	2.0.6.5
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 6653 6671	Ocean Optics, Inc.
+R3	Developer_of Arg1:T4 Arg2:T1	
+T5	Extension 6631 6633	32
+R4	Extension_of Arg1:T5 Arg2:T1	
+T6	Release 6682 6686	2002
+R5	Release_of Arg1:T6 Arg2:T1	

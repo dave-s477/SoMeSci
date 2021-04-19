@@ -1,0 +1,17 @@
+T3	Application_Creation 153 157	DOGS
+T58	AlternativeName 159 187	Design Of Genuine Structures
+R1	AlternativeName_of Arg1:T58 Arg2:T3	
+T10	Application_Mention 190 194	DOGS
+T21	Application_Creation 415 419	DOGS
+T9	ProgrammingEnvironment_Usage 473 477	Java
+T59	Developer 479 497	Oracle Corporation
+T60	Version 558 561	1.6
+T61	Application_Usage 575 600	Chemistry Development Kit
+T62	Abbreviation 602 605	CDK
+T63	Version 615 620	1.0.2
+T64	Citation 622 632	[23], [24]
+R2	Developer_of Arg1:T59 Arg2:T9	
+R3	Version_of Arg1:T60 Arg2:T9	
+R4	Abbreviation_of Arg1:T62 Arg2:T61	
+R5	Version_of Arg1:T63 Arg2:T61	
+R6	Citation_of Arg1:T64 Arg2:T61	

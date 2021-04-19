@@ -1,0 +1,13 @@
+T1	PlugIn_Creation 46 55	DriverNet
+T2	PlugIn_Deposition 148 157	DriverNet
+T3	PlugIn_Mention 174 186	Bioconductor
+T4	URL 193 236	http://compbio.bccrc.ca/software/drivernet/
+R1	PlugIn_of Arg1:T2 Arg2:T3	
+R2	URL_of Arg1:T4 Arg2:T2	
+T5	PlugIn_Creation 321 330	DriverNet
+T6	PlugIn_Creation 612 621	DriverNet
+T7	PlugIn_Creation 802 811	DriverNet
+T8	PlugIn_Creation 925 934	DriverNet
+T9	ProgrammingEnvironment_Usage 984 985	R
+T10	Citation 994 998	[31]
+R3	Citation_of Arg1:T10 Arg2:T9	

@@ -1,0 +1,1 @@
+Overlapping voxels of activity resulting from these two conditions within the MNS mask were counted per participant using a custom code written in MATLAB, and then compared between groups using an independent sample t-test. 

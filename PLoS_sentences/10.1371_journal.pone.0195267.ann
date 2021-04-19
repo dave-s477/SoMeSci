@@ -1,0 +1,9 @@
+T1	Application_Usage 62 70	R Studio
+T2	PlugIn_Usage 32 36	dlnm
+T3	Application_Usage 126 129	SAS
+T4	Version 53 58	2.2.6
+R1	Version_of Arg1:T4 Arg2:T2	
+T5	Version 132 135	9.4
+T6	Developer 137 155	SAS Institute Inc.
+R2	Developer_of Arg1:T6 Arg2:T3	
+R3	Version_of Arg1:T5 Arg2:T3	

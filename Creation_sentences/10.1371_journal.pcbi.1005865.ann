@@ -1,0 +1,11 @@
+T2	Application_Creation 38 45	pSSAlib
+T4	Application_Creation 218 225	pSSAlib
+T14	Application_Creation 437 444	pSSAlib
+T57	ProgrammingEnvironment_Usage 459 462	C++
+T48	Application_Deposition 583 590	pSSAlib
+T8	URL 657 674	mosaic.mpi-cbg.de
+T9	License 700 708	GNU LGPL
+T56	Version 710 711	3
+R1	URL_of Arg1:T8 Arg2:T48	
+R2	Version_of Arg1:T56 Arg2:T9	
+R3	License_of Arg1:T9 Arg2:T48	

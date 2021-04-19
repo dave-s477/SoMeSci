@@ -1,0 +1,5 @@
+T1	Application_Usage 61 65	SPSS
+T2	Version 71 73	19
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 75 78	IBM
+R2	Developer_of Arg1:T3 Arg2:T1	

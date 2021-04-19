@@ -1,0 +1,6 @@
+T1	Application_Usage 34 38	SPSS
+T2	Application_Usage 12 16	AMOS
+T3	Developer 30 33	IBM
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 43 47	21.0
+R2	Version_of Arg1:T4 Arg2:T1	

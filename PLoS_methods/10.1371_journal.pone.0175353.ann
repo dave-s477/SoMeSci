@@ -1,0 +1,5 @@
+T1	Application_Usage 8251 8256	Stata
+T2	Version 8265 8269	14.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 8271 8280	StataCorp
+R2	Developer_of Arg1:T3 Arg2:T1	

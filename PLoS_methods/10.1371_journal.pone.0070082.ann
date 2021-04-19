@@ -1,0 +1,5 @@
+T1	Application_Usage 9005 9010	Stata
+T9	Version 9041 9045	11.2
+R3	Version_of Arg1:T9 Arg2:T1	
+T10	Developer 9047 9056	StataCorp
+R4	Developer_of Arg1:T10 Arg2:T1	

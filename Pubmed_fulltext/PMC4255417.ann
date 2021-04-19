@@ -1,0 +1,8 @@
+T1	Application_Mention 10269 10279	NeuroQuant
+T2	Developer 10281 10299	CorTechs Labs Inc.
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Application_Mention 12540 12550	FreeSurfer
+T4	Application_Mention 12555 12592	Learning Embeddings Atlas Propagation
+T5	Application_Mention 12733 12738	Quarc
+T6	Developer 12758 12763	Quarc
+R2	Developer_of Arg1:T6 Arg2:T5	

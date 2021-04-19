@@ -1,0 +1,143 @@
+T1	Application_Usage 4327 4337	GENEMAPPER
+T2	Application_Usage 4431 4438	BIOEDIT
+T3	Application_Usage 4515 4523	ARLEQUIN
+T4	Application_Usage 4782 4787	PHASE
+T5	Application_Usage 4965 4975	SPLITSTREE
+T6	Application_Usage 5060 5070	Datamonkey
+T7	Application_Usage 5484 5493	MODELTEST
+T8	Application_Usage 5556 5561	PhyML
+T9	Application_Usage 5751 5758	MRBAYES
+T10	Application_Usage 6151 6155	PAUP
+T11	Application_Usage 6213 6220	NETWORK
+T12	Application_Usage 6550 6558	ARLEQUIN
+T13	Application_Usage 6614 6621	GENEPOP
+T14	Application_Usage 6817 6824	GENEPOP
+T15	Application_Usage 6884 6888	MEGA
+T16	Application_Usage 7167 7175	ARLEQUIN
+T17	Application_Usage 7206 7214	ARLEQUIN
+T18	Application_Usage 7691 7696	BEAST
+T19	Application_Usage 8765 8774	MODELTEST
+T20	Application_Usage 9461 9467	TRACER
+T21	Application_Usage 9482 9487	BEAST
+T22	Application_Usage 9793 9800	GENEPOP
+T23	Application_Usage 9714 9722	ARLEQUIN
+T24	Application_Usage 9957 9962	FSTAT
+T25	Application_Usage 10097 10102	FSTAT
+T26	Application_Usage 10197 10203	FREENA
+T27	Application_Usage 10244 10257	MICRO-CHECKER
+T29	Application_Usage 10369 10378	STRUCTURE
+T30	Application_Usage 10656 10662	CLUMPP
+T31	Application_Usage 10733 10741	GENELAND
+T32	Application_Usage 11201 11209	DISTRUCT
+T33	Application_Usage 11341 11349	ARLEQUIN
+T34	Application_Usage 11587 11595	ARLEQUIN
+T35	Application_Usage 11600 11607	SPAGeDI
+T36	Application_Usage 12169 12177	LAGRANGE
+T37	Application_Usage 12542 12547	BEAST
+T38	Application_Usage 13144 13150	DIYABC
+T41	Application_Usage 10359 10366	GENEPOP
+T42	Application_Usage 11150 11159	STRUCTURE
+T43	Application_Usage 11164 11172	GENELAND
+T44	Application_Usage 11641 11644	VIP
+T45	Application_Mention 11758 11761	VIP
+T47	Version 4338 4341	4.0
+T48	Developer 4343 4361	Applied Biosystems
+R2	Version_of Arg1:T47 Arg2:T1	
+R3	Developer_of Arg1:T48 Arg2:T1	
+T49	Version 4439 4446	7.0.9.0
+T50	Citation 4447 4451	[32]
+R4	Version_of Arg1:T49 Arg2:T2	
+R5	Citation_of Arg1:T50 Arg2:T2	
+T51	Version 4524 4528	3.11
+R6	Version_of Arg1:T51 Arg2:T3	
+T52	Citation 4529 4533	[33]
+R7	Citation_of Arg1:T52 Arg2:T3	
+T53	Version 4788 4791	2.1
+T54	Citation 4792 4796	[34]
+R8	Citation_of Arg1:T54 Arg2:T4	
+R9	Version_of Arg1:T53 Arg2:T4	
+T55	Version 4976 4982	4.11.3
+R10	Version_of Arg1:T55 Arg2:T5	
+T56	Citation 4983 4987	[35]
+T57	Citation 5081 5085	[37]
+R11	Citation_of Arg1:T57 Arg2:T6	
+T58	Version 5494 5497	3.0
+R12	Version_of Arg1:T58 Arg2:T7	
+T59	Citation 5498 5502	[38]
+R13	Citation_of Arg1:T59 Arg2:T7	
+T60	Version 5562 5565	3.0
+T61	Citation 5566 5570	[39]
+R14	Version_of Arg1:T60 Arg2:T8	
+R15	Citation_of Arg1:T61 Arg2:T8	
+T62	Version 5759 5765	3.1.1.
+T63	Citation 5766 5770	[40]
+R16	Version_of Arg1:T62 Arg2:T9	
+R17	Citation_of Arg1:T63 Arg2:T9	
+T64	Version 6156 6162	4.0b10
+R18	Version_of Arg1:T64 Arg2:T10	
+T65	Citation 6163 6167	[41]
+R19	Citation_of Arg1:T65 Arg2:T10	
+T66	Version 6221 6228	4.5.1.6
+R20	Version_of Arg1:T66 Arg2:T11	
+T67	Citation 6229 6233	[42]
+R21	Citation_of Arg1:T67 Arg2:T11	
+T68	Version 6622 6628	4.0.11
+R22	Version_of Arg1:T68 Arg2:T13	
+T69	Citation 6629 6633	[43]
+R23	Citation_of Arg1:T69 Arg2:T13	
+T70	Version 6889 6892	4.1
+R24	Version_of Arg1:T70 Arg2:T15	
+T71	Citation 6893 6897	[44]
+T72	Version 7697 7702	1.6.1
+T73	Citation 7703 7707	[46]
+R25	Version_of Arg1:T72 Arg2:T18	
+R26	Citation_of Arg1:T73 Arg2:T18	
+T74	Version 9468 9471	1.5
+R27	Version_of Arg1:T74 Arg2:T20	
+T75	Citation 9472 9476	[54]
+T78	Version 9963 9970	2.9.3.2
+R30	Version_of Arg1:T78 Arg2:T24	
+T79	Citation 9971 9975	[55]
+R32	Citation_of Arg1:T79 Arg2:T24	
+T28	Citation 10204 10208	[56]
+R31	Citation_of Arg1:T28 Arg2:T26	
+T80	Version 10258 10263	2.2.3
+T81	Citation 10264 10268	[57]
+R33	Version_of Arg1:T80 Arg2:T27	
+R34	Citation_of Arg1:T81 Arg2:T27	
+T82	Version 10379 10384	2.3.1
+R35	Version_of Arg1:T82 Arg2:T29	
+T83	Citation 10385 10389	[58]
+R36	Citation_of Arg1:T83 Arg2:T29	
+T84	Version 10663 10666	1.1
+T85	Citation 10667 10671	[59]
+T86	Version 10742 10747	3.3.0
+T87	Citation 10748 10752	[60]
+T88	Citation 11210 11214	[61]
+R37	Citation_of Arg1:T88 Arg2:T32	
+T89	Version 11608 11611	1.3
+T90	Citation 11612 11616	[62]
+R38	Version_of Arg1:T84 Arg2:T30	
+R39	Citation_of Arg1:T85 Arg2:T30	
+R40	Version_of Arg1:T86 Arg2:T31	
+R41	Citation_of Arg1:T87 Arg2:T31	
+R42	Version_of Arg1:T89 Arg2:T35	
+R43	Citation_of Arg1:T90 Arg2:T35	
+T91	AlternativeName 11646 11674	Vicariance Inference Program
+R44	AlternativeName_of Arg1:T91 Arg2:T44	
+T92	Citation 11676 11680	[63]
+R45	Citation_of Arg1:T92 Arg2:T44	
+T93	Citation 12178 12182	[64]
+R46	Citation_of Arg1:T93 Arg2:T36	
+T94	Version 13151 13163	1.0.4.45beta
+T95	Citation 13164 13168	[66]
+R47	Version_of Arg1:T94 Arg2:T38	
+R48	Citation_of Arg1:T95 Arg2:T38	
+R49	Citation_of Arg1:T56 Arg2:T5	
+R50	Citation_of Arg1:T75 Arg2:T20	
+R51	Citation_of Arg1:T71 Arg2:T15	
+T39	Application_Usage 9546 9555	Bioportal
+T40	Developer 9563 9581	University of Oslo
+R1	Developer_of Arg1:T40 Arg2:T39	
+T46	URL 9583 9610	http://www.bioportal.uio.no
+R28	URL_of Arg1:T46 Arg2:T39	

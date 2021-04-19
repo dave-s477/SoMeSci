@@ -1,0 +1,65 @@
+T1	Application_Usage 3756 3762	FastQC
+T2	Application_Usage 3828 3839	Trimmomatic
+T3	Application_Usage 4181 4185	STAR
+T4	Application_Usage 4274 4282	Samtools
+T5	Application_Usage 4737 4745	Mirdeep2
+T6	Application_Usage 4994 4999	BLAST
+T7	Application_Usage 5113 5121	Mirdeep2
+T8	ProgrammingEnvironment_Usage 5429 5430	R
+T9	PlugIn_Usage 5456 5461	edgeR
+T10	PlugIn_Usage 5468 5473	vegan
+T11	PlugIn_Usage 5483 5489	gplots
+T12	ProgrammingEnvironment_Usage 5664 5665	R
+T13	PlugIn_Usage 5659 5663	edge
+T14	Application_Usage 7248 7260	Primer-BLAST
+T15	Application_Usage 7658 7697	Statistical Package for Social Sciences
+T16	Application_Usage 8156 8182	Ingenuity Pathway Analysis
+T17	Application_Usage 9212 9217	miRDB
+T18	Application_Usage 9590 9600	TargetScan
+T19	Application_Usage 9791 9796	miRDB
+T22	Version 3773 3779	0.11.2
+T23	Citation 3780 3784	[89]
+R1	Version_of Arg1:T22 Arg2:T1	
+R2	Citation_of Arg1:T23 Arg2:T1	
+T24	Citation 3840 3844	[90]
+R3	Citation_of Arg1:T24 Arg2:T2	
+T25	Citation 4186 4190	[91]
+R4	Citation_of Arg1:T25 Arg2:T3	
+T26	Citation 4283 4287	[92]
+R5	Citation_of Arg1:T26 Arg2:T4	
+T27	Citation 4746 4750	[43]
+R6	Citation_of Arg1:T27 Arg2:T5	
+T29	Citation 5000 5004	[95]
+R8	Citation_of Arg1:T29 Arg2:T6	
+T30	Citation 5462 5466	[96]
+R9	Citation_of Arg1:T30 Arg2:T9	
+T31	Citation 5474 5478	[97]
+R10	Citation_of Arg1:T31 Arg2:T10	
+T32	Citation 5490 5494	[98]
+R11	Citation_of Arg1:T32 Arg2:T11	
+R12	PlugIn_of Arg1:T9 Arg2:T8	
+R13	PlugIn_of Arg1:T10 Arg2:T8	
+R14	PlugIn_of Arg1:T11 Arg2:T8	
+R15	PlugIn_of Arg1:T13 Arg2:T12	
+T33	Developer 7262 7266	NCBI
+R16	Developer_of Arg1:T33 Arg2:T14	
+T34	Developer 7654 7657	IBM
+R17	Developer_of Arg1:T34 Arg2:T15	
+T35	Application_Usage 7708 7712	SPSS
+T36	Version 7719 7721	21
+R18	Version_of Arg1:T36 Arg2:T35	
+T37	Developer 7723 7736	IMB SPSS Inc.
+R19	Developer_of Arg1:T37 Arg2:T35	
+R20	Specification_of Arg1:T35 Arg2:T15	
+T38	Application_Usage 8184 8187	IPA
+T39	Developer 8189 8211	Ingenuity Systems Inc.
+R22	Developer_of Arg1:T39 Arg2:T38	
+T40	Developer 8149 8155	Qiagen
+R23	Developer_of Arg1:T40 Arg2:T16	
+T41	Citation 9227 9232	[101]
+R24	Citation_of Arg1:T41 Arg2:T17	
+T42	Version 9611 9614	7.0
+R25	Version_of Arg1:T42 Arg2:T18	
+T43	Citation 9615 9620	[102]
+R26	Citation_of Arg1:T43 Arg2:T18	
+R7	Specification_of Arg1:T38 Arg2:T16	

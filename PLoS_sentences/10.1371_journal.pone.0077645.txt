@@ -1,0 +1,2 @@
+We also used STATA 10.0 to calculate the equilibrium and Deff.
+

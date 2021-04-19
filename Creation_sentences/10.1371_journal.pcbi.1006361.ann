@@ -1,0 +1,36 @@
+T2	PlugIn_Creation 26 32	scPipe
+T6	ProgrammingEnvironment_Mention 37 38	R
+T63	PlugIn_Mention 39 51	Bioconductor
+R1	PlugIn_of Arg1:T2 Arg2:T6	
+R2	PlugIn_of Arg1:T63 Arg2:T6	
+T5	PlugIn_Deposition 301 307	scPipe
+T74	ProgrammingEnvironment_Mention 308 309	R
+T75	URL 349 393	https://www.bioconductor.org/packages/scPipe
+R3	PlugIn_of Arg1:T5 Arg2:T74	
+R4	URL_of Arg1:T75 Arg2:T5	
+T8	PlugIn_Creation 479 485	scPipe
+T18	PlugIn_Creation 592 598	scPipe
+T76	ProgrammingEnvironment_Mention 605 606	R
+T78	Citation 607 611	[13]
+T77	PlugIn_Mention 614 626	Bioconductor
+T79	Citation 627 631	[14]
+R5	PlugIn_of Arg1:T18 Arg2:T76	
+R6	Citation_of Arg1:T78 Arg2:T76	
+R7	Citation_of Arg1:T79 Arg2:T77	
+R8	PlugIn_of Arg1:T77 Arg2:T76	
+T19	PlugIn_Creation 793 799	scPipe
+T80	ProgrammingEnvironment_Usage 822 823	R
+T81	ProgrammingEnvironment_Usage 828 831	C++
+T82	PlugIn_Usage 845 849	Rcpp
+T83	Citation 858 866	[16, 17]
+T84	ProgrammingEnvironment_Mention 879 882	C++
+T85	ProgrammingEnvironment_Mention 893 894	R
+T86	PlugIn_Usage 913 920	Rhtslib
+T87	Citation 929 933	[18]
+R9	Citation_of Arg1:T83 Arg2:T82	
+R10	Citation_of Arg1:T87 Arg2:T86	
+R11	PlugIn_of Arg1:T86 Arg2:T80	
+R12	PlugIn_of Arg1:T82 Arg2:T80	
+T62	PlugIn_Deposition 960 966	scPipe
+T88	URL 993 1037	https://www.bioconductor.org/packages/scPipe
+R13	URL_of Arg1:T88 Arg2:T62	

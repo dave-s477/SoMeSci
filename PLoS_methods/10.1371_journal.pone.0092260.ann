@@ -1,0 +1,10 @@
+T1	ProgrammingEnvironment_Usage 644 650	Matlab
+T2	PlugIn_Usage 670 682	Psychtoolbox
+T4	ProgrammingEnvironment_Usage 3024 3030	Matlab
+T7	Release 659 665	R2009b
+R3	Release_of Arg1:T7 Arg2:T1	
+T8	Citation 683 687	[57]
+R5	Citation_of Arg1:T8 Arg2:T2	
+T9	Citation 689 693	[58]
+R6	Citation_of Arg1:T9 Arg2:T2	
+R1	PlugIn_of Arg1:T2 Arg2:T1	

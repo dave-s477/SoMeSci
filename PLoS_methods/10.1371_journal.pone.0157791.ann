@@ -1,0 +1,6 @@
+T1	Application_Usage 2114 2157	Statistical Package for the Social Sciences
+T2	OperatingSystem_Usage 2169 2176	Windows
+T3	Abbreviation 2159 2163	SPSS
+R1	Abbreviation_of Arg1:T3 Arg2:T1	
+T4	Version 2185 2189	19.0
+R2	Version_of Arg1:T4 Arg2:T1	

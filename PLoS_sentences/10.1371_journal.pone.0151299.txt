@@ -1,0 +1,1 @@
+Given that some families contributed more than one subject, hierarchical clustering of data was taken into account by including a family as a random effect in a linear mixed model, using the stata xtmixed command, fitted with restricted maximum likelihood estimation. 

@@ -1,0 +1,14 @@
+T1	Application_Creation 82 88	DelPhi
+T2	Application_Mention 138 144	DelPhi
+T3	SoftwareCoreference_Deposition 156 164	resource
+T4	URL 222 259	http://compbio.clemson.edu/DelPhi.php
+R2	URL_of Arg1:T4 Arg2:T3	
+T5	Application_Creation 292 298	DelPhi
+T6	Application_Deposition 348 354	DelPhi
+T7	URL 379 416	http://compbio.clemson.edu/delphi.php
+T8	OperatingSystem_Usage 438 443	Linux
+T9	OperatingSystem_Usage 445 448	Mac
+T10	OperatingSystem_Usage 450 457	Windows
+T11	ProgrammingEnvironment_Usage 480 487	Fortran
+T12	ProgrammingEnvironment_Usage 492 493	C
+R1	URL_of Arg1:T7 Arg2:T6	

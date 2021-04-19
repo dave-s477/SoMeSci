@@ -1,0 +1,5 @@
+T1	Application_Usage 68 72	Word
+T2	Application_Usage 77 82	Excel
+T3	Developer 58 67	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T2	

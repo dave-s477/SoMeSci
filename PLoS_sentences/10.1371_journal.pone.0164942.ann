@@ -1,0 +1,10 @@
+T1	Application_Usage 57 72	SPSS Statistics
+T2	Application_Usage 25 30	Mplus
+T3	Version 31 34	7.1
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Citation 44 48	[28]
+R2	Citation_of Arg1:T4 Arg2:T2	
+T5	Developer 53 56	IBM
+R3	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 73 77	22.0
+R4	Version_of Arg1:T6 Arg2:T1	

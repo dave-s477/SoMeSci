@@ -1,0 +1,7 @@
+T3	Application_Mention 0 3	OHM
+T4	AlternativeName 5 17	OligoHeatMap
+T5	Application_Mention 320 327	TreeDyn
+R2	AlternativeName_of Arg1:T4 Arg2:T3	
+T1	Application_Deposition 367 370	OHM
+T2	URL 394 422	http://bioinfo.unice.fr/ohm/
+R1	URL_of Arg1:T2 Arg2:T1	

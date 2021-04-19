@@ -1,0 +1,35 @@
+T1	Application_Usage 2640 2644	Mach
+T2	Application_Usage 7057 7061	Mach
+T4	Application_Usage 10094 10099	GRIMP
+T5	Application_Usage 10359 10364	METAL
+T6	Application_Usage 11451 11466	SPSS Statistics
+T7	Application_Usage 11425 11430	PLINK
+T8	Application_Usage 11603 11608	METAL
+T9	Application_Usage 12213 12218	PLINK
+T10	Application_Usage 12237 12252	SPSS Statistics
+T11	Application_Usage 12641 12646	PLINK
+T12	Application_Usage 12846 12851	METAL
+T15	Application_Usage 6387 6397	BeadStudio
+T18	Version 2645 2648	1.0
+R2	Version_of Arg1:T18 Arg2:T1	
+T19	Version 7062 7065	1.0
+T20	Citation 7092 7096	[16]
+R3	Citation_of Arg1:T20 Arg2:T2	
+R5	Version_of Arg1:T19 Arg2:T2	
+T21	Citation 2675 2679	[16]
+R6	Citation_of Arg1:T21 Arg2:T1	
+T22	Application_Usage 10053 10061	Mach2QTL
+T3	Citation 10100 10104	[20]
+R7	Citation_of Arg1:T3 Arg2:T4	
+T23	URL 10366 10402	www.sph.umich.edu/csg/abecasis/metal
+R8	URL_of Arg1:T23 Arg2:T5	
+T24	Citation 11431 11435	[21]
+R9	Citation_of Arg1:T24 Arg2:T7	
+T25	Version 11467 11471	17.0
+R10	Version_of Arg1:T25 Arg2:T6	
+T26	Version 12253 12257	17.0
+R11	Version_of Arg1:T26 Arg2:T10	
+T14	AlternativeName 7067 7091	Markov Chain Haplotyping
+R4	AlternativeName_of Arg1:T14 Arg2:T2	
+T13	AlternativeName 2650 2674	Markov Chain Haplotyping
+R1	AlternativeName_of Arg1:T13 Arg2:T1	

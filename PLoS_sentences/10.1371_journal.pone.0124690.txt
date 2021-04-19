@@ -1,0 +1,1 @@
+The analyses were run using STATA MP 11.2. 

@@ -1,0 +1,4 @@
+T1	Application_Usage 395 407	GenomeStudio
+T2	Application_Usage 231 236	BLAST
+T4	Citation 244 248	[73]
+R1	Citation_of Arg1:T4 Arg2:T2	

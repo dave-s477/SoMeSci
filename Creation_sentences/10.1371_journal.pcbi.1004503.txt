@@ -1,0 +1,4 @@
+Here we report VDJtools, a complementary software suite that solves a wide range of T cell receptor (TCR) repertoires post-analysis tasks, provides a detailed tabular output and publication-ready graphics, and is built on top of a flexible API.
+VDJtools software and documentation are available at https://github.com/mikessh/vdjtools.
+VDJtools can calculate basic immune repertoire statistics that were commonly used in pre-HTS era repertoire analysis.
+VDJtools is an open-source software, the source code can be accessed at GitHub [40].

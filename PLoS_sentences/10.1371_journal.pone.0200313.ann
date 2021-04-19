@@ -1,0 +1,10 @@
+T1	Application_Usage 29 44	SPSS Statistics
+T2	ProgrammingEnvironment_Usage 65 66	R
+T3	Developer 25 28	IBM
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 53 55	22
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Citation 56 60	[39]
+R3	Citation_of Arg1:T5 Arg2:T1	
+T6	Citation 67 71	[40]
+R4	Citation_of Arg1:T6 Arg2:T2	

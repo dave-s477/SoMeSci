@@ -1,0 +1,50 @@
+T1	Application_Usage 4169 4180	BD FACSDiva
+T2	Application_Usage 5001 5007	FastQC
+T3	Application_Usage 5259 5265	Tophat
+T4	Application_Usage 5480 5489	Cufflinks
+T5	PlugIn_Usage 7677 7703	Functional Annotation Tool
+T8	Application_Usage 8313 8319	GSEA-P
+T9	Application_Usage 8797 8806	Cytoscape
+T10	PlugIn_Usage 8757 8766	BisoGenet
+T11	PlugIn_Usage 8828 8837	BisoGenet
+T16	Application_Usage 7508 7571	Database for Annotation, Visualization and Integrated Discovery
+T19	Application_Usage 8405 8410	DAVID
+T22	Developer 4191 4205	BD Biosciences
+R1	Developer_of Arg1:T22 Arg2:T1	
+T23	Citation 5008 5014	[8,16]
+R2	Citation_of Arg1:T23 Arg2:T2	
+T24	Version 5270 5275	2.0.8
+R3	Version_of Arg1:T24 Arg2:T3	
+T25	Citation 5277 5281	[17]
+R4	Citation_of Arg1:T25 Arg2:T3	
+T13	Developer 5291 5299	Illumina
+T26	Application_Usage 5300 5308	iGenomes
+R5	Developer_of Arg1:T13 Arg2:T26	
+T27	URL 5324 5395	http://support.illumina.com/sequencing/sequencing_software/igenome.html
+R6	URL_of Arg1:T27 Arg2:T26	
+T28	Version 5492 5497	2.1.1
+R7	Version_of Arg1:T28 Arg2:T4	
+T29	Citation 5499 5503	[18]
+R8	Citation_of Arg1:T29 Arg2:T4	
+T33	Abbreviation 7573 7578	DAVID
+R12	Abbreviation_of Arg1:T33 Arg2:T16	
+T34	URL 7580 7609	http://david.abcc.ncifcrf.gov
+R13	URL_of Arg1:T34 Arg2:T16	
+T36	Application_Usage 7671 7676	DAVID
+T37	Citation 7611 7618	[23,24]
+R15	Citation_of Arg1:T37 Arg2:T16	
+T38	Abbreviation 7705 7708	FAT
+R16	Abbreviation_of Arg1:T38 Arg2:T5	
+T6	Citation 8337 8344	[29,30]
+R17	Citation_of Arg1:T6 Arg2:T8	
+T40	Citation 8775 8785	[27,28,32]
+R20	Citation_of Arg1:T40 Arg2:T10	
+T41	Citation 8819 8826	[24,33]
+R21	Citation_of Arg1:T41 Arg2:T9	
+T12	Version 5265 5266	2
+R22	Version_of Arg1:T12 Arg2:T3	
+R9	PlugIn_of Arg1:T5 Arg2:T36	
+T14	Application_Usage 7787 7826	Expression Analysis Systematic Explorer
+T15	Abbreviation 7828 7832	EASE
+R10	Abbreviation_of Arg1:T15 Arg2:T14	
+R11	PlugIn_of Arg1:T10 Arg2:T9	

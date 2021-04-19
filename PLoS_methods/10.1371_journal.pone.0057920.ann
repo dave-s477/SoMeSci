@@ -1,0 +1,6 @@
+T1	Application_Usage 5480 5484	PASW
+T2	OperatingSystem_Usage 5490 5497	Windows
+T3	Version 5507 5511	18.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 5531 5551	SPSS Statistics Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	

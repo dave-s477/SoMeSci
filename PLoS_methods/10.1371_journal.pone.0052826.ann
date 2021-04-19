@@ -1,0 +1,6 @@
+T1	Application_Usage 7282 7303	Brain Vision Recorder
+T2	Application_Usage 9494 9500	EEGlab
+T3	Developer 7314 7326	Brain Vision
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Citation 9501 9505	[49]
+R2	Citation_of Arg1:T4 Arg2:T2	

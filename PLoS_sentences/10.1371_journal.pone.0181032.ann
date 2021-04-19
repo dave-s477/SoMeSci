@@ -1,0 +1,8 @@
+T1	Application_Usage 50 55	STATA
+T2	Application_Usage 71 109	statistical package for social science
+T3	Version 64 66	13
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Abbreviation 111 115	SPSS
+R2	Abbreviation_of Arg1:T4 Arg2:T2	
+T5	Version 125 127	22
+R3	Version_of Arg1:T5 Arg2:T2	

@@ -1,0 +1,3 @@
+Results: We developed LCR-eXXXplorer, an extensible online platform attempting to fill this gap.
+Availability and implementation: LCR-eXXXplorer is freely available at the URL http://repeat.biol.ucy.ac.cy/lcr-exxxplorer.
+In this work, we present LCR-eXXXplorer, an online service to search, visualize and share LCRs in protein sequences.

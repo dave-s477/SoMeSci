@@ -1,0 +1,32 @@
+T1	PlugIn_Creation 19 49	Constraint-based Flux Analysis
+T2	Abbreviation 51 55	CBFA
+R1	Abbreviation_of Arg1:T2 Arg2:T1	
+T3	PlugIn_Mention 379 383	CBFA
+T4	Application_Mention 395 402	OptFlux
+R2	PlugIn_of Arg1:T3 Arg2:T4	
+T5	PlugIn_Creation 601 605	CBFA
+T6	AlternativeName 608 638	Constraint-based Flux Analysis
+R3	AlternativeName_of Arg1:T6 Arg2:T5	
+T7	PlugIn_Creation 894 898	CBFA
+T8	Application_Mention 929 936	Optflux
+R4	PlugIn_of Arg1:T7 Arg2:T8	
+T9	PlugIn_Creation 989 993	CBFA
+T10	PlugIn_Creation 1173 1177	CBFA
+T11	Application_Mention 1189 1196	Optflux
+T12	URL 1216 1239	http://www.optflux.org/
+T13	URL 1282 1309	http://www.optflux.org/cbfa
+T14	ProgrammingEnvironment_Usage 1375 1379	Java
+T15	Application_Mention 1400 1408	Java JRE
+T16	Version 1409 1414	1.7.x
+T17	OperatingSystem_Mention 1420 1426	Mac OS
+T18	Application_Mention 1453 1456	JDK
+T19	Version 1457 1460	1.7
+T20	Application_Mention 1478 1482	GLPK
+T21	License 1492 1499	GNU-GPL
+T22	Version 1509 1510	3
+R5	URL_of Arg1:T12 Arg2:T11	
+R6	URL_of Arg1:T13 Arg2:T10	
+R7	Version_of Arg1:T16 Arg2:T15	
+R8	Version_of Arg1:T19 Arg2:T18	
+R9	License_of Arg1:T21 Arg2:T10	
+R10	Version_of Arg1:T22 Arg2:T21	

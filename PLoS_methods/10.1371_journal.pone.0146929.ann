@@ -1,0 +1,36 @@
+T1	Application_Usage 3791 3798	Newbler
+T2	Application_Usage 3817 3838	CLC Genomic Workbench
+T3	Application_Usage 3850 3863	SMRT analysis
+T4	Application_Usage 3982 4031	Prokaryotic Genomes Automatic Annotation Pipeline
+T5	Application_Usage 4294 4299	GARLI
+T6	Application_Usage 4768 4776	SAMtools
+T7	Application_Usage 4686 4695	Novoalign
+T8	ProgrammingEnvironment_Usage 4817 4823	Python
+T10	Application_Usage 6126 6131	GARLI
+T11	Application_Usage 6198 6203	GARLI
+T15	Application_Usage 4402 4407	GARLI
+T9	Application_Mention 6394 6400	github
+T19	Developer 3785 3790	Roche
+R1	Developer_of Arg1:T19 Arg2:T1	
+T20	Version 3811 3814	2.6
+R2	Version_of Arg1:T20 Arg2:T1	
+T21	Version 3839 3844	6.5.1
+R3	Version_of Arg1:T21 Arg2:T2	
+T22	Version 3864 3869	2.0.1
+R4	Version_of Arg1:T22 Arg2:T3	
+T23	Developer 3975 3979	NCBI
+T24	Abbreviation 4033 4038	PGAAP
+R5	Abbreviation_of Arg1:T24 Arg2:T4	
+T25	Citation 4040 4044	[40]
+R6	Citation_of Arg1:T25 Arg2:T4	
+T26	Citation 4300 4308	[41, 42]
+R7	Citation_of Arg1:T26 Arg2:T5	
+T27	Version 4697 4704	2.08.02
+R8	Version_of Arg1:T27 Arg2:T7	
+T28	URL 4706 4730	http://www.novocraft.com
+R9	URL_of Arg1:T28 Arg2:T7	
+T29	Citation 4802 4806	[43]
+R10	Citation_of Arg1:T29 Arg2:T6	
+T30	Citation 6132 6139	[41,42]
+R11	Citation_of Arg1:T30 Arg2:T10	
+R13	Developer_of Arg1:T23 Arg2:T4	

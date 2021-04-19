@@ -1,0 +1,7 @@
+T1	Application_Usage 34 49	PASW Statistics
+T2	Version 50 52	18
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 54 63	SPSS Inc.
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Release 65 69	2009
+R3	Release_of Arg1:T4 Arg2:T1	

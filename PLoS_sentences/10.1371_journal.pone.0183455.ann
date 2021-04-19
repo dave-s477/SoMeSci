@@ -1,0 +1,6 @@
+T1	Application_Usage 65 77	SurveyMonkey
+T2	Application_Usage 137 142	Excel
+T3	Citation 78 82	[49]
+R1	Citation_of Arg1:T3 Arg2:T1	
+T4	Developer 127 136	Microsoft
+R2	Developer_of Arg1:T4 Arg2:T2	

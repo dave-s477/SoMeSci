@@ -1,0 +1,10 @@
+T1	Application_Usage 2796 2800	PAST
+T2	Application_Usage 4225 4229	PAST
+T3	Version 2801 2806	2.17c
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Citation 2807 2811	[21]
+R2	Citation_of Arg1:T4 Arg2:T1	
+T5	Version 4230 4235	2.17c
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Citation 4236 4240	[21]
+R4	Citation_of Arg1:T6 Arg2:T2	

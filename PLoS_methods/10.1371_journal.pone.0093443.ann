@@ -1,0 +1,15 @@
+T1	Application_Usage 4314 4352	Statistical Package for Social Science
+T2	Application_Usage 4410 4413	SAS
+T3	OperatingSystem_Usage 4440 4447	Windows
+T11	Abbreviation 4354 4358	SPSS
+R2	Abbreviation_of Arg1:T11 Arg2:T1	
+T12	Version 4376 4380	18.0
+R3	Version_of Arg1:T12 Arg2:T1	
+T13	Developer 4382 4386	SPSS
+R4	Developer_of Arg1:T13 Arg2:T1	
+T14	Version 4420 4423	8.2
+R5	Version_of Arg1:T14 Arg2:T2	
+T15	Application_Usage 4425 4428	SAS
+R6	Specification_of Arg1:T15 Arg2:T2	
+T16	Developer 4449 4462	SAS Institute
+R7	Developer_of Arg1:T16 Arg2:T15	

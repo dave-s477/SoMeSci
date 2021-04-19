@@ -1,0 +1,14 @@
+T1	Application_Usage 6322 6337	SPSS Statistics
+T2	Application_Usage 6349 6358	SPSS Amos
+T3	OperatingSystem_Usage 6366 6373	Windows
+T4	Developer 6318 6321	IBM
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 6338 6340	21
+R2	Version_of Arg1:T5 Arg2:T1	
+T6	Developer 6345 6348	IBM
+R3	Developer_of Arg1:T6 Arg2:T2	
+T7	Version 6359 6361	21
+R4	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 6375 6384	IBM Corp.
+R5	Developer_of Arg1:T8 Arg2:T2	
+R6	Developer_of Arg1:T8 Arg2:T1	

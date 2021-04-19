@@ -1,0 +1,22 @@
+T1	Application_Creation 18 30	CellProfiler
+T3	Version 31 34	3.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T5	Application_Mention 235 247	CellProfiler
+T9	Application_Mention 459 471	CellProfiler
+T52	Citation 517 520	[4]
+R3	Citation_of Arg1:T52 Arg2:T9	
+T10	Application_Mention 548 560	CellProfiler
+T7	ProgrammingEnvironment_Mention 575 581	Python
+T49	ProgrammingEnvironment_Mention 600 606	MATLAB
+T50	Citation 645 648	[5]
+R2	Citation_of Arg1:T50 Arg2:T10	
+T18	Application_Creation 756 768	CellProfiler
+T53	Version 769 772	3.0
+T19	Application_Creation 920 932	CellProfiler
+R4	Version_of Arg1:T53 Arg2:T18	
+T28	Application_Usage 981 993	CellProfiler
+T54	Version 994 997	3.0
+T56	PlugIn_Usage 1031 1041	MorphoLibJ
+T57	PlugIn_Usage 1052 1056	Fiji
+R5	Version_of Arg1:T54 Arg2:T28	
+R6	PlugIn_of Arg1:T56 Arg2:T57	

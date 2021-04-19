@@ -1,0 +1,4 @@
+T1	Application_Usage 116 120	SPSS
+T2	OperatingSystem_Usage 132 139	windows
+T3	Version 129 131	21
+R1	Version_of Arg1:T3 Arg2:T1	

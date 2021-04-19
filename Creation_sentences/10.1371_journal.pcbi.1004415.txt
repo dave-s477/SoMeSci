@@ -1,0 +1,4 @@
+Here, we present an easily accessible software toolkit, called ENCORE, which can be used to compare conformational ensembles generated either from simulations alone or synergistically with experiments.
+ENCORE is freely available and extendable, integrates with the established MDAnalysis software package, reads ensemble data in many common formats, and can work with large trajectory files.
+The library, called ENCORE (http://encore-similarity.github.io/encore), interfaces with the MDAnalysis molecular analysis toolkit [14] and can be used both as a Python library and from the command line.
+ENCORE is freely available (http://encore-similarity.github.io/encore), together with its documentation and several examples on how to use it, and is distributed under the GNU general public license, version 3.

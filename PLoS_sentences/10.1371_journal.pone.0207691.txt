@@ -1,0 +1,1 @@
+The data were analyzed using a mixed logistic regression model using PROC GLIMMIX in SAS 9.2 with Audience ID as a nested random effect within the random effect for Session. 

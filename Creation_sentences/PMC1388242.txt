@@ -1,0 +1,6 @@
+We have developed a comprehensive software tool, WholePathwayScope (WPS), for deriving biological insights from analysis of HTP data.
+The tool is freely available at http://www.abcc.ncifcrf.gov/wps/wps_index.php.
+To facilitate the simultaneous analysis and comparison of multiple HTP experiments in the context of biological pathways and association networks, and allow pattern extraction of a selected gene list with biological themes, we developed a stand-alone, Windows-based software tool called WholePathwayScope, or WPS.
+WholePathwayScope or WPS is a software tool that displays HTP data in user-defined or stored gene groups or pathways.
+We have described WPS, as a new pathway-based analysis tool, that facilitates and enhances the analysis of HTP data in the context of biological pathways and networks.
+"Project name: Pathway analysis tool WPS for high-throughput data; Project home page: http://www.abcc.ncifcrf.gov/wps/wps_index.php[63] Operating system: Microsoft Window 2000 or XP Programming language: Microsoft Visual Basic 6 Other requirements: Internal databases for different species and a collection of over 1900 PathwayScopeFiles (PSCP files for mouse) available on web site; Additional user-provided PSCP files and those from other sources will be made available as they are collected.

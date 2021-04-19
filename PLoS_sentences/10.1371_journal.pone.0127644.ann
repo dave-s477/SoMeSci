@@ -1,0 +1,9 @@
+T1	Application_Usage 78 82	SPSS
+T2	Application_Usage 170 176	LISREL
+T3	OperatingSystem_Usage 130 137	Windows
+T4	Version 91 95	16.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 97 106	SPSS Inc.
+R2	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 177 180	8.5
+R3	Version_of Arg1:T6 Arg2:T2	

@@ -1,0 +1,6 @@
+T1	Application_Usage 34 38	SPSS
+T2	OperatingSystem_Usage 85 92	Windows
+T3	AlternativeName 40 79	Statistical Package for Social Sciences
+R1	AlternativeName_of Arg1:T3 Arg2:T1	
+T4	Version 101 103	19
+R2	Version_of Arg1:T4 Arg2:T1	

@@ -1,0 +1,13 @@
+T1	Application_Usage 955 959	SPSS
+T2	Version 968 970	22
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 7293 7308	SPSS Statistics
+T4	OperatingSystem_Usage 7313 7320	Windows
+T5	Version 7329 7333	22.0
+R2	Version_of Arg1:T5 Arg2:T3	
+T6	Developer 7347 7356	IBM Corp.
+R3	Developer_of Arg1:T6 Arg2:T3	
+T7	Release 7366 7370	2013
+R4	Release_of Arg1:T7 Arg2:T3	
+T8	Developer 7289 7292	IBM
+R5	Developer_of Arg1:T8 Arg2:T3	

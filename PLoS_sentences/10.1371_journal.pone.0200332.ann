@@ -1,0 +1,5 @@
+T1	Application_Usage 46 50	SPSS
+T2	Version 68 70	21
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Citation 71 75	[61]
+R2	Citation_of Arg1:T3 Arg2:T1	

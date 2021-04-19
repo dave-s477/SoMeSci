@@ -1,0 +1,19 @@
+T2	Application_Creation 45 55	Strawberry
+T8	Application_Deposition 213 223	Strawberry
+T105	ProgrammingEnvironment_Usage 238 241	C++
+T106	Version 241 243	14
+T107	URL 289 325	https://github.com/ruolin/strawberry
+T108	License 336 347	MIT license
+R1	Version_of Arg1:T106 Arg2:T105	
+R2	URL_of Arg1:T107 Arg2:T8	
+R3	License_of Arg1:T108 Arg2:T8	
+T92	Application_Creation 349 359	Strawberry
+T109	ProgrammingEnvironment_Usage 375 378	C++
+T110	Version 378 380	14
+R4	Version_of Arg1:T110 Arg2:T109	
+T93	Application_Deposition 450 460	Strawberry
+T111	URL 496 532	https://github.com/ruolin/strawberry
+T112	License 543 554	MIT license
+R5	URL_of Arg1:T111 Arg2:T93	
+R6	License_of Arg1:T112 Arg2:T93	
+T94	Application_Creation 578 588	Strawberry

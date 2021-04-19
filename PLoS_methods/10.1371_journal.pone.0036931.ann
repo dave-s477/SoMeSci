@@ -1,0 +1,3 @@
+T1	Application_Usage 2059 2069	Ethovision
+T2	Developer 2052 2058	Noldus
+R1	Developer_of Arg1:T2 Arg2:T1	

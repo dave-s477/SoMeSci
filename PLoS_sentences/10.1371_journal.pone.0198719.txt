@@ -1,0 +1,1 @@
+Statistical analyses were performed using Stata software, version 13 (StataCorp, College Station, TX, US). 

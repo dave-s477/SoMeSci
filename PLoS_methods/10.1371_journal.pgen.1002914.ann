@@ -1,0 +1,14 @@
+T1	Application_Usage 8666 8672	Crimap
+T2	Application_Usage 8901 8912	QTL Express
+T5	Citation 8673 8677	[54]
+R1	Citation_of Arg1:T5 Arg2:T1	
+T6	URL 8914 8936	http://qtlcap.ed.ac.uk
+R2	URL_of Arg1:T6 Arg2:T2	
+T7	Application_Usage 8939 8944	qxpak
+T3	Version 8946 8950	2.16
+T8	Citation 8951 8955	[55]
+R3	Version_of Arg1:T3 Arg2:T7	
+R4	Citation_of Arg1:T8 Arg2:T7	
+T9	PlugIn_Usage 8960 8965	R/Qtl
+T4	Citation 8966 8970	[56]
+R5	Citation_of Arg1:T4 Arg2:T9	

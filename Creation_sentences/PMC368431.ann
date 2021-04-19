@@ -1,0 +1,6 @@
+T1	Application_Creation 11 17	VisANT
+T2	Application_Mention 118 124	VisANT
+T3	Application_Creation 318 324	VisANT
+T4	Application_Deposition 418 424	VisANT
+T5	URL 441 461	http://visant.bu.edu
+R1	URL_of Arg1:T5 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Application_Usage 31 70	statistical package for social sciences
+T2	Application_Usage 72 76	SPSS
+R1	Specification_of Arg1:T2 Arg2:T1	
+T3	Version 77 79	12
+R2	Version_of Arg1:T3 Arg2:T2	

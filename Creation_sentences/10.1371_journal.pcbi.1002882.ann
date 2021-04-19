@@ -1,0 +1,7 @@
+T2	PlugIn_Creation 11 21	Redirector
+T24	PlugIn_Usage 218 228	Redirector
+T27	PlugIn_Mention 301 311	Redirector
+T29	PlugIn_Usage 486 496	Redirector
+T55	PlugIn_Deposition 639 649	Redirector
+T56	URL 771 817	https://github.com//bionomicron/Redirector.git
+R1	URL_of Arg1:T56 Arg2:T55	

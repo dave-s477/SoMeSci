@@ -1,0 +1,11 @@
+T1	Application_Creation 27 37	biographer
+T2	Application_Deposition 202 212	biographer
+T3	URL 266 306	http://biographer.biologie.hu-berlin.de/
+R1	URL_of Arg1:T3 Arg2:T2	
+T4	SoftwareCoreference_Deposition 322 339	software packages
+T5	OperatingSystem_Mention 407 414	Windows
+T6	OperatingSystem_Mention 419 424	Linux
+T7	URL 457 493	http://code.google.com/p/biographer/
+T8	License 524 528	LGPL
+R2	URL_of Arg1:T7 Arg2:T4	
+R3	License_of Arg1:T8 Arg2:T4	

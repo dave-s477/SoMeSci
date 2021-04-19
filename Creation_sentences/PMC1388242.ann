@@ -1,0 +1,31 @@
+T1	Application_Creation 49 66	WholePathwayScope
+T2	Abbreviation 68 71	WPS
+R1	Abbreviation_of Arg1:T2 Arg2:T1	
+T3	SoftwareCoreference_Deposition 138 142	tool
+T4	URL 166 211	http://www.abcc.ncifcrf.gov/wps/wps_index.php
+R11	URL_of Arg1:T4 Arg2:T3	
+T5	OperatingSystem_Mention 465 472	Windows
+T6	Application_Creation 500 517	WholePathwayScope
+T7	Abbreviation 522 525	WPS
+R2	Abbreviation_of Arg1:T7 Arg2:T6	
+T8	Application_Mention 527 544	WholePathwayScope
+T9	Abbreviation 548 551	WPS
+R3	Abbreviation_of Arg1:T9 Arg2:T8	
+T10	Application_Creation 663 666	WPS
+T11	Application_Deposition 850 853	WPS
+T12	URL 899 944	http://www.abcc.ncifcrf.gov/wps/wps_index.php
+T13	Citation 944 948	[63]
+T14	Developer 967 976	Microsoft
+T16	OperatingSystem_Usage 977 983	Window
+T17	Version 984 988	2000
+T18	Version 992 994	XP
+T15	Developer 1017 1026	Microsoft
+T19	ProgrammingEnvironment_Usage 1027 1039	Visual Basic
+T20	Version 1040 1041	6
+R4	URL_of Arg1:T12 Arg2:T11	
+R5	Citation_of Arg1:T13 Arg2:T11	
+R6	Developer_of Arg1:T14 Arg2:T16	
+R7	Version_of Arg1:T17 Arg2:T16	
+R8	Version_of Arg1:T18 Arg2:T16	
+R9	Developer_of Arg1:T15 Arg2:T19	
+R10	Version_of Arg1:T20 Arg2:T19	

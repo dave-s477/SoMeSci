@@ -1,0 +1,7 @@
+T1	Application_Mention 4 12	EpiGRAPH
+T2	URL 25 56	http://epigraph.mpi-inf.mpg.de/
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 176 184	EpiGRAPH
+T4	Application_Creation 364 372	EpiGRAPH
+T5	Application_Creation 521 529	EpiGRAPH
+T6	Application_Mention 688 696	EpiGRAPH

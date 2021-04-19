@@ -1,0 +1,3 @@
+The online interactive Rank Products analysis tool RankProdIt, for analysis of any data set containing measurements for multiple replicated conditions, is available at: http://strep-microarray.sbs.surrey.ac.uk/RankProducts
+Here we present the first online interactive Rank Products analysis tool RankProdIt.
+"Project name: RankProdIt Project home page: http://strep-microarray.sbs.surrey.ac.uk/RankProducts/ Any restrictions to use by non-academics: None"

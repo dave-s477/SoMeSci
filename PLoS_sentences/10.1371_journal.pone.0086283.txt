@@ -1,0 +1,1 @@
+We fit the conditional likelihood methods and estimated model parameters using maximum likelihood methods and routines in Stata 11. 

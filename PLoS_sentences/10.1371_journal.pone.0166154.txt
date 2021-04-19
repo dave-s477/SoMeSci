@@ -1,0 +1,1 @@
+Finally, the traces were filtered with a loess filter (time window: 0.5 sec) using the ‘‘smooth()” function of Matlab, version R2013b. 

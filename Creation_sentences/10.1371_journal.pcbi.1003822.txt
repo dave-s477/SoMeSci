@@ -1,0 +1,4 @@
+With Pep2Path, we introduce a software package to fully automate the peptidogenomics approach through the rapid Bayesian probabilistic matching of mass spectra to their corresponding biosynthetic gene clusters.
+Finally, we can also add an η variable that allows NRPSPredictor2 mismatches to be penalized exponentially as the number of mismatches increase:The default value in the Pep2Path software is η = 2.
+Pep2Path is freely available from http://pep2path.sourceforge.net/, implemented in Python, licensed under the GNU General Public License v3 and supported on MS Windows, Linux and Mac OS X.
+Updated versions of the Pep2Path code will be made available on http://pep2path.sourceforge.net in the future.

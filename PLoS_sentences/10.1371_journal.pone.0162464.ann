@@ -1,0 +1,5 @@
+T1	PlugIn_Usage 35 41	XLSTAT
+T2	Application_Usage 51 56	Excel
+T3	Release 42 46	2015
+R1	Release_of Arg1:T3 Arg2:T1	
+R2	PlugIn_of Arg1:T1 Arg2:T2	

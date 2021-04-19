@@ -1,0 +1,7 @@
+T1	Application_Usage 46 51	STATA
+T2	Application_Usage 70 78	R Studio
+T3	Version 61 65	10.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 87 92	3.2.2
+R2	Version_of Arg1:T4 Arg2:T2	
+T5	OperatingSystem_Usage 97 106	Macintosh

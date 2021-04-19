@@ -1,0 +1,9 @@
+T1	Application_Mention 8390 8400	EthoVision
+T2	Application_Usage 8596 8606	EthoVision
+T3	Application_Mention 11147 11157	EthoVision
+T4	Version 8610 8614	10.0
+R1	Version_of Arg1:T4 Arg2:T2	
+T5	Developer 8616 8625	Noldus IT
+R2	Developer_of Arg1:T5 Arg2:T2	
+T6	Extension 8607 8609	XT
+R3	Extension_of Arg1:T6 Arg2:T2	

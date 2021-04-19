@@ -1,0 +1,1 @@
+Moreover, to assess the statistical significance of the frequency of interactions won, we performed a binomial test using the GraphPad software (www.graphpad.com). 

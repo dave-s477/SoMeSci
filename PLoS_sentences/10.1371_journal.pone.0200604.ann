@@ -1,0 +1,7 @@
+T1	Application_Usage 35 50	SPSS Statistics
+T2	Developer 31 34	IBM
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 51 53	21
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	PlugIn_Usage 54 68	Advanced Model
+R3	PlugIn_of Arg1:T4 Arg2:T1	

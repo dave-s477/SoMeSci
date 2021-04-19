@@ -1,0 +1,2 @@
+All analyses were performed in Stata version 14 (Texas, USA).
+

@@ -1,0 +1,3 @@
+T1	Application_Usage 59 63	SPSS
+T2	PlugIn_Usage 64 79	Complex samples
+R1	PlugIn_of Arg1:T2 Arg2:T1	

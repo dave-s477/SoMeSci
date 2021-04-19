@@ -1,0 +1,8 @@
+T1	Application_Usage 95 99	SPSS
+T2	Application_Usage 49 54	Mplus
+T3	Version 83 86	7.3
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Developer 91 94	IBM
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 108 110	22
+R3	Version_of Arg1:T5 Arg2:T1	

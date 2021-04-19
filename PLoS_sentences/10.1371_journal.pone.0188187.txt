@@ -1,0 +1,2 @@
+All statistical analyses were performed using STATA® version 10.0 and R Studio version 3.2.2 for Macintosh®.
+

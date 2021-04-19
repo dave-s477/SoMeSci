@@ -1,0 +1,7 @@
+T1	Version 9097 9100	2.3
+T2	Application_Usage 9079 9095	Luminex 100 ™ IS
+T3	Application_Usage 10089 10093	SPSS
+T4	Version 10094 10098	15.0
+R1	Version_of Arg1:T4 Arg2:T3	
+T5	OperatingSystem_Usage 10103 10110	Windows
+R2	Version_of Arg1:T1 Arg2:T2	

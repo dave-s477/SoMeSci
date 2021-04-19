@@ -1,0 +1,8 @@
+T1	Application_Usage 5732 5737	Stata
+T2	Application_Usage 8167 8191	Newborn Size Application
+T3	Version 5738 5740	13
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 8150 8166	INTERGROWTH-21st
+R2	Developer_of Arg1:T4 Arg2:T2	
+T5	URL 8273 8308	http://intergrowth21.ndog.ox.ac.uk/
+R3	URL_of Arg1:T5 Arg2:T2	

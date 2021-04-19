@@ -1,0 +1,9 @@
+T1	ProgrammingEnvironment_Usage 7575 7576	R
+T2	PlugIn_Usage 7619 7623	nlme
+T3	Version 7585 7590	3.2.2
+R1	Version_of Arg1:T3 Arg2:T1	
+R2	PlugIn_of Arg1:T2 Arg2:T1	
+T4	Citation 7591 7595	[57]
+R3	Citation_of Arg1:T4 Arg2:T1	
+T5	Citation 7625 7629	[58]
+R4	Citation_of Arg1:T5 Arg2:T2	

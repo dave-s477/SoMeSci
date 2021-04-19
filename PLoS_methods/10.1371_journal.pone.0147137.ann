@@ -1,0 +1,5 @@
+T1	Application_Usage 3965 3970	STATA
+T2	Version 3989 3993	11.0
+T3	Developer 3995 4005	Stata Corp
+R1	Developer_of Arg1:T3 Arg2:T1	
+R2	Version_of Arg1:T2 Arg2:T1	

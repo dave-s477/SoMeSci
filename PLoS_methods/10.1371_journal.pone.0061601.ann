@@ -1,0 +1,7 @@
+T1	Application_Usage 4921 4929	ATLAS.ti
+T2	Application_Usage 5507 5511	SPSS
+T3	Application_Usage 5429 5435	Access
+T4	Version 4931 4934	6.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Version 5513 5517	15.0
+R2	Version_of Arg1:T5 Arg2:T2	

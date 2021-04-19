@@ -1,0 +1,8 @@
+T1	Application_Usage 53 58	Excel
+T2	Application_Usage 118 133	SPSS Statistics
+T3	Developer 50 52	MS
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Developer 114 117	IBM
+R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Version 135 137	22
+R3	Version_of Arg1:T5 Arg2:T2	

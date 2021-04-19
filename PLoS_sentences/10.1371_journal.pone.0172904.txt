@@ -1,0 +1,1 @@
+All quantified regions were analyzed by Multivariate Analysis of Variance (MANOVA) for main effects of genotype, competition dose, and genotype x dose interactions using IBM SPSS Statistics 22. 

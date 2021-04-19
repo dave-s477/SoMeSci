@@ -1,0 +1,5 @@
+T1	Application_Usage 9988 9991	SAS
+T3	Version 10015 10018	9.3
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 10020 10033	SAS Institute
+R3	Developer_of Arg1:T4 Arg2:T1	

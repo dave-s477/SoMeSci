@@ -1,0 +1,5 @@
+T1	SoftwareCoreference_Deposition 18 25	package
+T2	License 52 56	LGPL
+T3	URL 84 123	http://repitools.r-forge.r-project.org/
+R1	License_of Arg1:T2 Arg2:T1	
+R2	URL_of Arg1:T3 Arg2:T1	

@@ -1,0 +1,1 @@
+Data were edited, coded and entered using EPI Info version 3.02 and then transferred to Stata version 14.2 for statistical analysis. 

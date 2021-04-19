@@ -1,0 +1,10 @@
+PhysiCell—physics-based multicellular simulator—is an open source agent-based simulator that provides both the stage and the players for studying many interacting cells in dynamic tissue microenvironments.
+We demonstrate PhysiCell by simulating the impact of necrotic core biomechanics, 3-D geometry, and stochasticity on the dynamics of hanging drop tumor spheroids and ductal carcinoma in situ (DCIS) of the breast.
+The PhysiCell source code, examples, documentation, and support are available under the BSD license at http://PhysiCell.MathCancer.org and http://PhysiCell.sf.net.
+PhysiCell is written in cross-platform compatible C++ and is self-contained (with minimal dependencies).
+We have tested PhysiCell on Windows through MinGW-w64, and on OSX and Linux via g++.
+Downloading PhysiCell:
+Users can download a PhysiCell release at:
+You can get the most recent virtual appliance by browsing to: https://sourceforge.net/projects/physicell/files/PhysiCell/.
+Then browsing a recent release directory (e.g., PhysiCell 1.2.2), and downloading the ova file. https://github.com/MathCancer/PhysiCell/releases/latest
+PhysiCell is licensed under the (3-clause) BSD license, which is compatible with commercial products and can be included in GPL-licensed projects.

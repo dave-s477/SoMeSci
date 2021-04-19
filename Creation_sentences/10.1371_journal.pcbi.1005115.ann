@@ -1,0 +1,25 @@
+T2	Application_Creation 82 89	M-Track
+T3	Application_Mention 217 224	M-Track
+T36	Application_Mention 410 417	M-Track
+T74	Application_Deposition 539 546	M-Track
+T75	URL 610 663	https://sites.google.com/site/scimemilab2013/software
+T84	Application_Usage 677 683	GitHub
+T89	URL 838 873	https://github.com/scimemia/M-Track
+R1	URL_of Arg1:T75 Arg2:T74	
+R2	URL_of Arg1:T89 Arg2:T74	
+T82	Application_Creation 876 883	M-Track
+T90	ProgrammingEnvironment_Usage 902 908	Python
+T92	Version 909 912	2.7
+T91	Application_Usage 914 920	OpenCV
+T93	Version 921 924	3.0
+T94	Application_Usage 929 931	Qt
+T95	Version 931 934	4.8
+R3	Version_of Arg1:T92 Arg2:T90	
+R4	Version_of Arg1:T93 Arg2:T91	
+R5	Version_of Arg1:T95 Arg2:T94	
+T83	Application_Deposition 1043 1050	M-Track
+T96	URL 1115 1168	https://sites.google.com/site/scimemilab2013/software
+T97	Application_Usage 1182 1188	GitHub
+T98	URL 1201 1236	https://github.com/scimemia/M-Track
+R6	URL_of Arg1:T96 Arg2:T83	
+R7	URL_of Arg1:T98 Arg2:T83	

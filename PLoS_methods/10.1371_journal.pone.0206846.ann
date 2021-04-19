@@ -1,0 +1,27 @@
+T1	Application_Usage 10120 10128	Promasys
+T2	ProgrammingEnvironment_Usage 10502 10503	R
+T3	ProgrammingEnvironment_Usage 10732 10733	R
+T4	PlugIn_Usage 10772 10777	dplyr
+T5	PlugIn_Usage 10790 10795	psych
+T6	PlugIn_Usage 10808 10813	tidyr
+T10	Developer 10130 10143	Omnicomm Inc.
+R1	Developer_of Arg1:T10 Arg2:T1	
+T11	Version 10512 10517	3.4.0
+R2	Version_of Arg1:T11 Arg2:T2	
+T12	Citation 10518 10522	[21]
+R3	Citation_of Arg1:T12 Arg2:T2	
+R4	PlugIn_of Arg1:T4 Arg2:T3	
+R5	PlugIn_of Arg1:T5 Arg2:T3	
+R6	PlugIn_of Arg1:T6 Arg2:T3	
+T9	Version 10778 10783	0.5.0
+T13	Version 10796 10801	1.7.5
+T14	Version 10814 10819	0.6.3
+R7	Version_of Arg1:T9 Arg2:T4	
+R8	Version_of Arg1:T13 Arg2:T5	
+R9	Version_of Arg1:T14 Arg2:T6	
+T15	Citation 10821 10825	[24]
+R10	Citation_of Arg1:T15 Arg2:T6	
+T16	Citation 10803 10807	[23]
+R11	Citation_of Arg1:T16 Arg2:T5	
+T17	Citation 10785 10789	[22]
+R12	Citation_of Arg1:T17 Arg2:T4	

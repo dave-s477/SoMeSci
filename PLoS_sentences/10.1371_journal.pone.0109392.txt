@@ -1,0 +1,2 @@
+All statistical analyses that include independent samples t-tests, Cohen's effect size value, Pearson correlations, one-way analysis of variance (ANOVA) and 3*2 mixed-design, ANOVA were performed on the Software Package for Statistical Analysis (SPSS for Windows version 19.0), [24].
+

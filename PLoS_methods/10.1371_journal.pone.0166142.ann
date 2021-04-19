@@ -1,0 +1,42 @@
+T1	Application_Usage 372 384	Google Earth
+T2	Application_Usage 667 679	Google Earth
+T3	Application_Usage 1169 1179	SDMtoolbox
+T4	Application_Usage 2772 2778	MaxEnt
+T5	Application_Mention 2800 2806	MaxEnt
+T6	Application_Mention 3035 3041	MaxEnt
+T7	Application_Mention 4178 4184	MaxEnt
+T8	Application_Usage 4472 4482	SDMtoolbox
+T9	Application_Usage 4946 4954	ENMtools
+T10	Application_Mention 5574 5580	MaxEnt
+T11	Application_Mention 6859 6865	MaxEnt
+T12	Application_Mention 7063 7069	MaxEnt
+T13	Application_Mention 7408 7414	MaxEnt
+T14	Application_Mention 7936 7942	MaxEnt
+T15	Application_Usage 7982 7988	MaxEnt
+T16	Application_Usage 8873 8881	ENMtools
+T17	Application_Usage 10182 10188	MaxEnt
+T18	Application_Usage 10599 10605	MaxEnt
+T29	Citation 1180 1184	[16]
+R4	Citation_of Arg1:T29 Arg2:T3	
+T32	Version 2787 2793	3.3.3k
+R7	Version_of Arg1:T32 Arg2:T4	
+T33	Citation 2794 2798	[23]
+R8	Citation_of Arg1:T33 Arg2:T4	
+T34	Citation 2883 2887	[23]
+R9	Citation_of Arg1:T34 Arg2:T5	
+T35	Citation 4483 4487	[16]
+R10	Citation_of Arg1:T35 Arg2:T8	
+T36	Version 4957 4960	1.3
+R11	Version_of Arg1:T36 Arg2:T9	
+T37	Citation 4961 4965	[31]
+R12	Citation_of Arg1:T37 Arg2:T9	
+T39	Citation 6996 7000	[26]
+R14	Citation_of Arg1:T39 Arg2:T11	
+T40	Citation 7545 7552	[23,26]
+R15	Citation_of Arg1:T40 Arg2:T13	
+T41	Citation 7943 7954	[26, 27,38]
+R16	Citation_of Arg1:T41 Arg2:T14	
+T42	Version 8883 8886	1.3
+R17	Version_of Arg1:T42 Arg2:T16	
+T43	Citation 8887 8891	[31]
+R18	Citation_of Arg1:T43 Arg2:T16	

@@ -1,0 +1,1 @@
+The survey forms were scanned using an optical character recognizing (OCR) machine and data were analyzed using STATA 10.1 for Windows (Stata Corp, College Station, TX, USA) software. 

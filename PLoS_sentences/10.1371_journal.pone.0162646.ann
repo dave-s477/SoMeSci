@@ -1,0 +1,6 @@
+T1	Application_Usage 25 28	SAS
+T2	Application_Usage 38 43	STATA
+T3	Version 30 33	9.2
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 45 47	12
+R2	Version_of Arg1:T4 Arg2:T2	

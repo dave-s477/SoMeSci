@@ -1,0 +1,8 @@
+T1	Application_Usage 14722 14727	Prism
+T2	Developer 14713 14721	GraphPad
+T3	Version 14728 14731	7.0
+R1	Version_of Arg1:T3 Arg2:T1	
+R2	Developer_of Arg1:T2 Arg2:T1	
+T4	OperatingSystem_Usage 14736 14743	windows
+T5	Developer 14745 14762	GraphPad Software
+R3	Developer_of Arg1:T5 Arg2:T1	

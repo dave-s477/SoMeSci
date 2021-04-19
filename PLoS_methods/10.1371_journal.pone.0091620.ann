@@ -1,0 +1,16 @@
+T1	Application_Usage 4572 4575	SPM
+T2	Application_Usage 9883 9886	SPM
+T3	ProgrammingEnvironment_Usage 10709 10715	Matlab
+T4	PlugIn_Creation 10766 10787	neurofeedback toolbox
+T5	Version 4575 4576	8
+R1	Version_of Arg1:T5 Arg2:T1	
+T6	Developer 4588 4626	Wellcome Trust Centre for Neuroimaging
+R2	Developer_of Arg1:T6 Arg2:T1	
+T7	Version 9886 9887	8
+R3	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 9889 9926	Welcome Trust Centre for Neuroimaging
+R4	Developer_of Arg1:T8 Arg2:T2	
+T9	Version 10716 10720	7.10
+T10	Developer 10722 10735	The Mathworks
+R5	Version_of Arg1:T9 Arg2:T3	
+R6	Developer_of Arg1:T10 Arg2:T3	

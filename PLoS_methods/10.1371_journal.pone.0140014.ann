@@ -1,0 +1,17 @@
+T1	Application_Usage 2692 2698	Mothur
+T2	Application_Usage 3845 3850	Venny
+T4	Application_Usage 5737 5747	SILVA SINA
+T5	Application_Usage 6013 6017	MEGA
+T9	Application_Usage 3833 3839	Mothur
+T3	Version 2701 2707	1.33.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T14	Citation 2708 2712	[12]
+R2	Citation_of Arg1:T14 Arg2:T1	
+T20	Version 3851 3856	2.0.2
+R8	Version_of Arg1:T20 Arg2:T2	
+T22	URL 5749 5774	www.arb-silva.de/aligner/
+R10	URL_of Arg1:T22 Arg2:T4	
+T24	Version 6020 6023	6.0
+R12	Version_of Arg1:T24 Arg2:T5	
+T25	Citation 6024 6028	[18]
+R13	Citation_of Arg1:T25 Arg2:T5	

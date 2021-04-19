@@ -1,0 +1,19 @@
+T1	Application_Creation 18 23	ANDES
+T2	ProgrammingEnvironment_Usage 84 88	Perl
+T3	ProgrammingEnvironment_Usage 93 94	R
+T4	AlternativeName 116 143	ANalyses of DEep Sequencing
+R1	AlternativeName_of Arg1:T4 Arg2:T1	
+T5	Application_Creation 185 190	ANDES
+T6	Application_Usage 408 413	ANDES
+T7	Application_Deposition 532 537	ANDES
+T8	URL 557 591	http://andestools.sourceforge.net/
+T9	URL 611 654	https://sourceforge.net/projects/andestools
+T10	OperatingSystem_Usage 701 706	Linux
+T11	ProgrammingEnvironment_Usage 730 734	Perl
+T12	ProgrammingEnvironment_Usage 739 740	R
+T13	License 750 757	GNU GPL
+T14	Version 759 760	3
+R2	URL_of Arg1:T8 Arg2:T7	
+R3	URL_of Arg1:T9 Arg2:T7	
+R4	License_of Arg1:T13 Arg2:T7	
+R5	Version_of Arg1:T14 Arg2:T7	

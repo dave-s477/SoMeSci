@@ -1,0 +1,7 @@
+T8	PlugIn_Creation 16 29	PhyloGibbs-MP
+T104	Application_Usage 47 57	PhyloGibbs
+R2	PlugIn_of Arg1:T8 Arg2:T104	
+T10	PlugIn_Mention 124 137	PhyloGibbs-MP
+T71	PlugIn_Deposition 240 253	PhyloGibbs-MP
+T2	URL 270 314	http://www.imsc.res.in/∼rsidd/phylogibbs-mp/
+R1	URL_of Arg1:T2 Arg2:T71	

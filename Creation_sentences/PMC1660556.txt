@@ -1,0 +1,7 @@
+Here we describe coXpress, an R package that allows researchers to identify groups of genes that are differentially co-expressed.
+We have developed coXpress as a means of identifying groups of genes that are differentially co-expressed.
+Here we describe coXpress, a simple and easy to use package that allows users to explore differential co-expression in an intuitive way.
+CoXpress uses hierarchical cluster analysis to explore the relationship between genes, cutting the tree to form groups of genes that are co-expressed.
+CoXpress is released as a package for R.
+CoXpress is written in the native R language and has been fully tested on both windows and linux.
+"• Project Name: coXpress • Project Home Page: http://coxpress.sf.net • Operating Systems: Windows, Linux • Programming Language: R • Other Requirements: R, gplots, gtools, gdata (for heatmaps), hu6800, hgu95av2, plotrix (for examples) • License: GNU GPL"

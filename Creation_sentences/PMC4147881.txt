@@ -1,0 +1,4 @@
+Results: We present a bioinformatics tool, termed aLFQ, which supports the commonly used absolute label-free protein abundance estimation methods (TopN, iBAQ, APEX, NSAF and SCAMPI) for LC-MS/MS proteomics data, together with validation algorithms enabling automated data analysis and error estimation.
+aLFQ is written in R and freely available under the GPLv3 from CRAN (http://www.cran.r-project.org).
+Here, we provide aLFQ, an open-source implementation of algorithms supporting the estimation of protein quantities by any of the aforementioned methods, and additionally provide automated workflows for data analysis and error estimation.
+aLFQ was implemented in R as a modular S3 package.

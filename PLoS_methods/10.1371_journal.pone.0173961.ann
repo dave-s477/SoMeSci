@@ -1,0 +1,12 @@
+T1	Application_Usage 561 567	Blastp
+T2	Application_Usage 980 988	ClustalW
+T3	Application_Usage 1101 1105	MEGA
+T4	ProgrammingEnvironment_Usage 1574 1575	R
+T5	PlugIn_Usage 1585 1590	Vegan
+T10	Citation 989 993	[22]
+R2	Citation_of Arg1:T10 Arg2:T2	
+T11	Citation 1106 1110	[23]
+R3	Citation_of Arg1:T11 Arg2:T3	
+R4	PlugIn_of Arg1:T5 Arg2:T4	
+T12	Citation 1599 1603	[25]
+R5	Citation_of Arg1:T12 Arg2:T5	

@@ -1,0 +1,6 @@
+T1	Application_Usage 52 55	SAS
+T2	Application_Usage 21 27	Access
+T3	Version 56 59	9.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 61 79	SAS Institute Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	

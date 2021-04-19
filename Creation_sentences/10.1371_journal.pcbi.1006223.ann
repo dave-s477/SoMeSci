@@ -1,0 +1,17 @@
+T7	Application_Deposition 4 11	OpenSim
+T122	License 39 53	Apache License
+T123	Version 54 57	2.0
+R1	Version_of Arg1:T123 Arg2:T122	
+R2	License_of Arg1:T122 Arg2:T7	
+T8	Application_Deposition 183 190	OpenSim
+T124	URL 226 235	simtk.org
+R3	URL_of Arg1:T124 Arg2:T8	
+T104	Application_Deposition 241 248	OpenSim
+T125	License 295 309	Apache License
+T126	Version 310 313	2.0
+T105	Application_Mention 322 329	OpenSim
+R4	Version_of Arg1:T126 Arg2:T125	
+R5	License_of Arg1:T125 Arg2:T104	
+T106	Application_Deposition 457 464	OpenSim
+T127	URL 606 640	https://simtk.org/projects/opensim
+R6	URL_of Arg1:T127 Arg2:T106	

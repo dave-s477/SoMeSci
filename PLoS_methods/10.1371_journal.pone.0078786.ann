@@ -1,0 +1,22 @@
+T1	Application_Creation 1155 1167	ReMIT Client
+T2	Application_Mention 1173 1185	ReMIT Client
+T3	Application_Usage 2291 2298	dcm4che
+T6	PlugIn_Usage 2413 2421	dcm4chee
+T7	Application_Usage 2475 2481	OsiriX
+T8	Application_Mention 2579 2590	ReMITclient
+T9	Application_Mention 2687 2699	ReMIT Client
+T11	Application_Mention 3420 3432	ReMIT Client
+T12	Application_Usage 3598 3604	OsiriX
+T13	Application_Usage 3643 3649	OsiriX
+T14	Application_Usage 4035 4041	OsiriX
+T15	Application_Creation 6006 6011	ReMIT
+T16	Application_Mention 2889 2894	ReMIT
+T17	Application_Creation 3680 3685	REMIT
+T18	ProgrammingEnvironment_Usage 3958 3969	Objective-C
+T19	ProgrammingEnvironment_Usage 4005 4006	C
+T20	ProgrammingEnvironment_Usage 4007 4010	C++
+T21	ProgrammingEnvironment_Usage 4011 4022	Objective-C
+T22	PlugIn_Usage 2399 2407	dcm4chee
+R1	PlugIn_of Arg1:T22 Arg2:T3	
+T4	Application_Creation 2257 2262	ReMIT
+T5	Application_Usage 2910 2915	ReMIT

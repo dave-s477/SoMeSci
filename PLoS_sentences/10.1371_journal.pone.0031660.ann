@@ -1,0 +1,8 @@
+T1	Application_Usage 41 46	Excel
+T2	Application_Usage 103 108	Stata
+T3	PlugIn_Usage 127 134	metareg
+T4	Developer 31 40	Microsoft
+R1	Developer_of Arg1:T4 Arg2:T1	
+R2	PlugIn_of Arg1:T3 Arg2:T2	
+T5	Citation 135 139	[44]
+R3	Citation_of Arg1:T5 Arg2:T3	

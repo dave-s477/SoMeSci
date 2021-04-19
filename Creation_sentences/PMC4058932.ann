@@ -1,0 +1,7 @@
+T1	Application_Creation 59 67	RNA-Skim
+T2	SoftwareCoreference_Deposition 318 326	software
+T3	URL 343 370	http://www.csbio.unc.edu/rs
+R1	URL_of Arg1:T3 Arg2:T2	
+T4	Application_Creation 420 428	RNA-Skim
+T5	Application_Mention 456 464	Sailfish
+T6	Application_Creation 549 557	RNA-Skim

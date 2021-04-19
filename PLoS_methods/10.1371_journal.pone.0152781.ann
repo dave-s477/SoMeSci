@@ -1,0 +1,11 @@
+T1	Application_Usage 4663 4669	EEGLAB
+T2	Application_Usage 4917 4923	EEGLAB
+T3	Application_Usage 5629 5635	EEGLAB
+T4	Application_Usage 6210 6214	Stan
+T5	Application_Usage 8748 8752	Stan
+T6	Citation 4670 4674	[47]
+R1	Citation_of Arg1:T6 Arg2:T1	
+T7	Citation 5636 5640	[47]
+R2	Citation_of Arg1:T7 Arg2:T3	
+T8	Citation 6215 6219	[50]
+R3	Citation_of Arg1:T8 Arg2:T4	

@@ -1,0 +1,4 @@
+We introduce sourceR, an R package for quantitative source attribution, aimed at food-borne diseases.
+The aim of this paper is to extend current approaches to statistical source attribution, and to provide a standard software package, sourceR, providing an intuitive interface to source attribution models for epidemiological domain specialists.
+The stable release version of sourceR is available from the Comprehensive R Archive Network, released under a GPL-3 licence.
+The development version is available at http://fhm-chicas-code.lancs.ac.uk/millerp/sourceR.

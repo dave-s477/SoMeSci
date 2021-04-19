@@ -1,0 +1,3 @@
+T1	Application_Usage 3798 3806	Igor Pro
+T2	Developer 3825 3836	Wavemetrics
+R1	Developer_of Arg1:T2 Arg2:T1	

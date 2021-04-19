@@ -1,0 +1,8 @@
+T1	PlugIn_Usage 693 701	STRAIGHT
+T2	Application_Usage 1907 1912	Praat
+T3	Application_Usage 2779 2784	Praat
+T4	Application_Usage 2975 2980	Praat
+T5	Citation 702 706	[36]
+T6	Citation 1941 1945	[39]
+R1	Citation_of Arg1:T5 Arg2:T1	
+R2	Citation_of Arg1:T6 Arg2:T2	

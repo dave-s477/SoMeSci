@@ -1,0 +1,142 @@
+T1	Application_Usage 4482 4487	BLAST
+T2	Application_Usage 4654 4658	MEGA
+T3	Application_Usage 5196 5206	genemapper
+T4	Application_Usage 5875 5879	MEGA
+T5	Application_Usage 5844 5853	Clustal W
+T6	Application_Usage 6005 6009	MEGA
+T7	Application_Usage 6090 6094	MEGA
+T8	Application_Usage 6229 6234	DnaSP
+T9	Application_Usage 6998 7003	PAUP*
+T10	Application_Usage 7365 7372	Network
+T11	Application_Usage 7535 7542	MrBayes
+T12	Application_Usage 7735 7744	Modeltest
+T13	Application_Usage 8448 8460	Google Earth
+T14	Application_Usage 8735 8743	Arlequin
+T15	Application_Usage 8889 8894	IBDWS
+T16	Application_Usage 9256 9264	Arlequin
+T17	Application_Usage 9834 9842	Arlequin
+T18	Application_Usage 10312 10317	beast
+T19	Application_Usage 10842 10851	Modeltest
+T20	Application_Usage 11454 11460	Tracer
+T21	Application_Usage 11579 11590	LogCombiner
+T22	Application_Usage 11676 11689	TreeAnnotator
+T23	Application_Usage 11707 11715	Fig Tree
+T24	Application_Usage 11759 11764	EXCEL
+T25	Application_Usage 11844 11852	Arlequin
+T26	Application_Usage 11998 12005	GenePop
+T27	Application_Usage 12136 12141	Fstat
+T28	Application_Usage 12267 12277	Bottleneck
+T29	Application_Usage 12590 12600	Bottleneck
+T30	Application_Usage 12704 12712	Arlequin
+T31	Application_Usage 12772 12781	Structure
+T32	Application_Usage 13407 13415	Geneland
+T33	Application_Usage 14089 14096	migrate
+T37	Citation 4498 4502	[40]
+R1	Citation_of Arg1:T37 Arg2:T1	
+T38	Version 4659 4662	4.1
+R2	Version_of Arg1:T38 Arg2:T2	
+T39	Citation 4663 4667	[41]
+R3	Citation_of Arg1:T39 Arg2:T2	
+T40	Citation 5207 5211	[42]
+R4	Citation_of Arg1:T40 Arg2:T3	
+T42	Citation 5854 5858	[43]
+R6	Citation_of Arg1:T42 Arg2:T5	
+T43	Version 5882 5885	4.1
+R7	Version_of Arg1:T43 Arg2:T4	
+T44	Citation 5886 5890	[41]
+R8	Citation_of Arg1:T44 Arg2:T4	
+T45	Version 6012 6015	4.1
+R9	Version_of Arg1:T45 Arg2:T6	
+T46	Version 6097 6100	4.1
+R10	Version_of Arg1:T46 Arg2:T7	
+T47	Version 6238 6241	5.0
+R11	Version_of Arg1:T47 Arg2:T8	
+T48	Citation 6242 6246	[44]
+R12	Citation_of Arg1:T48 Arg2:T8	
+T49	Version 7006 7012	4.0b10
+R13	Version_of Arg1:T49 Arg2:T9	
+T50	Citation 7013 7017	[45]
+R14	Citation_of Arg1:T50 Arg2:T9	
+T51	Version 7375 7378	4.5
+R15	Version_of Arg1:T51 Arg2:T10	
+T52	URL 7380 7419	www.fluxus-engineering.com/sharenet.htm
+R16	URL_of Arg1:T52 Arg2:T10	
+T53	Version 7545 7550	3.1.2
+R17	Version_of Arg1:T53 Arg2:T11	
+T54	Citation 7551 7555	[49]
+R18	Citation_of Arg1:T54 Arg2:T11	
+T55	Version 7747 7750	3.7
+R19	Version_of Arg1:T55 Arg2:T12	
+T56	Citation 7751 7755	[50]
+R20	Citation_of Arg1:T56 Arg2:T12	
+T57	Version 8746 8750	3.11
+T58	Citation 8751 8755	[51]
+R21	Version_of Arg1:T57 Arg2:T14	
+R22	Citation_of Arg1:T58 Arg2:T14	
+T59	Version 8897 8901	3.15
+R23	Version_of Arg1:T59 Arg2:T15	
+T60	Citation 8902 8906	[52]
+R24	Citation_of Arg1:T60 Arg2:T15	
+T61	Version 9267 9271	3.11
+R25	Version_of Arg1:T61 Arg2:T16	
+T62	Version 9845 9849	3.11
+R26	Version_of Arg1:T62 Arg2:T17	
+T63	Version 10320 10325	1.5.3
+R27	Version_of Arg1:T63 Arg2:T18	
+T64	Citation 10326 10330	[57]
+R28	Citation_of Arg1:T64 Arg2:T18	
+T65	Version 10854 10857	3.7
+R29	Version_of Arg1:T65 Arg2:T19	
+T66	Citation 10858 10862	[50]
+R30	Citation_of Arg1:T66 Arg2:T19	
+T67	Version 11463 11468	1.4.1
+R31	Version_of Arg1:T67 Arg2:T20	
+T68	Citation 11469 11473	[59]
+R32	Citation_of Arg1:T68 Arg2:T20	
+T69	Version 11593 11598	1.5.2
+T70	Citation 11599 11603	[54]
+R33	Citation_of Arg1:T70 Arg2:T21	
+R34	Version_of Arg1:T69 Arg2:T21	
+T71	Version 11692 11697	1.5.2
+R35	Version_of Arg1:T71 Arg2:T22	
+T72	Citation 11698 11702	[54]
+R36	Citation_of Arg1:T72 Arg2:T22	
+T73	Version 11718 11721	1.2
+R37	Version_of Arg1:T73 Arg2:T23	
+T74	Citation 11722 11726	[60]
+R38	Citation_of Arg1:T74 Arg2:T23	
+T75	Application_Usage 11822 11829	convert
+T76	Citation 11830 11834	[61]
+R39	Citation_of Arg1:T76 Arg2:T75	
+T77	Version 11855 11859	3.11
+R40	Version_of Arg1:T77 Arg2:T25	
+T78	Version 12008 12011	4.0
+T79	Citation 12012 12016	[62]
+R41	Version_of Arg1:T78 Arg2:T26	
+R42	Citation_of Arg1:T79 Arg2:T26	
+T80	Version 12144 12151	2.9.3.2
+T81	Citation 12152 12156	[63]
+R43	Version_of Arg1:T80 Arg2:T27	
+R44	Citation_of Arg1:T81 Arg2:T27	
+T82	Version 12280 12286	1.2.02
+R45	Version_of Arg1:T82 Arg2:T28	
+T83	Citation 12287 12291	[65]
+R46	Citation_of Arg1:T83 Arg2:T28	
+T84	Citation 12601 12605	[65]
+R47	Citation_of Arg1:T84 Arg2:T29	
+T85	Version 12715 12719	3.11
+R48	Version_of Arg1:T85 Arg2:T30	
+T86	Version 12784 12789	2.3.3
+R49	Version_of Arg1:T86 Arg2:T31	
+T87	Version 13418 13423	4.0.3
+R50	Version_of Arg1:T87 Arg2:T32	
+T88	Citation 13424 13428	[72]
+R51	Citation_of Arg1:T88 Arg2:T32	
+T89	Citation 13430 13434	[73]
+R52	Citation_of Arg1:T89 Arg2:T32	
+T90	Citation 13436 13440	[74]
+R53	Citation_of Arg1:T90 Arg2:T32	
+T91	Version 14099 14104	3.3.2
+R54	Version_of Arg1:T91 Arg2:T33	
+T92	Citation 14105 14109	[78]
+R55	Citation_of Arg1:T92 Arg2:T33	

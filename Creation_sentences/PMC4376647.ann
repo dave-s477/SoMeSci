@@ -1,0 +1,9 @@
+T1	Application_Creation 55 60	MAFCO
+T2	SoftwareCoreference_Deposition 140 164	source-code and binaries
+T3	URL 243 285	http://bioinformatics.ua.pt/software/mafco
+R3	URL_of Arg1:T3 Arg2:T2	
+T4	Application_Deposition 615 620	MAFCO
+T5	URL 655 697	http://bioinformatics.ua.pt/software/mafco
+T6	URL 699 733	https://github.com/lumiratos/mafco
+R1	URL_of Arg1:T5 Arg2:T4	
+R2	URL_of Arg1:T6 Arg2:T4	

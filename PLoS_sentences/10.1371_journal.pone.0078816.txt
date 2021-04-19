@@ -1,0 +1,1 @@
+The data were analyzed in STATA (version 11.2), using Cox proportional hazards regression model to estimate the hazard ratio (HR) with a 95% confidence interval (CI), to assess the association between bereavement during childhood and the risk of hospitalization for asthma. 

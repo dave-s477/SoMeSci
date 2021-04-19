@@ -1,0 +1,24 @@
+T1	Application_Creation 30 41	SNPdetector
+T3	Application_Creation 136 147	SNPdetector
+T6	Application_Deposition 268 279	SNPdetector
+T2	OperatingSystem_Usage 288 292	Unix
+T58	OperatingSystem_Usage 293 298	Linux
+T59	URL 335 357	http://lpg.nci.nih.gov
+R1	URL_of Arg1:T59 Arg2:T6	
+T24	Application_Usage 368 379	SNPdetector
+T27	Application_Usage 463 474	SNPdetector
+T60	Application_Usage 590 599	PolyPhred
+T62	Version 600 605	5.0.2
+T61	Application_Usage 610 617	NovoSNP
+T63	Citation 618 622	[17]
+R2	Version_of Arg1:T62 Arg2:T60	
+R3	Citation_of Arg1:T63 Arg2:T61	
+T43	Application_Creation 689 700	SNPdetector
+T49	Application_Deposition 880 891	SNPdetector
+T64	OperatingSystem_Usage 900 904	Unix
+T65	OperatingSystem_Usage 909 914	Linux
+T66	URL 959 981	http://lpg.nci.nih.gov
+R4	URL_of Arg1:T66 Arg2:T49	
+T52	Application_Creation 984 995	SNPdetector
+T67	ProgrammingEnvironment_Usage 1015 1016	C
+T68	ProgrammingEnvironment_Usage 1021 1025	Perl

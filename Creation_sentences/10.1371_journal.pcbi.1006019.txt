@@ -1,0 +1,4 @@
+To address this challenge we have developed a new version of DREM termed interactive DREM (iDREM).
+To address these issues we developed the interactive DREM (iDREM) tool that provides support for more data types and greatly improves the visualization allowing users to interactively query the reconstructed network.
+iDREM is implemented using a combination of Java and Javascript.
+The iDREM code and software, with an example input dataset and detailed instructions are available from GitHub (https://github.com/phoenixding/idrem).

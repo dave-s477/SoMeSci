@@ -1,0 +1,3 @@
+By using our software (ACME) to study somite formation, we were able to segment touching cells with high accuracy and reliably quantify changes in morphogenetic parameters such as cell shape and size, and the arrangement of epithelial and mesenchymal cells.
+Our software has been developed and tested on Windows, Mac, and Linux platforms and is available publicly under an open source BSD license (https://github.com/krm15/ACME).
+Precompiled binaries are also available at https://wiki.med.harvard.edu/SysBio/Megason/ACME.

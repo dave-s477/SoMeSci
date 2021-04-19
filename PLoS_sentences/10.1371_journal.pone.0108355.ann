@@ -1,0 +1,12 @@
+T1	Application_Usage 39 42	SAS
+T2	Application_Usage 80 86	SUDAAN
+T3	Version 60 63	9.1
+T4	Developer 65 68	SAS
+R1	Developer_of Arg1:T4 Arg2:T1	
+R2	Version_of Arg1:T3 Arg2:T1	
+T5	Developer 88 115	Research Triangle Institute
+R3	Developer_of Arg1:T5 Arg2:T2	
+T6	Release 70 74	2004
+R4	Release_of Arg1:T6 Arg2:T1	
+T7	Release 117 121	2004
+R5	Release_of Arg1:T7 Arg2:T2	

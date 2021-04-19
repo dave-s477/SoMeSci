@@ -1,0 +1,2 @@
+This assumption, tested by Stata's gologit2 command and its autofit option, was confirmed in all cases. Analyses were conducted using STATA Version 13 for Windows (College Station, TX, USA).
+

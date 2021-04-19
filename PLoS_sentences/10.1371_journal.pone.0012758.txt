@@ -1,0 +1,1 @@
+We modeled group size for wildebeest and zebra as a function of habitat type, season and lion UD using generalized linear models in SPSS 15.0. Group composition, as measured by the proportion of females in each group (arcsin transformed for analysis), was similarly modeled using generalized linear models in SPSS 15.0. 

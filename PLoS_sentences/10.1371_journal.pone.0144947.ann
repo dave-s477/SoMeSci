@@ -1,0 +1,4 @@
+T1	Application_Usage 33 37	SPSS
+T2	OperatingSystem_Usage 43 50	Windows
+T3	Version 59 61	21
+R1	Version_of Arg1:T3 Arg2:T1	

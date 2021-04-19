@@ -1,0 +1,3 @@
+Based on two-sample Wilcoxon rank-sum test with a two-tail test α of 5% with 80% power, it was estimated that at least 96 mother-child pairs would be required to detect a 20% difference in the mean duration of ABF between the intervention and control groups (POWER procedure, SAS Version 9.3, SAS Institute, Cary, NC, USA).
+
+All the statistical analyses were performed using SAS (Version 9.3, SAS Institute, Cary, NC, USA). 

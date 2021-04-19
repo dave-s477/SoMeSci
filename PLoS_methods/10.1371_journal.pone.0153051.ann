@@ -1,0 +1,13 @@
+T1	Application_Usage 14642 14649	EpiData
+T2	Application_Usage 14722 14727	STATA
+T3	Application_Usage 15098 15103	STATA
+T4	Application_Usage 15673 15678	STATA
+T5	Application_Usage 15928 15933	STATA
+T7	Version 14658 14661	3.1
+R1	Version_of Arg1:T7 Arg2:T1	
+T8	Developer 14664 14687	The EpiData Association
+R2	Developer_of Arg1:T8 Arg2:T1	
+T9	Version 14736 14738	12
+T10	Developer 14740 14749	StataCorp
+R3	Version_of Arg1:T9 Arg2:T2	
+R4	Developer_of Arg1:T10 Arg2:T2	

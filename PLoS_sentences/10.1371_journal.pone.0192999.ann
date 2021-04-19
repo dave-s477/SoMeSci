@@ -1,0 +1,10 @@
+T1	Application_Usage 47 50	SAS
+T2	Application_Usage 148 175	Comprehensive Meta-Analysis
+T3	Version 60 63	9.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 65 83	SAS Institute Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 184 191	2.2.027
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 202 209	Biostat
+R4	Developer_of Arg1:T6 Arg2:T2	

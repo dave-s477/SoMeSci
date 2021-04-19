@@ -1,0 +1,7 @@
+We developed ProteoLens as a JAVA-based visual analytic software tool for creating, annotating and exploring multi-scale biological networks.
+We developed ProteoLens as a new visual analytic software platform for creating, annotating and analyzing multi-scale biological networks.
+In the next several sections, we first describe ProteoLens implementation and then demonstrate how it can be used to enable multi-scale biological network-based research through three case studies.
+ProteoLens is a standalone software tool written in Java programming language.
+"Project name: ProteoLens • Project home page: http://bio.informatics.iupui.edu/proteolens/ • Operating system(s): The software is platform independent and can run anywhere Java Virtual Machine runtime is available.
+An installer is provided for Windows NT/XP/2003/Vista users.
+• Programming language: Java • Other requirements: Java Runtime Environment (JRE) version 1.5 or above is required.

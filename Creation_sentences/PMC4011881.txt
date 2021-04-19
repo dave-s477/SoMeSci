@@ -1,0 +1,6 @@
+The IHC Profiler plugin developed is compatible with the open resource digital image analysis software, ImageJ, which creates a pixel-by-pixel analysis profile of a digital IHC image and further assigns a score in a four tier system.
+Keeping in view the above mentioned limitations of various analytical methods, we report here, the development of an open source plugin named IHC Profiler, which is compatible with the ImageJ software and demonstrate the method for IHC analysis using color deconvolution and computerized pixel profiling leading to the assignment of an automated score to the respective image.
+The current plugin named as IHC profiler, integrates options for quantitative analysis of digital IHC images stained for either cytoplasmic or nuclear proteins.
+IHC profiler can be freely downloaded from Sourceforge website (https://sourceforge.net/projects/ihcprofiler/).
+IHC profiler is currently compatible for use with Microsoft Windows operating system.
+This program named ‘IHC Profiler’ has been embedded under the plugin menu of the ImageJ software.

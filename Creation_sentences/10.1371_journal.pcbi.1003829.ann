@@ -1,0 +1,7 @@
+T2	Application_Creation 46 56	eMatchSite
+T4	Application_Mention 187 197	eMatchSite
+T6	Application_Deposition 293 303	eMatchSite
+T75	URL 409 444	http://www.brylinski.org/ematchsite
+R1	URL_of Arg1:T75 Arg2:T6	
+T7	Application_Creation 483 493	eMatchSite
+T9	Application_Usage 642 652	eMatchSite

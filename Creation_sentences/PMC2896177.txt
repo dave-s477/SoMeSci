@@ -1,0 +1,3 @@
+THREaD Mapper Studio (http://cbr.jic.ac.uk/threadmapper) is a new web site that implements a novel, visual and interactive method for the estimation of genetic linkage maps from DNA markers.
+Most recently, a public web server THREaD Mapper Studio has been developed to enable any user to analyse their data set using the THREaD Mapper method without the need for downloading and installing software packages.
+THREaD Mapper Studio is mostly coded in Python and JavaScript.

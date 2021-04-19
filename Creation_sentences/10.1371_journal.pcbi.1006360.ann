@@ -1,0 +1,13 @@
+T2	Application_Creation 11 20	ggsashimi
+T4	Application_Deposition 393 402	ggsashimi
+T5	URL 426 463	https://github.com/guigolab/ggsashimi
+R1	URL_of Arg1:T5 Arg2:T4	
+T7	Application_Mention 499 508	ggsashimi
+T22	ProgrammingEnvironment_Mention 533 534	R
+T24	PlugIn_Mention 557 564	ggplot2
+T25	Citation 573 576	[5]
+R2	Citation_of Arg1:T25 Arg2:T24	
+T20	Application_Mention 612 621	ggsashimi
+T21	Application_Deposition 885 894	ggsashimi
+T26	URL 918 955	https://github.com/guigolab/ggsashimi
+R3	URL_of Arg1:T26 Arg2:T21	

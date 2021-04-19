@@ -1,0 +1,5 @@
+T1	Application_Usage 53 58	Prism
+T2	Developer 44 52	Graphpad
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 59 60	6
+R2	Version_of Arg1:T3 Arg2:T1	

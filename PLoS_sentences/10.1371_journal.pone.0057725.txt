@@ -1,0 +1,2 @@
+All statistical analyses aside from the CFA were performed using STATA version 11 [28].
+

@@ -1,0 +1,24 @@
+T1	ProgrammingEnvironment_Usage 14445 14446	R
+T2	PlugIn_Usage 14481 14496	H2O R interface
+T3	PlugIn_Usage 14589 14600	h2oEnsemble
+T4	OperatingSystem_Usage 14873 14880	Windows
+T5	ProgrammingEnvironment_Usage 15276 15277	R
+T6	PlugIn_Usage 15286 15290	pROC
+T7	Citation 14468 14472	[34]
+R1	Citation_of Arg1:T7 Arg2:T1	
+T8	Version 14505 14512	3.8.2.2
+R2	PlugIn_of Arg1:T2 Arg2:T1	
+R3	Version_of Arg1:T8 Arg2:T2	
+T9	Citation 14513 14517	[35]
+R4	Citation_of Arg1:T9 Arg2:T2	
+T10	Version 14617 14622	0.1.8
+T11	Citation 14623 14627	[36]
+R5	Version_of Arg1:T10 Arg2:T3	
+R6	Citation_of Arg1:T11 Arg2:T3	
+T12	Version 14881 14882	7
+R7	Version_of Arg1:T12 Arg2:T4	
+R8	PlugIn_of Arg1:T6 Arg2:T5	
+T13	Citation 15291 15295	[38]
+R9	Citation_of Arg1:T13 Arg2:T6	
+T14	Extension 14883 14895	Professional
+R10	Extension_of Arg1:T14 Arg2:T4	

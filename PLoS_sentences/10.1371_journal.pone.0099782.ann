@@ -1,0 +1,8 @@
+T1	Application_Usage 59 67	EPI INFO
+T2	Application_Usage 121 126	Excel
+T3	Version 76 77	5
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 79 82	CDC
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 111 120	Microsoft
+R3	Developer_of Arg1:T5 Arg2:T2	

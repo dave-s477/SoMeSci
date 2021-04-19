@@ -1,0 +1,12 @@
+T1	Application_Usage 29 33	SPSS
+T2	Application_Usage 114 124	Sigma plot
+T3	OperatingSystem_Usage 47 54	Windows
+T4	OperatingSystem_Usage 129 136	Windows
+T5	Version 59 61	15
+R1	Version_of Arg1:T5 Arg2:T1	
+T6	Developer 62 65	IBM
+R2	Developer_of Arg1:T6 Arg2:T1	
+T7	Version 141 146	8.02.
+R3	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 147 167	Systat Software Inc.
+R4	Developer_of Arg1:T8 Arg2:T2	

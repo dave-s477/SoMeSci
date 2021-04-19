@@ -1,0 +1,6 @@
+T1	ProgrammingEnvironment_Usage 4554 4555	R
+T2	PlugIn_Usage 4543 4546	car
+T3	ProgrammingEnvironment_Usage 7093 7094	R
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+T4	Citation 7145 7149	[34]
+R2	Citation_of Arg1:T4 Arg2:T3	

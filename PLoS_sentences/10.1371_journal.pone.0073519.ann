@@ -1,0 +1,10 @@
+T1	Application_Usage 95 99	SPSS
+T2	Application_Usage 239 243	SPSS
+T3	Version 100 102	11
+T4	Developer 104 113	SPSS Inc.
+R1	Version_of Arg1:T3 Arg2:T1	
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 244 248	11.5
+T6	Developer 250 259	SPSS Inc.
+R3	Developer_of Arg1:T6 Arg2:T2	
+R4	Version_of Arg1:T5 Arg2:T2	

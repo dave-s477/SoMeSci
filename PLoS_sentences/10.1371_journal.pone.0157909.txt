@@ -1,0 +1,2 @@
+For metric variables the mean was computed and univariate analysis of covariance (oneway ANOVA in SPSS) was applied. Calculations were done using SPSS 20.
+

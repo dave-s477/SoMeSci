@@ -1,0 +1,1 @@
+Then, the hypotheses were tested with OLS Ordinary Least Square through the PROCESS macro for SPSS, which assesses the conditional indirect effects [38]. 

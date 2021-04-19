@@ -1,0 +1,7 @@
+T1	Application_Usage 42 85	Statistical Package for the Social Sciences
+T2	Abbreviation 87 91	SPSS
+R1	Abbreviation_of Arg1:T2 Arg2:T1	
+T3	Version 101 105	19.0
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 116 124	IBM Corp
+R3	Developer_of Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Application_Usage 271 278	Minitab
+T2	Version 287 291	16.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 293 305	Minitab Inc.
+R2	Developer_of Arg1:T3 Arg2:T1	

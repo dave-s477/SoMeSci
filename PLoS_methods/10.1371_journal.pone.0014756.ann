@@ -1,0 +1,19 @@
+T1	ProgrammingEnvironment_Usage 4901 4907	MATLAB
+T2	Application_Usage 5955 5962	E-prime
+T3	ProgrammingEnvironment_Usage 6455 6461	MATLAB
+T4	Application_Usage 6366 6396	statistical parametric mapping
+T5	Application_Usage 11295 11298	SPM
+T6	Developer 5973 5998	Psychology Software Tools
+R1	Developer_of Arg1:T6 Arg2:T2	
+T7	Application_Usage 6398 6401	SPM
+R2	Specification_of Arg1:T7 Arg2:T4	
+T8	Version 6401 6402	5
+T9	Developer 6404 6423	Wellcome Department
+R3	Developer_of Arg1:T9 Arg2:T7	
+R4	Version_of Arg1:T8 Arg2:T7	
+T10	Version 6462 6463	7
+R5	Version_of Arg1:T10 Arg2:T3	
+T11	Developer 6474 6483	MathWorks
+R6	Developer_of Arg1:T11 Arg2:T3	
+T12	Version 11298 11299	5
+R7	Version_of Arg1:T12 Arg2:T5	

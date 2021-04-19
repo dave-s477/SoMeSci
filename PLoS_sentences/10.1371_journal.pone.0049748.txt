@@ -1,0 +1,1 @@
+Stimuli were presented using the Cogent 2000 toolbox (http://www.vislab.ucl.ac.uk/cogent.php) for MATLAB (The Mathworks Inc.) on LCD-goggles (Resonance Technology Inc.). 

@@ -1,0 +1,5 @@
+To improve the state-of-the-art, we developed eMatchSite, a new method for constructing sequence order-independent alignments of ligand binding sites in protein models.
+More importantly, eMatchSite offers a high tolerance to structural distortions in ligand binding regions in protein models.
+eMatchSite is freely available to the academic community as a web-server and a stand-alone software distribution at http://www.brylinski.org/ematchsite.
+To mitigate this issue, we developed eMatchSite, a new algorithm that performs sequence order-independent local binding site alignments using computer-generated protein models.
+The performance of eMatchSite is evaluated using several datasets and compared to other algorithms for binding site matching in large-scale benchmarking calculations.

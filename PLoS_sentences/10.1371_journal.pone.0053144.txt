@@ -1,0 +1,1 @@
+Tests on initiatorship and overtaking were run with PASW Statistics 18 (SPSS Inc., Chicago, IL, 2009), the other tests were run using R software (R Development Core Team, Vienna, Austria, R2.11.1). 

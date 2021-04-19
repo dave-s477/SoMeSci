@@ -1,0 +1,6 @@
+T1	Application_Usage 3290 3294	SPSS
+T2	OperatingSystem_Usage 3324 3331	Windows
+T3	Version 3303 3310	11.5.1J
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 3333 3342	SPSS Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	

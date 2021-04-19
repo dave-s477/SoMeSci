@@ -1,0 +1,6 @@
+T1	Application_Usage 5748 5753	ADAPT
+T2	ProgrammingEnvironment_Usage 5776 5782	MATLAB
+T3	Version 5754 5756	II
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Citation 5765 5769	[44]
+R2	Citation_of Arg1:T4 Arg2:T1	

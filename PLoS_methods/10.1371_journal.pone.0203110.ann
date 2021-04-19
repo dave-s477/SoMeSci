@@ -1,0 +1,10 @@
+T1	Application_Usage 3485 3507	Microsoft Office Excel
+T2	Application_Usage 3517 3522	Stata
+T9	Version 3508 3512	2010
+R3	Version_of Arg1:T9 Arg2:T1	
+T10	Application_Usage 3533 3538	Stata
+R4	Specification_of Arg1:T10 Arg2:T2	
+T11	Version 3542 3546	13.1
+R5	Version_of Arg1:T11 Arg2:T2	
+T12	Extension 3539 3541	SE
+R6	Extension_of Arg1:T12 Arg2:T10	

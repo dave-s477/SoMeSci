@@ -1,0 +1,22 @@
+T1	Application_Usage 1522 1527	GREAT
+T2	Application_Usage 1809 1814	GREAT
+T3	Application_Usage 2219 2224	GREAT
+T4	Application_Usage 2370 2375	GREAT
+T5	Application_Usage 2576 2581	GREAT
+T6	Application_Usage 3113 3120	BioMart
+T7	Application_Usage 6044 6049	MAGMA
+T8	Application_Mention 7022 7027	MAGMA
+T9	Application_Usage 7216 7221	MAGMA
+T10	Application_Usage 7294 7299	MAGMA
+T11	Application_Usage 7369 7374	MAGMA
+T12	Application_Usage 7572 7577	MAGMA
+T13	Application_Usage 9948 9955	BioMart
+T16	Application_Usage 3088 3095	Ensembl
+T26	URL 1529 1585	http://bejerano.stanford.edu/great/public/html/index.php
+R1	URL_of Arg1:T26 Arg2:T1	
+T28	URL 3122 3155	http://www.ensembl.org/index.html
+R3	URL_of Arg1:T28 Arg2:T6	
+T33	Citation 6050 6054	[26]
+R8	Citation_of Arg1:T33 Arg2:T7	
+T34	URL 6055 6088	http://ctg.cncr.nl/software/magma
+R9	URL_of Arg1:T34 Arg2:T7	

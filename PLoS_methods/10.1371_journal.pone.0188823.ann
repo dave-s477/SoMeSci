@@ -1,0 +1,8 @@
+T1	Application_Usage 6057 6061	SPSS
+T2	Application_Usage 6070 6074	SPSS
+T3	PlugIn_Usage 6075 6082	PROCESS
+T4	Version 6062 6064	19
+R1	Version_of Arg1:T4 Arg2:T1	
+R2	PlugIn_of Arg1:T3 Arg2:T2	
+T5	Citation 6215 6219	[28]
+R3	Citation_of Arg1:T5 Arg2:T3	

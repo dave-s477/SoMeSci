@@ -1,0 +1,8 @@
+T1	Application_Usage 10 15	Excel
+T2	Application_Usage 20 63	Statistical Package for the Social Sciences
+T3	Developer 0 9	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Application_Usage 65 69	SPSS
+R2	Specification_of Arg1:T4 Arg2:T2	
+T5	Version 78 82	22.0
+R3	Version_of Arg1:T5 Arg2:T2	

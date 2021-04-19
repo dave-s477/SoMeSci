@@ -1,0 +1,8 @@
+T1	Application_Usage 94 104	Kubios HRV
+T2	ProgrammingEnvironment_Usage 202 208	MATLAB
+T3	Version 114 117	2.0
+T4	Developer 125 169	biosignal analysis and medical imaging group
+R1	Version_of Arg1:T3 Arg2:T1	
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Release 119 123	2008
+R3	Release_of Arg1:T5 Arg2:T1	

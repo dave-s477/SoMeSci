@@ -1,0 +1,4 @@
+The OpenSim software is covered by the Apache License 2.0, which permits its use for any purpose including both nonprofit and commercial applications.
+Platform-specific installers of OpenSim include a GUI and are available on simtk.org.
+The OpenSim source code is available under the permissive Apache License 2.0, making OpenSim suitable for any academic, commercial, government, or personal use (some dependencies have more restrictive licenses).
+To make OpenSim accessible to a broad community of users, pre-packaged binaries with a desktop application (GUI and visualizer) are released periodically at https://simtk.org/projects/opensim.

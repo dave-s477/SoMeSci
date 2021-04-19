@@ -1,0 +1,5 @@
+T1	Application_Usage 6401 6405	SPSS
+T5	Developer 6397 6400	IBM
+R3	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 6406 6408	20
+R4	Version_of Arg1:T6 Arg2:T1	

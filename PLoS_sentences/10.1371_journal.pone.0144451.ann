@@ -1,0 +1,3 @@
+T1	Application_Usage 77 82	BLAST
+T2	AlternativeName 84 117	Basic Local Alignment Search Tool
+R1	AlternativeName_of Arg1:T2 Arg2:T1	

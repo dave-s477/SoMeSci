@@ -1,0 +1,1 @@
+All analyses were conducted using Stata version 11 (StataCorp, College Station, Texas) and Excel version 2007 (Microsoft Corporation, Redmond, Washington). 

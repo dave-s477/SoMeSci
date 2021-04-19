@@ -1,0 +1,6 @@
+PyMS comprises a library of functions for processing of instrument GC-MS data developed in Python.
+PyMS is a novel software package for the processing of raw GC-MS data, particularly suitable for scripting of customized processing pipelines and for data processing in batch mode.
+Here we describe PyMS, a novel GC-MS processing software that decouples data processing methods from GUI-based interface.
+PyMS currently implements a complete set of methods required in typical GC-MS data processing, including reading of standard data formats, baseline correction, nose filtering, peak detection, peak deconvolution, peak integration, and peak alignment based on dynamic programming described previously [36].
+We present details of the PyMS implementation, give an overview of current data processing capabilities, and analyze real-life data analysis scenarios based on custom data sets.
+Project name: PyMS Project home page:http://code.google.com/p/pyms/ Operating system(s): Platform independent Programming language: Python Other requirements: NumPy, Netcdf, Pycdf, Pycluster, matplotlib, tcl, tk License: GNU GPL2 Any restrictions to use by non-academics: No"

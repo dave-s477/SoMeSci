@@ -1,0 +1,1 @@
+All data analysis was performed offline in MATLAB environment (version R2010a, The MathWorks, Natick, MA) in a way that will allow later straightforward automatization of the analytic procedure. 

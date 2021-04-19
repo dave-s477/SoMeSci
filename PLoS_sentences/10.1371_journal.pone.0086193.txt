@@ -1,0 +1,2 @@
+Statistical analyses were performed using SPSS 20.0.0, except McNemar tests that were performed in R 3.0.0 [44].
+

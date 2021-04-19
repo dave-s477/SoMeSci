@@ -1,0 +1,8 @@
+T1	PlugIn_Creation 18 27	CloVR-ITS
+T2	PlugIn_Deposition 200 209	CloVR-ITS
+T4	Application_Mention 334 339	CloVR
+T3	URL 365 381	http://clovr.org
+R1	PlugIn_of Arg1:T2 Arg2:T4	
+R2	URL_of Arg1:T3 Arg2:T4	
+T5	PlugIn_Creation 400 409	CloVR-ITS
+T6	PlugIn_Creation 513 522	CloVR-ITS

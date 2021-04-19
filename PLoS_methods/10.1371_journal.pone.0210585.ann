@@ -1,0 +1,7 @@
+T1	Application_Usage 3425 3468	Statistical Program for the Social Sciences
+T2	Abbreviation 3470 3474	SPSS
+R1	Abbreviation_of Arg1:T2 Arg2:T1	
+T3	Version 3485 3487	24
+T4	Developer 3489 3497	IBM Inc.
+R2	Version_of Arg1:T3 Arg2:T1	
+R3	Developer_of Arg1:T4 Arg2:T1	

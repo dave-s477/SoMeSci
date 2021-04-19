@@ -1,0 +1,5 @@
+T1	Application_Usage 3621 3635	Coffalyser.NET
+T2	Version 3637 3641	beta
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 3651 3662	MRC-Holland
+R2	Developer_of Arg1:T3 Arg2:T1	

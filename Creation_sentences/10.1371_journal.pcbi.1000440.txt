@@ -1,0 +1,8 @@
+Herein we present PoreWalker, a fully automated method, which detects and fully characterises channels in transmembrane proteins from their 3D structures.
+The software is available as a web-based resource at http://www.ebi.ac.uk/thornton-srv/software/PoreWalker/.
+Herein we present PoreWalker, a method to provide a detailed description of the three dimensional geometry of a channel (or pore) through a transmembrane protein, given the coordinates of the protein structure.
+PoreWalker is fully automated, requiring only the 3D protein coordinates from the PDB file, and so can be applied to any new structure or across all transmembrane proteins in the PDB.
+The software is implemented as a web-based resource at http://www.ebi.ac.uk/thornton-srv/software/PoreWalker/ and its source codes will soon be available upon request to the authors.
+All programs included in the PoreWalker pipeline are developed in-house in C and PERL programming languages.
+We developed PoreWalker, a novel web-available method for the detection and characterisation of channels in transmembrane proteins from their three-dimensional structure.
+PoreWalker is fully automated and very user-friendly, requiring as input only the 3D coordinates of a transmembrane protein structure.

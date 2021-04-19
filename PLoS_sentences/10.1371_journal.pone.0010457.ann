@@ -1,0 +1,6 @@
+T1	Application_Usage 50 54	SPSS
+T2	Application_Usage 64 69	Excel
+T3	Version 55 59	17.0
+T4	Release 70 74	2007
+R1	Release_of Arg1:T4 Arg2:T2	
+R2	Version_of Arg1:T3 Arg2:T1	

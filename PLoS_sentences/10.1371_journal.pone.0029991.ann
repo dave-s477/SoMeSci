@@ -1,0 +1,11 @@
+T1	Application_Usage 56 64	Epi Info
+T2	Application_Usage 122 127	STATA
+T3	Application_Usage 241 246	STATA
+T4	Developer 71 74	CDC
+T5	Version 65 69	6.04
+R1	Version_of Arg1:T5 Arg2:T1	
+R2	Developer_of Arg1:T4 Arg2:T1	
+T6	Version 128 131	9.0
+R3	Version_of Arg1:T6 Arg2:T2	
+T7	Developer 142 153	Stata Corp.
+R4	Developer_of Arg1:T7 Arg2:T2	

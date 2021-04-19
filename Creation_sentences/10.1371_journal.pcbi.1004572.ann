@@ -1,0 +1,20 @@
+T2	Application_Creation 29 33	Wham
+T176	AlternativeName 35 65	Whole-genome Alignment Metrics
+R1	AlternativeName_of Arg1:T176 Arg2:T2	
+T5	Application_Deposition 285 289	Wham
+T3	License 340 351	MIT License
+T177	Application_Usage 386 392	github
+T178	URL 394 423	https://github.com/zeeev/wham
+T179	URL 456 484	http://zeeev.github.io/wham/
+R2	License_of Arg1:T3 Arg2:T5	
+R3	URL_of Arg1:T178 Arg2:T5	
+R4	URL_of Arg1:T179 Arg2:T5	
+T17	Application_Mention 487 491	Wham
+T23	Application_Mention 602 606	Wham
+T42	Application_Usage 690 694	Wham
+T169	Application_Deposition 769 773	Wham
+T180	Application_Usage 818 824	github
+T181	URL 826 855	https://github.com/zeeev/wham
+T182	URL 888 916	http://zeeev.github.io/wham/
+R5	URL_of Arg1:T181 Arg2:T169	
+R6	URL_of Arg1:T182 Arg2:T169	

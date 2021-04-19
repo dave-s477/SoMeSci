@@ -1,0 +1,118 @@
+NCHFNOIn the title compound, CHFNO, the pyridine ring is connected to a benzene ring by a -CH-NH- chain. The nitro group is twisted out of the pyridine ring plane [torsion angle O-N-C-C = 10.41 (10)°]. An intramolecular N-H⋯O hydrogen bond occurs. The fluoro­benzene ring is disordered over two positions [occupancy ratio = 0.59 (3):0.41 (3)]. Inter­molecular N-H⋯O and N-H⋯N hydrogen bonds stabilize the crystal structure.
+
+Related literature
+The title compound is an inter­mediate in the synthesis of analgesic drugs. For the analgesic properties of flupirtine (systematic name eth­yl{2-amino-6-[(4-fluoro­benz­yl)amino]­pyridin-3-yl}carbamate), see: Klawe & Maschke (2009 ▶). For synthetic procedures, see: Gerhard & Ilia (2010 ▶). For a related structure, see: Wang (2009 ▶).
+         
+
+Experimental
+
+Crystal data
+
+                  CHFNO
+                        
+
+
+                           M
+                            = 262.25
+
+Monoclinic,  inline-formula 
+                        
+
+
+                           a = 14.8187 (14) Å
+
+
+                           b = 5.9972 (6) Å
+
+
+                           c = 14.8840 (15) Å
+
+β = 109.827 (1)°
+
+
+                           V = 1244.3 (2) Å
+                        
+
+
+                           Z = 4
+
+Mo Kα radiation
+
+μ = 0.11 mm
+                        
+
+
+                           T = 298 K
+
+0.38 × 0.15 × 0.11 mm
+
+
+               
+
+Data collection
+
+                  Rigaku SCXmini CCD diffractometer
+
+Absorption correction: multi-scan (CrystalClear; Rigaku, 2005 ▶) T
+                            = 0.960, T
+                            = 0.988
+
+5923 measured reflections
+
+2184 independent reflections
+
+1169 reflections with I > 2σ(I)
+
+
+                           R
+                            = 0.056
+
+
+               
+
+Refinement
+
+                  
+                           R[F
+                            > 2σ(F
+                           )] = 0.052
+
+
+                           wR(F
+                           ) = 0.140
+
+
+                           S = 1.03
+
+2184 reflections
+
+227 parameters
+
+H-atom parameters constrained
+
+Δρ = 0.21 e Å
+                        
+
+Δρ = −0.22 e Å
+                        
+
+
+               
+
+
+
+Data collection: CrystalClear (Rigaku, 2005 ▶); cell refinement: CrystalClear; data reduction: CrystalClear; program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 ▶); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 ▶); molecular graphics: ORTEP-3 for Windows (Farrugia, 1997 ▶) and PLATON (Spek, 2009 ▶); software used to prepare material for publication: SHELXL97.
+
+
+Supplementary Material
+Crystal structure: contains datablocks I, global. DOI: 10.1107/S1600536811018642/pv2411sup1.cif
+            
+Structure factors: contains datablocks I. DOI: 10.1107/S1600536811018642/pv2411Isup2.hkl
+            
+Supplementary material file. DOI: 10.1107/S1600536811018642/pv2411Isup3.cml
+            
+Additional supplementary materials:  crystallographic information; 3D view; checkCIF report
+            
+
+Hydrogen-bond geometry (Å, °)
+Symmetry codes: (i)  inline-formula ; (ii)  inline-formula .

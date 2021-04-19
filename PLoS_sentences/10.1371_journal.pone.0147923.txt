@@ -1,0 +1,1 @@
+Median values were compared using K-sample tests, and reductions in financial imbalances were examined over time by calculating maximum/minimum ratios.All analyses were performed using Stata 13.1 software [30]. 

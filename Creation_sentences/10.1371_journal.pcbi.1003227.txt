@@ -1,0 +1,3 @@
+In this paper, we present GINI, a machine learning system for inferring gene interaction networks from Drosophila embryonic ISH images.
+GINI builds on a computer-vision-inspired vector-space representation of the spatial pattern of gene expression in ISH images, enabled by our recently developed system; and a new multi-instance-kernel algorithm that learns a sparse Markov network model, in which, every gene (i.e., node) in the network is represented by a vector-valued spatial pattern rather than a scalar-valued gene intensity as in conventional approaches such as a Gaussian graphical model.
+Software for GINI is available at http://sailing.cs.cmu.edu/Drosophila_ISH_images/ (b) GINI extends such analysis to inferring a network from bags of images per gene.

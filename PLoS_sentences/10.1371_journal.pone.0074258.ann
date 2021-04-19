@@ -1,0 +1,3 @@
+T1	Application_Usage 0 41	Statistical Product and Service Solutions
+T2	Abbreviation 43 47	SPSS
+R1	Abbreviation_of Arg1:T2 Arg2:T1	

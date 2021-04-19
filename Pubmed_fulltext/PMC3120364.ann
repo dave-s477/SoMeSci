@@ -1,0 +1,27 @@
+T1	Application_Usage 2209 2221	CrystalClear
+T2	Citation 2223 2235	Rigaku, 2005
+R1	Citation_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 2257 2269	CrystalClear
+T4	Application_Usage 2287 2299	CrystalClear
+T5	Application_Usage 2337 2343	SHELXS
+T6	Version 2343 2345	97
+R2	Version_of Arg1:T6 Arg2:T5	
+T7	Citation 2347 2362	Sheldrick, 2008
+R3	Citation_of Arg1:T7 Arg2:T5	
+T8	Application_Usage 2404 2410	SHELXL
+T9	Version 2410 2412	97
+R4	Version_of Arg1:T9 Arg2:T8	
+T10	Citation 2414 2429	Sheldrick, 2008
+R5	Citation_of Arg1:T10 Arg2:T8	
+T11	Application_Usage 2454 2459	ORTEP
+T12	Version 2460 2461	3
+R6	Version_of Arg1:T12 Arg2:T11	
+T13	OperatingSystem_Usage 2466 2473	Windows
+T14	Citation 2475 2489	Farrugia, 1997
+R7	Citation_of Arg1:T14 Arg2:T11	
+T15	Application_Usage 2497 2503	PLATON
+T16	Citation 2505 2515	Spek, 2009
+R8	Citation_of Arg1:T16 Arg2:T15	
+T17	Application_Usage 2571 2577	SHELXL
+T18	Version 2577 2579	97
+R9	Version_of Arg1:T18 Arg2:T17	

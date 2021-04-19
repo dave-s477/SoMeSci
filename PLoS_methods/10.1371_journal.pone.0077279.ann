@@ -1,0 +1,5 @@
+T1	Application_Usage 5747 5753	MAXQDA
+T3	Release 5754 5758	2007
+R1	Release_of Arg1:T3 Arg2:T1	
+T4	Citation 5794 5798	[37]
+R2	Citation_of Arg1:T4 Arg2:T1	

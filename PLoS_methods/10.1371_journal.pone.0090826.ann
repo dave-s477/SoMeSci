@@ -1,0 +1,21 @@
+T1	Application_Usage 808 814	ArcGIS
+T2	Application_Usage 836 847	Photofiltre
+T3	ProgrammingEnvironment_Usage 1438 1439	R
+T4	Application_Usage 4177 4186	EstimateS
+T5	ProgrammingEnvironment_Usage 5398 5399	R
+T6	PlugIn_Usage 5408 5412	lme4
+T17	Developer 820 830	ESRI, Inc.
+R3	Developer_of Arg1:T17 Arg2:T1	
+T18	Version 815 818	9.3
+R4	Version_of Arg1:T18 Arg2:T1	
+T19	Version 848 853	6.5.1
+R5	Version_of Arg1:T19 Arg2:T2	
+T20	Version 1448 1454	2.15.3
+T21	Citation 1455 1459	[10]
+R6	Citation_of Arg1:T21 Arg2:T3	
+R7	Version_of Arg1:T20 Arg2:T3	
+T22	Version 4189 4194	8.2.0
+T23	Citation 4195 4199	[11]
+R8	Version_of Arg1:T22 Arg2:T4	
+R9	Citation_of Arg1:T23 Arg2:T4	
+R10	PlugIn_of Arg1:T6 Arg2:T5	

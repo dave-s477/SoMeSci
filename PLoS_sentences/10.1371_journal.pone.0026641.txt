@@ -1,0 +1,1 @@
+Four partial EST sequences for hexamerin (contigs 45616, 45913, 42334 and 40833: http://stan.cropsci.uiuc.edu/454/blast/waspblast.html) were available from the Polistes wasp EST data set to design primers. 

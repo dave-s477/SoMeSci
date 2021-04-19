@@ -1,0 +1,5 @@
+T1	Application_Usage 71 74	SAS
+T2	Version 98 101	9.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Extension 75 79	STAT
+R2	Extension_of Arg1:T3 Arg2:T1	

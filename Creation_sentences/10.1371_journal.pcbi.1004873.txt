@@ -1,0 +1,5 @@
+We present a method for copy number detection, implemented in the software package CNVkit, that uses both the targeted reads and the nonspecifically captured off-target reads to infer copy number evenly across the genome.
+CNVkit is freely available from https://github.com/etal/cnvkit.
+We implemented CNVkit as a Python 2.7 software package comprising a command-line program, cnvkit.py, and reusable library, cnvlib.
+CNVkit generates several kinds of plots using the software libraries Biopython [35], Reportlab (http://www.reportlab.com/opensource/) and matplotlib (http://matplotlib.org):
+CNVkit source code is freely available from https://github.com/etal/cnvkit under the Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0).

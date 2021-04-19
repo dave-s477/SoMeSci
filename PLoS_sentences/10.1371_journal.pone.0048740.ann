@@ -1,0 +1,6 @@
+T1	ProgrammingEnvironment_Usage 71 74	VBA
+T2	Application_Usage 54 59	Excel
+T3	Developer 44 53	Microsoft
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Release 60 64	2010
+R2	Release_of Arg1:T4 Arg2:T2	

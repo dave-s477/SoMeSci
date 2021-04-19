@@ -1,0 +1,5 @@
+Here we present PhyloBot, a web-based software tool that makes ancestral sequence reconstruction easy.
+PhyloBot runs in a web browser, and is available at the following URL: http://www.phylobot.com.
+PhyloBot is a web portal that automates the reconstruction of ancestral amino acid sequences.
+Users are welcome to use an instance of PhyloBot available at http://www.phylobot.com, or launch their own instance of PhyloBot using its open-source code.
+PhyloBot is available to use at http://www.phylobot.com, and its source code is available at https://github.com/vhsvhs/phylobot-django.

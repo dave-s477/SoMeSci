@@ -1,0 +1,6 @@
+T2	Application_Usage 6837 6841	SPSS
+T3	OperatingSystem_Usage 6855 6862	Windows
+T1	Version 6872 6876	15.0
+R1	Version_of Arg1:T1 Arg2:T2	
+T4	Developer 6878 6887	SPSS Ltd.
+R2	Developer_of Arg1:T4 Arg2:T2	

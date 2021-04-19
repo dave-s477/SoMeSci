@@ -1,0 +1,14 @@
+T1	ProgrammingEnvironment_Usage 145 151	Matlab
+T2	Application_Usage 25 55	Statistical Parametric Mapping
+T3	Version 56 57	5
+T4	Application_Usage 59 62	SPM
+T5	Version 62 63	5
+R1	Version_of Arg1:T3 Arg2:T2	
+R2	Version_of Arg1:T5 Arg2:T4	
+T6	Developer 65 107	Wellcome Department of Cognitive Neurology
+R3	Developer_of Arg1:T6 Arg2:T4	
+T7	Version 152 155	7.8
+R4	Version_of Arg1:T7 Arg2:T1	
+T8	Developer 157 166	Mathworks
+R5	Developer_of Arg1:T8 Arg2:T1	
+R6	Specification_of Arg1:T4 Arg2:T2	

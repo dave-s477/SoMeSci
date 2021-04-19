@@ -1,0 +1,3 @@
+The Matlab Regstats function was used to calculate the residual DBM effect size and dominance after controlling for confounding effects of age, weight, sex, and number of structural scans that had contributed to the average MRI scan used for each individual.
+
+The residual GM effect size (after age, weight, sex, and number of scans included was controlled) was calculated and correlated with social group size with nonparametric bivariate analyses in SPSS. 

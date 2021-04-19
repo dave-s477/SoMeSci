@@ -1,0 +1,5 @@
+T2	Application_Creation 45 69	Microscopy Image Browser
+T1	Abbreviation 71 74	MIB
+T6	Citation 76 79	[9]
+R1	Abbreviation_of Arg1:T1 Arg2:T2	
+R2	Citation_of Arg1:T6 Arg2:T2	

@@ -1,0 +1,18 @@
+T2	Application_Creation 5 13	Pep2Path
+T10	Application_Mention 380 388	Pep2Path
+T22	Application_Deposition 408 416	Pep2Path
+T38	URL 442 474	http://pep2path.sourceforge.net/
+T39	ProgrammingEnvironment_Usage 491 497	Python
+T40	License 518 544	GNU General Public License
+T45	Version 546 547	3
+T44	Developer 565 567	MS
+T41	OperatingSystem_Usage 568 575	Windows
+T42	OperatingSystem_Usage 577 582	Linux
+T43	OperatingSystem_Usage 587 595	Mac OS X
+R2	URL_of Arg1:T38 Arg2:T22	
+R3	License_of Arg1:T40 Arg2:T22	
+R4	Developer_of Arg1:T44 Arg2:T41	
+R5	Version_of Arg1:T45 Arg2:T40	
+T30	Application_Deposition 621 629	Pep2Path
+T37	URL 661 692	http://pep2path.sourceforge.net
+R1	URL_of Arg1:T37 Arg2:T30	

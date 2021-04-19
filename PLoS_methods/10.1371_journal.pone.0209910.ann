@@ -1,0 +1,18 @@
+T1	Application_Usage 7083 7103	Sperm Class Analyzer
+T2	Application_Usage 11079 11089	Statistica
+T3	Application_Usage 11313 11323	Statistica
+T4	Application_Usage 13563 13573	Statistica
+T5	Abbreviation 7105 7108	SCA
+R1	Abbreviation_of Arg1:T5 Arg2:T1	
+T6	Version 7130 7134	4.0.
+R2	Version_of Arg1:T6 Arg2:T1	
+T7	Developer 7145 7159	Microptic S.L.
+R3	Developer_of Arg1:T7 Arg2:T1	
+T8	Developer 11100 11119	TIBCO Software Inc.
+R4	Developer_of Arg1:T8 Arg2:T2	
+T9	Developer 13557 13562	TIBCO
+R5	Developer_of Arg1:T9 Arg2:T4	
+T10	Version 13585 13589	13.3
+R6	Version_of Arg1:T10 Arg2:T4	
+T11	Developer 13591 13610	TIBCO Software Inc.
+R7	Developer_of Arg1:T11 Arg2:T4	

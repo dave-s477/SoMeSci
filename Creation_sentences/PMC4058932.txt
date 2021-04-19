@@ -1,0 +1,4 @@
+Results: We propose a novel RNA-Seq quantification method, RNA-Skim, which partitions the transcriptome into disjoint transcript clusters based on sequence similarity, and introduces the notion of sig-mers, which are a special type of k-mers uniquely associated with each cluster.
+Availability and implementation: The software is available at http://www.csbio.unc.edu/rs.
+Based on these sig-mers, we developed a method, RNA-Skim, which is much faster than Sailfish and also maintains the same level of accuracy in the results.
+We proposed a method, RNA-Skim, for quantifying the transcripts using the sig-mer counts in RNA-Seq data.

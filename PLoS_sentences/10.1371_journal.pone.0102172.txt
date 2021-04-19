@@ -1,0 +1,2 @@
+For questions for which answers could be “yes,” “I don't know” or “no,” (e.g., “Did any of the field sites have a code of conduct?”), KH and JR conservatively bifurcated responses into “yes” and “not yes.” Chi-square, t-test, and regression models were constructed in JMP 9.0 (SAS, Inc).
+

@@ -1,0 +1,6 @@
+We introduce a novel computational framework, DriverNet, to identify likely driver mutations by virtue of their effect on mRNA expression networks.
+DriverNet is available on Bioconductor or at http://compbio.bccrc.ca/software/drivernet/.
+We therefore propose an integrated genome/transcriptome analysis framework, called DriverNet, to contextualize genomic aberrations (for example, mutations and copy number alterations) by their effect on transcriptional networks and identify candidate genomic aberrations suitable for functional experimental follow-up.
+We developed a novel, integrated algorithmic approach (DriverNet) to analyze population-based genomic and transcriptomic interrogations of tumor (sub)types for identification of pathogenic driver mutations.
+We presented a novel algorithm called DriverNet for integrative analysis of genomic and transcriptomic data derived from population-level studies of tumors.
+The DriverNet algorithm is implemented in a publicly available R package [31].

@@ -1,0 +1,3 @@
+The current work describes our SSPACE-LongRead software which is designed to upgrade incomplete draft genomes using single molecule sequences.
+Academics can request a free copy at http://www.baseclear.com/bioinformatics-tools/.
+"•Project name: SSPACE-LongRead •Project home page:http://www.baseclear.com/bioinformatics-tools/ •Operating systems: All major Linux platforms •Programming languages: Perl, C++ (the latter is required for BLASR, see below) •Other requirements: BLASR for the alignment of long reads [22] •License: BaseTools software license •Any restrictions to use by non-academics: commercial licence needed"

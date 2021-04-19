@@ -1,0 +1,5 @@
+To address these challenges, we have developed a new software framework called COBRAme for building and simulating ME-models.
+We used COBRAme to reconstruct a condensed E. coli ME-model called iJL1678b-ME.
+We addressed these challenges by developing a computational framework called COBRAme for building, editing, simulating, and interpreting ME-models.
+COBRAme is written in Python and extends the widely used COBRApy software that only supports M-models [18].
+The latest version of COBRAme can be downloaded from https://github.com/SBRG/cobrame.

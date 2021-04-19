@@ -1,0 +1,7 @@
+T1	Application_Usage 42 69	Statistical Analysis System
+T2	Abbreviation 71 74	SAS
+R1	Abbreviation_of Arg1:T2 Arg2:T1	
+T3	Version 85 88	9.4
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 90 108	SAS Institute Inc.
+R3	Developer_of Arg1:T4 Arg2:T1	

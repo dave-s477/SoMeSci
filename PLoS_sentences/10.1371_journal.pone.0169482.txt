@@ -1,0 +1,2 @@
+Analyses were conducted using Stata Version 12.
+

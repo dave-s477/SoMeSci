@@ -1,0 +1,17 @@
+T1	Application_Usage 4254 4258	SPSS
+T2	Application_Usage 4333 4338	CSPRO
+T3	Application_Usage 7390 7395	Nvivo
+T4	Version 4267 4269	23
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Application_Usage 4275 4290	SPSS Statistics
+R2	Specification_of Arg1:T5 Arg2:T1	
+T6	Developer 4271 4274	IBM
+R3	Developer_of Arg1:T6 Arg2:T5	
+T7	Version 4347 4350	6.1
+R4	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 4352 4379	United States Census Bureau
+R5	Developer_of Arg1:T8 Arg2:T2	
+T9	Version 7396 7398	10
+T10	Developer 7400 7417	QSR international
+R6	Developer_of Arg1:T10 Arg2:T3	
+R7	Version_of Arg1:T9 Arg2:T3	

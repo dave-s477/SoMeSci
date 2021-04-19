@@ -1,0 +1,2 @@
+All statistical analyses were conducted using the statistical software package Stata 13 (STATA Corp, College Station, TX), and the p-value <0.05 was considered as statistically significant when performing hypothesis tests.
+

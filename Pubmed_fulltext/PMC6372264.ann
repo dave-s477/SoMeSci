@@ -1,0 +1,34 @@
+T1	Application_Usage 9763 9770	Biomart
+T2	Application_Usage 10204 10211	BioMart
+T3	Application_Usage 12284 12292	ClustalW
+T4	Application_Usage 12297 12305	Geneious
+T5	Extension 12306 12309	Pro
+R1	Extension_of Arg1:T5 Arg2:T4	
+T6	Version 12310 12313	6.0
+R2	Version_of Arg1:T6 Arg2:T4	
+T7	Developer 12315 12329	Biomatters Ltd
+R3	Developer_of Arg1:T7 Arg2:T4	
+T8	Application_Usage 12796 12804	Geneious
+T9	Version 12805 12808	6.0
+R4	Version_of Arg1:T9 Arg2:T8	
+T10	Application_Usage 12816 12823	MrBayes
+T11	Version 12824 12827	3.1
+R5	Version_of Arg1:T11 Arg2:T10	
+T12	Application_Usage 13007 13014	MrBayes
+T13	Application_Usage 14030 14034	MEGA
+T14	Version 14034 14035	6
+R6	Version_of Arg1:T14 Arg2:T13	
+T15	Application_Usage 14430 14434	MEGA
+T16	Version 14434 14435	6
+R7	Version_of Arg1:T16 Arg2:T15	
+T17	Application_Usage 15301 15311	Datamonkey
+T18	Application_Usage 15327 15332	HyPhy
+T19	Citation 15351 15399	Kosakovsky Pond et al. 2005; Delport et al. 2010
+R8	Citation_of Arg1:T19 Arg2:T18	
+T20	Application_Usage 15613 15621	Geneious
+T21	Application_Usage 15685 15695	Datamonkey
+T22	Application_Usage 20176 20181	BLAST
+T23	Application_Usage 20749 20757	ClustalW
+T24	Application_Usage 28599 28609	Datamonkey
+T25	Application_Usage 28635 28640	HyPhy
+T26	Application_Usage 36545 36550	BLAST

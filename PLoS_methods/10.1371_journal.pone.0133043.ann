@@ -1,0 +1,5 @@
+T1	Application_Usage 7177 7181	SPSS
+T2	Version 7190 7192	21
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 7193 7201	IBM SPSS
+R2	Developer_of Arg1:T3 Arg2:T1	

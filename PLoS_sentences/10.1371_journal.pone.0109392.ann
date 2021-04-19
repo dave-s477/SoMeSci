@@ -1,0 +1,8 @@
+T1	OperatingSystem_Usage 255 262	Windows
+T2	Application_Usage 203 244	Software Package for Statistical Analysis
+T3	Application_Usage 246 250	SPSS
+R1	Specification_of Arg1:T3 Arg2:T2	
+T4	Version 271 275	19.0
+R2	Version_of Arg1:T4 Arg2:T3	
+T5	Citation 278 282	[24]
+R3	Citation_of Arg1:T5 Arg2:T2	

@@ -1,0 +1,20 @@
+T1	PlugIn_Usage 44 69	Image Acquisition Toolbox
+T2	ProgrammingEnvironment_Usage 82 88	Matlab
+T3	PlugIn_Usage 288 312	Image Processing Toolbox
+T4	ProgrammingEnvironment_Usage 325 331	Matlab
+T5	ProgrammingEnvironment_Usage 37 43	Matlab
+R1	PlugIn_of Arg1:T1 Arg2:T5	
+T6	Developer 71 80	Mathworks
+R2	Developer_of Arg1:T6 Arg2:T1	
+R3	Developer_of Arg1:T6 Arg2:T5	
+T7	Release 89 95	v2011b
+R4	Release_of Arg1:T7 Arg2:T2	
+T8	ProgrammingEnvironment_Usage 281 287	Matlab
+R5	PlugIn_of Arg1:T3 Arg2:T8	
+T9	Developer 314 323	Mathworks
+R6	Developer_of Arg1:T9 Arg2:T3	
+R7	Developer_of Arg1:T9 Arg2:T8	
+T10	Release 332 338	v2011b
+R8	Release_of Arg1:T10 Arg2:T4	
+R9	Specification_of Arg1:T4 Arg2:T8	
+R10	Specification_of Arg1:T2 Arg2:T5	

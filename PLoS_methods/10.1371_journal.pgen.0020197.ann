@@ -1,0 +1,15 @@
+T1	Application_Usage 3670 3681	DS modeling
+T2	Application_Usage 5677 5683	pCLAMP
+T3	Application_Usage 1203 1211	ENSEMBLE
+T5	Developer 1224 1240	Sanger Institute
+R1	Developer_of Arg1:T5 Arg2:T3	
+T7	Version 3699 3702	1.1
+R3	Version_of Arg1:T7 Arg2:T1	
+T8	Developer 3704 3712	Accelrys
+R4	Developer_of Arg1:T8 Arg2:T1	
+T9	URL 3714 3737	http://www.accelrys.com
+R5	URL_of Arg1:T9 Arg2:T8	
+T10	Version 5683 5684	9
+R6	Version_of Arg1:T10 Arg2:T2	
+T11	Developer 5686 5702	Axon Instruments
+R7	Developer_of Arg1:T11 Arg2:T2	

@@ -1,0 +1,9 @@
+Here we present NeuroMap, a new interactive Matlab-based software for spatiotemporal mapping of MEA data.
+Overall, NeuroMap provides substantial material for detailed spatiotemporal analysis of MEA data.
+The package is distributed under GNU General Public License and available at http://sites.google.com/site/neuromapsoftware.
+Because such approach has, to our knowledge, not been adapted for mapping MEA data, here we present NeuroMap, an interactive Matlab-based software for mapping MEA data based on spline interpolation.
+NeuroMap has been used on real LFP data recorded from embryonic mouse brainstem and spinal cord preparations.
+NeuroMap is made freely available to the community under GNU General Public License (GPL) at http://sites.google.com/site/neuromapsoftware.
+For this purpose, an image warping tool was implemented in NeuroMap, based on a moving least squares algorithm employing rigid transformations for a realistic deformation (Schaefer et al., 2006).
+NeuroMap is licensed under GNU GPL and can be freely downloaded from a dedicated website (http://sites.google.com/site/neuromapsoftware).
+We presented NeuroMap, an interactive software for spatiotemporal mapping of 2D and 3D MEA data.

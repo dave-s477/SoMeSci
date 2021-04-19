@@ -1,0 +1,14 @@
+T1	Application_Usage 52 67	PASW Statistics
+T2	ProgrammingEnvironment_Usage 134 135	R
+T3	Version 68 70	18
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 72 81	SPSS Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 146 169	R Development Core Team
+R3	Developer_of Arg1:T5 Arg2:T2	
+T6	ProgrammingEnvironment_Usage 188 189	R
+R4	Specification_of Arg1:T6 Arg2:T2	
+T7	Version 189 195	2.11.1
+R5	Version_of Arg1:T7 Arg2:T6	
+T8	Release 96 100	2009
+R6	Release_of Arg1:T8 Arg2:T1	

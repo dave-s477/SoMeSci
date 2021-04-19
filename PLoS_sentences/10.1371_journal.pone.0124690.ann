@@ -1,0 +1,5 @@
+T1	Application_Usage 28 33	STATA
+T2	Version 37 41	11.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Extension 34 36	MP
+R2	Extension_of Arg1:T3 Arg2:T1	

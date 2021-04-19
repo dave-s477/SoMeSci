@@ -1,0 +1,23 @@
+T30	ProgrammingEnvironment_Usage 27 28	R
+T2	PlugIn_Creation 38 43	dcGOR
+R4	PlugIn_of Arg1:T2 Arg2:T30	
+T6	PlugIn_Creation 233 238	dcGOR
+T28	ProgrammingEnvironment_Usage 252 253	R
+R2	PlugIn_of Arg1:T6 Arg2:T28	
+T10	PlugIn_Creation 357 362	dcGOR
+T29	ProgrammingEnvironment_Usage 397 398	R
+R3	PlugIn_of Arg1:T10 Arg2:T29	
+T16	PlugIn_Deposition 450 455	dcGOR
+T27	License 494 497	GPL
+T31	Version 498 499	2
+R1	License_of Arg1:T27 Arg2:T16	
+R5	Version_of Arg1:T31 Arg2:T27	
+T26	ProgrammingEnvironment_Mention 553 554	R
+T32	SoftwareCoreference_Deposition 578 580	it
+T25	Application_Usage 607 611	CRAN
+T17	URL 613 652	http://cran.r-project.org/package=dcGOR
+R7	URL_of Arg1:T17 Arg2:T32	
+T23	SoftwareCoreference_Deposition 683 685	it
+T24	Application_Usage 709 715	GitHub
+T18	URL 717 755	https://github.com/hfang-bristol/dcGOR
+R6	URL_of Arg1:T18 Arg2:T23	

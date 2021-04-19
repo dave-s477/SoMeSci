@@ -1,0 +1,8 @@
+T1	ProgrammingEnvironment_Mention 25 31	Python
+T2	PlugIn_Creation 53 57	HDDM
+T3	AlternativeName 59 93	hierarchical drift diffusion model
+R1	AlternativeName_of Arg1:T3 Arg2:T2	
+T4	PlugIn_Mention 223 227	HDDM
+T5	SoftwareCoreference_Deposition 382 390	software
+T6	URL 431 467	http://ski.clps.brown.edu/hddm_docs/
+R2	URL_of Arg1:T6 Arg2:T5	

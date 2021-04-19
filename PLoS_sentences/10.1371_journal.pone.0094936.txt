@@ -1,0 +1,1 @@
+To estimate variances from our stratified and clustered survey data, we employed Taylor Series Linearization (TSL) implemented in the Complex Sample module in SPSS V20.0. 

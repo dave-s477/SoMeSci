@@ -1,0 +1,6 @@
+T1	ProgrammingEnvironment_Usage 71 77	MATLAB
+T2	Application_Usage 123 129	EEGLAB
+T3	Developer 79 88	MathWorks
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Citation 142 146	[38]
+R2	Citation_of Arg1:T4 Arg2:T2	

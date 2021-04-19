@@ -1,0 +1,1 @@
+Then, we calculated separate linear mixed effects models for each of the six windows using the fitlme function in MATLAB. 

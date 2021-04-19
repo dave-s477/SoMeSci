@@ -1,0 +1,2 @@
+The models were run using xtlogit in Stata 11.2 with a maximum likelihood estimation procedure.
+

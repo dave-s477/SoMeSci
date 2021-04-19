@@ -1,0 +1,21 @@
+T1	Application_Usage 73 78	Ctrax
+T2	PlugIn_Usage 154 163	FixErrors
+T3	ProgrammingEnvironment_Usage 176 182	MATLAB
+T4	AlternativeName 89 117	Caltech Multiple Fly Tracker
+R1	AlternativeName_of Arg1:T4 Arg2:T1	
+T5	Version 127 133	0.3.12
+R2	Version_of Arg1:T5 Arg2:T1	
+T6	Version 187 193	7.10.0
+R3	Version_of Arg1:T6 Arg2:T3	
+T7	Developer 200 215	MathWorks, Inc.
+R4	Developer_of Arg1:T7 Arg2:T3	
+T8	Citation 233 240	[34–35]
+R5	Citation_of Arg1:T8 Arg2:T1	
+R6	Citation_of Arg1:T8 Arg2:T3	
+T9	ProgrammingEnvironment_Usage 242 248	MATLAB
+T10	Version 252 258	7.10.0
+R7	Version_of Arg1:T10 Arg2:T9	
+T11	Release 194 198	2010
+R8	Release_of Arg1:T11 Arg2:T3	
+R9	Specification_of Arg1:T9 Arg2:T3	
+R10	PlugIn_of Arg1:T2 Arg2:T3	

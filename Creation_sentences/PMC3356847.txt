@@ -1,0 +1,5 @@
+We introduce RNA-SeQC, a program which provides key measures of data quality.
+RNA-SeQC allows investigators to make informed decisions about sample inclusion in downstream analysis.
+Availability and implementation: See www.genepattern.org to run online, or www.broadinstitute.org/rna-seqc/ for a command line tool.
+Here we present RNA-SeQC, a metrics tool with application to two domains: experiment design and process optimization; and quality control prior to computational analysis.
+Implemented in Java, RNA-SeQC is platform independent and requires no installation.

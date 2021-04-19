@@ -1,0 +1,8 @@
+T1	Application_Usage 33 37	SPSS
+T2	OperatingSystem_Usage 52 59	Windows
+T3	Version 38 40	17
+T4	Abbreviation 42 46	PASW
+R1	Abbreviation_of Arg1:T4 Arg2:T1	
+T5	Developer 61 70	SPSS Inc.
+R2	Developer_of Arg1:T5 Arg2:T1	
+R3	Version_of Arg1:T3 Arg2:T1	

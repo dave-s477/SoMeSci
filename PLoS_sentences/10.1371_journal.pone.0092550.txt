@@ -1,0 +1,1 @@
+STATA version 11.2 software (STATA Corp, College Station, TX, US) was employed for our analyses. 

@@ -1,0 +1,6 @@
+In the present paper, new algorithms for SNP microarray data analysis and the software, AccuTyping, developed based on these algorithms are described.
+AccuTyping was used to determine >300 000 genotypes of DNA and sperm samples.
+AccuTyping can be downloaded from http://www2.umdnj.edu/lilabweb/publications/AccuTyping.html.
+A computer software, AccuTyping, was developed based on the algorithms described above.
+AccuTyping takes inputs of the two color intensities digitized from scanned microarray images with one of the two popular software packages, GenePix (Axon Instrument, Union City, CA) or ImaGene (Biodiscovery, Inc., El Segundo, CA).
+The program is available for download from our website http://www2.umdnj.edu/lilabweb/Publications/AccuTyping.html.

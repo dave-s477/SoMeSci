@@ -1,0 +1,1 @@
+Analyses were performed using Stata version 13.0 (Stata Corp, College Station, Texas). 

@@ -1,0 +1,17 @@
+T1	Application_Usage 5375 5381	FlowJo
+T2	Application_Usage 6270 6276	FlowJo
+T3	Application_Usage 6366 6371	Prism
+T4	Version 5391 5393	10
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 5395 5404	Tree Star
+R2	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 6294 6296	10
+T7	Developer 6298 6307	Tree Star
+R3	Developer_of Arg1:T7 Arg2:T2	
+R4	Version_of Arg1:T6 Arg2:T2	
+T8	Developer 6357 6365	Graphpad
+R5	Developer_of Arg1:T8 Arg2:T3	
+T9	Version 6372 6375	5.0
+R6	Version_of Arg1:T9 Arg2:T3	
+T10	Developer 6377 6399	GraphPad Software Inc.
+R7	Developer_of Arg1:T10 Arg2:T3	

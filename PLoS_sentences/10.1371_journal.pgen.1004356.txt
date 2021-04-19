@@ -1,0 +1,1 @@
+Intensity tables were exported to excel and (ΔF−F)/F calculated for each series of images. 

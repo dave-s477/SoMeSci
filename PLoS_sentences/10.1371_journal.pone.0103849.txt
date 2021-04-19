@@ -1,0 +1,1 @@
+This was performed using the svyset and svy commands in Stata Version 12.1 (StataCorp, 4905 Lakeway Drive, College Station, Texas 77845, USA). 

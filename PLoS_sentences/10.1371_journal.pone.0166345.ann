@@ -1,0 +1,7 @@
+T1	Application_Usage 116 121	STATA
+T2	Version 153 155	14
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 157 168	StataCorp L
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Extension 122 124	MP
+R3	Extension_of Arg1:T4 Arg2:T1	

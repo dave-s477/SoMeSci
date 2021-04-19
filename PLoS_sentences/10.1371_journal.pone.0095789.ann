@@ -1,0 +1,8 @@
+T1	ProgrammingEnvironment_Usage 64 65	R
+T2	PlugIn_Usage 52 57	rjags
+T3	Application_Usage 76 80	JAGS
+T4	Version 66 71	3.0.3
+R1	Version_of Arg1:T4 Arg2:T1	
+R2	PlugIn_of Arg1:T2 Arg2:T1	
+T5	Version 83 88	3.3.0
+R3	Version_of Arg1:T5 Arg2:T3	

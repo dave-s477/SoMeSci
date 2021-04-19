@@ -1,0 +1,8 @@
+T38	Application_Creation 50 63	ESPRIT-Forest
+T34	SoftwareCoreference_Deposition 119 127	software
+T3	URL 144 204	http://www.acsu.buffalo.edu/∼yijunsun/lab/ESPRIT-Forest.html
+R2	URL_of Arg1:T3 Arg2:T34	
+T4	Application_Creation 257 270	ESPRIT-Forest
+T33	Application_Deposition 487 500	ESPRIT-Forest
+T2	URL 526 586	http://www.acsu.buffalo.edu/∼yijunsun/lab/ESPRIT-Forest.html
+R1	URL_of Arg1:T2 Arg2:T33	

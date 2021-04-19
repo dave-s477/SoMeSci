@@ -1,0 +1,1 @@
+MRI data was analyzed using SPSS Statistics (IBM, version 19) using a generalized linear model fitted to a gamma distribution, with MAM treatment, enrichment, and gender as factors. 

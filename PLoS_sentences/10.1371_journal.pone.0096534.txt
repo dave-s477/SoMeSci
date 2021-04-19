@@ -1,0 +1,2 @@
+The following preprocessing procedures were performed using Statistical Parametric Mapping (SPM8) software (Wellcome Department of Imaging Neuroscience; London, UK) implemented in MATLAB R2009b (MathWorks; Natick, MA, USA) for whole brain analysis: correction for head motion, adjustment of acquisition timing across slices, spatial normalization using the MNI template, and smoothing using a Gaussian kernel with a full width at a half-maximum of 5 mm.
+

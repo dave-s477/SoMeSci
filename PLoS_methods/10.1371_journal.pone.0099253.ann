@@ -1,0 +1,25 @@
+T1	PlugIn_Usage 1619 1628	DTV.II SR
+T2	Application_Usage 2197 2205	Virtuoso
+T3	Application_Usage 9305 9311	Primer
+T4	Application_Usage 11872 11881	MetaMorph
+T5	Application_Usage 13971 14014	Statistical Package for the Social Sciences
+T6	Developer 1647 1686	Image Computing and Analysis Laboratory
+R1	Developer_of Arg1:T6 Arg2:T1	
+T7	Abbreviation 1694 1698	ICAL
+R2	Abbreviation_of Arg1:T7 Arg2:T6	
+T8	Developer 1700 1757	Department of Radiology, The University of Tokyo Hospital
+R3	Developer_of Arg1:T8 Arg2:T1	
+T9	Developer 2217 2240	Ventana Medical Systems
+R4	Developer_of Arg1:T9 Arg2:T2	
+T10	Developer 11892 11909	Molecular Devices
+R5	Developer_of Arg1:T10 Arg2:T4	
+T11	Application_Usage 14016 14020	SPSS
+R6	Specification_of Arg1:T11 Arg2:T5	
+T12	Developer 14022 14025	IBM
+R7	Developer_of Arg1:T12 Arg2:T11	
+T13	Version 9312 9313	3
+R8	Version_of Arg1:T13 Arg2:T3	
+T14	Application_Usage 1772 1780	Volume 1
+R9	PlugIn_of Arg1:T1 Arg2:T14	
+T15	URL 1791 1817	http://www.volume-one.org/
+R10	URL_of Arg1:T15 Arg2:T14	

@@ -1,0 +1,10 @@
+T1	Application_Usage 276 279	SAS
+T2	Application_Usage 375 378	SAS
+T3	Version 288 291	9.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 293 306	SAS Institute
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 388 391	9.3
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 393 406	SAS Institute
+R4	Developer_of Arg1:T6 Arg2:T2	

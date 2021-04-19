@@ -1,0 +1,16 @@
+T1	Application_Usage 8260 8263	SAS
+T2	Application_Usage 8533 8538	MLwiN
+T9	Application_Usage 4582 4615	Clinical Classifications Software
+T10	Application_Usage 5317 5320	CCS
+T11	Application_Usage 5377 5380	CCS
+T12	Application_Usage 5412 5415	CCS
+T16	Abbreviation 4617 4620	CCS
+R4	Abbreviation_of Arg1:T16 Arg2:T9	
+T17	Developer 4642 4646	HCUP
+R5	Developer_of Arg1:T17 Arg2:T9	
+T18	Version 8272 8275	9.2
+R6	Version_of Arg1:T18 Arg2:T1	
+T19	Version 8547 8550	2.1
+R7	Version_of Arg1:T19 Arg2:T2	
+T20	Citation 8551 8555	[35]
+R8	Citation_of Arg1:T20 Arg2:T2	

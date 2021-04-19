@@ -1,0 +1,1 @@
+Then, one village was randomly selected from each sub-county, using a random number generator (Microsoft Excel Basic 2003, Redmond, WA). 

@@ -1,0 +1,10 @@
+T1	Application_Creation 13 21	RNA-SeQC
+T2	Application_Mention 78 86	RNA-SeQC
+T4	SoftwareCoreference_Deposition 199 213	implementation
+T3	URL 219 238	www.genepattern.org
+T5	URL 257 289	www.broadinstitute.org/rna-seqc/
+R1	URL_of Arg1:T3 Arg2:T4	
+R2	URL_of Arg1:T5 Arg2:T4	
+T6	Application_Creation 331 339	RNA-SeQC
+T7	ProgrammingEnvironment_Usage 501 505	Java
+T8	Application_Creation 507 515	RNA-SeQC

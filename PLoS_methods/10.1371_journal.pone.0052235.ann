@@ -1,0 +1,10 @@
+T1	Application_Usage 26 40	Skeeter Buster
+T2	Application_Mention 560 574	Skeeter Buster
+T3	Application_Mention 2393 2407	Skeeter Buster
+T4	Application_Mention 3032 3046	Skeeter Buster
+T5	Application_Usage 3068 3082	Skeeter Buster
+T6	Application_Usage 179 185	CIMSiM
+T7	Citation 47 51	[16]
+R1	Citation_of Arg1:T7 Arg2:T1	
+T8	Citation 192 196	[49]
+R2	Citation_of Arg1:T8 Arg2:T6	

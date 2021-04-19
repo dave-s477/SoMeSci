@@ -1,0 +1,3 @@
+In this paper, we present a lossless compression tool, MAFCO, specifically designed to compress MAF (Multiple Alignment Format) files.
+Both source-code and binaries for several operating systems are freely available for non-commercial use at: http://bioinformatics.ua.pt/software/mafco. http://hgdownload-test.cse.ucsc.edu/goldenPath/hg18/multiz28wayhttp://hgdownload-test.cse.ucsc.edu/goldenPath/hg19/multiz46wayhttp://hgdownload-test.cse.ucsc.edu/goldenPath/hg19/multiz100wayhttp://bioinformatics.ua.pt/software/mafcohttps://github.com/lumiratos/mafcohttps://github.com/lumiratos/bioruby-mafData Availability
+The MAFCO compression tool can be found at: http://bioinformatics.ua.pt/software/mafco; https://github.com/lumiratos/mafco.

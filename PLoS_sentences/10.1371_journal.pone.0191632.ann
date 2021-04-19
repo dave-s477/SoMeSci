@@ -1,0 +1,6 @@
+T1	Application_Usage 86 90	SPSS
+T2	Application_Usage 24 31	EpiData
+T3	Version 32 35	3.0
+T4	Version 91 96	10.01
+R1	Version_of Arg1:T4 Arg2:T1	
+R2	Version_of Arg1:T3 Arg2:T2	

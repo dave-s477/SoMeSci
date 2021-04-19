@@ -1,0 +1,1 @@
+All analyses were performed using Stata/SE 11.2 software for Mac(R). 

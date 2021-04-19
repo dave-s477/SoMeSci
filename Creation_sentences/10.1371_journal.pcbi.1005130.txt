@@ -1,0 +1,4 @@
+Here we propose a new approach to transmission inference called SCOTTI (Structured COalescent Transmission Tree Inference).
+SCOTTI is distributed as an open source package for the phylogenetic software BEAST2.
+Here, we present a new approach, SCOTTI, that accounts for these complexities in a computationally feasible manner.
+SCOTTI is implemented as an open-source package for the Bayesian phylogenetic software BEAST2 [28], and as such, it can be freely installed and used.

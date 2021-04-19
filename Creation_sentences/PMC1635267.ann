@@ -1,0 +1,16 @@
+T1	Application_Creation 88 98	AccuTyping
+T2	Application_Usage 151 161	AccuTyping
+T3	Application_Deposition 229 239	AccuTyping
+T4	URL 263 322	http://www2.umdnj.edu/lilabweb/publications/AccuTyping.html
+R1	URL_of Arg1:T4 Arg2:T3	
+T5	Application_Creation 345 355	AccuTyping
+T6	Application_Mention 412 422	AccuTyping
+T7	Application_Mention 553 560	GenePix
+T8	Developer 562 577	Axon Instrument
+T9	Application_Mention 598 605	ImaGene
+T10	Developer 607 625	Biodiscovery, Inc.
+R2	Developer_of Arg1:T8 Arg2:T7	
+R3	Developer_of Arg1:T10 Arg2:T9	
+T11	SoftwareCoreference_Deposition 648 655	program
+T12	URL 699 758	http://www2.umdnj.edu/lilabweb/Publications/AccuTyping.html
+R4	URL_of Arg1:T12 Arg2:T11	

@@ -1,0 +1,1 @@
+These integrated peak areas were calculated in Excel using the same spreadsheet of binned, edited, and normalized spectra described above. 

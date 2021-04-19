@@ -1,0 +1,17 @@
+T2	PlugIn_Creation 63 69	ENCORE
+T4	PlugIn_Mention 202 208	ENCORE
+T47	PlugIn_Usage 277 287	MDAnalysis
+T5	PlugIn_Mention 412 418	ENCORE
+T43	URL 420 461	http://encore-similarity.github.io/encore
+T44	PlugIn_Mention 484 521	MDAnalysis molecular analysis toolkit
+T45	Citation 522 526	[14]
+T46	ProgrammingEnvironment_Mention 553 559	Python
+R1	URL_of Arg1:T43 Arg2:T5	
+R2	Citation_of Arg1:T45 Arg2:T44	
+T39	PlugIn_Deposition 595 601	ENCORE
+T48	URL 623 664	http://encore-similarity.github.io/encore
+T49	License 767 793	GNU general public license
+T50	Version 803 804	3
+R3	URL_of Arg1:T48 Arg2:T39	
+R4	License_of Arg1:T49 Arg2:T39	
+R5	Version_of Arg1:T50 Arg2:T49	

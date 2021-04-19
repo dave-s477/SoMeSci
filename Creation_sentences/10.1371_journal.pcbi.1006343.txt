@@ -1,0 +1,3 @@
+Here, we introduce PyPhi, a Python software package that implements this framework for causal analysis and unfolds the full cause-effect structure of discrete dynamical systems of binary elements.
+PyPhi is open-source and licensed under the GPLv3; the source code is hosted on GitHub at https://github.com/wmayner/pyphi.
+Here we describe PyPhi, a Python software package that implements IIT’s framework for causal analysis and unfolds the full CES of discrete Markovian dynamical systems of binary elements.

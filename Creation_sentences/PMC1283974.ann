@@ -1,0 +1,19 @@
+T1	Application_Creation 27 37	Mindboggle
+T2	Application_Usage 289 299	Mindboggle
+T3	Application_Creation 482 492	Mindboggle
+T4	ProgrammingEnvironment_Mention 527 533	Matlab
+T5	Citation 540 547	[63,85]
+R1	Citation_of Arg1:T5 Arg2:T3	
+T6	Application_Creation 549 559	Mindboggle
+T7	ProgrammingEnvironment_Usage 626 632	Matlab
+T8	Version 642 643	6
+T9	Release 653 655	13
+T10	PlugIn_Usage 666 690	Image Processing Toolbox
+T11	Developer 692 710	The Mathworks Inc.
+T12	OperatingSystem_Usage 824 829	Linux
+T13	OperatingSystem_Usage 842 848	MacOSX
+T14	OperatingSystem_Usage 853 860	Windows
+R2	Version_of Arg1:T8 Arg2:T7	
+R3	Release_of Arg1:T9 Arg2:T7	
+R4	PlugIn_of Arg1:T10 Arg2:T7	
+R5	Developer_of Arg1:T11 Arg2:T7	

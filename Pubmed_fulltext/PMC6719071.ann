@@ -1,0 +1,34 @@
+T1	ProgrammingEnvironment_Usage 9330 9334	Perl
+T2	Application_Usage 9509 9515	TopHat
+T3	Version 9515 9516	2
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Citation 9517 9521	[11]
+R2	Citation_of Arg1:T4 Arg2:T2	
+T5	Application_Usage 9527 9532	HTSeq
+T6	Citation 9600 9604	[12]
+R3	Citation_of Arg1:T6 Arg2:T5	
+T7	PlugIn_Usage 9872 9877	DESeq
+T8	ProgrammingEnvironment_Usage 9881 9882	R
+T9	Citation 9891 9895	[13]
+R4	Citation_of Arg1:T9 Arg2:T7	
+T10	PlugIn_Usage 10366 10371	GOseq
+T11	Citation 10372 10376	[14]
+R5	Citation_of Arg1:T11 Arg2:T10	
+T12	Application_Usage 10394 10399	KOBAS
+T13	Citation 10409 10413	[15]
+R6	Citation_of Arg1:T13 Arg2:T12	
+T18	Application_Usage 12005 12009	FIMO
+T19	Citation 12019 12023	[18]
+R10	Citation_of Arg1:T19 Arg2:T18	
+T20	Application_Usage 13516 13522	skewer
+T21	Citation 13532 13536	[19]
+R11	Citation_of Arg1:T21 Arg2:T20	
+T22	Application_Usage 13615 13618	BWA
+T23	Citation 13619 13623	[20]
+R12	Citation_of Arg1:T23 Arg2:T22	
+T24	Application_Usage 13719 13723	MACS
+T25	Version 13723 13724	2
+R13	Version_of Arg1:T25 Arg2:T24	
+T26	Citation 13725 13729	[21]
+R14	Citation_of Arg1:T26 Arg2:T24	
+R16	PlugIn_of Arg1:T7 Arg2:T8	

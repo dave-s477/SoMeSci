@@ -1,0 +1,36 @@
+T1	Application_Usage 246 256	FreeSurfer
+T2	Application_Usage 1009 1019	FreeSurfer
+T3	Application_Usage 1629 1639	FreeSurfer
+T4	Application_Usage 1829 1832	FSL
+T5	Application_Usage 1887 1891	AFNI
+T6	Application_Usage 1896 1899	FSL
+T7	PlugIn_Usage 2252 2258	DTIFit
+T8	Application_Usage 2349 2359	FreeSurfer
+T9	Application_Usage 2459 2530	Statistical Analysis of Minimum cost path based Structural Connectivity
+T10	Application_Usage 3666 3670	ANFI
+T11	Application_Usage 3675 3678	FSL
+T12	Application_Usage 3761 3765	AFNI
+T13	Application_Usage 4801 4811	FreeSurfer
+T14	Application_Usage 13176 13186	FreeSurfer
+T15	Application_Usage 13585 13595	FreeSurfer
+T16	Application_Usage 14654 14664	FreeSurfer
+T17	Application_Mention 3083 3089	SAMSCo
+T18	Application_Usage 3222 3228	SAMSCo
+T19	Application_Mention 3408 3414	SAMSCo
+T21	Citation 257 261	[17]
+R1	Citation_of Arg1:T21 Arg2:T1	
+T22	Citation 1661 1665	[17]
+R2	Citation_of Arg1:T22 Arg2:T3	
+T23	URL 1687 1720	http://surfer.nmr.mgh.harvard.edu
+R3	URL_of Arg1:T23 Arg2:T3	
+T24	Citation 1906 1910	[18]
+R4	Citation_of Arg1:T24 Arg2:T6	
+T25	Abbreviation 2533 2539	SAMSCo
+R5	Abbreviation_of Arg1:T25 Arg2:T9	
+T26	Citation 2551 2554	[4]
+R6	Citation_of Arg1:T26 Arg2:T9	
+T27	Citation 3685 3692	[18,19]
+R7	Citation_of Arg1:T27 Arg2:T11	
+R8	Citation_of Arg1:T27 Arg2:T10	
+T29	PlugIn_Usage 1835 1840	FLIRT
+R10	PlugIn_of Arg1:T29 Arg2:T4	

@@ -1,0 +1,10 @@
+T1	Application_Creation 40 49	MSACompro
+T2	Application_Mention 315 324	MSACompro
+T3	SoftwareCoreference_Deposition 507 515	software
+T4	URL 532 581	http://sysbio.rnet.missouri.edu/multicom_toolbox/
+R2	URL_of Arg1:T4 Arg2:T3	
+T5	Application_Creation 601 610	MSACompro
+T6	Application_Mention 896 904	MSAProbs
+T7	Citation 905 908	[4]
+R1	Citation_of Arg1:T7 Arg2:T6	
+T8	Application_Usage 924 933	MSACompro

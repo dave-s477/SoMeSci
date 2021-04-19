@@ -1,0 +1,3 @@
+T1	Application_Usage 3580 3586	ImageJ
+T2	PlugIn_Usage 3588 3592	Fiji
+R1	PlugIn_of Arg1:T2 Arg2:T1	

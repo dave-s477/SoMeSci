@@ -1,0 +1,8 @@
+T1	Application_Usage 42 46	SPSS
+T2	ProgrammingEnvironment_Usage 99 100	R
+T3	Version 47 53	20.0.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 101 106	3.0.0
+T5	Citation 107 111	[44]
+R2	Version_of Arg1:T4 Arg2:T2	
+R3	Citation_of Arg1:T5 Arg2:T2	

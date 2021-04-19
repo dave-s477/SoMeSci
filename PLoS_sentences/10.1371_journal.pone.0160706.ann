@@ -1,0 +1,6 @@
+T1	Application_Usage 112 117	STATA
+T2	OperatingSystem_Usage 127 134	Windows
+T3	Version 118 122	10.1
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 136 146	Stata Corp
+R2	Developer_of Arg1:T4 Arg2:T1	

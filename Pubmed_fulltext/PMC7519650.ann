@@ -1,0 +1,115 @@
+T1	Application_Usage 10254 10260	SnpEff
+T2	Citation 10261 10265	[21]
+R1	Citation_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 32729 32735	REDCap
+T5	Citation 32794 32798	[38]
+R3	Citation_of Arg1:T5 Arg2:T3	
+T6	Application_Usage 34534 34544	bcl2fastq2
+T7	Application_Usage 34549 34561	Trim Galore!
+T8	Application_Mention 34607 34611	GATK
+T9	Application_Usage 34686 34692	Picard
+T10	Application_Usage 34719 34723	GATK
+T11	Application_Usage 34761 34767	Picard
+T12	Application_Usage 35083 35089	MuTect
+T13	Version 35089 35090	2
+R4	Version_of Arg1:T13 Arg2:T12	
+T14	Application_Usage 35199 35206	VarScan
+T15	Version 35206 35207	2
+R5	Version_of Arg1:T15 Arg2:T14	
+T16	Citation 35208 35212	[40]
+R6	Citation_of Arg1:T16 Arg2:T14	
+T17	Application_Usage 35238 35246	samtools
+T18	Citation 35247 35251	[41]
+R7	Citation_of Arg1:T18 Arg2:T17	
+T19	Application_Usage 35299 35305	SnpEff
+T20	Citation 35306 35310	[21]
+R8	Citation_of Arg1:T20 Arg2:T19	
+T21	Application_Usage 35383 35389	SnpEff
+T22	Application_Usage 35703 35713	Polysolver
+T23	Citation 35714 35718	[42]
+R9	Citation_of Arg1:T23 Arg2:T22	
+T24	Application_Usage 35831 35837	MuPeXI
+T25	Citation 35848 35852	[43]
+R10	Citation_of Arg1:T25 Arg2:T24	
+T26	Application_Usage 36074 36083	NetMHCpan
+T27	Citation 36084 36088	[44]
+R11	Citation_of Arg1:T27 Arg2:T26	
+T28	Application_Usage 36406 36418	GenomeStudio
+T29	Version 36419 36422	2.0
+R12	Version_of Arg1:T29 Arg2:T28	
+T30	Developer 36424 36432	Illumina
+R13	Developer_of Arg1:T30 Arg2:T28	
+T31	ProgrammingEnvironment_Usage 36534 36535	R
+T32	PlugIn_Usage 36544 36549	ASCAT
+R14	PlugIn_of Arg1:T32 Arg2:T31	
+T33	Citation 36550 36554	[45]
+R15	Citation_of Arg1:T33 Arg2:T32	
+T34	ProgrammingEnvironment_Usage 37334 37335	R
+T35	PlugIn_Usage 37345 37362	SomaticSignatures
+R16	PlugIn_of Arg1:T35 Arg2:T34	
+T36	Citation 37363 37367	[46]
+R17	Citation_of Arg1:T36 Arg2:T35	
+T37	PlugIn_Usage 37372 37390	MutationalPatterns
+R18	PlugIn_of Arg1:T37 Arg2:T34	
+T38	Citation 37391 37395	[47]
+R19	Citation_of Arg1:T38 Arg2:T37	
+T39	Application_Usage 38475 38481	SnpEff
+T40	Application_Usage 39268 39277	MSIsensor
+T41	Citation 39278 39282	[50]
+R20	Citation_of Arg1:T41 Arg2:T40	
+T42	Application_Usage 39420 39428	Polyphen
+T43	Version 39428 39429	2
+R21	Version_of Arg1:T43 Arg2:T42	
+T44	Citation 39430 39434	[18]
+R22	Citation_of Arg1:T44 Arg2:T42	
+T45	Application_Usage 39439 39455	MutationAssessor
+T46	Citation 39456 39460	[19]
+R23	Citation_of Arg1:T46 Arg2:T45	
+T47	Application_Usage 39540 39548	PolyPhen
+T48	Version 39548 39549	2
+R24	Version_of Arg1:T48 Arg2:T47	
+T49	Application_Usage 39554 39570	MutationAssessor
+T50	Application_Usage 39766 39772	MuTect
+T51	Version 39772 39773	2
+R25	Version_of Arg1:T51 Arg2:T50	
+T52	Application_Usage 34801 34807	MuTect
+T53	Version 34807 34808	2
+R26	Version_of Arg1:T53 Arg2:T52	
+T54	Application_Usage 40160 40173	bam-readcount
+T55	Application_Usage 40916 40922	Salmon
+T56	Citation 40923 40927	[51]
+R27	Citation_of Arg1:T56 Arg2:T55	
+T57	ProgrammingEnvironment_Usage 41049 41050	R
+T58	PlugIn_Usage 41061 41069	tximport
+R28	PlugIn_of Arg1:T58 Arg2:T57	
+T59	Citation 41070 41074	[52]
+R29	Citation_of Arg1:T59 Arg2:T58	
+T60	PlugIn_Usage 41079 41084	edgeR
+R30	PlugIn_of Arg1:T60 Arg2:T57	
+T61	Citation 41085 41089	[53]
+R31	Citation_of Arg1:T61 Arg2:T60	
+T62	ProgrammingEnvironment_Usage 41261 41262	R
+T63	PlugIn_Usage 41269 41283	consensus MIBC
+R32	PlugIn_of Arg1:T63 Arg2:T62	
+T64	Citation 41314 41318	[15]
+R33	Citation_of Arg1:T64 Arg2:T63	
+T65	ProgrammingEnvironment_Usage 41616 41617	R
+T66	PlugIn_Usage 41626 41629	RTN
+R34	PlugIn_of Arg1:T66 Arg2:T65	
+T67	Citation 41630 41634	[54]
+R35	Citation_of Arg1:T67 Arg2:T66	
+T68	Application_Usage 42240 42245	xCell
+T69	PlugIn_Usage 43082 43087	ChAMP
+T70	ProgrammingEnvironment_Usage 43088 43089	R
+R36	PlugIn_of Arg1:T69 Arg2:T70	
+T71	Citation 43098 43102	[59]
+R37	Citation_of Arg1:T71 Arg2:T69	
+T72	Application_Usage 46935 46945	Visiopharm
+T73	Developer 46956 46970	Visiopharm A/S
+R38	Developer_of Arg1:T73 Arg2:T72	
+T74	Application_Usage 47120 47130	Visiopharm
+T75	ProgrammingEnvironment_Usage 49366 49367	R
+T76	PlugIn_Usage 49377 49386	survminer
+T77	PlugIn_Usage 49391 49399	survival
+R39	PlugIn_of Arg1:T76 Arg2:T75	
+R40	PlugIn_of Arg1:T77 Arg2:T75	

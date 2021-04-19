@@ -1,0 +1,14 @@
+T1	Application_Usage 7634 7639	STATA
+T2	Application_Usage 7665 7670	MLWiN
+T3	Version 7640 7642	12
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 7647 7659	Stata, Corp.
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 7671 7675	2.26
+T6	PlugIn_Usage 7684 7692	runmlwin
+T7	Citation 7703 7707	[30]
+R3	Citation_of Arg1:T7 Arg2:T6	
+R4	PlugIn_of Arg1:T6 Arg2:T1	
+R5	Version_of Arg1:T5 Arg2:T2	
+T8	Extension 7643 7645	MP
+R6	Extension_of Arg1:T8 Arg2:T1	

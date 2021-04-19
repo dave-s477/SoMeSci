@@ -1,0 +1,25 @@
+T1	Application_Creation 13 23	ProteoLens
+T2	ProgrammingEnvironment_Mention 29 33	JAVA
+T3	Application_Creation 155 165	ProteoLens
+T4	Application_Creation 329 339	ProteoLens
+T5	Application_Creation 479 489	ProteoLens
+T6	ProgrammingEnvironment_Usage 531 535	Java
+T7	Application_Deposition 573 583	ProteoLens
+T8	URL 605 649	http://bio.informatics.iupui.edu/proteolens/
+T9	Application_Mention 731 751	Java Virtual Machine
+R1	URL_of Arg1:T8 Arg2:T7	
+T10	OperatingSystem_Mention 803 810	Windows
+T11	Version 811 813	NT
+T12	Version 814 816	XP
+T13	Version 817 821	2003
+T14	Version 822 827	Vista
+R2	Version_of Arg1:T14 Arg2:T10	
+R3	Version_of Arg1:T13 Arg2:T10	
+R4	Version_of Arg1:T12 Arg2:T10	
+R5	Version_of Arg1:T11 Arg2:T10	
+T15	ProgrammingEnvironment_Usage 859 863	Java
+T16	Application_Mention 886 910	Java Runtime Environment
+T17	Abbreviation 912 915	JRE
+T18	Version 925 928	1.5
+R6	Abbreviation_of Arg1:T17 Arg2:T16	
+R7	Version_of Arg1:T18 Arg2:T16	

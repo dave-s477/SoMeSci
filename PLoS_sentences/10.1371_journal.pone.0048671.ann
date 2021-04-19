@@ -1,0 +1,5 @@
+T1	Application_Usage 24 29	STATA
+T2	Version 30 34	11.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Citation 35 39	[44]
+R2	Citation_of Arg1:T3 Arg2:T1	

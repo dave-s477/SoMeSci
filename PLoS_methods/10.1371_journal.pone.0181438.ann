@@ -1,0 +1,28 @@
+T1	PlugIn_Usage 9310 9331	Psychophysics Toolbox
+T2	ProgrammingEnvironment_Usage 9367 9373	MATLAB
+T3	OperatingSystem_Usage 9434 9438	OS-X
+T4	ProgrammingEnvironment_Usage 12683 12689	MATLAB
+T5	Application_Usage 21057 21060	SPM
+T8	Version 9340 9346	3.0.10
+R2	Version_of Arg1:T8 Arg2:T1	
+T9	Citation 9347 9355	[22, 23]
+R3	Citation_of Arg1:T9 Arg2:T1	
+T10	Version 9374 9377	7.9
+R4	Version_of Arg1:T10 Arg2:T2	
+T11	Developer 9379 9392	MathWorks Inc
+R5	Developer_of Arg1:T11 Arg2:T2	
+T12	Version 9439 9445	10.6.8
+R6	Version_of Arg1:T12 Arg2:T3	
+T13	Developer 9447 9456	Apple Inc
+R7	Developer_of Arg1:T13 Arg2:T3	
+T14	Developer 12691 12704	MathWorks Inc
+R8	Developer_of Arg1:T14 Arg2:T4	
+T15	Version 21060 21061	8
+R9	Version_of Arg1:T15 Arg2:T5	
+T16	Developer 21063 21106	Wellcome Department of Imaging Neuroscience
+R10	Developer_of Arg1:T16 Arg2:T5	
+T17	URL 21116 21141	www.fil.ion.ucl.ac.uk/spm
+R11	URL_of Arg1:T17 Arg2:T5	
+T18	Citation 21143 21147	[40]
+R12	Citation_of Arg1:T18 Arg2:T5	
+R1	PlugIn_of Arg1:T1 Arg2:T2	

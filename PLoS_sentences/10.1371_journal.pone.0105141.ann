@@ -1,0 +1,8 @@
+T1	Application_Usage 21 28	WinBugs
+T2	PlugIn_Usage 95 104	R2WinBUGS
+T3	Version 29 32	1.4
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	URL 50 84	http://www.mrc-bsu.cam.ac.uk/bugs/
+R2	URL_of Arg1:T4 Arg2:T1	
+T5	Version 121 127	2.1–16
+R3	Version_of Arg1:T5 Arg2:T2	

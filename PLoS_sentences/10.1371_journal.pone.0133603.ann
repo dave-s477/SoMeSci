@@ -1,0 +1,7 @@
+T1	Application_Usage 22 27	STATA
+T2	Version 37 41	12.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	PlugIn_Usage 74 78	traj
+T4	Citation 89 93	[24]
+R2	PlugIn_of Arg1:T3 Arg2:T1	
+R3	Citation_of Arg1:T4 Arg2:T3	

@@ -1,0 +1,1 @@
+At the group level, network measures were used to statistically examine, using Poisson or Gaussian regression analysis in Stata 11, the associations among the individual and family attributes, social network structures, rates of wounding and social relocations across the seven enclosures. 

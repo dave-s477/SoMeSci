@@ -1,0 +1,16 @@
+T1	Application_Usage 1367 1373	Maxent
+T2	Application_Usage 4547 4580	Hawth's analysis tools for ArcGis
+T3	PlugIn_Usage 5364 5379	Spatial Analyst
+T4	Application_Usage 5381 5387	ArcGis
+T5	PlugIn_Usage 5519 5534	Spatial Analyst
+T7	Version 1383 1389	3.3.3e
+R1	Version_of Arg1:T7 Arg2:T1	
+T8	Citation 1390 1394	[31]
+R2	Citation_of Arg1:T8 Arg2:T1	
+T9	Citation 1395 1399	[32]
+R3	Citation_of Arg1:T9 Arg2:T1	
+T11	Citation 4581 4585	[46]
+R5	Citation_of Arg1:T11 Arg2:T2	
+R6	PlugIn_of Arg1:T3 Arg2:T4	
+T12	Version 5388 5391	9.3
+R7	Version_of Arg1:T12 Arg2:T4	

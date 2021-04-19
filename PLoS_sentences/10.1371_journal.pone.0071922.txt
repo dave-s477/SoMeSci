@@ -1,0 +1,1 @@
+To evaluate whether the eight items formed a one-dimensional homogenous scale we performed Mokken Scale analysis for polytomous items [34], using the STATA 12.1 command MSP [35]. 

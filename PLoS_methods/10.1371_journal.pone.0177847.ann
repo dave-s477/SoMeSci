@@ -1,0 +1,18 @@
+T1	Application_Usage 5311 5319	TrackVis
+T2	Application_Usage 5931 5934	FSL
+T3	PlugIn_Usage 5915 5918	FDT
+T4	Application_Usage 8067 8109	Waikato Environment for Knowledge Analysis
+T5	Application_Usage 9890 9895	Stata
+T6	URL 5330 5350	http://trackvis.org/
+R1	URL_of Arg1:T6 Arg2:T1	
+T7	URL 5945 5971	http://fsl.fmrib.ox.ac.uk/
+R2	PlugIn_of Arg1:T3 Arg2:T2	
+R3	URL_of Arg1:T7 Arg2:T2	
+T8	Citation 8120 8124	[26]
+R4	Citation_of Arg1:T8 Arg2:T4	
+T9	Version 9917 9921	13.1
+T10	Developer 9924 9937	Stata Corp LP
+R5	Version_of Arg1:T9 Arg2:T5	
+R6	Developer_of Arg1:T10 Arg2:T5	
+T11	Extension 9896 9898	SE
+R7	Extension_of Arg1:T11 Arg2:T5	

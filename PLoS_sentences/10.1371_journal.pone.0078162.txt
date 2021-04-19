@@ -1,0 +1,1 @@
+Data management and univariable analyses were performed in STATA version 11 (StataCorp LP, College Station, Texas, United States of America). 

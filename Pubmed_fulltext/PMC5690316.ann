@@ -1,0 +1,46 @@
+T1	Application_Usage 1311 1317	ImageJ
+T2	Application_Mention 4833 4844	Immunoratio
+T3	Application_Mention 4900 4906	ImageJ
+T4	Citation 4845 4849	[16]
+R1	Citation_of Arg1:T4 Arg2:T2	
+T5	Citation 4907 4911	[17]
+R2	Citation_of Arg1:T5 Arg2:T3	
+T6	Application_Mention 4996 5007	Immunoratio
+T7	Application_Mention 5211 5222	Immunoratio
+T8	Application_Usage 10420 10426	ImageJ
+T9	Application_Usage 10677 10683	ImageJ
+T10	Application_Usage 11235 11241	ImageJ
+T11	Application_Mention 11243 11249	ImageJ
+T12	Citation 11250 11254	[17]
+R3	Citation_of Arg1:T12 Arg2:T11	
+T13	ProgrammingEnvironment_Mention 11275 11279	Java
+T14	Application_Usage 11410 11417	Ki67 Vv
+T15	Application_Usage 12324 12330	ImageJ
+T16	SoftwareCoreference_Deposition 13260 13268	software
+T17	Application_Usage 13615 13626	Immunoratio
+T18	Application_Usage 14591 14602	Immunoratio
+T19	Application_Usage 16102 16108	ImageJ
+T20	Developer 16136 16168	US National Institutes of Health
+R4	Developer_of Arg1:T20 Arg2:T19	
+T21	Application_Usage 16235 16246	Immunoratio
+T22	Application_Usage 16375 16386	Immunoratio
+T23	ProgrammingEnvironment_Usage 17101 17102	R
+T24	Citation 17112 17116	[30]
+R5	Citation_of Arg1:T24 Arg2:T23	
+T25	Version 17126 17131	3.2.2
+R6	Version_of Arg1:T25 Arg2:T23	
+T26	Developer 17133 17145	R Foundation
+R7	Developer_of Arg1:T26 Arg2:T23	
+T27	Application_Usage 17395 17406	Immunoratio
+T28	PlugIn_Usage 17431 17435	ROCR
+T29	Citation 17444 17448	[32]
+R8	Citation_of Arg1:T29 Arg2:T28	
+T30	PlugIn_Usage 17570 17577	FigureJ
+T31	Citation 17585 17589	[33]
+R9	Citation_of Arg1:T31 Arg2:T30	
+T32	Application_Usage 19160 19171	Immunoratio
+T33	Application_Usage 19805 19816	Immunoratio
+T34	Application_Usage 20692 20703	Immunoratio
+T35	Application_Usage 20786 20797	Immunoratio
+T36	URL 13304 13341	https://github.com/gilbertbigras/Ki67
+R10	URL_of Arg1:T36 Arg2:T16	

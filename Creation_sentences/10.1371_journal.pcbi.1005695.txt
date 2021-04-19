@@ -1,0 +1,3 @@
+To this end, we designed a general framework, BeWith, for identifying modules with different combinations of mutation and interaction patterns.
+To address this challenge, we designed a general framework, named BeWith, for identifying modules with different combinations of mutation and interaction patterns.
+We introduced the BeWith framework to identify multiple mutated modules displaying specific mutation patterns between and within modules.

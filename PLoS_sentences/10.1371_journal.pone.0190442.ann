@@ -1,0 +1,24 @@
+T1	Application_Usage 66 70	SPSS
+T2	ProgrammingEnvironment_Usage 101 107	MATLAB
+T3	ProgrammingEnvironment_Usage 144 145	R
+T4	ProgrammingEnvironment_Usage 185 191	Python
+T5	PlugIn_Usage 230 235	NumPy
+T6	PlugIn_Usage 241 246	SciPy
+T7	Developer 62 65	IBM
+R1	Developer_of Arg1:T7 Arg2:T1	
+T8	Version 71 75	22.0
+R2	Version_of Arg1:T8 Arg2:T1	
+T9	Developer 77 86	IBM Corp.
+R3	Developer_of Arg1:T9 Arg2:T1	
+T10	Release 108 114	R2015a
+R4	Release_of Arg1:T10 Arg2:T2	
+T11	Developer 116 129	The MathWorks
+R5	Developer_of Arg1:T11 Arg2:T2	
+T12	Version 146 151	3.3.2
+R6	Version_of Arg1:T12 Arg2:T3	
+T13	URL 153 178	http://www.R-project.org/
+R7	URL_of Arg1:T13 Arg2:T3	
+T14	Citation 248 252	[39]
+R8	Citation_of Arg1:T14 Arg2:T5	
+R9	PlugIn_of Arg1:T5 Arg2:T4	
+R10	PlugIn_of Arg1:T6 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Application_Usage 9 14	Prism
+T2	Developer 0 8	GraphPad
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 15 19	5.02
+R2	Version_of Arg1:T3 Arg2:T1	

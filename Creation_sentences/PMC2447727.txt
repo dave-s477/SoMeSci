@@ -1,0 +1,2 @@
+OHM (OligoHeatMap) is an online tool able to provide estimates of T for a set of oligomers and a set of aligned sequences, not only as text files of complete results but also in a graphical way: T values are translated into colors and displayed as a heat map image, either stand alone or to be used by softwares such as TreeDyn to be included in a phylogenetic tree.
+OHM is freely available at http://bioinfo.unice.fr/ohm/, with links to the full source code and online help.

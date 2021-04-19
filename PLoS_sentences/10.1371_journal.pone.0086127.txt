@@ -1,0 +1,3 @@
+As there was a group difference for BPVS and SAS scores (see Table 2), all analyses include these scores as covariates to partial out the variance attributed them.
+
+Overimitation behaviour, eye-contact and demonstration type were entered as a between trial factors and age, BPVS and SAS were entered as covariates. 

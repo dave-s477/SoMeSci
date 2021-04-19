@@ -1,0 +1,17 @@
+T1	PlugIn_Usage 2750 2762	Psychtoolbox
+T2	ProgrammingEnvironment_Usage 2799 2805	MATLAB
+T3	Application_Usage 4331 4339	Biotrace
+T4	PlugIn_Usage 4955 4962	Ledalab
+T5	Version 2763 2764	3
+R1	Version_of Arg1:T5 Arg2:T1	
+T6	URL 2766 2786	www.psychtoolbox.org
+R2	URL_of Arg1:T6 Arg2:T1	
+T7	Version 2806 2809	7.1
+R4	Version_of Arg1:T7 Arg2:T2	
+T8	Developer 2811 2825	MathWorks Inc.
+R5	Developer_of Arg1:T8 Arg2:T2	
+T9	Developer 4341 4356	Mind Media B.V.
+R6	Developer_of Arg1:T9 Arg2:T3	
+T10	URL 4964 4978	www.ledalab.de
+R7	URL_of Arg1:T10 Arg2:T4	
+R3	PlugIn_of Arg1:T1 Arg2:T2	

@@ -1,0 +1,24 @@
+T1	ProgrammingEnvironment_Usage 230 233	C++
+T2	ProgrammingEnvironment_Usage 238 244	OpenCL
+T3	SoftwareCoreference_Deposition 327 338	source code
+T4	PlugIn_Mention 1104 1110	glmnet
+T5	Citation 1112 1133	Friedman et al., 2010
+R1	Citation_of Arg1:T5 Arg2:T4	
+T6	ProgrammingEnvironment_Usage 1700 1703	C++
+T7	Application_Creation 1721 1730	gpu-lasso
+T8	Application_Mention 2010 2019	gpu-lasso
+T9	PlugIn_Usage 3203 3209	glmnet
+T10	Citation 3211 3232	Friedman et al., 2010
+R2	Citation_of Arg1:T10 Arg2:T9	
+T11	ProgrammingEnvironment_Usage 3708 3709	R
+T12	PlugIn_Usage 3723 3729	glmnet
+R3	PlugIn_of Arg1:T12 Arg2:T11	
+T13	ProgrammingEnvironment_Usage 3777 3780	C++
+T14	PlugIn_Usage 3879 3885	glmnet
+T15	Application_Usage 3890 3899	gpu-lasso
+T16	Application_Usage 3907 3916	gpu-lasso
+T17	Application_Creation 5764 5773	gpu-lasso
+T18	ProgrammingEnvironment_Usage 5986 5989	C++
+T19	PlugIn_Mention 6737 6743	glmnet
+T20	URL 412 508	http://bioinformatics.oxfordjournals.org/content/early/2012/01/10/bioinformatics.bts015.abstract
+R4	URL_of Arg1:T20 Arg2:T3	

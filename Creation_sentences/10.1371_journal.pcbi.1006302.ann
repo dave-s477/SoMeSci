@@ -1,0 +1,11 @@
+T2	Application_Creation 79 86	COBRAme
+T4	Application_Usage 134 141	COBRAme
+T6	Application_Creation 283 290	COBRAme
+T7	Application_Creation 354 361	COBRAme
+T49	ProgrammingEnvironment_Usage 376 382	Python
+T50	PlugIn_Usage 411 418	COBRApy
+T51	Citation 456 460	[18]
+R1	Citation_of Arg1:T51 Arg2:T50	
+T45	Application_Deposition 484 491	COBRAme
+T52	URL 515 546	https://github.com/SBRG/cobrame
+R2	URL_of Arg1:T52 Arg2:T45	

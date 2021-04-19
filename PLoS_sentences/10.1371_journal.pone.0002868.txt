@@ -1,0 +1,1 @@
+ANOVAs were also performed with a between-subject factor of “attachment style” (SAS, AXS, or AVS, as determined individually by AAQ scores), to examine whether these individual traits would modulate visual inspection times, but these analyses showed no main effect of attachment nor interaction with conditions (all Fs<1.1). 

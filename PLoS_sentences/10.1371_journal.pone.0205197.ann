@@ -1,0 +1,3 @@
+T1	Application_Usage 126 134	GraphPad
+T2	URL 145 161	www.graphpad.com
+R1	URL_of Arg1:T2 Arg2:T1	

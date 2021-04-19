@@ -1,0 +1,34 @@
+T1	Application_Deposition 65 79	PhosphOrtholog
+T2	URL 81 110	http://www.phosphortholog.com
+R8	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 204 218	PhosphOrtholog
+T4	Application_Creation 410 424	PhosphOrtholog
+T5	Application_Creation 568 582	PhosphOrtholog
+T6	SoftwareCoreference_Deposition 755 763	web-tool
+T7	URL 785 815	http://www.phosphortholog.com/
+T8	Application_Mention 854 871	Internet Explorer
+R7	URL_of Arg1:T7 Arg2:T6	
+T9	Application_Creation 900 914	PhosphOrtholog
+T10	Application_Deposition 1070 1084	PhosphOrtholog
+T11	URL 1104 1134	http://www.phosphortholog.com/
+R1	URL_of Arg1:T11 Arg2:T10	
+T20	Application_Mention 1224 1241	Internet Explorer
+T21	Application_Usage 1259 1266	Firefox
+T22	Version 1268 1272	30.0
+T25	Application_Usage 1274 1280	Chrome
+T23	Version 1282 1286	36.0
+T26	Application_Usage 1288 1294	Safari
+T24	Version 1296 1299	6.1
+T14	ProgrammingEnvironment_Usage 1323 1329	jQuery
+T15	ProgrammingEnvironment_Usage 1330 1334	HTML
+T16	Version 1334 1335	5
+T17	ProgrammingEnvironment_Usage 1337 1343	Python
+T18	ProgrammingEnvironment_Usage 1344 1350	Django
+T19	ProgrammingEnvironment_Usage 1352 1353	R
+T13	Application_Mention 1376 1386	VirtualBox
+T12	License 1442 1445	GPL
+R3	Version_of Arg1:T16 Arg2:T15	
+R4	Version_of Arg1:T22 Arg2:T21	
+R5	Version_of Arg1:T23 Arg2:T25	
+R6	Version_of Arg1:T24 Arg2:T26	
+R2	License_of Arg1:T12 Arg2:T10	

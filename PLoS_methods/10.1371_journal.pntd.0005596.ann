@@ -1,0 +1,30 @@
+T1	Application_Usage 2767 2785	cellSens Dimension
+T2	Application_Usage 8777 8785	FACSuite
+T3	Application_Usage 8877 8885	FACSuite
+T4	Application_Usage 9605 9615	Oligo Calc
+T5	Application_Usage 10868 10904	RT2 Profiler PCR Array Data analysis
+T6	Application_Usage 11140 11166	Ingenuity Pathway Analysis
+T7	Application_Usage 11455 11465	Oligo Calc
+T8	Application_Usage 12858 12863	Prism
+T9	Version 2786 2789	1.9
+R1	Version_of Arg1:T9 Arg2:T1	
+T10	Developer 8796 8810	BD Biosciences
+R2	Developer_of Arg1:T10 Arg2:T2	
+T12	Version 10905 10908	3.5
+R4	Version_of Arg1:T12 Arg2:T5	
+T13	Developer 10951 10957	Qiagen
+R5	Developer_of Arg1:T13 Arg2:T5	
+T14	URL 10925 10941	sabiociences.com
+R6	URL_of Arg1:T14 Arg2:T5	
+T16	Developer 11173 11185	Systems Inc.
+R8	Developer_of Arg1:T16 Arg2:T6	
+T17	Developer 11467 11472	Kibbe
+R9	Developer_of Arg1:T17 Arg2:T7	
+T18	Developer 12849 12857	GraphPad
+R10	Developer_of Arg1:T18 Arg2:T8	
+T19	Version 12864 12865	5
+R7	Version_of Arg1:T19 Arg2:T8	
+T11	Developer 9617 9622	Kibbe
+R3	Developer_of Arg1:T11 Arg2:T4	
+T15	Abbreviation 11168 11171	IPA
+R11	Abbreviation_of Arg1:T15 Arg2:T6	

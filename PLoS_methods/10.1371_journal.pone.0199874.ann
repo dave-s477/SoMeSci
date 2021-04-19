@@ -1,0 +1,5 @@
+T1	Application_Usage 5125 5128	SAS
+T2	Version 5147 5150	9.4
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 5152 5165	SAS Institute
+R2	Developer_of Arg1:T3 Arg2:T1	

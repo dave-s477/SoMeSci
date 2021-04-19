@@ -1,0 +1,19 @@
+T1	PlugIn_Creation 41 51	illuminaio
+T2	PlugIn_Creation 186 196	illuminaio
+T3	PlugIn_Mention 472 482	illuminaio
+T4	ProgrammingEnvironment_Mention 489 490	R
+T5	Citation 499 502	[9]
+R1	PlugIn_of Arg1:T3 Arg2:T4	
+R2	Citation_of Arg1:T5 Arg2:T4	
+T6	PlugIn_Deposition 526 536	illuminaio
+T7	ProgrammingEnvironment_Mention 543 544	R
+T8	PlugIn_Mention 572 584	Bioconductor
+T9	URL 595 622	http://www.bioconductor.org
+T10	URL 633 670	http://dx.doi.org/10.5281/zenodo.7588
+R3	PlugIn_of Arg1:T6 Arg2:T7	
+R4	PlugIn_of Arg1:T8 Arg2:T7	
+R5	URL_of Arg1:T9 Arg2:T8	
+R6	URL_of Arg1:T10 Arg2:T6	
+T11	PlugIn_Creation 694 704	illuminaio
+T12	ProgrammingEnvironment_Mention 709 710	R
+R7	PlugIn_of Arg1:T11 Arg2:T12	

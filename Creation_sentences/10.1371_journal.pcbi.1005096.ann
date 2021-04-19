@@ -1,0 +1,8 @@
+T2	Application_Creation 50 62	AlignerBoost
+T8	Application_Deposition 179 191	AlignerBoost
+T9	ProgrammingEnvironment_Usage 220 224	Java
+T104	URL 264 305	https://github.com/Grice-Lab/AlignerBoost
+R1	URL_of Arg1:T104 Arg2:T8	
+T10	Application_Creation 323 335	AlignerBoost
+T63	Application_Creation 492 504	AlignerBoost
+T65	Application_Mention 641 653	AlignerBoost

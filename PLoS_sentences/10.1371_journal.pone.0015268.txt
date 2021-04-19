@@ -1,0 +1,1 @@
+Images were preprocessed and analyzed using SPM5 (Wellcome Department of Cognitive Neurology, London, UK), implemented in MatLab 7.2 (MathWorks™). 

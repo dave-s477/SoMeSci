@@ -1,0 +1,2 @@
+All analyses were performed with statistical software STATA version 9.0 (StataCorp, College Station, TX).
+

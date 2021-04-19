@@ -1,0 +1,10 @@
+T1	Application_Usage 44 47	SPM
+T2	ProgrammingEnvironment_Usage 122 128	MatLab
+T3	Version 47 48	5
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 50 92	Wellcome Department of Cognitive Neurology
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 129 132	7.2
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 134 143	MathWorks
+R4	Developer_of Arg1:T6 Arg2:T2	

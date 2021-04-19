@@ -1,0 +1,5 @@
+T1	Application_Usage 167 175	STATVIEW
+T2	Version 176 179	5.0
+T3	Developer 181 194	SAS Institute
+R1	Version_of Arg1:T2 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T1	

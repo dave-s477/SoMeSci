@@ -1,0 +1,6 @@
+T1	Application_Usage 46 61	SPSS Statistics
+T2	Application_Usage 71 75	AMOS
+T3	Version 62 66	23.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 84 88	23.0
+R2	Version_of Arg1:T4 Arg2:T2	

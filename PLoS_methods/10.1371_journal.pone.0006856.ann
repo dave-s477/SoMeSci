@@ -1,0 +1,10 @@
+T1	Application_Usage 5733 5737	SPSS
+T2	Application_Usage 5845 5848	JMP
+T11	Version 5746 5750	15.0
+T12	Developer 5752 5760	SPSS Inc
+R2	Developer_of Arg1:T12 Arg2:T1	
+R3	Version_of Arg1:T11 Arg2:T1	
+T13	Version 5857 5860	5.1
+T14	Developer 5862 5875	SAS Institute
+R4	Developer_of Arg1:T14 Arg2:T2	
+R5	Version_of Arg1:T13 Arg2:T2	

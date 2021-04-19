@@ -1,0 +1,14 @@
+T2	Application_Creation 18 24	GEMINI
+T64	AlternativeName 26 39	GEnome MINIng
+R1	AlternativeName_of Arg1:T64 Arg2:T2	
+T3	Application_Creation 145 151	GEMINI
+T4	Application_Mention 448 454	GEMINI
+T5	Application_Mention 604 610	GEMINI
+T6	Application_Usage 842 848	GEMINI
+T8	Application_Creation 1050 1056	GEMINI
+T65	AlternativeName 1058 1071	GEnome MINIng
+T66	Application_Mention 1266 1272	GEMINI
+T67	SoftwareCoreference_Deposition 1330 1341	source code
+T68	URL 1374 1405	https://github.com/arq5x/gemini
+R3	URL_of Arg1:T68 Arg2:T67	
+R2	AlternativeName_of Arg1:T65 Arg2:T8	

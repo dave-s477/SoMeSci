@@ -1,0 +1,43 @@
+T1	Application_Usage 3588 3598	PyroTagger
+T3	Application_Usage 4676 4682	blastn
+T4	Application_Usage 5084 5090	blastn
+T5	Application_Usage 5466 5475	EstimateS
+T6	Application_Usage 6385 6391	blastn
+T7	ProgrammingEnvironment_Usage 6776 6780	Perl
+T8	Application_Usage 6823 6828	PCORD
+T9	Application_Usage 10152 10166	RDP Classifier
+T10	Application_Usage 10313 10321	Geneious
+T11	Application_Usage 10567 10579	Bellerpheron
+T12	Application_Usage 10755 10761	MUSCLE
+T13	Application_Usage 10769 10777	Geneious
+T14	Application_Usage 11206 11212	blastn
+T15	Application_Usage 11474 11480	Blastn
+T16	Application_Usage 11754 11758	MEGA
+T17	Application_Usage 11801 11806	DNAsp
+T18	Application_Usage 12467 12471	MEGA
+T19	Application_Usage 14605 14611	Blastn
+T2	Application_Usage 3673 3679	blastn
+T27	Citation 3609 3613	[13]
+R1	Citation_of Arg1:T27 Arg2:T1	
+T30	Citation 5476 5480	[14]
+R4	Citation_of Arg1:T30 Arg2:T5	
+T31	Version 6838 6842	4.25
+R5	Version_of Arg1:T31 Arg2:T8	
+T32	Citation 6853 6857	[19]
+R6	Citation_of Arg1:T32 Arg2:T8	
+T33	Version 10168 10171	2.2
+R7	Version_of Arg1:T33 Arg2:T9	
+T34	Citation 10172 10176	[25]
+R8	Citation_of Arg1:T34 Arg2:T9	
+T35	Version 10331 10334	5.5
+R9	Version_of Arg1:T35 Arg2:T10	
+T36	Citation 10335 10339	[26]
+R10	Citation_of Arg1:T36 Arg2:T10	
+T37	URL 10586 10605	greengenes.lbl.gov/
+R11	URL_of Arg1:T37 Arg2:T11	
+T40	Citation 11759 11763	[28]
+R14	Citation_of Arg1:T40 Arg2:T16	
+T41	Citation 11815 11819	[29]
+R15	Citation_of Arg1:T41 Arg2:T17	
+T42	Citation 12472 12476	[28]
+R16	Citation_of Arg1:T42 Arg2:T18	

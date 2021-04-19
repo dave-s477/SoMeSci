@@ -1,0 +1,14 @@
+T1	Application_Usage 3904 3917	LiDAR Analyst
+T2	Application_Usage 3940 3946	ArcGIS
+T3	Application_Usage 7286 7292	ArcGIS
+T4	Application_Usage 7509 7522	LiDAR Analyst
+T8	Version 3918 3921	5.0
+R3	Version_of Arg1:T8 Arg2:T1	
+T9	Citation 3932 3936	[50]
+R4	Citation_of Arg1:T9 Arg2:T1	
+T10	Version 3947 3951	10.1
+R5	Version_of Arg1:T10 Arg2:T2	
+T11	Citation 3952 3956	[51]
+R6	Citation_of Arg1:T11 Arg2:T2	
+T12	Version 7293 7297	10.1
+R7	Version_of Arg1:T12 Arg2:T3	

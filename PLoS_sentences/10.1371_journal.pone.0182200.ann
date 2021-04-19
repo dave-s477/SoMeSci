@@ -1,0 +1,17 @@
+T1	Application_Usage 121 128	Tableau
+T2	Application_Usage 133 138	Excel
+T3	Application_Usage 73 80	Tableau
+T4	Application_Usage 140 147	Tableau
+R1	Specification_of Arg1:T4 Arg2:T1	
+T5	Version 148 151	9.0
+R2	Version_of Arg1:T5 Arg2:T4	
+T6	Developer 153 174	Tableau Software Inc.
+R3	Developer_of Arg1:T6 Arg2:T4	
+T7	Application_Usage 176 181	Excel
+R4	Specification_of Arg1:T7 Arg2:T2	
+T8	Version 182 188	14.4.2
+R5	Version_of Arg1:T8 Arg2:T7	
+T9	Developer 190 211	Microsoft Corporation
+R6	Developer_of Arg1:T9 Arg2:T7	
+T10	Release 212 216	2010
+R7	Release_of Arg1:T10 Arg2:T7	

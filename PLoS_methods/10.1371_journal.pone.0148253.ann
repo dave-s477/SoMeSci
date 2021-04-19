@@ -1,0 +1,21 @@
+T1	Application_Usage 5533 5552	EyeLink Data Viewer
+T2	ProgrammingEnvironment_Usage 8308 8314	Python
+T3	Application_Usage 11400 11419	EyeLink Data Viewer
+T4	ProgrammingEnvironment_Usage 11546 11552	Matlab
+T5	Application_Usage 11623 11627	SPSS
+T6	ProgrammingEnvironment_Mention 19427 19433	Matlab
+T8	Application_Usage 19825 19829	AFNI
+T32	Developer 11432 11443	SR Research
+R13	Developer_of Arg1:T32 Arg2:T3	
+T33	Developer 11554 11573	The MathWorks, Inc.
+R14	Developer_of Arg1:T33 Arg2:T4	
+T34	Developer 11629 11632	IBM
+R15	Developer_of Arg1:T34 Arg2:T5	
+T18	Citation 19454 19458	[42]
+T7	PlugIn_Mention 19449 19453	iMap
+R16	PlugIn_of Arg1:T7 Arg2:T6	
+R17	Citation_of Arg1:T18 Arg2:T7	
+T35	URL 19831 19855	http://afni.nimh.nih.gov
+R18	URL_of Arg1:T35 Arg2:T8	
+T9	PlugIn_Usage 19866 19871	3dFDR
+T10	PlugIn_Usage 20244 20249	3dFDR

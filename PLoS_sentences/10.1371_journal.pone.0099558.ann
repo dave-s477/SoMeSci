@@ -1,0 +1,6 @@
+T1	Application_Usage 123 128	Stata
+T2	Application_Usage 161 166	MLwiN
+T3	Version 186 190	2.27
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Citation 191 195	[37]
+R2	Citation_of Arg1:T4 Arg2:T2	

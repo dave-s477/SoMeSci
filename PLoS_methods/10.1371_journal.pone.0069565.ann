@@ -1,0 +1,3 @@
+T1	Application_Usage 1439 1446	E-Prime
+T3	Version 1447 1450	2.0
+R1	Version_of Arg1:T3 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Application_Usage 11656 11663	Minitab
+T2	Version 11682 11686	16.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 11688 11700	Minitab Inc.
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Release 11702 11706	2010
+R3	Release_of Arg1:T4 Arg2:T1	

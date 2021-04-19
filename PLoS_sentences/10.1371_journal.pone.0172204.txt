@@ -1,0 +1,1 @@
+We used STATA 13.1 for the univariate and multivariate statistical analyses. 

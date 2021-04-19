@@ -1,0 +1,1 @@
+We exported an excel sheet with the sample coded by the two researchers being 1 (is evidence of social impact, either potential or real) and 0 (is not evidence of social impact) to SPSS. 

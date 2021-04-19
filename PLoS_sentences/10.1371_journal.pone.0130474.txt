@@ -1,0 +1,1 @@
+In order to investigate whether sex and body weight could influence the inter-individual variation in the behavioural responses (reflected in the PCs), we performed a general linear model (GLM) as well as linear regressions using SAS. 

@@ -1,0 +1,4 @@
+Here, we present the software library pSSAlib, which provides a complete and concise implementation of the most efficient partial-propensity methods for simulating exact stochastic chemical kinetics.
+Here, we describe pSSAlib in detail and apply it to a new model of the endocytic pathway in eukaryotic cells, leading to the discovery of a stochastic counterpart of the cut-out switch motif underlying early-to-late endosome conversion.
+pSSAlib is written in C++ and is designed to be highly efficient, also supporting parallel execution on distributed-memory computer clusters.
+The pSSAlib source code and pre-packaged installers are freely available from mosaic.mpi-cbg.de as open source under the GNU LGPL v3 license.

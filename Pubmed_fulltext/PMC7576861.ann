@@ -1,0 +1,6 @@
+T1	Application_Usage 9337 9367	Draeger EIT Data Analysis Tool
+T2	Version 9368 9371	6.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 11679 11683	SPSS
+T4	Version 11685 11687	20
+R2	Version_of Arg1:T4 Arg2:T3	

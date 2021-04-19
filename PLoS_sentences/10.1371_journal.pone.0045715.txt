@@ -1,0 +1,1 @@
+Significance values for the fit to the cosine model were calculated in MATLAB. 

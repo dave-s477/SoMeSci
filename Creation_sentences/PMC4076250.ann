@@ -1,0 +1,14 @@
+T1	Application_Creation 31 46	SSPACE-LongRead
+T3	SoftwareCoreference_Deposition 172 176	copy
+T2	URL 180 226	http://www.baseclear.com/bioinformatics-tools/
+R3	URL_of Arg1:T2 Arg2:T3	
+T4	Application_Deposition 244 259	SSPACE-LongRead
+T5	URL 279 325	http://www.baseclear.com/bioinformatics-tools/
+T6	OperatingSystem_Usage 356 361	Linux
+T7	ProgrammingEnvironment_Usage 396 400	Perl
+T8	ProgrammingEnvironment_Usage 402 405	C++
+T9	PlugIn_Mention 434 439	BLASR
+T11	PlugIn_Mention 473 478	BLASR
+T10	License 526 535	BaseTools
+R1	URL_of Arg1:T5 Arg2:T4	
+R2	License_of Arg1:T10 Arg2:T4	

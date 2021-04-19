@@ -1,0 +1,30 @@
+T1	Application_Usage 1305 1313	GoldWave
+T2	Application_Usage 3489 3496	E-Prime
+T3	Application_Usage 5882 5912	statistical parametric mapping
+T4	Application_Usage 6145 6148	SPM
+T5	PlugIn_Usage 7396 7403	Marsbar
+T6	Application_Usage 8459 8463	SPSS
+T7	Version 1323 1327	5.58
+T8	Developer 1329 1342	GoldWave Inc.
+T9	URL 1344 1360	www.goldwave.com
+R1	Version_of Arg1:T7 Arg2:T1	
+R2	Developer_of Arg1:T8 Arg2:T1	
+R3	URL_of Arg1:T9 Arg2:T1	
+T10	Version 3497 3500	1.2
+R4	Version_of Arg1:T10 Arg2:T2	
+T11	Developer 3502 3533	Psychology Software Tools, Inc.
+R5	Developer_of Arg1:T11 Arg2:T2	
+T12	Application_Usage 5914 5917	SPM
+T13	Version 5917 5918	8
+T14	Developer 5920 5953	Wellcome Trust Center for Imaging
+T15	URL 5967 5999	http://www.fil.ion.ucl.ac.uk/spm
+R6	Version_of Arg1:T13 Arg2:T12	
+R7	Specification_of Arg1:T12 Arg2:T3	
+R8	Developer_of Arg1:T14 Arg2:T12	
+R9	URL_of Arg1:T15 Arg2:T12	
+T16	Version 6148 6149	8
+R10	Version_of Arg1:T16 Arg2:T4	
+T17	Version 7413 7417	0.42
+R11	Version_of Arg1:T17 Arg2:T5	
+T18	Version 8463 8465	16
+R12	Version_of Arg1:T18 Arg2:T6	

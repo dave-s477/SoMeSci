@@ -1,0 +1,1 @@
+The data were entered into an Excel database (Excel Version 2013, Microsoft, Redmont, Washington, USA) and checked for errors which might have occurred during data entry. 

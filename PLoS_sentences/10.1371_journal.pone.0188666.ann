@@ -1,0 +1,3 @@
+T1	Application_Usage 37 42	Stata
+T2	Version 73 75	14
+R1	Version_of Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Application_Usage 35 39	SPSS
+T2	Version 45 47	18
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Extension 40 44	PASW
+R2	Extension_of Arg1:T3 Arg2:T1	

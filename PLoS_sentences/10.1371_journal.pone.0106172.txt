@@ -1,0 +1,1 @@
+In order to reduce variability in her movement duration, she wore a headphone connected to a PC on which a MATLAB code generated a rhythmic “beep”. 

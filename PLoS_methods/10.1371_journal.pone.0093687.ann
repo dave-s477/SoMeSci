@@ -1,0 +1,6 @@
+T1	Application_Usage 8752 8791	Statistical Package for Social Sciences
+T2	OperatingSystem_Usage 8803 8810	Windows
+T3	Abbreviation 8793 8797	SPSS
+R1	Abbreviation_of Arg1:T3 Arg2:T1	
+T4	Version 8820 8824	13.0
+R2	Version_of Arg1:T4 Arg2:T1	

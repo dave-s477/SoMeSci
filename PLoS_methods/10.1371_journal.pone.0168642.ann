@@ -1,0 +1,5 @@
+T1	Application_Usage 7597 7636	Statistical Package for Social Sciences
+T2	Version 7642 7646	23.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 7648 7652	SPSS
+R2	Developer_of Arg1:T3 Arg2:T1	

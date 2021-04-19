@@ -1,0 +1,1 @@
+Subsequently, we used a Butterworth filter in Matlab on the two time series of the positions, with a cut-off frequency of 4 Hz. 

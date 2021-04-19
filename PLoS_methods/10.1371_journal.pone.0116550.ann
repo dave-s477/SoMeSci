@@ -1,0 +1,17 @@
+T1	Application_Usage 232 241	BioNetGen
+T2	Application_Usage 38291 38300	BioNetGen
+T3	PlugIn_Usage 38869 38874	CVODE
+T4	Application_Usage 38884 38892	SUNDIALS
+T5	Application_Usage 38836 38845	BioNetGen
+T6	Application_Usage 39038 39047	BioNetGen
+T7	Application_Usage 39108 39118	RuleBender
+T8	Application_Usage 39181 39190	BioNetGen
+T9	Application_Mention 40420 40424	AUTO
+T10	Application_Mention 40429 40436	MatCont
+T16	Citation 38301 38305	[53]
+R1	Citation_of Arg1:T16 Arg2:T2	
+T17	Citation 38901 38905	[69]
+R2	Citation_of Arg1:T17 Arg2:T4	
+R3	PlugIn_of Arg1:T3 Arg2:T4	
+T18	Citation 39119 39123	[70]
+R4	Citation_of Arg1:T18 Arg2:T7	

@@ -1,0 +1,6 @@
+T1	Application_Usage 4354 4362	Epi Info
+T2	Application_Usage 4486 4491	Stata
+T3	Version 4363 4368	6.04d
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 4521 4522	9
+R2	Version_of Arg1:T4 Arg2:T2	

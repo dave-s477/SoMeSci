@@ -1,0 +1,2 @@
+All statistical analyses were performed in STATA version 14 [46].
+

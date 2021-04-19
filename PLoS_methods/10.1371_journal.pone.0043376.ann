@@ -1,0 +1,11 @@
+T1	Application_Usage 2272 2277	Prism
+T2	Application_Usage 8843 8850	Image J
+T3	Application_Usage 9821 9827	Instat
+T4	Developer 2278 2286	GraphPad
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 8839 8842	NIH
+R2	Developer_of Arg1:T5 Arg2:T2	
+T6	Developer 9812 9820	GraphPad
+R3	Developer_of Arg1:T6 Arg2:T3	
+T7	Developer 9838 9860	GraphPad Software Inc.
+R4	Developer_of Arg1:T7 Arg2:T3	

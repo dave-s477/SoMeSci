@@ -1,0 +1,27 @@
+T1	Application_Usage 948 960	Presentation
+T2	Application_Usage 2260 2272	Presentation
+T3	ProgrammingEnvironment_Usage 3614 3620	MATLAB
+T4	Application_Usage 3671 3686	SPSS Statistics
+T5	Application_Usage 5100 5112	BrainVoyager
+T6	ProgrammingEnvironment_Usage 5198 5204	MATLAB
+T7	Application_Usage 5210 5225	SPSS Statistics
+T8	Version 987 989	16
+T9	Developer 991 1019	Neurobehavioral Systems Inc.
+R1	Version_of Arg1:T8 Arg2:T1	
+R2	Developer_of Arg1:T9 Arg2:T1	
+T10	Release 3622 3628	R2010a
+T11	Developer 3630 3648	The MATHWORKS Inc.
+R3	Release_of Arg1:T10 Arg2:T3	
+R4	Developer_of Arg1:T11 Arg2:T3	
+T12	Application_Usage 3688 3703	PASW Statistics
+T13	Version 3704 3706	18
+R5	Version_of Arg1:T13 Arg2:T12	
+R6	Specification_of Arg1:T12 Arg2:T4	
+T14	Developer 3708 3723	IBM Corporation
+R7	Developer_of Arg1:T14 Arg2:T12	
+T15	Version 5125 5128	2.3
+R8	Version_of Arg1:T15 Arg2:T5	
+T16	Developer 5130 5151	Brain Innovation B.V.
+R9	Developer_of Arg1:T16 Arg2:T5	
+T17	Extension 5113 5115	QX
+R10	Extension_of Arg1:T17 Arg2:T5	

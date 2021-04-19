@@ -1,0 +1,1 @@
+All analyses were carried out using Stata version 11. 

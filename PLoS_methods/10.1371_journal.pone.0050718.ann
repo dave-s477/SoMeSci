@@ -1,0 +1,12 @@
+T1	Application_Usage 7964 7969	Chart
+T2	Application_Usage 10835 10840	STATA
+T3	Application_Usage 9975 9981	CANTAB
+T4	Version 7971 7974	4.2
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	URL 9983 10045	http://www.cantab.com/cantab-tests-cambridge-gambling-task.asp
+R2	URL_of Arg1:T5 Arg2:T3	
+T6	Version 10867 10871	10.0
+R3	Version_of Arg1:T6 Arg2:T2	
+T7	Application_Usage 2769 2820	Cambridge Neuropsychological Test Automated Battery
+T8	Abbreviation 2822 2828	CANTAB
+R4	Abbreviation_of Arg1:T8 Arg2:T7	

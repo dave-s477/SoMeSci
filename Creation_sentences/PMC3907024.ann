@@ -1,0 +1,17 @@
+T1	Application_Creation 33 41	V-Phaser
+T2	Version 42 43	2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 118 126	V-Phaser
+T4	Version 127 128	2
+T5	Application_Deposition 166 174	V-Phaser
+T6	Version 175 176	2
+T7	URL 198 291	http://www.broadinstitute.org/scientific-community/science/projects/viral-genomics/v-phaser-2
+R2	Version_of Arg1:T4 Arg2:T3	
+R3	URL_of Arg1:T7 Arg2:T5	
+R4	Version_of Arg1:T6 Arg2:T5	
+T8	Application_Creation 496 504	V-Phaser
+T9	Version 505 506	2
+T10	Application_Mention 551 559	V-Phaser
+T11	Citation 560 564	[12]
+R5	Version_of Arg1:T9 Arg2:T8	
+R6	Citation_of Arg1:T11 Arg2:T10	

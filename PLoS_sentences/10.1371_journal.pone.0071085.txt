@@ -1,0 +1,2 @@
+All statistical analyses were done in Stata 12 (Stata Corp. Inc. TX, USA).
+

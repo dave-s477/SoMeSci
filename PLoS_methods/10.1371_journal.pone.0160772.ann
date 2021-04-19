@@ -1,0 +1,31 @@
+T1	PlugIn_Usage 989 1010	Psychophysics Toolbox
+T2	ProgrammingEnvironment_Usage 1036 1042	Matlab
+T3	Application_Usage 6354 6358	SPSS
+T4	OperatingSystem_Usage 6368 6375	Windows
+T5	PlugIn_Usage 12574 12577	HGF
+T6	Application_Usage 12618 12623	TAPAS
+T7	Application_Usage 12911 12914	SPM
+T8	Release 1043 1049	R2007b
+R1	Release_of Arg1:T8 Arg2:T2	
+T9	Developer 1051 1065	Mathworks Inc.
+R2	Developer_of Arg1:T9 Arg2:T2	
+T10	Version 1011 1016	3.0.9
+T11	Citation 1017 1021	[12]
+R4	Version_of Arg1:T10 Arg2:T1	
+R5	Citation_of Arg1:T11 Arg2:T1	
+T12	Version 6359 6363	22.0
+R6	Version_of Arg1:T12 Arg2:T3	
+T13	Developer 6377 6386	IBM Corp.
+R7	Developer_of Arg1:T13 Arg2:T3	
+T14	Version 12578 12581	4.0
+R8	Version_of Arg1:T14 Arg2:T5	
+T15	URL 12633 12681	http://www.translationalneuromodeling.org/tapas/
+R9	URL_of Arg1:T15 Arg2:T6	
+T16	Version 12914 12916	12
+R10	Version_of Arg1:T16 Arg2:T7	
+T17	URL 12918 12966	http://www.fil.ion.ucl.ac.uk/spm/software/spm12/
+R11	URL_of Arg1:T17 Arg2:T7	
+T18	Release 6387 6391	2013
+R3	Release_of Arg1:T18 Arg2:T3	
+R12	PlugIn_of Arg1:T5 Arg2:T6	
+R13	PlugIn_of Arg1:T1 Arg2:T2	

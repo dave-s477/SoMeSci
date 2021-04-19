@@ -1,0 +1,6 @@
+T1	ProgrammingEnvironment_Usage 129 135	MATLAB
+T2	Application_Usage 114 119	Praat
+T3	Citation 120 124	[44]
+R1	Citation_of Arg1:T3 Arg2:T2	
+T4	Developer 137 156	The MathWorks, Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	

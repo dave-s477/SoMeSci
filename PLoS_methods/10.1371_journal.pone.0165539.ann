@@ -1,0 +1,5 @@
+T1	Application_Usage 10165 10170	Stata
+T13	Version 10180 10184	13.1
+R3	Version_of Arg1:T13 Arg2:T1	
+T14	Citation 10186 10190	[41]
+R4	Citation_of Arg1:T14 Arg2:T1	

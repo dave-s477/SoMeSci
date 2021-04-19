@@ -1,0 +1,3 @@
+Here I will introduce GenomePop, a forward simulation program that fulfills the above requirements.
+Here I will introduce the program GenomePop that fulfills the mentioned requirements.
+"Project name: GenomePop v. 1.0 Project home page: http://webs.uvigo.es/acraaj/GenomePop.htm Operating system(s): Windows and Linux (the source will be provided to compile for Mac) Programming language: C++ License: GNU GPL."

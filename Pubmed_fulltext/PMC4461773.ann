@@ -1,0 +1,6 @@
+T1	Application_Usage 12732 12736	SPSS
+T2	OperatingSystem_Usage 12761 12768	Windows
+T3	Version 12778 12782	21.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 12796 12805	IBM Corp.
+R2	Developer_of Arg1:T4 Arg2:T1	

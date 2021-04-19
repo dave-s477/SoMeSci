@@ -1,0 +1,1 @@
+STATA version 13 was used to perform all statistical analyses. 

@@ -1,0 +1,13 @@
+T1	PlugIn_Creation 50 54	aLFQ
+T2	PlugIn_Deposition 303 307	aLFQ
+T3	ProgrammingEnvironment_Usage 322 323	R
+T4	License 355 358	GPL
+T5	Version 359 360	3
+T10	Application_Usage 366 370	CRAN
+T6	URL 372 401	http://www.cran.r-project.org
+R1	License_of Arg1:T4 Arg2:T2	
+R2	Version_of Arg1:T5 Arg2:T4	
+R3	URL_of Arg1:T6 Arg2:T2	
+T7	PlugIn_Creation 421 425	aLFQ
+T8	PlugIn_Creation 642 646	aLFQ
+T9	ProgrammingEnvironment_Usage 666 667	R

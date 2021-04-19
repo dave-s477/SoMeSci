@@ -1,0 +1,4 @@
+T1	Application_Usage 58 63	blast
+T2	Citation 64 68	[36]
+R1	Citation_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 132 138	blastn

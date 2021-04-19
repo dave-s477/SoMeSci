@@ -1,0 +1,11 @@
+T1	Application_Usage 9278 9286	Actiware
+T2	Application_Usage 11167 11170	SAS
+T3	Application_Usage 12837 12840	SAS
+T4	Version 9296 9305	5.59.0015
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Version 11179 11182	9.3
+R2	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 11184 11202	SAS Institute Inc.
+R3	Developer_of Arg1:T6 Arg2:T2	
+T7	Developer 9266 9277	Respironics
+R4	Developer_of Arg1:T7 Arg2:T1	

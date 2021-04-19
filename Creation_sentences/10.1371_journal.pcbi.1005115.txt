@@ -1,0 +1,6 @@
+Here we describe a simple experimental set-up and a novel open-source code, named M-Track, for simultaneously tracking the movement of individual forepaws during spontaneous grooming in multiple freely-behaving mice.
+M-Track provides a valuable and user-friendly interface to streamline the analysis of spontaneous grooming in biomedical research studies.
+Fifth, by using a mean shifting clustering algorithm, M-Track identifies the highest-density cluster of pixels with the highest probability values.
+The software and documentation for M-Track is freely available for download from the Scimemi Lab website (https://sites.google.com/site/scimemilab2013/software) or from the GitHub repository, which also includes detailed instructions on software installation and video analysis, which can be tested in videos of black and white mice (https://github.com/scimemia/M-Track).
+M-Track was written using Python 2.7, OpenCV 3.0 and Qt4.8, which can be downloaded free of charge at the URLs reported in Table 3.
+The software and documentation for M-Track are freely available for download from the Scimemi lab website (https://sites.google.com/site/scimemilab2013/software) or from the GitHub repository (https://github.com/scimemia/M-Track).

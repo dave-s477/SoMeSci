@@ -1,0 +1,32 @@
+T2	Application_Creation 56 60	QuIN
+T3	Application_Deposition 483 487	QuIN
+T6	URL 517 536	http://quin.jax.org
+T4	Application_Creation 537 541	QuIN
+T37	ProgrammingEnvironment_Usage 558 562	Java
+T45	ProgrammingEnvironment_Usage 567 577	JavaScript
+T47	Developer 592 598	Apache
+T46	Application_Usage 599 605	Tomcat
+T48	Application_Usage 621 626	MySQL
+T49	License 679 682	GPL
+T50	Version 683 684	3
+T51	Application_Usage 706 712	GitHub
+T52	URL 714 746	https://github.com/UcarLab/QuIN/
+R1	URL_of Arg1:T6 Arg2:T3	
+R2	Developer_of Arg1:T47 Arg2:T46	
+R3	Version_of Arg1:T50 Arg2:T49	
+R4	License_of Arg1:T49 Arg2:T4	
+R5	URL_of Arg1:T52 Arg2:T4	
+T5	Application_Deposition 829 884	Querying and visualizing Chromatin Interaction Networks
+T53	Abbreviation 886 890	QuIN
+T54	URL 893 912	http://quin.jax.org
+R6	Abbreviation_of Arg1:T53 Arg2:T5	
+R7	URL_of Arg1:T54 Arg2:T5	
+T10	Application_Creation 935 939	QuIN
+T36	Application_Deposition 1144 1148	QuIN
+T55	License 1194 1220	GNU General Public License
+T56	Version 1229 1230	3
+T57	Application_Usage 1251 1257	GitHub
+T58	URL 1259 1291	https://github.com/UcarLab/QuIN/
+R8	Version_of Arg1:T56 Arg2:T55	
+R9	License_of Arg1:T55 Arg2:T36	
+R10	URL_of Arg1:T58 Arg2:T36	

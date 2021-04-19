@@ -1,0 +1,2 @@
+All analyses were conducted using statistical software STATA 14 (StataCorp, 2009).
+

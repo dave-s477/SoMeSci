@@ -1,0 +1,7 @@
+T1	Application_Usage 100 105	Stata
+T2	Version 109 113	11.0
+T3	Developer 115 132	Stata Corporation
+R1	Version_of Arg1:T2 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Extension 106 108	SE
+R3	Extension_of Arg1:T4 Arg2:T1	

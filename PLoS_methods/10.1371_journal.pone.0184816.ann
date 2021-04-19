@@ -1,0 +1,10 @@
+T1	Application_Usage 1961 1967	FlowJo
+T2	Application_Usage 9182 9187	Prism
+T4	Developer 1978 1987	Tree Star
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 9173 9181	GraphPad
+R2	Developer_of Arg1:T5 Arg2:T2	
+T6	Version 9196 9197	6
+R3	Version_of Arg1:T6 Arg2:T2	
+T7	Developer 9199 9207	GraphPad
+R4	Developer_of Arg1:T7 Arg2:T2	

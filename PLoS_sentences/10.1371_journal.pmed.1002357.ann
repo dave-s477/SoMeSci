@@ -1,0 +1,8 @@
+T1	Application_Usage 130 135	Excel
+T2	Application_Usage 167 172	Stata
+T3	Version 174 176	14
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Developer 187 196	StataCorp
+R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Release 198 202	2011
+R3	Release_of Arg1:T5 Arg2:T2	

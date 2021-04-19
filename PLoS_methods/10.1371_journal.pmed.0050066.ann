@@ -1,0 +1,8 @@
+T1	Application_Usage 8891 8896	Stata
+T2	Application_Usage 8918 8924	ArcGIS
+T11	Version 8905 8908	9.2
+R5	Version_of Arg1:T11 Arg2:T1	
+T12	Developer 8913 8917	ESRI
+R6	Developer_of Arg1:T12 Arg2:T2	
+T13	Version 8933 8936	9.2
+R7	Version_of Arg1:T13 Arg2:T2	

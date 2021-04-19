@@ -1,0 +1,5 @@
+T1	Application_Creation 22 36	LCR-eXXXplorer
+T2	Application_Deposition 130 144	LCR-eXXXplorer
+T3	URL 176 219	http://repeat.biol.ucy.ac.cy/lcr-exxxplorer
+R1	URL_of Arg1:T3 Arg2:T2	
+T4	Application_Creation 246 260	LCR-eXXXplorer

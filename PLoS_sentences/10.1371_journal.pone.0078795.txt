@@ -1,0 +1,1 @@
+Data analysis in EEGLAB [31] and Mathworks Matlab involved band-pass filtering the EEG data between 0.5 Hz and 80 Hz, with a notch-filter between 45 and 55 Hz. 

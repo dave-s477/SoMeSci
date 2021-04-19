@@ -1,0 +1,2 @@
+Primers were checked for specificity using NCBI BLAST searches.
+

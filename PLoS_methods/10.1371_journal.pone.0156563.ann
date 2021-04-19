@@ -1,0 +1,28 @@
+T1	ProgrammingEnvironment_Usage 5727 5733	MATLAB
+T2	Application_Usage 6388 6429	principal component analysis spike sorter
+T3	Application_Usage 6554 6565	Open sorter
+T4	Application_Usage 6797 6810	NeuroExplorer
+T5	Application_Mention 12247 12260	NeuroExplorer
+T6	ProgrammingEnvironment_Usage 16001 16007	MATLAB
+T7	Application_Usage 16049 16062	NeuroExplorer
+T8	Application_Usage 15948 15956	GraphPad
+T9	Release 5742 5748	R2010a
+T10	Developer 5750 5763	The MathWorks
+R1	Release_of Arg1:T9 Arg2:T1	
+R2	Developer_of Arg1:T10 Arg2:T1	
+T11	Developer 6431 6456	Tucker Davis Technologies
+R3	Developer_of Arg1:T11 Arg2:T2	
+T12	Developer 6567 6592	Tucker Davis Technologies
+R4	Developer_of Arg1:T12 Arg2:T3	
+T13	Developer 6812 6828	Nex Technologies
+R5	Developer_of Arg1:T13 Arg2:T4	
+T14	Developer 12262 12278	Nex Technologies
+R6	Developer_of Arg1:T14 Arg2:T5	
+T15	Developer 15958 15980	GraphPad Software Inc.
+R7	Developer_of Arg1:T15 Arg2:T8	
+T16	Release 16009 16015	R2010a
+R8	Release_of Arg1:T16 Arg2:T6	
+T17	Developer 16017 16030	The MathWorks
+R9	Developer_of Arg1:T17 Arg2:T6	
+T18	Developer 16064 16080	Nex Technologies
+R10	Developer_of Arg1:T18 Arg2:T7	

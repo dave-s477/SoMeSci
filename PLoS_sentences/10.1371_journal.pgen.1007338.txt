@@ -1,0 +1,2 @@
+We set an E-value threshold of ≤1e-4 and bit score threshold of ≥ 40 for BLAST hits.
+

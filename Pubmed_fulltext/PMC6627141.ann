@@ -1,0 +1,24 @@
+T1	Application_Usage 12007 12010	Iox
+T2	Version 12011 12019	2.9.5.73
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 12030 12047	Emka Technologies
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Application_Usage 14851 14860	Image Lab
+T5	Developer 14871 14877	BioRad
+R3	Developer_of Arg1:T5 Arg2:T4	
+T6	Application_Usage 15372 15382	Kubios HRV
+T7	URL 15393 15407	www.kubios.com
+R4	URL_of Arg1:T7 Arg2:T6	
+T8	Application_Usage 15427 15433	Kubios
+T9	Application_Usage 15813 15816	Iox
+T10	Version 15817 15825	2.9.5.73
+R5	Version_of Arg1:T10 Arg2:T9	
+T11	Developer 15836 15853	Emka Technologies
+R6	Developer_of Arg1:T11 Arg2:T9	
+T12	Application_Usage 15974 15979	Prism
+T13	Developer 15965 15973	GraphPad
+R7	Developer_of Arg1:T13 Arg2:T12	
+T14	Version 15998 15999	6
+R8	Version_of Arg1:T14 Arg2:T12	
+T15	Developer 16001 16023	GraphPad Software Inc.
+R9	Developer_of Arg1:T15 Arg2:T12	

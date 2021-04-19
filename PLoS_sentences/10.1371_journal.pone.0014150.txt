@@ -1,0 +1,1 @@
+Data analysis used in-house custom MATLAB scripts and involved both whole-brain voxel-wise and region of interest (ROI) analyses [18], to compare brain activity associated with the conditions of interest (e.g., trials with anxiety-inducing angry distracters vs. trials with neutral distracters). 

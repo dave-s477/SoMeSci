@@ -1,0 +1,27 @@
+T1	Application_Usage 4535 4557	MassHunter Acquisition
+T2	Application_Usage 4751 4782	MassHunter Qualitative Analysis
+T3	Application_Usage 5854 5880	Mass Profiler Professional
+T4	Application_Usage 6532 6558	Mass Profiler Professional
+T5	Application_Usage 7365 7370	Prism
+T11	Developer 4568 4588	Agilent Technologies
+R1	Developer_of Arg1:T11 Arg2:T1	
+T12	Developer 4743 4750	Agilent
+R2	Developer_of Arg1:T12 Arg2:T2	
+T13	Version 4801 4804	5.0
+R3	Version_of Arg1:T13 Arg2:T2	
+T14	Developer 5846 5853	Agilent
+R4	Developer_of Arg1:T14 Arg2:T3	
+T15	Version 5899 5903	12.1
+R5	Version_of Arg1:T15 Arg2:T3	
+T16	Developer 6524 6531	Agilent
+R6	Developer_of Arg1:T16 Arg2:T4	
+T17	Version 6576 6580	12.1
+R7	Version_of Arg1:T17 Arg2:T4	
+T18	Developer 6582 6602	Agilent Technologies
+R8	Developer_of Arg1:T18 Arg2:T4	
+T19	Developer 7356 7364	Graphpad
+R9	Developer_of Arg1:T19 Arg2:T5	
+T20	Version 7379 7380	5
+T21	Developer 7382 7399	GraphPad software
+R10	Developer_of Arg1:T21 Arg2:T5	
+R11	Version_of Arg1:T20 Arg2:T5	

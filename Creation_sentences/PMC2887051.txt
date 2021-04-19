@@ -1,0 +1,1 @@
+Availability: The package is freely available under LGPL from the R-Forge web site (http://repitools.r-forge.r-project.org/)

@@ -1,0 +1,1 @@
+Statistical analyses were conducted by using SAS software, version 9.3 [PROC GENMOD, with options REPEATED, CORR = IND, and DIST = NORMAL; SAS Institute, Inc., Cary, NC]. 

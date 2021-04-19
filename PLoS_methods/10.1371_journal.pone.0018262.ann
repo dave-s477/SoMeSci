@@ -1,0 +1,13 @@
+T1	Application_Usage 3110 3119	Photoshop
+T2	ProgrammingEnvironment_Usage 5614 5620	MATLAB
+T3	ProgrammingEnvironment_Usage 5752 5758	MATLAB
+T4	PlugIn_Usage 5727 5748	Curve Fitting Toolbox
+T9	Developer 3104 3109	Adobe
+R3	Developer_of Arg1:T9 Arg2:T1	
+T10	Developer 3125 3143	Adobe Systems Inc.
+R4	Developer_of Arg1:T10 Arg2:T1	
+T11	Version 3120 3123	CS2
+R5	Version_of Arg1:T11 Arg2:T1	
+T12	Developer 5622 5636	Mathworks Inc.
+R6	Developer_of Arg1:T12 Arg2:T2	
+R7	PlugIn_of Arg1:T4 Arg2:T3	

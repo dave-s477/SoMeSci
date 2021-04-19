@@ -1,0 +1,6 @@
+T2	Application_Creation 26 30	GINI
+T3	Application_Mention 136 140	GINI
+T6	Application_Deposition 611 615	GINI
+T73	URL 632 680	http://sailing.cs.cmu.edu/Drosophila_ISH_images/
+T7	Application_Mention 685 689	GINI
+R1	URL_of Arg1:T73 Arg2:T6	

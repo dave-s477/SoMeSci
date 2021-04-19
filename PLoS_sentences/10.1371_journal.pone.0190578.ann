@@ -1,0 +1,10 @@
+T1	Application_Usage 46 51	STATA
+T2	Application_Usage 165 169	QGIS
+T3	Version 60 62	13
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 76 85	StataCorp
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Version 187 193	2.12.3
+R3	Version_of Arg1:T5 Arg2:T2	
+T6	Developer 195 200	OSGeo
+R4	Developer_of Arg1:T6 Arg2:T2	

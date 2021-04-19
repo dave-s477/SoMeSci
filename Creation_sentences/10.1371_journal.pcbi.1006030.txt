@@ -1,0 +1,5 @@
+To address these limitations, we present 4Cin, a method to generate 3D models and derive virtual Hi-C (vHi-C) heat maps of genomic loci based on 4C-seq or any kind of 4C-seq-like data, such as those derived from NG Capture-C.
+Here, we present 4Cin, a completely automated and easy to use pipeline to generate 3D chromatin models from 4C-seq data.
+4Cin can also generate models using 4C-seq-like data coming from recently developed techniques such as NG Capture-C or Capture-C, as long as they are used to capture at least 4 viewpoints within each region of interest.
+The code is public and available at https://github.com/batxes/4Cin with a GNU GENERAL PUBLIC LICENSE.
+The 4Cin pipeline can be deployed pulling the docker image from https://hub.docker.com/r/batxes/4cin_ubuntu/ to avoid the installation of the dependencies.

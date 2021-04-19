@@ -1,0 +1,7 @@
+T1	Application_Usage 8 51	Statistical Package for the Social Sciences
+T2	Developer 4 7	IBM
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 53 57	SPSS
+R2	Specification_of Arg1:T3 Arg2:T1	
+T4	Version 58 60	22
+R3	Version_of Arg1:T4 Arg2:T3	

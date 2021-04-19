@@ -1,0 +1,2 @@
+All analyses (except repeatability calculations) were run using JMP 9 (SAS Institute, Cary, NC) and we analyzed residuals to assess violation of ANOVA assumptions.
+

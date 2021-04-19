@@ -1,0 +1,7 @@
+T1	Application_Deposition 0 20	THREaD Mapper Studio
+T2	URL 22 55	http://cbr.jic.ac.uk/threadmapper
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 226 246	THREaD Mapper Studio
+T4	Application_Creation 409 429	THREaD Mapper Studio
+T5	ProgrammingEnvironment_Usage 449 455	Python
+T6	ProgrammingEnvironment_Usage 460 470	JavaScript

@@ -1,0 +1,14 @@
+T2	Application_Creation 16 24	PhyloBot
+T4	Application_Deposition 103 111	PhyloBot
+T54	URL 174 197	http://www.phylobot.com
+R1	URL_of Arg1:T54 Arg2:T4	
+T10	Application_Mention 199 207	PhyloBot
+T21	Application_Deposition 333 341	PhyloBot
+T55	URL 355 378	http://www.phylobot.com
+T22	Application_Mention 412 420	PhyloBot
+R2	URL_of Arg1:T55 Arg2:T21	
+T50	Application_Deposition 449 457	PhyloBot
+T56	URL 481 504	http://www.phylobot.com
+T57	URL 542 583	https://github.com/vhsvhs/phylobot-django
+R3	URL_of Arg1:T56 Arg2:T50	
+R4	URL_of Arg1:T57 Arg2:T50	

@@ -1,0 +1,6 @@
+T1	Application_Usage 2691 2697	FlowJo
+T2	Application_Usage 5513 5518	Prism
+T3	Version 5527 5528	5
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Developer 5504 5512	GraphPad
+R2	Developer_of Arg1:T4 Arg2:T2	

@@ -1,0 +1,4 @@
+A user ready, portable, documented software package, NFTsim, is presented to facilitate numerical simulations of a wide range of brain systems using continuum neural field modeling.
+NFTsim is distributed under the Apache 2.0 license.
+The purpose of this paper is to present a neural field software package, NFTsim, that can simulate scales from a few tenths of a millimeter and a few milliseconds upward, thereby making contact with experiments [1–6] and other classes of simulations over this range [7, 8].
+Written in C++, NFTsim has been tested on a range of Linux distributions (RHEL 6.9, RHEL 7.4, OpenSUSE 13.2, OpenSUSE 42.2).

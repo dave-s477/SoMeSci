@@ -1,0 +1,1 @@
+We analyzed data in Stata version 14.0 (StataCorp, College Station, Texas). 

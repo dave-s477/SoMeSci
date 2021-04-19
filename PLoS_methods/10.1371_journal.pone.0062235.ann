@@ -1,0 +1,6 @@
+T1	Application_Usage 8934 8953	Stereo investigator
+T2	Application_Usage 10263 10268	excel
+T3	Developer 8955 8970	MBF Biosciences
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Developer 10253 10262	Microsoft
+R2	Developer_of Arg1:T4 Arg2:T2	

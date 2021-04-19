@@ -1,0 +1,1 @@
+Analyses were conducted in STATA/IC14 with individuals as the unit of analysis. 

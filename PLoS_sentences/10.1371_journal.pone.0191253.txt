@@ -1,0 +1,2 @@
+We conducted all statistical analyses in Stata version 13.1 (StataCorp, Texas, USA).
+

@@ -1,0 +1,21 @@
+T1	Application_Usage 7995 8004	ImagePro+
+T2	Version 8023 8028	5.0.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 8030 8047	Media Cybernetics
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Application_Usage 8920 8924	MyIQ
+T5	Version 8950 8957	1.0.410
+R3	Version_of Arg1:T5 Arg2:T4	
+T6	Developer 8959 8965	BioRad
+R4	Developer_of Arg1:T6 Arg2:T4	
+T7	Application_Usage 12327 12336	FlexArray
+T8	Version 12345 12348	1.6
+R5	Version_of Arg1:T8 Arg2:T7	
+T9	Developer 12375 12388	Genome Quebec
+R6	Developer_of Arg1:T9 Arg2:T7	
+T10	Application_Usage 12453 12479	Ingenuity Pathway Analysis
+T11	Abbreviation 12481 12484	IPA
+R7	Abbreviation_of Arg1:T11 Arg2:T10	
+T12	Application_Usage 12551 12556	STATA
+T13	Version 12565 12569	10.0
+R8	Version_of Arg1:T13 Arg2:T12	

@@ -1,0 +1,10 @@
+T2	Application_Creation 18 24	MAGERI
+T3	Application_Creation 200 206	MAGERI
+T50	AlternativeName 208 254	Molecular tAgged GEnome Re-sequencing pIpeline
+R1	AlternativeName_of Arg1:T50 Arg2:T3	
+T10	Application_Deposition 496 502	MAGERI
+T51	ProgrammingEnvironment_Usage 521 525	Java
+T52	Version 528 531	1.8
+T53	URL 599 632	https://github.com/mikessh/mageri
+R2	Version_of Arg1:T52 Arg2:T51	
+R3	URL_of Arg1:T53 Arg2:T10	

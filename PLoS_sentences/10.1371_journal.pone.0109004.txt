@@ -1,0 +1,1 @@
+Analysis of local scale data across all crime types and the two counties (Nottinghamshire and Derbyshire) was done using general regression analysis applied to the log transformed mean and variance values with categorical variables using commercially available software (Minitab version 16.2; Minitab Inc.). 

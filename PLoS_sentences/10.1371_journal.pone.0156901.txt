@@ -1,0 +1,1 @@
+We used the Brain Connectivity Toolbox [17] and MATLAB custom-made scripts to explore global and local topological properties of the ToM-network in each participant’s brain. 

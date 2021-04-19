@@ -1,0 +1,26 @@
+T1	Application_Usage 19210 19216	Qbase+
+T2	Developer 19227 19237	Biogazelle
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 21229 21242	ImageQuant TL
+T4	Version 21251 21254	7.0
+R2	Version_of Arg1:T4 Arg2:T3	
+T5	Developer 21265 21278	GE Healthcare
+R3	Developer_of Arg1:T5 Arg2:T3	
+T6	Application_Usage 22793 22799	ImageJ
+T7	Version 22801 22807	1.51 u
+R4	Version_of Arg1:T7 Arg2:T6	
+T8	Developer 22826 22855	National Institutes of Health
+R5	Developer_of Arg1:T8 Arg2:T6	
+T9	Developer 22811 22824	Wayne Rasband
+R6	Developer_of Arg1:T9 Arg2:T6	
+T10	Application_Usage 22931 22943	NIS-Elements
+T11	Developer 22973 22978	Nikon
+R7	Developer_of Arg1:T11 Arg2:T10	
+T12	Application_Usage 23275 23287	NIS-Elements
+T13	Application_Usage 23515 23520	prism
+T14	Developer 23506 23514	Graphpad
+R8	Developer_of Arg1:T14 Arg2:T13	
+T15	Version 23521 23525	7.01
+R9	Version_of Arg1:T15 Arg2:T13	
+T16	Developer 23536 23552	Graphad Software
+R10	Developer_of Arg1:T16 Arg2:T13	

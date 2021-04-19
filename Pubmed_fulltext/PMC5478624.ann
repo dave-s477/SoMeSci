@@ -1,0 +1,6 @@
+T1	OperatingSystem_Mention 6582 6589	Windows
+T5	OperatingSystem_Usage 7244 7251	Windows
+T8	OperatingSystem_Mention 10681 10688	Windows
+T9	ProgrammingEnvironment_Mention 10698 10699	C
+T10	ProgrammingEnvironment_Mention 10723 10735	Visual Basic
+T11	ProgrammingEnvironment_Mention 10737 10739	C#

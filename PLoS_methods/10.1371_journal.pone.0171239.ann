@@ -1,0 +1,6 @@
+T1	Application_Usage 5541 5547	LAS AF
+T2	Application_Usage 5804 5849	Leica Application Suite Advanced Fluorescence
+T3	Version 5557 5560	4.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T5	Version 5858 5861	4.3
+R3	Version_of Arg1:T5 Arg2:T2	

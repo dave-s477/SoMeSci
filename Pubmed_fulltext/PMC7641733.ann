@@ -1,0 +1,10 @@
+T1	Application_Usage 11418 11429	Trimmomatic
+T2	Citation 11446 11450	[52]
+R1	Citation_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 11569 11575	Bowtie
+T4	Version 11575 11576	2
+R2	Version_of Arg1:T4 Arg2:T3	
+T5	Citation 11579 11583	[53]
+R3	Citation_of Arg1:T5 Arg2:T3	
+T6	Version 11439 11443	32.0
+R4	Version_of Arg1:T6 Arg2:T1	

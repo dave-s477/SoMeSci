@@ -1,0 +1,21 @@
+T65	Application_Creation 19 61	Molecular Interactions in Super Resolution
+T2	Abbreviation 63 68	MIiSR
+R1	Abbreviation_of Arg1:T2 Arg2:T65	
+T3	Application_Mention 160 165	MIiSR
+T4	Application_Creation 325 367	Molecular Interactions in Super-Resolution
+T66	Abbreviation 369 374	MIiSR
+R2	Abbreviation_of Arg1:T66 Arg2:T4	
+T10	Application_Mention 537 542	MIiSR
+T7	Application_Mention 694 703	QuickPALM
+T67	Citation 713 717	[34]
+R3	Citation_of Arg1:T67 Arg2:T7	
+T48	Application_Deposition 719 724	MIiSR
+T68	License 770 796	GNU General Public License
+T49	URL 885 916	http://www.phagocytes.ca/miisr/
+R4	License_of Arg1:T68 Arg2:T48	
+R5	URL_of Arg1:T49 Arg2:T48	
+T51	Application_Mention 918 923	MIiSR
+T69	OperatingSystem_Mention 937 942	Linux
+T70	OperatingSystem_Mention 944 951	Windows
+T71	OperatingSystem_Mention 956 965	Macintosh
+T72	ProgrammingEnvironment_Mention 1009 1015	Matlab

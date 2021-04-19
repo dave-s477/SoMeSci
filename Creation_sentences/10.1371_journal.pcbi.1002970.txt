@@ -1,0 +1,9 @@
+Chaste — Cancer, Heart And Soft Tissue Environment — is an open source C++ library for the computational simulation of mathematical models developed for physiology and biology.
+Chaste is developed using industrially-derived techniques, in particular test-driven development, to ensure code quality, re-use and reliability.
+Cancer, Heart And Soft Tissue Environment (Chaste) has been developed to enable the study of novel problems in computational physiology and biology.
+The example simulations can be run, and figures recreated, by downloading the associated Chaste project from http://www.cs.ox.ac.uk/chaste/download, as described in Text S1.
+Chaste is written in C++, a compiled language that allows object-oriented class definitions.
+At present Chaste can only be used with Linux, although it works well via a Linux virtual machine (using software such as VirtualBox) on a host running Microsoft Windows or Mac OS X.
+An independent analysis of Chaste development activity and code composition can be found at Ohloh (http://www.ohloh.net/p/Chaste) .
+Chaste is developed using an ‘agile’ development methodology, using many features of eXtreme Programming (XP) [19].
+Chaste is freely available to download from the website at http://www.cs.ox.ac.uk/chaste.

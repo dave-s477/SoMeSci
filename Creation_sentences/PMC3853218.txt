@@ -1,0 +1,7 @@
+We present a fast and user-friendly software platform called "cellXpress" to segment cells, measure quantitative features of cellular phenotypes, construct discriminative profiles, and visualize the resulting cell masks and feature values.
+We systematically compared the processing speed, cell segmentation accuracy, and phenotypic-profile clustering performance of cellXpress to other existing bioimage analysis software packages or algorithms.
+The cellXpress platform is designed to make fast and efficient high-throughput phenotypic profiling more accessible to the wider biological research community.
+The cellXpress installation packages for 64-bit Windows and Linux, user manual, installation guide, and datasets used in this analysis can be downloaded freely from http://www.cellXpress.org.
+Here, we present a new cell image analysis software platform called "cellXpress" for high-throughput phenotypic profiling.
+We have implemented and optimized a seeded-watershed-based cell segmentation algorithm [2] for the cellXpress platform.
+The cellXpress software package can be downloaded from http://www.cellXpress.org.

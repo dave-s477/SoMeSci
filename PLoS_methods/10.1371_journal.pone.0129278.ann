@@ -1,0 +1,38 @@
+T1	Application_Usage 2229 2240	Peakscanner
+T2	Application_Usage 2175 2183	Genescan
+T3	Application_Usage 2444 2451	GENEPOP
+T4	Application_Usage 2648 2660	MICROCHECKER
+T5	PlugIn_Usage 3009 3016	GenAlEx
+T6	Application_Usage 3093 3101	MLRELATE
+T7	Application_Usage 3108 3114	COLONY
+T8	Application_Usage 3124 3134	COANCESTRY
+T9	Application_Mention 3141 3149	MLRELATE
+T10	Application_Mention 3261 3267	COLONY
+T11	Application_Mention 3689 3699	COANCESTRY
+T12	Application_Usage 4130 4140	BOTTLENECK
+T13	Version 2201 2204	3.0
+R1	Version_of Arg1:T13 Arg2:T2	
+T14	Developer 2206 2224	Applied Biosystems
+R2	Developer_of Arg1:T14 Arg2:T2	
+T15	Version 2250 2253	1.0
+R3	Version_of Arg1:T15 Arg2:T1	
+T16	Developer 2255 2273	Applied Biosystems
+R4	Developer_of Arg1:T16 Arg2:T1	
+T17	Version 2452 2455	3.1
+R5	Version_of Arg1:T17 Arg2:T3	
+T18	Citation 2465 2469	[12]
+R6	Citation_of Arg1:T18 Arg2:T3	
+T19	Citation 2670 2674	[14]
+R7	Citation_of Arg1:T19 Arg2:T4	
+T20	Version 3017 3020	6.5
+R8	Version_of Arg1:T20 Arg2:T5	
+T21	Citation 3021 3025	[15]
+R9	Citation_of Arg1:T21 Arg2:T5	
+T22	Citation 3102 3106	[16]
+R10	Citation_of Arg1:T22 Arg2:T6	
+T23	Citation 3115 3119	[17]
+R11	Citation_of Arg1:T23 Arg2:T7	
+T24	Citation 3135 3139	[18]
+R12	Citation_of Arg1:T24 Arg2:T8	
+T25	Citation 4150 4154	[19]
+R13	Citation_of Arg1:T25 Arg2:T12	

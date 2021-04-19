@@ -1,0 +1,12 @@
+T2	Application_Creation 11 20	Telescope
+T6	Application_Deposition 182 191	Telescope
+T64	URL 208 246	https://github.com/mlbendall/telescope
+R1	URL_of Arg1:T64 Arg2:T6	
+T7	Application_Creation 267 276	Telescope
+T8	Application_Usage 384 393	Telescope
+T56	Application_Deposition 475 484	Telescope
+T65	ProgrammingEnvironment_Usage 503 509	Python
+T66	License 560 571	MIT license
+T67	OperatingSystem_Usage 610 615	Linux
+T68	OperatingSystem_Usage 620 625	MacOS
+R2	License_of Arg1:T66 Arg2:T56	

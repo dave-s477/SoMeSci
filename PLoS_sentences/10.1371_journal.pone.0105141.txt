@@ -1,0 +1,2 @@
+All HB analyses used WinBugs 1.4, available from (http://www.mrc-bsu.cam.ac.uk/bugs/), and the R2WinBUGS package version 2.1–16.
+

@@ -1,0 +1,5 @@
+T1	Application_Usage 53 56	SAS
+T2	Developer 86 99	SAS Institute
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Extension 57 75	University Edition
+R2	Extension_of Arg1:T3 Arg2:T1	

@@ -1,0 +1,2 @@
+All the analyses were performed using STATA 13.1 (StataCorp., TX, USA).
+

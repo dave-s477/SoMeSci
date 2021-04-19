@@ -1,0 +1,7 @@
+T1	Application_Usage 119 124	STATA
+T2	Version 125 129	11.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 131 140	StataCorp
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Release 142 146	2009
+R3	Release_of Arg1:T4 Arg2:T1	

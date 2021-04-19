@@ -1,0 +1,33 @@
+T1	Application_Usage 2235 2240	CALIB
+T2	Application_Usage 2705 2710	Calib
+T3	PlugIn_Usage 4051 4055	clam
+T4	ProgrammingEnvironment_Usage 4068 4069	R
+T5	PlugIn_Usage 4997 5001	clam
+T6	ProgrammingEnvironment_Usage 5006 5007	R
+T7	PlugIn_Usage 6613 6618	rioja
+T8	ProgrammingEnvironment_Usage 6630 6631	R
+T9	ProgrammingEnvironment_Usage 7262 7263	R
+T10	PlugIn_Usage 7245 7249	clam
+T14	Citation 2241 2245	[47]
+R1	Citation_of Arg1:T14 Arg2:T1	
+T15	Version 2712 2713	6
+R2	Version_of Arg1:T15 Arg2:T2	
+T16	Citation 2714 2718	[47]
+R3	Citation_of Arg1:T16 Arg2:T2	
+R4	PlugIn_of Arg1:T3 Arg2:T4	
+T17	Citation 4070 4074	[53]
+R5	Citation_of Arg1:T17 Arg2:T3	
+R6	PlugIn_of Arg1:T5 Arg2:T6	
+T18	Citation 5008 5012	[53]
+R7	Citation_of Arg1:T18 Arg2:T5	
+R9	PlugIn_of Arg1:T7 Arg2:T8	
+T20	Citation 6632 6640	[62, 63]
+R10	Citation_of Arg1:T20 Arg2:T7	
+R11	Citation_of Arg1:T20 Arg2:T8	
+R13	PlugIn_of Arg1:T10 Arg2:T9	
+T22	Citation 7264 7268	[53]
+R14	Citation_of Arg1:T22 Arg2:T10	
+T11	Application_Usage 6709 6711	C2
+T12	Citation 6712 6716	[64]
+R8	Citation_of Arg1:T12 Arg2:T11	
+T13	Application_Usage 6718 6720	C2

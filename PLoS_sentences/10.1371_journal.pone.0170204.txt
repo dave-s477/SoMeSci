@@ -1,0 +1,1 @@
+Crude and adjusted relative risks (RR) for dependence at 12, 24 and 36 months were statistically assessed by Poisson regression model using Statistical Analysis System software version 9.2 with PROC GENMOD (SAS Institute Inc, Cary, NC) [21,22]. 

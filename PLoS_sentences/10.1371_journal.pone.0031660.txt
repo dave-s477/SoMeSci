@@ -1,0 +1,1 @@
+Data extraction was managed in Microsoft Excel. Random effects meta-regressions were also performed in Stata using the package metareg [44]. 

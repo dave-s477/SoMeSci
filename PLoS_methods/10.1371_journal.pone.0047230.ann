@@ -1,0 +1,8 @@
+T1	Application_Usage 10207 10219	BrainVoyager
+T2	Application_Usage 12121 12137	Tailarach Daemon
+T3	Developer 10241 10262	Brain Innovation B.V.
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Developer 12139 12197	Research Imaging Center, University of Texas Health Center
+R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Extension 10220 10222	QX
+R3	Extension_of Arg1:T5 Arg2:T1	

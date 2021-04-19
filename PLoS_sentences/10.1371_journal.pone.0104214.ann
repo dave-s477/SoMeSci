@@ -1,0 +1,9 @@
+T1	Application_Usage 174 177	SAS
+T2	Version 183 184	4
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 335 338	SAS
+T4	ProgrammingEnvironment_Usage 434 435	R
+T5	Version 444 449	3.0.1
+R2	Version_of Arg1:T5 Arg2:T4	
+T6	Citation 450 454	[43]
+R3	Citation_of Arg1:T6 Arg2:T4	

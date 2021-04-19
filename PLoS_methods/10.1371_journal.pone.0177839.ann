@@ -1,0 +1,14 @@
+T1	Application_Usage 23927 23934	Epidata
+T2	Application_Usage 25947 25952	Stata
+T3	Application_Usage 29231 29236	Stata
+T4	Application_Usage 30845 30850	Stata
+T6	Citation 23935 23939	[49]
+R1	Citation_of Arg1:T6 Arg2:T1	
+T7	Version 30851 30855	12.0
+T8	Developer 30857 30866	Statacorp
+R2	Version_of Arg1:T7 Arg2:T4	
+R3	Developer_of Arg1:T8 Arg2:T4	
+T5	PlugIn_Usage 25938 25946	ZSCORE06
+R4	PlugIn_of Arg1:T5 Arg2:T2	
+T9	Citation 25961 25965	[51]
+R5	Citation_of Arg1:T9 Arg2:T5	

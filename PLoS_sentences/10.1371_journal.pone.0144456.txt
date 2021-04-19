@@ -1,0 +1,1 @@
+Statistical analyses were conducted using Stata 13.1 statistical software. 

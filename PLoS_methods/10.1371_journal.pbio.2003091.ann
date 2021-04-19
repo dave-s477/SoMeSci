@@ -1,0 +1,16 @@
+T1	Application_Usage 690 700	Brainsight
+T2	Application_Usage 1816 1826	Brainsight
+T3	Application_Usage 2197 2207	Brainsight
+T4	ProgrammingEnvironment_Usage 3005 3011	Matlab
+T5	PlugIn_Usage 3029 3041	Psychtoolbox
+T6	PlugIn_Usage 3051 3066	Eyelink Toolbox
+T9	Developer 709 728	Rogue Research Inc.
+R1	Developer_of Arg1:T9 Arg2:T1	
+T11	Developer 3013 3022	Mathworks
+R3	Developer_of Arg1:T11 Arg2:T4	
+R5	PlugIn_of Arg1:T6 Arg2:T5	
+T12	Citation 3042 3046	[73]
+R6	Citation_of Arg1:T12 Arg2:T5	
+T13	Citation 3067 3071	[74]
+R7	Citation_of Arg1:T13 Arg2:T6	
+R2	PlugIn_of Arg1:T5 Arg2:T4	

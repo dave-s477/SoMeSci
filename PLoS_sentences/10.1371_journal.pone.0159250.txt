@@ -1,0 +1,1 @@
+In order to refine our understanding of the associations between respondents’ awareness and attitudes and respondents’ personal and household characteristics, we conduct multivariate regression analyses (Stata 13.1). 

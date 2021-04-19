@@ -1,0 +1,1 @@
+S2 File is the Stata script that can be used to replicate all descriptive statistics reported below as well as the model estimates described in the main text and in the supplementary information. 

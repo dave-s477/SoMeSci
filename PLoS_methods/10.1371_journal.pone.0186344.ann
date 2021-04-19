@@ -1,0 +1,52 @@
+T1	Application_Usage 1853 1865	Presentation
+T2	Application_Usage 17416 17419	SPM
+T3	ProgrammingEnvironment_Usage 17459 17465	MATLAB
+T4	Application_Usage 18002 18005	SPM
+T5	PlugIn_Usage 19150 19169	SPM anatomy toolbox
+T6	Application_Usage 19183 19196	WFU-Pickatlas
+T7	Application_Usage 23602 23615	WFU-Pickatlas
+T8	Application_Usage 24297 24310	WFU-Pickatlas
+T9	Application_Usage 25096 25109	WFU-Pickatlas
+T10	Application_Usage 25602 25605	SPM
+T11	PlugIn_Usage 25607 25617	LI-toolbox
+T12	Application_Usage 27786 27789	SPM
+T13	PlugIn_Usage 27757 27768	ICC toolbox
+T14	Application_Usage 28038 28042	SPSS
+T15	Application_Usage 17573 17576	SPM
+T16	Version 1893 1897	14.1
+R1	Version_of Arg1:T16 Arg2:T1	
+T17	URL 1899 1917	http://neurobs.com
+R2	URL_of Arg1:T17 Arg2:T1	
+T18	Version 17419 17420	8
+R3	Version_of Arg1:T18 Arg2:T2	
+T19	Version 17423 17427	4290
+R4	Version_of Arg1:T19 Arg2:T2	
+T20	URL 17429 17454	www.fil.ion.ucl.ac.uk/spm
+R5	URL_of Arg1:T20 Arg2:T2	
+T21	Version 17466 17475	7.7.0.471
+R6	Version_of Arg1:T21 Arg2:T3	
+T22	Release 17477 17483	R2008b
+R7	Release_of Arg1:T22 Arg2:T3	
+T23	Developer 17486 17505	The MathWorks, Inc.
+R8	Developer_of Arg1:T23 Arg2:T3	
+T24	Version 18005 18006	8
+R9	Version_of Arg1:T24 Arg2:T4	
+T25	Citation 19170 19174	[34]
+R10	Citation_of Arg1:T25 Arg2:T5	
+T26	Citation 19197 19201	[35]
+R11	Citation_of Arg1:T26 Arg2:T6	
+T27	Version 25605 25606	8
+R12	Version_of Arg1:T27 Arg2:T10	
+R13	PlugIn_of Arg1:T11 Arg2:T10	
+T28	Citation 25654 25658	[36]
+R14	Citation_of Arg1:T28 Arg2:T11	
+R15	PlugIn_of Arg1:T13 Arg2:T12	
+T29	Citation 27790 27794	[42]
+R16	Citation_of Arg1:T29 Arg2:T12	
+T30	Application_Usage 28048 28063	SPSS Statistics
+R17	Specification_of Arg1:T30 Arg2:T14	
+T31	Developer 28044 28047	IBM
+R18	Developer_of Arg1:T31 Arg2:T30	
+T32	Version 28087 28091	22.0
+R19	Version_of Arg1:T32 Arg2:T30	
+T33	OperatingSystem_Usage 28068 28077	Macintosh

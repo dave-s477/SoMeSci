@@ -1,0 +1,7 @@
+T1	PlugIn_Creation 58 63	DELLY
+T2	PlugIn_Mention 235 240	DELLY
+T3	PlugIn_Usage 425 430	DELLY
+T4	PlugIn_Deposition 604 609	DELLY
+T5	URL 626 665	http://www.korbel.embl.de/software.html
+R1	URL_of Arg1:T5 Arg2:T4	
+T6	PlugIn_Creation 719 724	DELLY

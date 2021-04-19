@@ -1,0 +1,3 @@
+Results: We have developed biographer, a web-based renderer and editor for reaction networks, which can be integrated as a library into tools dealing with network-related information.
+Availability: The biographer tool can be used at and downloaded from the web page http://biographer.biologie.hu-berlin.de/.
+The different software packages, including a server-indepenent version as well as a web server for Windows and Linux based systems, are available at http://code.google.com/p/biographer/ under the open-source license LGPL.

@@ -1,0 +1,2 @@
+Information from completed abstraction forms were entered into an Access database and imported into SAS for analysis.
+

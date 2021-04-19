@@ -1,0 +1,2 @@
+Descriptive and regression analyses were performed by using STATA statistical software v.14.1 (STATA Corp., College Station, TX, USA).
+

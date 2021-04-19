@@ -1,0 +1,4 @@
+Here we introduce CloVR-ITS, an automated pipeline for comparative analysis of internal transcribed spacer (ITS) pyrosequences amplified from metagenomic DNA isolates and representing fungal species.
+CloVR-ITS is made available as a pre-installed, automated, and portable software pipeline for cloud-friendly execution as part of the CloVR virtual machine package (http://clovr.org).
+Here we present CloVR-ITS, a standard operating procedure (SOP) for ITS amplicon sequence analysis for fungal diversity studies.
+CloVR-ITS has been designed to effectively process sequence data representing any contiguous segment of the ITS region (i.e. ITS1 or ITS2) and can perform comparative analysis of hundreds of samples.

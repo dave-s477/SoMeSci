@@ -1,0 +1,5 @@
+T1	Application_Usage 7555 7559	JASP
+T2	Version 7560 7567	0.7.5.6
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	URL 7569 7587	www.jasp-stats.org
+R2	URL_of Arg1:T3 Arg2:T1	

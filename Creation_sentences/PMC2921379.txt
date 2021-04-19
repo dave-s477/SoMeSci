@@ -1,0 +1,4 @@
+We have developed ANDES, a software library and a suite of applications, written in Perl and R, for the statistical ANalyses of DEep Sequencing.
+The applications we have implemented in ANDES allow an investigator to identify and compare the variations within a sample or among multiple samples.
+To identify the nature of sequencing artifacts and how they may impact the analyses of a 16S metagenomic sample, ANDES was applied to compute empirically-determined quality values on a set of 454 Titanium sequencing runs.
+"Project name: ANDES Project home page: http://andestools.sourceforge.net/ Download web site: https://sourceforge.net/projects/andestools Operating system: Tested and in production on Linux. Programming language: Perl and R License: GNU GPL V3 Any restrictions to use by non-academics: none"

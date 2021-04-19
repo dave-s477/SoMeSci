@@ -1,0 +1,54 @@
+T1	Application_Usage 15525 15534	SigmaStat
+T2	Version 15536 15539	3.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	OperatingSystem_Usage 15544 15551	Windows
+T4	Developer 15554 15574	Systat Software Inc.
+R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Application_Usage 23622 23636	Image-Pro Plus
+T6	Version 23637 23640	5.1
+R3	Version_of Arg1:T6 Arg2:T5	
+T7	OperatingSystem_Usage 23645 23652	Windows
+T8	Abbreviation 23654 23657	IPP
+R4	Abbreviation_of Arg1:T8 Arg2:T5	
+T9	Developer 23660 23677	Media Cybernetics
+R5	Developer_of Arg1:T9 Arg2:T5	
+T10	Application_Usage 23735 23744	Scope-Pro
+T11	OperatingSystem_Usage 23753 23760	Windows
+T12	Version 23745 23748	5.0
+R6	Version_of Arg1:T12 Arg2:T10	
+T13	Developer 23762 23779	Media Cybernetics
+R7	Developer_of Arg1:T13 Arg2:T10	
+T14	Application_Usage 24827 24830	IPP
+T15	Application_Usage 24913 24922	Photoshop
+T16	Extension 24924 24926	CS
+T17	Version 24932 24937	8.0.1
+R8	Extension_of Arg1:T16 Arg2:T15	
+R9	Version_of Arg1:T17 Arg2:T15	
+T18	Developer 24906 24911	Adobe
+R10	Developer_of Arg1:T18 Arg2:T15	
+T19	Developer 24939 24957	Adobe Systems Inc.
+R11	Developer_of Arg1:T19 Arg2:T15	
+T20	Application_Usage 25136 25139	IPP
+T21	Application_Usage 25842 25854	Office Excel
+T22	Developer 25832 25841	Microsoft
+R12	Developer_of Arg1:T22 Arg2:T21	
+T23	Release 25855 25859	2003
+R13	Release_of Arg1:T23 Arg2:T21	
+T24	Developer 25861 25882	Microsoft Corporation
+R14	Developer_of Arg1:T24 Arg2:T21	
+T25	Application_Usage 25983 25992	SigmaPlot
+T26	Version 25993 25996	9.0
+R15	Version_of Arg1:T26 Arg2:T25	
+T27	OperatingSystem_Usage 26001 26008	Windows
+T28	Developer 26010 26031	Systat Software, Inc.
+R16	Developer_of Arg1:T28 Arg2:T25	
+T29	Application_Usage 26915 26924	Photoshop
+T30	Application_Usage 26968 26971	IPP
+T31	Application_Usage 27608 27616	Satistix
+T32	Version 27619 27622	1.0
+R17	Version_of Arg1:T32 Arg2:T31	
+T33	OperatingSystem_Usage 27627 27634	Windows
+T34	Version 27636 27638	95
+R18	Version_of Arg1:T34 Arg2:T33	
+T35	Developer 27640 27659	Analytical Software
+R19	Developer_of Arg1:T35 Arg2:T31	

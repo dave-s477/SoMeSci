@@ -1,0 +1,2 @@
+On average, the online survey took approximately 10–15 minutes to complete and data collected was downloaded from Questionpro in SPSS’s data file format. All data analyses were conducted using SAS 9.3.
+

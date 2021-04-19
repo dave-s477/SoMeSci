@@ -1,0 +1,3 @@
+T1	Application_Mention 13 18	STATA
+T2	Citation 222 226	[27]
+R1	Citation_of Arg1:T2 Arg2:T1	

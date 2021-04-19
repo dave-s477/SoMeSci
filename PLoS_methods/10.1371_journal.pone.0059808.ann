@@ -1,0 +1,12 @@
+T1	Application_Usage 3272 3281	Dataquest
+T2	Application_Usage 7764 7770	Primer
+T3	Application_Usage 8104 8110	GeNorm
+T4	Application_Usage 8659 8665	GeNorm
+T5	Developer 3292 3319	Data Sciences International
+R1	Developer_of Arg1:T5 Arg2:T1	
+T6	Version 8112 8115	3.3
+R2	Version_of Arg1:T6 Arg2:T3	
+T7	Citation 8134 8138	[38]
+R3	Citation_of Arg1:T7 Arg2:T3	
+T8	Version 7770 7771	3
+R4	Version_of Arg1:T8 Arg2:T2	

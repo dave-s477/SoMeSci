@@ -1,0 +1,6 @@
+Here, we describe CellProfiler 3.0, a new version of the software supporting both whole-volume and plane-wise analysis of three-dimensional (3D) image stacks, increasingly common in biomedical research.
+Designed by and for biologists, CellProfiler equips researchers with powerful computational tools via a well-documented user interface, empowering biologists in all fields to create quantitative, reproducible image analysis workflows.
+The first version of CellProfiler was introduced in 2005 and published in 2006 [4].
+A second major version of CellProfiler, rewritten in Python from its original MATLAB implementation, was published in 2011 [5] and included methods for tracking cells in movies and measuring neurons, worms, and tissue samples.
+In the CellProfiler 3.0 release, we introduced methods for analyzing 3D images, using deep learning architectures and cloud computing resources, and other improvements to CellProfiler’s usability and capabilities.
+(B) Evaluation of CellProfiler 3.0 performance in comparison to the MorphoLibJ plugin in Fiji software.

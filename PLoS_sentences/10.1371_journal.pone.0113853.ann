@@ -1,0 +1,5 @@
+T1	Application_Usage 227 236	SPSS Amos
+T2	Developer 223 226	IBM
+R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Version 237 241	21.0
+R2	Version_of Arg1:T3 Arg2:T1	

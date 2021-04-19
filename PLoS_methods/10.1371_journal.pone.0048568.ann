@@ -1,0 +1,6 @@
+T1	Application_Usage 6862 6871	Cytoscape
+T2	Application_Usage 7171 7180	Cytoscape
+T3	Citation 6939 6943	[19]
+R1	Citation_of Arg1:T3 Arg2:T1	
+T4	URL 7194 7248	http://cytoscapeweb.cytoscape.org/documentation/layout
+R2	URL_of Arg1:T4 Arg2:T2	

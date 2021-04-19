@@ -1,0 +1,11 @@
+T1	Application_Usage 9197 9203	ImageJ
+T2	Application_Usage 9352 9357	Prism
+T3	OperatingSystem_Usage 9366 9373	Windows
+T4	Developer 9193 9196	NIH
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 9343 9351	GraphPad
+R2	Developer_of Arg1:T5 Arg2:T2	
+T6	Version 9358 9361	4.0
+R3	Version_of Arg1:T6 Arg2:T2	
+T7	Developer 9375 9392	GraphPad Software
+R4	Developer_of Arg1:T7 Arg2:T2	

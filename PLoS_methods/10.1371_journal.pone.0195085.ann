@@ -1,0 +1,10 @@
+T1	Application_Usage 7482 7485	SAS
+T2	Application_Usage 7528 7534	SUDAAN
+T10	Version 7495 7498	9.4
+R3	Version_of Arg1:T10 Arg2:T1	
+T11	Developer 7500 7508	SAS Inc.
+R4	Developer_of Arg1:T11 Arg2:T1	
+T12	Version 7544 7550	11.0.1
+R5	Version_of Arg1:T12 Arg2:T2	
+T13	Developer 7552 7579	Research Triangle Institute
+R6	Developer_of Arg1:T13 Arg2:T2	

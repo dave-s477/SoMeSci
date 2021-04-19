@@ -1,0 +1,8 @@
+T1	Application_Usage 133 148	SPSS Statistics
+T2	Application_Usage 217 227	LatentGold
+T3	Developer 129 132	IBM
+R1	Developer_of Arg1:T3 Arg2:T1	
+T4	Version 149 151	18
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Version 228 229	3
+R3	Version_of Arg1:T5 Arg2:T2	

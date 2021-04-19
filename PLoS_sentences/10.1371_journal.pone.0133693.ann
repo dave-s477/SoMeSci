@@ -1,0 +1,7 @@
+T1	Application_Mention 116 120	SPSS
+T2	PlugIn_Usage 41 48	PROCESS
+T3	Developer 66 81	Andrew F. Hayes
+R1	Developer_of Arg1:T3 Arg2:T2	
+T4	Citation 82 86	[38]
+R2	Citation_of Arg1:T4 Arg2:T2	
+R3	PlugIn_of Arg1:T2 Arg2:T1	

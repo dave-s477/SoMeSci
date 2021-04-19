@@ -1,0 +1,5 @@
+T1	Application_Usage 6676 6680	SPSS
+T2	Version 6681 6685	19.0
+T3	Developer 6696 6705	SPSS Inc.
+R1	Version_of Arg1:T2 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T1	

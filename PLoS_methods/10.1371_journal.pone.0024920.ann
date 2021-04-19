@@ -1,0 +1,21 @@
+T1	ProgrammingEnvironment_Usage 2242 2248	Python
+T2	PlugIn_Usage 2255 2259	NLTK
+T3	PlugIn_Mention 2377 2381	NLTK
+T4	Application_Mention 2558 2565	Attivio
+T5	Application_Mention 2663 2670	Inxight
+T16	Application_Usage 1615 1660	Entrez Utilities Entrez Programming Utilities
+T34	URL 1663 1694	http://eutils.ncbi.nlm.nih.gov/
+R2	URL_of Arg1:T34 Arg2:T16	
+R3	PlugIn_of Arg1:T2 Arg2:T1	
+T35	URL 2261 2281	http://www.nltk.org/
+R4	URL_of Arg1:T35 Arg2:T1	
+T36	Citation 2398 2402	[11]
+R5	Citation_of Arg1:T36 Arg2:T3	
+T37	URL 2572 2656	http://www.attivio.com/active-intelligence/aie-features/aie-language-processing.html
+R6	URL_of Arg1:T37 Arg2:T4	
+T38	URL 2677 2733	http://www.inxightfedsys.com/pdfs/LinguistX_FinalWeb.pdf
+R7	URL_of Arg1:T38 Arg2:T5	
+T6	Application_Usage 4479 4493	Yahoo-BOSS API
+T7	URL 4495 4534	http://developer.yahoo.com/search/boss/
+R1	URL_of Arg1:T7 Arg2:T6	
+T8	Application_Usage 4813 4823	Yahoo-BOSS

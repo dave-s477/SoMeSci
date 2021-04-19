@@ -1,0 +1,2 @@
+MNI coordinates for the channels were obtained using the NIRS_SPM software [40] with MATLAB (Mathworks, Natick, MA), and the corresponding anatomical locations of each channel were determined by the atlas provided [41, 42] and shown in S1 Table.
+

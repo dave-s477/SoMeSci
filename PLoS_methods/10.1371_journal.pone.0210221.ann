@@ -1,0 +1,6 @@
+T1	Application_Usage 5048 5055	epidata
+T2	Application_Usage 5093 5097	SPSS
+T3	Version 5073 5076	3.1
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 5100 5102	20
+R2	Version_of Arg1:T4 Arg2:T2	

@@ -1,0 +1,11 @@
+T1	Application_Usage 59 74	PASW Statistics
+T2	Version 75 77	18
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Version 95 101	18.0.0
+R2	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 103 113	SPSS, Inc.
+T5	URL 134 146	www.spss.com
+R3	Developer_of Arg1:T4 Arg2:T1	
+R4	URL_of Arg1:T5 Arg2:T1	
+T6	Release 115 119	2009
+R5	Release_of Arg1:T6 Arg2:T1	

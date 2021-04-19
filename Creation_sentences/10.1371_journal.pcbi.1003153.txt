@@ -1,0 +1,8 @@
+We have developed GEMINI (GEnome MINIng), a flexible software package for exploring all forms of human genetic variation.
+Unlike existing tools, GEMINI integrates genetic variation with a diverse and adaptable set of genome annotations (e.g., dbSNP, ENCODE, UCSC, ClinVar, KEGG) into a unified database to facilitate interpretation and data exploration.
+Whereas other methods provide an inflexible set of variant filters or prioritization methods, GEMINI allows researchers to compose complex queries based on sample genotypes, inheritance patterns, and both pre-installed and custom genome annotations.
+GEMINI also provides methods for ad hoc queries and data exploration, a simple programming interface for custom analyses that leverage the underlying database, and both command line and graphical tools for common analyses.
+We demonstrate GEMINI's utility for exploring variation in personal genomes and family based genetic studies, and illustrate its ability to scale to studies involving thousands of human samples.
+We have therefore developed GEMINI (GEnome MINIng), a novel software package that integrates genetic variation in the VCF format [3] with both automatically installed and researcher-defined genome annotations into a unified database framework.
+GEMINI is a freely available, open-source software package.
+The source code is maintained and available at: https://github.com/arq5x/gemini.

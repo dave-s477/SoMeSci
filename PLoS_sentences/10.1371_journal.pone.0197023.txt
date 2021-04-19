@@ -1,0 +1,1 @@
+Generalized Linear Mixed Models (GLMM) analyses were conducted, using IBM SPSS Statistics, Version 25, to examine the effects of tDCS on patients’ performance on social cognitive, neurocognitive, and EEG measures. 

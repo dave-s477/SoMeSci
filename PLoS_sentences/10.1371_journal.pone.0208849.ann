@@ -1,0 +1,6 @@
+T1	Application_Usage 88 93	Stata
+T2	Application_Usage 42 50	EPI Info
+T3	Version 59 63	3.02
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Version 102 106	14.2
+R2	Version_of Arg1:T4 Arg2:T1	

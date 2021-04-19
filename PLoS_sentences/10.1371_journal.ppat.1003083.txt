@@ -1,0 +1,1 @@
+Using reciprocal best-BLAST hit (RBH) criteria, 6325 (62%) of honeybee genes had an assignable fly ortholog. 

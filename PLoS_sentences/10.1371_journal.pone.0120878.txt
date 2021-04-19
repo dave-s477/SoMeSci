@@ -1,0 +1,2 @@
+We used a Matlab implementation of the SPIKE-dist measure (http://wwwold.fi.isc.cnr.it/users/thomas.kreuz/sourcecode.html), with a temporal resolution of 1ms, to analyze our data.
+

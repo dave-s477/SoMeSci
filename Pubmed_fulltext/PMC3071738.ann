@@ -1,0 +1,3 @@
+T1	Application_Usage 17952 17959	Image J
+T2	Developer 17970 17973	NIH
+R1	Developer_of Arg1:T2 Arg2:T1	

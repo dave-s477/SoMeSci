@@ -1,0 +1,6 @@
+We have developed LAMINA (Leaf shApe deterMINAtion), a new tool for the automated analysis of images of leaves.
+The LAMINA software has been implemented in Java as a stand-alone graphical application.
+A random set of 50 leaves were scanned and analysed using ImageJ [20] and LAMINA.
+"Project name: LAMINA: Leaf shApe deterMINAtion Project home page: http://sourceforge.net/projects/lamina Operating system(s): Platform independent Programming language: Java Other requirements: Java 1.4.x or higher.
+LAMINA uses the Java Advanced Imaging (JAI) package http://java.sun.com/javase/technologies/desktop/media/jai/ to support common image file formats, which is bundled with the installation and hence no additional installation should be required.
+License: GNU GPL2"

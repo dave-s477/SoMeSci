@@ -1,0 +1,1 @@
+Recorded songs were filtered at 0.3–8 kHz for analysis using software in the Matlab Programming language (The MathWorks, Natick, MA). 

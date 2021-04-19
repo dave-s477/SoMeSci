@@ -1,0 +1,17 @@
+T1	Application_Usage 7778 7786	Inquisit
+T2	Application_Usage 7907 7915	Inquisit
+T3	Application_Usage 25365 25370	Stata
+T4	Application_Usage 25586 25591	Stata
+T5	Application_Usage 26260 26265	Stata
+T6	Version 7787 7792	4.0.8
+R1	Version_of Arg1:T6 Arg2:T1	
+T7	Citation 7897 7901	[65]
+R2	Citation_of Arg1:T7 Arg2:T1	
+T8	Version 25371 25375	15.0
+R3	Version_of Arg1:T8 Arg2:T3	
+T9	Version 25592 25596	15.0
+T10	Citation 25597 25601	[90]
+R4	Citation_of Arg1:T10 Arg2:T4	
+R5	Version_of Arg1:T9 Arg2:T4	
+T11	Version 26266 26270	15.0
+R6	Version_of Arg1:T11 Arg2:T5	

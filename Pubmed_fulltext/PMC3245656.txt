@@ -1,0 +1,2 @@
+The ZnO nanostructures consisting of micro spheres in a network of nano wires were synthesized by direct vapor phase method. X-ray Photoelectron Spectroscopy measurements were carried out to understand the chemical nature of the sample. ZnO nanostructures exhibited band edge luminescence at 383 nm. The nanostructure based ZnO thin films were used to fabricate UV sensors. The photoresponse measurements were carried out and the responsivity was measured to be 50 mA W. The rise and decay time measurements were also measured.
+

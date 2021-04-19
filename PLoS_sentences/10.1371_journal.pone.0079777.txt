@@ -1,0 +1,2 @@
+As cut off criteria in the BLAST searches we used a minimum alignment length of 100nt, E-value 0.001 a word size of 11, and a minimum of 70% sequence identity. GenBank match denotes the GenBank accession number of the closest GenBank BLAST match. We further BLAST searched this transcriptome for sequences with homology to the viruses genomes derived from our transcriptome data.
+

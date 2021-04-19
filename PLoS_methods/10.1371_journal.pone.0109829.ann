@@ -1,0 +1,23 @@
+T1	Application_Usage 4783 4787	Scan
+T2	Application_Usage 5322 5326	Scan
+T3	ProgrammingEnvironment_Usage 14156 14157	R
+T4	ProgrammingEnvironment_Usage 14204 14210	MATLAB
+T5	Application_Usage 14369 14379	BrainStorm
+T6	Application_Usage 14389 14397	openMEEG
+T7	Application_Deposition 14235 14246	LAN toolbox
+T8	Version 4788 4791	4.3
+R1	Version_of Arg1:T8 Arg2:T1	
+T9	Developer 4793 4814	Compumedics Neuroscan
+R2	Developer_of Arg1:T9 Arg2:T1	
+T10	Version 5327 5330	4.3
+T11	Developer 5332 5353	Compumedics Neuroscan
+R3	Version_of Arg1:T10 Arg2:T2	
+R4	Developer_of Arg1:T11 Arg2:T2	
+T12	URL 14268 14301	http://lantoolbox.wikispaces.com/
+R5	URL_of Arg1:T12 Arg2:T7	
+T13	Citation 14308 14312	[26]
+R6	Citation_of Arg1:T13 Arg2:T7	
+T14	Citation 14380 14384	[27]
+R7	Citation_of Arg1:T14 Arg2:T5	
+T15	Citation 14408 14412	[28]
+R8	Citation_of Arg1:T15 Arg2:T6	

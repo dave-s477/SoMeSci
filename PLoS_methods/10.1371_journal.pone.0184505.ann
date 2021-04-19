@@ -1,0 +1,38 @@
+T1	Application_Usage 1774 1783	SigmaPlot
+T2	Application_Usage 1784 1793	SigmaStat
+T3	Application_Usage 4484 4496	PhylopythiaS
+T4	Application_Usage 5092 5099	FGENESB
+T5	Application_Usage 5185 5192	Artemis
+T6	Application_Usage 5330 5336	BLASTp
+T7	Application_Usage 5475 5483	InterPro
+T9	Application_Usage 7552 7566	ProteomeWeaver
+T10	Application_Usage 8076 8089	Flex Analysis
+T11	Application_Usage 8103 8111	BioTools
+T12	Application_Usage 8141 8147	MASCOT
+T14	Application_Mention 4735 4747	PhylopythiaS
+T15	Application_Usage 4937 4980	Rapid Annotation using Subsystem Technology
+T17	Developer 1812 1821	SPSS Inc.
+R1	Developer_of Arg1:T17 Arg2:T2	
+R2	Developer_of Arg1:T17 Arg2:T1	
+T20	Citation 4670 4674	[25]
+R5	Citation_of Arg1:T20 Arg2:T3	
+T21	Abbreviation 4982 4986	RAST
+R6	Abbreviation_of Arg1:T21 Arg2:T15	
+T22	URL 4988 5010	http://rast.nmpdr.org/
+R7	URL_of Arg1:T22 Arg2:T15	
+T23	URL 5101 5140	http://linux1.softberry.com/berry.phtml
+R8	URL_of Arg1:T23 Arg2:T4	
+T24	URL 5497 5527	http://www.ebi.ac.uk/interpro/
+R9	URL_of Arg1:T24 Arg2:T7	
+T26	Developer 7577 7586	Definiens
+R12	Developer_of Arg1:T26 Arg2:T9	
+T27	Version 8094 8097	3.3
+R11	Version_of Arg1:T27 Arg2:T10	
+T28	Developer 8113 8129	Bruker Daltonics
+R13	Developer_of Arg1:T28 Arg2:T11	
+T29	Developer 8149 8163	Matrix Science
+R14	Developer_of Arg1:T29 Arg2:T12	
+T30	URL 8182 8211	http://www.matrixscience.com/
+R15	URL_of Arg1:T30 Arg2:T12	
+T8	Release 8176 8180	2016
+R3	Release_of Arg1:T8 Arg2:T12	

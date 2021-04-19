@@ -1,0 +1,1 @@
+Differential equations (1), (3), (4) and (7), using functions (2) and (5), were solved using MATLAB to get typical plots of brood, hive bees, foragers and food against time. 

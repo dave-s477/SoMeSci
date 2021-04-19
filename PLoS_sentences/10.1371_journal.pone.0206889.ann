@@ -1,0 +1,10 @@
+T1	ProgrammingEnvironment_Usage 245 251	MATLAB
+T2	ProgrammingEnvironment_Usage 575 581	MATLAB
+T3	Release 252 258	R2016b
+R1	Release_of Arg1:T3 Arg2:T1	
+T4	Citation 259 263	[38]
+R2	Citation_of Arg1:T4 Arg2:T1	
+T5	Release 582 588	R2016b
+R3	Release_of Arg1:T5 Arg2:T2	
+T6	Citation 589 593	[38]
+R4	Citation_of Arg1:T6 Arg2:T2	

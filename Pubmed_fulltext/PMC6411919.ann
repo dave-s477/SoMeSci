@@ -1,0 +1,77 @@
+T1	Application_Usage 9676 9685	CIBERSORT
+T2	Application_Usage 28578 28582	STAR
+T3	Version 28591 28597	2.0.4b
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Application_Usage 28681 28688	Subread
+T5	Version 28710 28715	1.4.5
+R2	Version_of Arg1:T5 Arg2:T4	
+T6	Application_Usage 28752 28760	Sailfish
+T7	Version 28769 28774	0.6.3
+R3	Version_of Arg1:T7 Arg2:T6	
+T8	Application_Usage 29015 29020	RSeQC
+T9	Version 29029 29032	2.3
+R4	Version_of Arg1:T9 Arg2:T8	
+T11	Application_Usage 34964 34975	Bioanalyzer
+T12	Developer 34956 34963	Agilent
+R5	Developer_of Arg1:T12 Arg2:T11	
+T13	Application_Usage 35324 35327	RTA
+T14	Version 35328 35337	1.13.48.0
+R6	Version_of Arg1:T14 Arg2:T13	
+T15	Application_Usage 35423 35429	CASAVA
+T16	Version 35432 35437	1.8.2
+R7	Version_of Arg1:T16 Arg2:T15	
+T17	Application_Usage 35501 35505	STAR
+T18	Version 35523 35529	2.5.0b
+R8	Version_of Arg1:T18 Arg2:T17	
+T19	Application_Usage 35648 35652	STAR
+T20	PlugIn_Usage 35802 35808	DESeq2
+T21	Application_Usage 35870 35882	Gene Cluster
+T22	Version 35892 35895	3.0
+R9	Version_of Arg1:T22 Arg2:T21	
+T23	Application_Usage 35917 35925	Treeview
+T24	Version 35935 35942	1.1.6r4
+R10	Version_of Arg1:T24 Arg2:T23	
+T25	Application_Usage 36297 36308	Genepix Pro
+T26	Version 36309 36312	6.0
+R11	Version_of Arg1:T26 Arg2:T25	
+T27	PlugIn_Usage 37037 37042	EdgeR
+T28	Citation 37043 37047	[64]
+R12	Citation_of Arg1:T28 Arg2:T27	
+T29	Application_Usage 37393 37400	ToppFun
+T30	Application_Mention 37491 37500	CIBERSORT
+T31	Application_Usage 37515 37524	CIBERSORT
+T32	Application_Usage 37962 37980	immunoSEQ Analyzer
+T33	URL 37982 38023	https://www.adaptivebiotech.com/immunoseq
+R13	URL_of Arg1:T33 Arg2:T32	
+T34	Application_Usage 38117 38122	PIVOT
+T35	Developer 38150 38157	Kim Lab
+R14	Developer_of Arg1:T35 Arg2:T34	
+T36	URL 38159 38204	http://kim.bio.upenn.edu/software/pivot.shtml
+R15	URL_of Arg1:T36 Arg2:T34	
+T37	Citation 38206 38210	[65]
+R16	Citation_of Arg1:T37 Arg2:T34	
+T38	ProgrammingEnvironment_Usage 38332 38333	R
+T39	PlugIn_Usage 38315 38320	Rtsne
+T40	Application_Usage 38381 38386	PIVOT
+T41	Application_Usage 38398 38405	Cluster
+T42	Citation 38387 38391	[65]
+R17	Citation_of Arg1:T42 Arg2:T40	
+T43	Version 38415 38418	3.0
+R18	Version_of Arg1:T43 Arg2:T41	
+T44	Application_Usage 38438 38446	TreeView
+T45	URL 38448 38480	http://jtreeview.sourceforge.net
+R19	URL_of Arg1:T45 Arg2:T44	
+T46	Application_Usage 38544 38549	Prism
+T47	Version 38550 38551	7
+R20	Version_of Arg1:T47 Arg2:T46	
+T48	Application_Usage 38582 38588	FlowJo
+T49	Version 38589 38590	2
+T50	Version 38600 38605	1.1.0
+R21	Version_of Arg1:T49 Arg2:T48	
+R22	Version_of Arg1:T50 Arg2:T48	
+T10	URL 37621 37650	http://cibersort.stanford.edu
+R23	URL_of Arg1:T10 Arg2:T31	
+T51	Citation 37652 37656	[30]
+R24	Citation_of Arg1:T51 Arg2:T31	
+T52	Developer 37606 37619	Newman et al.
+R25	Developer_of Arg1:T52 Arg2:T31	

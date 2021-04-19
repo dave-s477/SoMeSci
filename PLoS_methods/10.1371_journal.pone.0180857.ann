@@ -1,0 +1,5 @@
+T1	Application_Usage 8403 8408	Stata
+T2	Version 8409 8411	13
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 8433 8450	Stata Corporation
+R2	Developer_of Arg1:T3 Arg2:T1	

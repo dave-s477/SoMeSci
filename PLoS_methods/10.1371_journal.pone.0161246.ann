@@ -1,0 +1,6 @@
+T1	Application_Usage 4200 4204	SPSS
+T2	OperatingSystem_Usage 4214 4221	Windows
+T8	Version 4205 4209	22.0
+R3	Version_of Arg1:T8 Arg2:T1	
+T9	Developer 4223 4232	SPSS Inc.
+R4	Developer_of Arg1:T9 Arg2:T1	

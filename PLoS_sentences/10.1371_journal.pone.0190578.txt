@@ -1,0 +1,1 @@
+Statistical analyzes were performed using the STATA version 13 application (StataCorp, College Station, Texas, USA) and the thematic maps were constructed using the QGIS software version 2.12.3 (OSGeo, Beaverton, OR, USA). 

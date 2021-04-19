@@ -1,0 +1,5 @@
+T1	Application_Usage 5987 6005	iQ5 Optical system
+T2	Version 6024 6027	2.0
+T3	Developer 6029 6036	Bio-Rad
+R1	Version_of Arg1:T2 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T1	

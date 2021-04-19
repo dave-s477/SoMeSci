@@ -1,0 +1,6 @@
+T1	Application_Usage 139 146	Clustal
+T2	Application_Usage 68 73	BLAST
+T3	URL 159 200	https://www.ebi.ac.uk/Tools/msa/clustalo/
+R1	URL_of Arg1:T3 Arg2:T1	
+T4	Extension 147 152	Omega
+R2	Extension_of Arg1:T4 Arg2:T1	

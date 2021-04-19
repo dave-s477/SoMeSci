@@ -1,0 +1,15 @@
+T52	Application_Creation 50 99	Pipeline for estimating EPIStatic genetic effects
+T2	Abbreviation 101 106	PEPIS
+R1	Abbreviation_of Arg1:T2 Arg2:T52	
+T7	Application_Deposition 156 161	PEPIS
+T53	URL 189 228	http://bioinfo.noble.org/PolyGenic_QTL/
+R2	URL_of Arg1:T53 Arg2:T7	
+T54	ProgrammingEnvironment_Usage 464 465	C
+T55	ProgrammingEnvironment_Usage 466 469	C++
+T8	Application_Creation 533 538	PEPIS
+T56	AlternativeName 540 589	Pipeline for estimating EPIStatic genetic effects
+R3	AlternativeName_of Arg1:T56 Arg2:T8	
+T12	Application_Creation 609 614	PEPIS
+T45	Application_Deposition 661 666	PEPIS
+T19	URL 735 774	http://bioinfo.noble.org/PolyGenic_QTL/
+R4	URL_of Arg1:T19 Arg2:T45	

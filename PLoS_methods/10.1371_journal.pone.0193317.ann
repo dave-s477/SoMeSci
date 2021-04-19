@@ -1,0 +1,5 @@
+T1	Application_Usage 3630 3633	SAS
+T6	Version 3642 3645	9.2
+R3	Version_of Arg1:T6 Arg2:T1	
+T7	Developer 3647 3666	SAS Institute, Inc.
+R4	Developer_of Arg1:T7 Arg2:T1	

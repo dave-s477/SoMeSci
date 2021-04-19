@@ -1,0 +1,11 @@
+T1	PlugIn_Usage 50 62	Psychtoolbox
+T2	ProgrammingEnvironment_Usage 74 80	Matlab
+T3	Version 63 64	3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Citation 65 69	[56]
+R2	Citation_of Arg1:T4 Arg2:T1	
+T5	Release 81 86	2014a
+R4	Release_of Arg1:T5 Arg2:T2	
+T6	Developer 88 97	Mathworks
+R5	Developer_of Arg1:T6 Arg2:T2	
+R3	PlugIn_of Arg1:T1 Arg2:T2	

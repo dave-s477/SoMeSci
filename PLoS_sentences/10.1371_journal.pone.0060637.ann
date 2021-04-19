@@ -1,0 +1,4 @@
+T1	Application_Usage 35 39	SPSS
+T2	Application_Usage 144 147	SAS
+T3	Version 57 61	19.0
+R1	Version_of Arg1:T3 Arg2:T1	

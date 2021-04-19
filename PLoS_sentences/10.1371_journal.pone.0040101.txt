@@ -1,0 +1,1 @@
+All meta-analyses and statistical analyses in the pooled individual-level data were performed using Stata SE 11.0 (Stata Corporation, College Station, Texas, USA). 

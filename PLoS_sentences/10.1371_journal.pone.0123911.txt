@@ -1,0 +1,1 @@
+We classified each sequence at the family level, and used blast [36] to identify those OTUs that had been previously found in bees (blastn, e-value <0.0001). 

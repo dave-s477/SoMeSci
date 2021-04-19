@@ -1,0 +1,4 @@
+We have recently developed Mindboggle as a fully automated, feature-matching approach to assign anatomical labels to cortical structures and activity in human brain MRI data.
+Each brain image voxel of each of 20 human subjects is assigned a label by each of the remaining 19 atlases using Mindboggle.
+In this paper, we have chosen to extend the use of an individual atlas to multiple atlases in a recently introduced, fully automated, feature-based nonlinear labeling method called Mindboggle (freely downloadable, open source Matlab code) [63,85].
+Mindboggle is a freely downloadable, open source software package written in Matlab (version 6, release 13, with the Image Processing Toolbox, The Mathworks Inc., USA) and has been tested on different models of desktop and laptop computers running different distributions of Linux, as well as MacOSX and Windows.

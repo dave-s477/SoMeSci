@@ -1,0 +1,73 @@
+T1	PlugIn_Usage 2136 2144	cutadapt
+T2	Application_Usage 2154 2160	sickle
+T3	Application_Usage 2167 2171	GATK
+T4	Application_Usage 2419 2427	SAMtools
+T5	Application_Usage 2563 2569	Picard
+T6	Application_Usage 2730 2734	GATK
+T7	Application_Usage 2883 2887	GATK
+T8	Application_Usage 2970 2974	GATK
+T9	Application_Usage 3911 3920	PLINK/SEQ
+T10	Application_Usage 4084 4089	PLINK
+T11	Application_Usage 4146 4151	PLINK
+T12	Application_Usage 5207 5215	BCFtools
+T13	Application_Usage 5312 5320	BCFtools
+T14	Application_Usage 5376 5383	ANNOVAR
+T18	Application_Usage 7228 7233	PLINK
+T19	Application_Usage 7617 7623	CNVmap
+T20	Application_Usage 9558 9584	Ingenuity Pathway Analyser
+T21	ProgrammingEnvironment_Usage 10227 10228	R
+T22	PlugIn_Usage 10229 10240	GeneOverlap
+T23	Application_Usage 2336 2343	BWA-MEM
+T28	Application_Usage 6542 6546	XHMM
+T29	Application_Usage 6748 6756	bedtools
+T31	Application_Usage 6987 6991	XHMM
+T32	Application_Usage 7024 7028	XHMM
+T38	Citation 2145 2149	[24]
+R1	Citation_of Arg1:T38 Arg2:T1	
+T39	Citation 2161 2165	[25]
+R2	Citation_of Arg1:T39 Arg2:T2	
+T40	Citation 2263 2267	[26]
+R3	Citation_of Arg1:T40 Arg2:T3	
+T41	Citation 2344 2348	[27]
+R4	Citation_of Arg1:T41 Arg2:T23	
+T42	Citation 2428 2432	[28]
+R5	Citation_of Arg1:T42 Arg2:T4	
+T43	URL 2571 2611	https://github.com/broadinstitute/picard
+R6	URL_of Arg1:T43 Arg2:T5	
+T44	Version 2743 2746	3.2
+R7	Version_of Arg1:T44 Arg2:T6	
+T45	Version 3001 3004	3.2
+R8	Version_of Arg1:T45 Arg2:T8	
+T46	URL 3935 3973	https://atgu.mgh.harvard.edu/plinkseq/
+R9	URL_of Arg1:T46 Arg2:T9	
+T47	Version 4098 4101	1.9
+T48	Citation 4102 4106	[29]
+R10	Version_of Arg1:T47 Arg2:T10	
+R11	Citation_of Arg1:T48 Arg2:T10	
+T49	Version 4160 4163	1.9
+R12	Version_of Arg1:T49 Arg2:T11	
+T50	Citation 5216 5220	[28]
+R13	Citation_of Arg1:T50 Arg2:T12	
+T51	Citation 5321 5325	[28]
+R14	Citation_of Arg1:T51 Arg2:T13	
+T52	Citation 5384 5388	[31]
+R15	Citation_of Arg1:T52 Arg2:T14	
+T53	Release 5397 5408	2015, Mar22
+R16	Release_of Arg1:T53 Arg2:T14	
+T61	Citation 6563 6567	[35]
+R25	Citation_of Arg1:T61 Arg2:T28	
+T62	Version 6765 6768	2.5
+R26	Version_of Arg1:T62 Arg2:T29	
+T63	Citation 6769 6773	[36]
+R27	Citation_of Arg1:T63 Arg2:T29	
+T65	Version 7242 7245	1.9
+R29	Version_of Arg1:T65 Arg2:T18	
+T66	Citation 7246 7250	[29]
+R30	Citation_of Arg1:T66 Arg2:T18	
+T34	Abbreviation 9586 9589	IPA
+R32	Abbreviation_of Arg1:T34 Arg2:T20	
+T68	Citation 9592 9596	[43]
+R33	Citation_of Arg1:T68 Arg2:T20	
+R35	PlugIn_of Arg1:T22 Arg2:T21	
+T70	URL 10250 10318	https://bioconductor.org/packages/release/bioc/html/GeneOverlap.html
+R36	URL_of Arg1:T70 Arg2:T22	

@@ -1,0 +1,1 @@
+We conducted the analysis in STATA (version 13.1). 

@@ -1,0 +1,5 @@
+T1	Application_Usage 30 34	SPSS
+T2	Version 43 47	22.0
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 79 83	SPSS
+R2	Developer_of Arg1:T3 Arg2:T1	

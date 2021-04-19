@@ -1,0 +1,1 @@
+Indirect effects within samples (mediation) were analyzed using Hayes’s ([53]; version 2.16) SPSS macro PROCESS for model 4, and indirect effect across samples (moderated mediation) were analyzed using Hayes’s SPSS macro PROCESS for model 8. 

@@ -1,0 +1,8 @@
+T1	Application_Usage 7770 7776	RevMan
+T2	Version 7777 7780	5.1
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Application_Usage 7807 7812	Stata
+T4	Version 7813 7817	12.0
+R2	Version_of Arg1:T4 Arg2:T3	
+T5	Developer 7819 7831	StataCorp LP
+R3	Developer_of Arg1:T5 Arg2:T3	

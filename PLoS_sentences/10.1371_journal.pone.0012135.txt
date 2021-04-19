@@ -1,0 +1,2 @@
+All analyses were performed using STATA/SE 10.1 (StataCorp, College Station, TX, USA).
+

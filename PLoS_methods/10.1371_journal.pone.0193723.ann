@@ -1,0 +1,6 @@
+T1	Application_Usage 2633 2637	SPSS
+T2	OperatingSystem_Usage 2642 2649	Windows
+T3	Version 2658 2662	21.0
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Developer 2664 2673	IBM Corp.
+R2	Developer_of Arg1:T4 Arg2:T1	

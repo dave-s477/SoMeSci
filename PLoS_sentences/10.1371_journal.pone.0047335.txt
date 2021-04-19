@@ -1,0 +1,2 @@
+Wilcoxon rank-sum tests were undertaken in Stata 11.
+

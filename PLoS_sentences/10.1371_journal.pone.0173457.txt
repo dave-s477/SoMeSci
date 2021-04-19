@@ -1,0 +1,1 @@
+Offline filtering and heart beat detection were also conducted in AcqKnowledge before the data were exported into SPSS (Version 23, IBM Corp, USA, NY). 

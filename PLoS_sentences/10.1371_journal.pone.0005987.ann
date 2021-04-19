@@ -1,0 +1,14 @@
+T1	ProgrammingEnvironment_Usage 215 221	Matlab
+T2	Application_Usage 53 83	statistical parametric mapping
+T3	Application_Usage 102 105	SPM
+T4	Version 105 106	5
+R1	Version_of Arg1:T4 Arg2:T3	
+R2	Specification_of Arg1:T3 Arg2:T2	
+T5	Developer 108 150	Wellcome Department of Cognitive Neurology
+R3	Developer_of Arg1:T5 Arg2:T3	
+T6	URL 160 185	www.fil.ion.ucl.ac.uk/spm
+R4	URL_of Arg1:T6 Arg2:T3	
+T7	Developer 223 238	Mathworks, Inc.
+R5	Developer_of Arg1:T7 Arg2:T1	
+T8	Release 264 266	14
+R6	Release_of Arg1:T8 Arg2:T1	

@@ -1,0 +1,2 @@
+All the analyses were performed using Stata 12® (Stata Corporation, College Station, TX) and accounted for the complex sampling design and the data weighting so that the estimates are representative of the entire population of HIV-infected individuals followed at hospitals in France.
+

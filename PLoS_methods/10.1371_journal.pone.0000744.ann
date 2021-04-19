@@ -1,0 +1,9 @@
+T1	Application_Usage 1984 1990	AsReml
+T2	ProgrammingEnvironment_Usage 7238 7244	MATLAB
+T3	Application_Usage 7300 7306	AsReml
+T4	Developer 1992 2009	VSN International
+R1	Developer_of Arg1:T4 Arg2:T1	
+T5	Developer 7246 7255	MathWorks
+R2	Developer_of Arg1:T5 Arg2:T2	
+T6	Developer 7308 7325	VSN International
+R3	Developer_of Arg1:T6 Arg2:T3	

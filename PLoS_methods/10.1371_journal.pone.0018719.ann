@@ -1,0 +1,13 @@
+T1	Application_Usage 93 98	Flash
+T2	ProgrammingEnvironment_Usage 126 138	Actionscript
+T3	Application_Usage 186 191	Flash
+T4	Application_Usage 2755 2762	MacVide
+T5	ProgrammingEnvironment_Usage 3828 3834	Matlab
+T6	Developer 87 92	Adobe
+R1	Developer_of Arg1:T6 Arg2:T1	
+T7	Version 99 102	CS3
+R2	Version_of Arg1:T7 Arg2:T1	
+T8	Version 139 140	2
+R3	Version_of Arg1:T8 Arg2:T2	
+T9	Version 3835 3838	7.4
+R4	Version_of Arg1:T9 Arg2:T5	

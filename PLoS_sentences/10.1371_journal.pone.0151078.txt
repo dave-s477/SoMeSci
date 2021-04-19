@@ -1,0 +1,2 @@
+All analyses were conducted using the STATA® package (Version 12, College Station, TX).
+

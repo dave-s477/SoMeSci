@@ -1,0 +1,1 @@
+The x-y coordinates of the individual positions were extracted using the Ctrax software (Caltech Multiple Fly Tracker; version 0.3.12) and the associated FixErrors toolbox for MATLAB (v. 7.10.0 2010; MathWorks, Inc., Natick, MA, USA [34–35]; MATLAB v. 7.10.0). 

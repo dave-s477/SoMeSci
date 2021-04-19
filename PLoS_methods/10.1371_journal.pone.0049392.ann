@@ -1,0 +1,17 @@
+T1	ProgrammingEnvironment_Usage 4999 5005	MATLAB
+T2	Application_Usage 4886 4916	Statistical Parametric Mapping
+T3	Application_Usage 8835 8838	SPM
+T4	PlugIn_Usage 8847 8860	Anatomy atlas
+T5	Application_Usage 4917 4920	SPM
+T6	Version 4920 4921	8
+R1	Version_of Arg1:T6 Arg2:T5	
+R2	Specification_of Arg1:T5 Arg2:T2	
+T7	Developer 4923 4965	Wellcome Department of Cognitive Neurology
+R3	Developer_of Arg1:T7 Arg2:T5	
+T8	Version 5006 5009	7.8
+R4	Version_of Arg1:T8 Arg2:T1	
+T9	Developer 5011 5025	Mathworks Inc.
+R5	Developer_of Arg1:T9 Arg2:T1	
+R6	PlugIn_of Arg1:T4 Arg2:T3	
+T10	Citation 8861 8865	[51]
+R7	Citation_of Arg1:T10 Arg2:T4	

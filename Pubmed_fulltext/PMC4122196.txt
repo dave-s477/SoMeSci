@@ -1,0 +1,487 @@
+Firstly, for a graph weighted in a bounded incline algebra (or called a dioid), a longest path problem (LPP, for short) is presented, which can be considered the uniform approach to the famous shortest path problem, the widest path problem, and the most reliable path problem. The solutions for LPP and related algorithms are given. Secondly, for a matroid weighted in a linear matroid, the maximum independent set problem is studied.
+
+1. Introduction
+In graph theory, the famous shortest path problem (SPP, for short) is the problem of finding a path between two vertices in a weighted graph such that the sum of the weights of its constituent edges is minimized [1]. An example is finding the quickest way to get from one location to another on a road map. In this case, the vertices represent locations and the edges represent segments of road and are weighted by the time needed to travel that segment.
+If we assume the weighted function to be nonnegative, then the related algebraic foundation of SPP is the semiring ([0, +∞], min⁡, +). Therein, we use the operation “+” to compute the length of paths and use the operation “min” to find the least one. For the widest path problem (WPP, for short) or called the greatest capacity problem (GCP, for short), the related algebraic foundation is the semiring ([0, +∞], max⁡, min⁡). Accordingly, we use the operation “min” to compute the capacities and use the operation “max” to find the greatest one. For the most reliable path problem (MRPP, for short), the related algebraic foundation is the semiring ([0,1], max⁡, ×). Accordingly, we use the operation “×” to compute the reliability of paths and use the operation “max” to find the greatest one. There are many other classical problems using various semirings in graph theory [2].
+For both ([0, +∞], min⁡, +) for SPP and ([0, +∞], max⁡, min⁡) for WPP as well as the corresponding algorithms, the value “+∞” is used to act as the weight of artificial edges between vertex pairs with no edge. For these reasons, SPP, WPP, and MRPP (and other potential problems) can be put into a more generalized setting: the algebraic path problem [2]. The first aim of this paper is to unify SPP, WPP, WPP, and other path problems into graphs weighted in an idempotent semiring (also known as a dioid) [3]. We shall give a unified approach to find the shortest path, the widest path, and the most reliable path as well as their length.
+In 1935, Whitney introduced matroids as a generalization of both graphs and linear independence in vector spaces [4]. It is well known that matroids play an important role in applied mathematics, especially in optimal theory, which are precisely the structures for the maximum independent set problem (MISP, for short) which the very simple and efficient greedy algorithm works [5]. The second aim of this paper is to study matroids weighted in a linear dioid and the related MISP.
+
+2. Semirings, Incline Algebras, Dioids, and Their Properties
+Semirings and matrices over semirings are useful tools in diverse areas such as automata theory, design of switching circuits, graph theory, medical diagnosis, Markov chains, informational systems, complex systems modeling, decision-making theory, dynamical programming, control theory, nervous system, probable reasoning, psychological measurement, and clustering [3, 6].
+
+Definition 1 (see [3]). 
+A (2,2)-type algebra (K, ⊕, ⊗) is called a semiring ifboth (K, ⊕) and (K, ⊗) are semigroups;
+
+⊕ is commutative; that is, a ⊕ b = b ⊕ a for all a, b ∈ K;
+
+⊗ is distributive over ⊕; that is a ⊗ (b ⊕ c) = (a ⊗ b)⊕(a ⊗ c); (b ⊕ c) ⊗ a = (b ⊗ a)⊕(c ⊗ a) for all a, b, c ∈ K.
+
+
+
+We call a semiring (K, ⊕, ⊗) preunital if there is a special element 1 ∈ K such that (K, ⊗, 1) is a monoid; that is, 1 ⊗ x = x = x ⊗ 1 for every x ∈ K.
+
+
+
+Proposition 2 . 
+For every preunital semiring (K, ⊕, ⊗, 1), the following conditions are equivalent:1 is absorbing with respect to the operation ⊕; that is, 1 ⊕ x = 1 for every x ∈ K;
+
+
+x ⊕ (x ⊗ y) = x and (x ⊗ y) ⊕ y = y for all x, y ∈ K.
+
+
+
+
+
+
+Proof
+(K4)⇒(K4′): x ⊕ (x ⊗ y) = (x ⊗ 1)⊕(x ⊗ y) = x ⊗ (1 ⊕ y) = x ⊗ 1 = x. Similarly, (x ⊗ y) ⊕ y = y.
+(K4′)⇒(K4): 1 ⊕ x = 1 ⊕ (1 ⊗ x) = 1.
+
+
+A preunital semiring with condition (K4) is called a unital semiring. A semiring (K, ⊕, ⊗) is called idempotent if ⊕ is idempotent; that is, a ⊕ a = a for all a ∈ K. An idempotent semiring with the condition (K4′) is called an incline algebra [6].
+
+Proposition 3 . 
+Suppose that (K, ⊕, ⊗) is a unital semiring and 0 is an element in K. Then the following conditions are equivalent:0 is absorbing with respect to the operation ⊗; that is, 0 ⊗ x = 0 = x ⊗ 0 for every x ∈ K;
+
+(K, ⊕, 0) is a monoid; that is, 0 ⊕ x = x for every x ∈ K.
+
+
+
+
+
+
+Proof
+(K5)⇒(K5′): by (K4′), 0 ⊕ x = (0 ⊗ x) ⊕ x = x.
+(K5′)⇒(K5): by (K4′), 0 ⊗ x = 0 ⊕ (0 ⊗ x) = 0.
+
+
+An idempotent and unital semiring (K, ⊕, ⊗) with condition (K5) is called a dioid; that is, a dioid is an incline with (K4′) and (K5′), which is called a bounded incline algebra [6].
+In every dioid (K, ⊕, ⊗, 0, 1), we define x⪯y iff x ⊕ y = y. Then ⪯ is a partial order on K and (K, ⊕) is a bounded join semilattice. Clearly, 0 is the bottom element and 1 is the top element, so is the name bounded incline.
+
+Proposition 4 (see [7]). 
+If a⪯b, c⪯d, then a ⊕ c⪯b ⊕ d and a ⊗ c⪯b ⊗ d.
+
+
+
+Proof
+Since a⪯b, c⪯d, we have a ⊕ b = b, c ⊕ d = d:(a ⊕ c)⊕(b ⊕ c) = (a ⊕ b)⊕(c ⊕ d) = b ⊕ d and a ⊕ c⪯b ⊕ d;
+
+(a ⊗ c)⊕(b ⊗ c) = (a ⊕ b) ⊗ c = b ⊗ c and then a ⊗ c⪯b ⊗ c. Similarly, b ⊗ c⪯b ⊗ d. Hence a ⊗ c⪯b ⊗ d.
+
+
+
+
+
+
+Example 5 (classical examples). 
+(1) ([0, +∞], min⁡, +, +∞, 0) is a dioid, which is an algebraic model for SPP. The partial order ⪯ defined above is dual to the usual one ≤. For explicit, a⪯b iff b ≤ a in usual meaning.
+(2) ([0, +∞], max⁡, min⁡, 0, +∞) is a dioid, which is an algebraic model for WPP. The partial order ⪯ defined above is the same as the usual one ≤.
+(3) ([0,1], max⁡, ×, 0,1) is a dioid, which is an algebraic model for MRPP. The partial order ⪯ defined above is the same as the usual one ≤.
+
+
+
+Example 6 (other examples). 
+Consider([0, +∞], min⁡, max⁡, +∞, 0);
+
+([0,1], min⁡, max⁡, 1,0);
+
+([0,1], max⁡, min⁡, 0,1);
+
+([1, +∞], min⁡, ×, +∞, 1).
+
+
+
+Let A be an (m × n)-matrix and let B be an (n × l)-matrix over a semiring (K, ⊕, ⊗). Define A∘B = (p
+ij)ml by p
+ij = ⊕k
+n(a
+ik ⊗ a
+kj).
+
+
+
+Proposition 7 . 
+Let A
+kl, B
+lm, C
+mn be three matrices. Then (A
+kl∘B
+lm)∘C
+mn = A
+kl∘(B
+lm∘C
+mn).
+
+
+
+Proof
+Let A
+kl∘B
+lm = (p
+ij)km, B
+lm∘C
+mn = (q
+ij)lm and (A
+kl∘B
+lm)∘C
+mn = (u
+ij)ln, A
+kl∘(B
+lm∘C
+mn) = (v
+ij)ln. Then
+ disp-formula 
+
+
+
+
+3. Graphs Weighted in a Dioid and the Longest Path Problem
+For the dioid ([0, +∞], min⁡, +, +∞, 0) in SPP, since the partial order ⪯ is dual to the usual one ≤, the SPP in the dioid situation comes to be a longest path problem (LPP for short). In this section, we will study the LPP for graphs weighted in a dioid, which can be considered a unified approach for SPP, WPP, and MRPP (and so on).
+Let G be a graph weighted in a dioid (K, ⊕, ⊗, 0, 1). For two vertices i, j, let P
+ij denote the set of paths from i to j. For p ∈ P
+ij, w
+p = ⊗ep
+w(e) is called the length of the path p. Since ⊕ is idempotent, p
+ij = ⊕pPij
+w
+p is the longest path length from v
+i to v
+j. For the weighted graph G, define a matrix A = (a
+ij)nn by the following:for i ≠ j, if there are some paths from v
+i to v
+j, then put a
+ij as the maximal weight of all parallel edges from v
+i to v
+j; if there is no path from v
+i to v
+j, then put a
+ij = 0;
+
+for every i, put a
+ii = 1.
+
+
+
+For any 1 ≤ i, j ≤ n, define a
+ij
+ = a
+ij and a
+ij
+m = ⊕l
+n(a
+il
+m ⊗ a
+lj
+) (m = 1,2, 3,…).
+
+Proposition 8 . 
+(1) a
+ij
+m is the longest m-step path from v
+i to v
+j.
+(2) For any m = 0,1, 2, ,…, then a
+ij
+m⪯a
+ij
+m.
+(3) a
+ij
+m = a
+ij
+n for all m ≥ n.
+
+
+
+Proof
+(1) We use the induction to prove this result. For k = 1, the result holds. Suppose that the result holds for k = m. For k = m + 1, a
+ij
+m = ⊕k
+n(a
+ik
+m ⊗ a
+kj
+). Let e
+, e
+,…, e
+m, e
+m be an (m + 1)-step path from v
+i to v
+j. Then e
+, e
+,…, e
+m is an m-step path from v
+i to v
+k, where v
+k is the end vertex of e
+m; and e
+m is an edge from v
+k to v
+j and a
+kj
+⪰w(e
+m). Then a
+ik
+m⪰w(e
+) ⊗ w(e
+)⊗⋯⊗w(e
+m) and a
+ij
+m⪰a
+ik
+m ⊗ a
+kj
+⪰w(e
+) ⊗ w(e
+) ⊗ ⋯⊗w(e
+m) ⊗ w(e
+m). This completes the proof.
+(2) a
+ij
+m = ⊕l
+n(a
+il
+m ⊗ a
+lj
+)⪰a
+ij
+m ⊗ a
+jj
+ = a
+ij
+m ⊗ 1 = a
+ij
+m.
+(3) Suppose that m ≥ n. By (2), we have a
+ij
+m⪰a
+ij
+n. By (1), a
+ij
+m is the longest m-step path from v
+i to v
+j. Suppose that the related path of a
+ij
+m is p = {v
+l, v
+l,…, v
+lm}, since there is at most n vertices in G and there are some common points in p. Suppose that v
+li and v
+lj (let l
+i ≤ l
+j) are the same point. In order to make a
+ij
+m the longest path, it must hold that v
+l = v
+li = v
+lj for all l
+i ≤ l ≤ l
+j. Then the length a
+ij
+m is equal to the length of a path from v
+i to v
+j with no common point (with at most n vertices). Hence a
+ij
+m⪯a
+ij
+n since a
+ij
+n is the longest n-step path from v
+i to v
+j.
+
+
+We now present two algorithms to compute the longest path length and the corresponding longest path.
+
+Algorithm 9 . 
+To find the longest path length from a vertex v
+i to another one v
+j,input: A
+ij and i, j;
+
+output: the longest path length from v
+i to v
+j;
+
+(1) a
+il
+ = a
+il (l = 1,2,…, n); a
+hj
+ = a
+hj, (h = 1,2,…, n);
+
+(2) for m = 1 to n do. Put a
+ij
+m = ⊕l
+n(a
+il
+m ⊗ a
+lj
+). If a
+ij
+m = a
+ij
+m, then print “the longest path length is a
+ij
+m.”
+
+
+
+
+
+
+Algorithm 10 . 
+Suppose that the longest path length from v
+i to v
+j is a
+ij
+m. To find the related longest path,input: a
+il
+, a
+il
+,…, a
+il
+m for l ∈ {1,2 …, n};
+
+output: the longest path from v
+i to v
+j;
+
+(1)  p = {v
+j};
+
+(2) for h = m to 1 do. Find l ∈ {1,2,…, n} such that a
+ij
+h = a
+il
+h ⊗ a
+lj
+;
+
+(3) p ← {v
+l} ∪ p;
+
+(4) print “p”.
+
+
+
+
+
+
+4. Matroids Weighted in a Linear Dioid and the Maximum Independent Set Problem
+For a classical graph G = (E, V), let I(G) = {I⊆E∣I has no circuit}. Then (E, I(G)) is a matroid; that is,
+∅ ∈ I;
+
+
+A⊆B ∈ I implies A ∈ I;
+
+for A, B ∈ I, if |A | <|B|, then there exists e ∈ B − A such that A ∪ e ∈ I.
+
+
+
+Similar to weighted graph, matroids also play an important role in mathematics, especially in applied mathematics, which are precisely the structures for which the very simple and efficient greedy algorithm works [5].
+In this section, we will study matroids weighted in a linear dioid (notice that all the examples in Examples [5] and [6] are linear) and the maximum independent set problem.
+We suppose that (K, ⊕, ⊗, 1, 0) is a linear dioid. Let E be a finite set and M = (E, I) a matroid weighted in K with w : E → K being the weighted function.
+In the optimization theory, the maximum independent set problem (MISP, for short) is to find an independent subset J ∈ I(M) such that w(J) = max⁡{w(I)∣I ∈ I(M)}. We will use the famous greedy algorithm to deal with this problem.
+The greedy algorithm:labeling E = {e
+, e
+,…, e
+m} such that w(e
+)⪰w(e
+)⪰⋯⪰(e
+m);
+
+
+J = :∅;
+
+for i = 1 to n do, if J ∪ e
+i ∈ I(M), then J ← J ∪ e
+i.
+
+
+
+
+Proposition 11 . 
+The greedy algorithm has an optimal solution.
+
+
+
+Proof
+Suppose that J is a solution of GA. Then J ∈ I(M). For any J′ ∈ I(M), we need to show that w(J)⪰w(J′). Suppose that J = {e
+i, e
+i,…, e
+ik} and J′ = {e
+j, e
+j,…, e
+jl} with w(e
+i)⪰w(e
+i)⪰⋯⪰w(e
+ik) and w(e
+j)⪰w(e
+j)⪰⋯⪰w(e
+jl). On one hand, by the algorithm, we have i
+k ≥ j
+l; that is, |J | ≥|J′|. On the other hand, if w(J′)⪰w(J), then there exits a least integral number s > 0 such that w(e
+js)⪰w(w
+is). Put I = {e
+i, e
+i,…, e
+is} and X = I ∪ {e
+j, e
+j,…, e
+js}. We have I ∈ I(M∣X). By the minimality of s, for any t ∈ {1,2,…, s}, if e
+jt ∉ I, then I ∪ e
+jt ∉ I(M∣X). Hence r(M∣X) = s − 1, which is contradicting with {e
+j, e
+j,…, e
+js} ∈ I(M∣X). For a summary, we have w(J′)⪯w(J). This completes the proof.
+
+
+
+Proposition 12 . 
+Suppose that M = (E, I) is a matroid and K is a linear dioid. Let P(M) = {x ∈ K
+E∣∀ A⊆E, x(A)⪯r(A)}. Then the set of maximal points is precisely the characteristic vectors of all independent sets in M.
+
+
+
+Proof
+Suppose that x′ is a maximal point of P(M). Then there exists a vector c ∈ K
+E such that the following optimal problem has a unique solution.
+
+Problem. max⁡{w · x∣x ∈ P(M)}, where w : E → K is a weighted function.
+By greedy algorithm, the solution of this problem has the form x
+J for some independent set J. Then x′ = x
+J. On the other hand, if J ∈ I(M), then it is easily seen that x
+J is a maximal point of P(M).
+
+
+In [8, 9], for a complete lattice L, Shi introduced an approach to fuzzification of matroids, namely, an L-fuzzifying matroid, which are successfully characterized by a kind of fuzzy rank functions. Consequently, the corresponding axioms of bases and circuits, dependent sets, and closure operators are established, by which L-fuzzifying matroids are also equivalently characterized [10-12].
+Of course, for a complete lattice L, we know that (L, ∨, ∧, 0,1) is a special dioid. So, a natural question arises: Can we generalize the truth value table L of Shi's L-fuzzifying matroid to a dioid? We here try a first attempt to give a positive answer.
+
+Definition 13 . 
+Suppose that (K, ⊕, ⊗, 0, 1) is a dioid and let E be a finite set. A map I : 2E → K is a map satisfying the followin:(FI1)  I(∅) = 1;
+
+(FI2) if A⊆B, then I(B)⪯I(A);
+
+(FI3) if |A | <|B|, then I(A) ⊗ I(B)⪯⊕eBA
+I(A ∪ e).
+
+The pair (E, I) is called a K-fuzzifying matroid.
+
+
+By [12], we know that a graph weighted in the unit interval [0,1] induces a [0,1]-fuzzifying matroid in a natural way. For a dioid K, we have the similar results.
+
+Proposition 14 . 
+Suppose that G = (E, V, w) is a weighed graph in a dioid (K, ⊕, ⊗). Define J
+G : 2E → K by I
+G(A) = ⊗xA
+x if A is independent and 0 otherwise. Then (E, I) is a K-fuzzifying matroid.
+
+
+
+Proof
+The proof is a routine.
+
+
+

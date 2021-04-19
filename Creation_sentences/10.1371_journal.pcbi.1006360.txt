@@ -1,0 +1,4 @@
+We present ggsashimi, a command-line tool for the visualization of splicing events across multiple samples.
+Compared to the existing versions of programs generating sashimi plots, it uses popular bioinformatics file formats, it is annotation-independent, and allows the visualization of splicing events even for large genomic regions by scaling down the genomic segments between splice sites. ggsashimi is freely available at https://github.com/guigolab/ggsashimi.
+In contrast to the original tool, ggsashimi internally generates an R script which uses the ggplot2 library [5] for the graphical rendering.
+Since ggsashimi uses the most popular file formats and has very few dependencies, it can be easily integrated in any splicing analysis pipeline, and can facilitate the interrogation of alternative splicing in large-scale RNA sequencing projects, such as ENCODE [6] and GTEx [7]. ggsashimi is freely available at https://github.com/guigolab/ggsashimi.

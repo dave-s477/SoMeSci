@@ -1,0 +1,3 @@
+Availability and implementation: BEDTools was written in C++.
+Source code and a comprehensive user manual are freely available at http://code.google.com/p/bedtools
+In an effort to address these needs, we have developed BEDTools, a fast and flexible suite of utilities for common operations on genomic features.

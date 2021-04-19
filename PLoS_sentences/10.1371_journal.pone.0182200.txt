@@ -1,0 +1,1 @@
+We accessed the data using the visualization and data analytics software Tableau, and prepared data for analyses in both Tableau and Excel (Tableau 9.0, Tableau Software Inc.; Excel 14.4.2, Microsoft Corporation 2010). 

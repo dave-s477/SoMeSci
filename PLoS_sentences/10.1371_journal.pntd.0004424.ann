@@ -1,0 +1,3 @@
+T1	Application_Usage 126 131	Excel
+T2	Developer 116 125	Microsoft
+R1	Developer_of Arg1:T2 Arg2:T1	

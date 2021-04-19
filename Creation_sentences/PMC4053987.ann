@@ -1,0 +1,10 @@
+T1	Application_Creation 11 15	CapR
+T4	Application_Usage 159 163	CapR
+T2	Application_Deposition 269 273	CapR
+T3	URL 290 345	https://sites.google.com/site/fukunagatsu/software/capr
+R1	URL_of Arg1:T3 Arg2:T2	
+T5	Application_Creation 405 409	CapR
+T6	Application_Creation 702 706	CapR
+T7	Application_Creation 756 760	CapR
+T8	ProgrammingEnvironment_Usage 848 851	C++
+T9	Application_Creation 871 875	CapR

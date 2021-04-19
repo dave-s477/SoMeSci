@@ -1,0 +1,1 @@
+After preliminary exploration to identify causes of death for which there were positive, statistically significant zero-order correlations with county levels of infant mortality across all race-gender groups (not shown), we performed principal components analyses with an orthogonal rotation per SAS PROC Factor. 

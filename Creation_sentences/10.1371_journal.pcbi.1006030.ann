@@ -1,0 +1,11 @@
+T2	Application_Creation 41 45	4Cin
+T4	Application_Creation 243 247	4Cin
+T5	Application_Mention 347 351	4Cin
+T30	SoftwareCoreference_Deposition 571 575	code
+T25	URL 603 633	https://github.com/batxes/4Cin
+T31	License 641 667	GNU GENERAL PUBLIC LICENSE
+R2	URL_of Arg1:T25 Arg2:T30	
+R3	License_of Arg1:T31 Arg2:T30	
+T26	Application_Deposition 673 677	4Cin
+T32	URL 733 777	https://hub.docker.com/r/batxes/4cin_ubuntu/
+R1	URL_of Arg1:T32 Arg2:T26	

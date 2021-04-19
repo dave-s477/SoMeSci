@@ -1,0 +1,2 @@
+Stata version 13.1 (Stata Corp LP, College Station, Texas) was used to estimate the analysis models.
+

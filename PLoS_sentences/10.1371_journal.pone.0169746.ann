@@ -1,0 +1,3 @@
+T1	Application_Usage 73 82	Sigmaplot
+T2	Developer 102 120	SystatSoftwareInc.
+R1	Developer_of Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Application_Usage 7480 7490	STATISTICA
+T2	Version 7491 7495	10.0
+T3	Developer 7497 7505	StatSoft
+R1	Version_of Arg1:T2 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T1	

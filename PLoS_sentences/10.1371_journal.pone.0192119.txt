@@ -1,0 +1,1 @@
+The quantitative data were analyzed using descriptive statistical analysis, correlations, and binominal logistics regressions on IBM SPSS Statistics 18 (Forward:LR method), and applying Latent Class Modeling (LCM) on LatentGold 3. 

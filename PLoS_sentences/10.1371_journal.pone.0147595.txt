@@ -1,0 +1,1 @@
+The effect of drug treatment, cage type, and their interaction on total behavioural frequency, as well as frequency and duration of rear-only, rear-move, sit, walk and groom self were analysed using a mixed model in SAS (v.9.3) following [52]. 

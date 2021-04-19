@@ -1,0 +1,2 @@
+For the clusters showing a significant interaction, the “absolute GM content” (i.e., the sum of all voxel values of the cluster) and the “relative GM content” (i.e., the sum of all voxel values divided by the global GM) were further analyzed for the ASD and TDC using standard statistics software (SPSS, version 14.0.1)
+

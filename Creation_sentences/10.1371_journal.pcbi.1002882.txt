@@ -1,0 +1,5 @@
+We present Redirector, a new Flux Balance Analysis-based framework for identifying engineering targets to optimize metabolite production in complex pathways.
+We compare the final set of flux values resulting from this Redirector optimization to fluxes resulting from the optimization for biomass.
+The Redirector framework provides a new capability in modeling metabolic alterations, using the FBA objective.
+To demonstrate its capacity to optimize challenging pathways, we have applied Redirector to the production of myristoyl-CoA, examining the highest growth parameter design as well as the dependency analysis of multiple designs.
+The Redirector Package including operational software code and metabolic network model files used for this publication are available at https://github.com//bionomicron/Redirector.git.

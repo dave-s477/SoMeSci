@@ -1,0 +1,4 @@
+To fill this void, we have developed the illuminaio package that parses IDAT files from any BeadArray platform, including the decryption of files from Illumina’s gene expression arrays. illuminaio provides the first open-source package for this task, and will promote wider uptake of the IDAT format as a standard for sharing Illumina BeadArray data in public databases, in the same way that the CEL file serves as the standard for the Affymetrix platform.
+Implementation illuminaio is an R package [9].
+Software availability illuminaio is an R package available from the Bioconductor project ( http://www.bioconductor.org) and from http://dx.doi.org/10.5281/zenodo.7588.
+The article describes illuminaio, an R package to process the raw data files produced by the Illumina scanning software.

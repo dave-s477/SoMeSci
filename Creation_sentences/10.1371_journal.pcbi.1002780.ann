@@ -1,0 +1,12 @@
+T2	Application_Creation 23 27	ACME
+T14	SoftwareCoreference_Deposition 262 270	software
+T10	OperatingSystem_Usage 304 311	Windows
+T11	OperatingSystem_Usage 313 316	Mac
+T12	OperatingSystem_Usage 322 327	Linux
+T13	License 385 396	BSD license
+T3	URL 398 427	https://github.com/krm15/ACME
+R1	License_of Arg1:T13 Arg2:T14	
+R2	URL_of Arg1:T3 Arg2:T14	
+T15	SoftwareCoreference_Deposition 430 450	Precompiled binaries
+T6	URL 473 521	https://wiki.med.harvard.edu/SysBio/Megason/ACME
+R3	URL_of Arg1:T6 Arg2:T15	

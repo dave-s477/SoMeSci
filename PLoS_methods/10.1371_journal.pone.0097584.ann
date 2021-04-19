@@ -1,0 +1,26 @@
+T1	ProgrammingEnvironment_Usage 15200 15201	R
+T2	PlugIn_Usage 15211 15216	Mixer
+T3	ProgrammingEnvironment_Usage 15645 15651	Matlab
+T4	PlugIn_Usage 15653 15679	Brain Connectivity Toolbox
+T5	ProgrammingEnvironment_Usage 16726 16727	R
+T6	ProgrammingEnvironment_Usage 16785 16786	R
+R1	PlugIn_of Arg1:T2 Arg2:T1	
+T7	Citation 15218 15222	[24]
+R2	Citation_of Arg1:T7 Arg2:T2	
+T8	Citation 15224 15233	[39]–[41]
+R3	Citation_of Arg1:T8 Arg2:T2	
+R4	PlugIn_of Arg1:T4 Arg2:T3	
+T9	URL 15682 15724	http://www.brain-connectivity-toolbox.net/
+R5	URL_of Arg1:T9 Arg2:T4	
+T10	Citation 15751 15755	[49]
+R6	Citation_of Arg1:T10 Arg2:T4	
+T11	PlugIn_Usage 16704 16721	adjustedRandIndex
+R7	PlugIn_of Arg1:T11 Arg2:T5	
+T12	Citation 16737 16741	[58]
+R8	Citation_of Arg1:T12 Arg2:T11	
+T13	Citation 16743 16747	[59]
+R9	Citation_of Arg1:T13 Arg2:T11	
+T14	PlugIn_Usage 16797 16801	lmer
+R10	PlugIn_of Arg1:T14 Arg2:T6	
+T15	Citation 16803 16807	[60]
+R11	Citation_of Arg1:T15 Arg2:T14	

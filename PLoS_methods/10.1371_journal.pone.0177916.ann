@@ -1,0 +1,9 @@
+T1	Application_Usage 6663 6667	SPSS
+T2	Application_Usage 6729 6737	GraphPad
+T3	OperatingSystem_Usage 6688 6695	Windows
+T6	Developer 6659 6662	IBM
+R2	Developer_of Arg1:T6 Arg2:T1	
+T7	Version 6668 6672	23.0
+R3	Version_of Arg1:T7 Arg2:T1	
+T8	Developer 6697 6706	SPSS Inc.
+R4	Developer_of Arg1:T8 Arg2:T1	

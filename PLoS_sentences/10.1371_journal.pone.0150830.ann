@@ -1,0 +1,5 @@
+T1	Application_Usage 85 88	SAS
+T2	Citation 77 81	[43]
+R1	Citation_of Arg1:T2 Arg2:T1	
+T3	Version 90 93	9.3
+R2	Version_of Arg1:T3 Arg2:T1	

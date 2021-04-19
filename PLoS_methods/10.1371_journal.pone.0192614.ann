@@ -1,0 +1,19 @@
+T1	Application_Usage 746 752	ArcGIS
+T3	ProgrammingEnvironment_Usage 8858 8864	Python
+T4	ProgrammingEnvironment_Usage 8926 8932	Python
+T5	PlugIn_Usage 8943 8953	Matplotlib
+T11	Version 753 759	10.2.2
+R1	Version_of Arg1:T11 Arg2:T1	
+T12	URL 761 773	www.esri.com
+R2	URL_of Arg1:T12 Arg2:T1	
+T2	Version 8865 8870	2.7.5
+R3	Version_of Arg1:T2 Arg2:T3	
+T6	URL 8872 8894	https://www.python.org
+R4	URL_of Arg1:T6 Arg2:T3	
+T7	Version 8933 8938	2.7.5
+R5	Version_of Arg1:T7 Arg2:T4	
+T8	Version 8954 8959	1.5.0
+R6	Version_of Arg1:T8 Arg2:T5	
+R7	PlugIn_of Arg1:T5 Arg2:T4	
+T9	URL 8961 8984	https://matplotlib.org/
+R8	URL_of Arg1:T9 Arg2:T5	

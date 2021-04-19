@@ -1,0 +1,1 @@
+All analyses were performed using STATA version 14.1 (Stata Corporation, College Station, TX, USA) with survey (SVY) commands for the adjustment of the cluster sampling survey design. 

@@ -1,0 +1,7 @@
+T1	Application_Usage 9293 9298	Prism
+T2	Version 9299 9303	6.0f
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 9310 9333	GraphPad Software, Inc.
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Release 9304 9308	2014
+R3	Release_of Arg1:T4 Arg2:T1	

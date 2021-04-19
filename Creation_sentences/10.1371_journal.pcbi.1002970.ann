@@ -1,0 +1,28 @@
+T2	PlugIn_Mention 0 6	Chaste
+T53	ProgrammingEnvironment_Usage 71 74	C++
+R1	PlugIn_of Arg1:T2 Arg2:T53	
+T4	PlugIn_Creation 177 183	Chaste
+T58	PlugIn_Creation 323 364	Cancer, Heart And Soft Tissue Environment
+T7	Abbreviation 366 372	Chaste
+R2	Abbreviation_of Arg1:T7 Arg2:T58	
+T15	PlugIn_Deposition 561 567	Chaste
+T59	URL 581 619	http://www.cs.ox.ac.uk/chaste/download
+R3	URL_of Arg1:T59 Arg2:T15	
+T17	PlugIn_Creation 646 652	Chaste
+T60	ProgrammingEnvironment_Usage 667 670	C++
+R4	PlugIn_of Arg1:T17 Arg2:T60	
+T18	PlugIn_Mention 750 756	Chaste
+T61	OperatingSystem_Mention 779 784	Linux
+T62	OperatingSystem_Mention 815 820	Linux
+T63	Application_Mention 861 871	VirtualBox
+T66	Developer 891 900	Microsoft
+T64	OperatingSystem_Mention 901 908	Windows
+T65	OperatingSystem_Mention 912 920	Mac OS X
+R5	Developer_of Arg1:T66 Arg2:T64	
+T21	PlugIn_Mention 949 955	Chaste
+T22	URL 1021 1050	http://www.ohloh.net/p/Chaste
+R6	URL_of Arg1:T22 Arg2:T21	
+T24	PlugIn_Creation 1054 1060	Chaste
+T44	PlugIn_Deposition 1170 1176	Chaste
+T67	URL 1229 1258	http://www.cs.ox.ac.uk/chaste
+R7	URL_of Arg1:T67 Arg2:T44	

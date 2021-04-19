@@ -1,0 +1,7 @@
+T1	Application_Usage 34 39	STATA
+T2	Version 43 47	10.1
+T3	Developer 49 58	StataCorp
+R1	Version_of Arg1:T2 Arg2:T1	
+R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Extension 40 42	SE
+R3	Extension_of Arg1:T4 Arg2:T1	

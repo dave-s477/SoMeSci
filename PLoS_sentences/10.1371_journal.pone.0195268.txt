@@ -1,0 +1,1 @@
+Analyses were conducted using SPSS version 24.0 and R. Mean, SD, skewness and kurtosis were calculated. 

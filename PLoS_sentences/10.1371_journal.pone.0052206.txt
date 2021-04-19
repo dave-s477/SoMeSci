@@ -1,0 +1,1 @@
+Outcomes were analyzed using unweighted linear or logistic regression (SAS/STAT software, version 9.2). 

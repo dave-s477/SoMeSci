@@ -1,0 +1,6 @@
+T1	Application_Usage 34 38	SPSS
+T2	OperatingSystem_Usage 39 46	Windows
+T3	Version 55 57	20
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Citation 58 62	[33]
+R2	Citation_of Arg1:T4 Arg2:T1	

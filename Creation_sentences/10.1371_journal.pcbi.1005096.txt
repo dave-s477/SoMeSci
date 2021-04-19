@@ -1,0 +1,5 @@
+Here we developed a generalized software toolkit "AlignerBoost", which utilizes a Bayesian-based framework to accurately estimate mapping quality of ambiguously mapped NGS reads.
+AlignerBoost is implemented as a uniform Java application and is freely available at https://github.com/Grice-Lab/AlignerBoost.
+Here we present AlignerBoost, a generalized software toolkit suitable for most NGS studies requiring alignment to a reference genome.
+Here, we developed a generalized software toolkit, AlignerBoost, which we show dramatically boosts the mapping precision for most modern NGS aligners while maintaining a similar level of sensitivity.
+AlignerBoost supports numerous customizable mapping parameters and users can expect up to 100% mapping precision in most cases if parameters are correctly chosen.

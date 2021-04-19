@@ -1,0 +1,6 @@
+T1	Application_Usage 7587 7592	Stata
+T2	Application_Usage 9184 9189	Stata
+T3	Version 9198 9202	12.1
+T4	Developer 9204 9213	StataCorp
+R1	Version_of Arg1:T3 Arg2:T2	
+R2	Developer_of Arg1:T4 Arg2:T2	

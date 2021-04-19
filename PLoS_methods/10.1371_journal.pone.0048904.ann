@@ -1,0 +1,33 @@
+T1	Application_Usage 8223 8230	BioEdit
+T2	Application_Usage 8127 8143	Sequence Scanner
+T3	Application_Usage 9543 9551	Arlequin
+T4	Application_Usage 9668 9672	SPSS
+T5	Application_Usage 9775 9782	Network
+T6	Application_Usage 10063 10069	Surfer
+T7	Application_Usage 9399 9407	Arlequín
+T8	Version 8145 8148	1.0
+T9	Developer 8150 8168	Applied BioSystems
+R1	Version_of Arg1:T8 Arg2:T2	
+R2	Developer_of Arg1:T9 Arg2:T2	
+T10	Version 8248 8253	7.0.0
+R3	Version_of Arg1:T10 Arg2:T1	
+T11	Citation 8254 8258	[30]
+R4	Citation_of Arg1:T11 Arg2:T1	
+T12	Version 9413 9417	3.11
+R5	Version_of Arg1:T12 Arg2:T7	
+T13	Citation 9418 9422	[60]
+R6	Citation_of Arg1:T13 Arg2:T7	
+T14	Version 9557 9561	3.11
+R7	Version_of Arg1:T14 Arg2:T3	
+T15	Version 9678 9682	17.0
+R8	Version_of Arg1:T15 Arg2:T4	
+T16	Developer 9684 9693	SPSS Inc.
+R9	Developer_of Arg1:T16 Arg2:T4	
+T17	Version 9783 9788	4.610
+R10	Version_of Arg1:T17 Arg2:T5	
+T18	URL 9790 9816	www.fluxus-engineering.com
+R11	URL_of Arg1:T18 Arg2:T5	
+T19	Version 10078 10082	8.05
+R12	Version_of Arg1:T19 Arg2:T6	
+T20	Developer 10084 10099	Golden Software
+R13	Developer_of Arg1:T20 Arg2:T6	

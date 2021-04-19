@@ -1,0 +1,36 @@
+T1	Application_Usage 2707 2713	Med-PC
+T2	Application_Usage 11717 11723	Med-PC
+T3	Application_Usage 12952 12957	Excel
+T4	Application_Usage 12870 12875	MedPC
+T5	Application_Usage 12990 12995	Prism
+T6	Application_Usage 12983 12988	Excel
+T7	Application_Usage 13034 13045	Illustrator
+T8	Application_Usage 13149 13164	SPSS Statistics
+T9	Version 2714 2716	IV
+T10	Developer 2727 2746	MedAssociates, Inc.
+R1	Version_of Arg1:T9 Arg2:T1	
+R2	Developer_of Arg1:T10 Arg2:T1	
+T11	Version 11724 11726	IV
+R3	Version_of Arg1:T11 Arg2:T2	
+T12	Application_Usage 12969 12975	Office
+R4	Specification_of Arg1:T12 Arg2:T3	
+T13	Release 12976 12980	2007
+R5	Release_of Arg1:T13 Arg2:T12	
+T14	Version 12996 12997	5
+T15	Developer 12999 13021	GraphPad Software Inc.
+R6	Version_of Arg1:T14 Arg2:T5	
+R7	Developer_of Arg1:T15 Arg2:T5	
+T16	Developer 13028 13033	Adobe
+R8	Developer_of Arg1:T16 Arg2:T7	
+T17	Version 13059 13065	15.0.0
+R9	Version_of Arg1:T17 Arg2:T7	
+T18	Version 13046 13049	CS5
+R10	Version_of Arg1:T18 Arg2:T7	
+T19	Version 13175 13179	17.0
+R11	Version_of Arg1:T19 Arg2:T8	
+T20	Version 13184 13186	19
+R12	Version_of Arg1:T20 Arg2:T8	
+T21	Developer 13188 13191	IBM
+R13	Developer_of Arg1:T21 Arg2:T8	
+T22	Developer 12959 12968	Microsoft
+R14	Developer_of Arg1:T22 Arg2:T12	

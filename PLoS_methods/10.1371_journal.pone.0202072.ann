@@ -1,0 +1,5 @@
+T1	Application_Usage 4141 4146	Stata
+T4	Version 4148 4150	11
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Citation 4152 4156	[16]
+R3	Citation_of Arg1:T5 Arg2:T1	

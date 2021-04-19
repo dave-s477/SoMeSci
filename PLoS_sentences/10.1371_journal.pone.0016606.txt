@@ -1,0 +1,1 @@
+Repeatability was determined using the intraclass correlation coefficient (τ), obtained from an analysis of variance (ANOVA, implemented in SAS version 9.1 (SAS Institute Inc., Cary, NC, USA)) and the equation for repeatability [32]. 

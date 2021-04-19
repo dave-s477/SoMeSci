@@ -1,0 +1,31 @@
+T1	Application_Usage 8311 8315	PASS
+T2	Application_Usage 11996 12041	Prediction of Activity Spectra for Substances
+T3	Abbreviation 12043 12047	PASS
+R1	Abbreviation_of Arg1:T3 Arg2:T2	
+T4	Citation 12129 12136	[49,50]
+R2	Citation_of Arg1:T4 Arg2:T2	
+T5	Application_Usage 12453 12456	MOE
+T6	Citation 12457 12461	[51]
+R3	Citation_of Arg1:T6 Arg2:T5	
+T7	Application_Usage 12574 12577	MOE
+T8	Application_Usage 12788 12791	MOE
+T9	Application_Usage 12796 12803	Chimera
+T10	Citation 12804 12808	[53]
+R4	Citation_of Arg1:T10 Arg2:T9	
+T11	PlugIn_Usage 13005 13012	CPPTRAJ
+T12	Application_Usage 13023 13033	AMBERTOOLS
+T13	Version 13034 13036	16
+R5	Version_of Arg1:T13 Arg2:T12	
+T14	Citation 13037 13044	[55,56]
+R6	Citation_of Arg1:T14 Arg2:T12	
+T15	Application_Usage 23153 23158	SAINT
+T16	Application_Usage 23163 23169	SADABS
+T17	Citation 23179 23183	[62]
+R7	Citation_of Arg1:T17 Arg2:T15	
+T18	Application_Usage 23298 23305	SHELXTL
+T19	Citation 23323 23327	[63]
+R8	Citation_of Arg1:T19 Arg2:T18	
+T20	Application_Usage 23700 23705	ORTEP
+T21	AlternativeName 23707 23746	Oak Ride Thermal Ellipsoid Plot Program
+R9	AlternativeName_of Arg1:T21 Arg2:T20	
+R10	PlugIn_of Arg1:T11 Arg2:T12	

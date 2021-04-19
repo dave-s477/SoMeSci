@@ -1,0 +1,105 @@
+T1	Application_Usage 12395 12400	SLINK
+T2	Application_Usage 13876 13881	PLINK
+T3	Application_Usage 13891 13899	PEDSTATS
+T4	Application_Usage 14876 14882	MORGAN
+T5	Application_Usage 15643 15681	Copy Number Inference from Exome Reads
+T6	Application_Usage 15710 15717	CoNIFER
+T7	Application_Usage 15846 15853	mrsFAST
+T8	Application_Usage 16572 16579	PennCNV
+T9	Application_Usage 16589 16595	cnvHap
+T10	Application_Mention 16602 16609	PennCNV
+T11	Application_Mention 16889 16896	PennCNV
+T12	Application_Mention 16898 16904	cnvHap
+T13	Application_Usage 17368 17374	BEAGLE
+T14	Application_Usage 17505 17510	PLINK
+T15	Application_Usage 17645 17650	PLINK
+T16	Application_Usage 17862 17868	BEAGLE
+T17	Application_Usage 17893 17899	BEAGLE
+T18	Application_Usage 18916 18922	MERLIN
+T19	Application_Usage 19398 19422	Variant Effect Predictor
+T20	Application_Usage 19463 19469	GEMINI
+T21	Application_Usage 20405 20409	GATK
+T22	Application_Usage 20707 20715	PolyPhen
+T23	Application_Usage 20608 20631	Genome Variation Server
+T24	Application_Usage 20729 20768	Combined Annotation Dependent Depletion
+T25	Application_Mention 22071 22078	CoNIFER
+T26	Application_Mention 22338 22346	PEDSTATS
+T27	Application_Mention 22457 22462	PLINK
+T29	Application_Usage 14089 14121	Pedigree-Based Analysis Pipeline
+T34	Application_Usage 19309 19320	Seattle Seq
+T35	Application_Mention 21953 21959	BEAGLE
+T36	Application_Mention 22110 22116	GEMINI
+T37	Application_Mention 22170 22176	MORGAN
+T38	Application_Mention 22245 22249	PBAP
+T39	Application_Mention 22400 22407	PennCNV
+T42	Citation 12409 12417	[59, 60]
+R3	Citation_of Arg1:T42 Arg2:T1	
+T43	Citation 13882 13886	[66]
+R4	Citation_of Arg1:T43 Arg2:T2	
+T44	Citation 13900 13904	[67]
+R5	Citation_of Arg1:T44 Arg2:T3	
+T45	Abbreviation 14123 14127	PBAP
+R6	Abbreviation_of Arg1:T45 Arg2:T29	
+T46	Citation 14129 14133	[68]
+R7	Citation_of Arg1:T46 Arg2:T29	
+T48	Version 14883 14886	3.2
+T49	Citation 14895 14902	[70–72]
+R9	Citation_of Arg1:T49 Arg2:T4	
+R10	Version_of Arg1:T48 Arg2:T4	
+T50	Abbreviation 15683 15690	CoNIFER
+R11	Abbreviation_of Arg1:T50 Arg2:T5	
+T51	Citation 15700 15704	[74]
+R12	Citation_of Arg1:T51 Arg2:T5	
+T52	Citation 15854 15858	[75]
+R13	Citation_of Arg1:T52 Arg2:T7	
+T53	Citation 16580 16584	[76]
+R14	Citation_of Arg1:T53 Arg2:T8	
+T54	Citation 16596 16600	[77]
+R15	Citation_of Arg1:T54 Arg2:T9	
+T55	Version 17401 17406	3.3.2
+R16	Version_of Arg1:T55 Arg2:T13	
+T56	Citation 17407 17411	[79]
+R17	Citation_of Arg1:T56 Arg2:T13	
+T57	Citation 17511 17515	[66]
+R18	Citation_of Arg1:T57 Arg2:T14	
+T58	Citation 18923 18927	[80]
+R19	Citation_of Arg1:T58 Arg2:T18	
+T60	URL 19326 19395	http://snp.gs.washington.edu/SeattleSeqAnnotation137/HelpHowToUse.jsp
+R21	URL_of Arg1:T60 Arg2:T34	
+T61	Citation 19435 19443	[81, 82]
+T62	Version 19432 19434	76
+R22	Version_of Arg1:T62 Arg2:T19	
+R23	Citation_of Arg1:T61 Arg2:T19	
+T63	Citation 19470 19474	[83]
+R24	Citation_of Arg1:T63 Arg2:T20	
+T64	Citation 20410 20414	[84]
+R25	Citation_of Arg1:T64 Arg2:T21	
+T65	Citation 20716 20720	[85]
+R26	Citation_of Arg1:T65 Arg2:T22	
+T66	Abbreviation 20770 20774	CADD
+R27	Abbreviation_of Arg1:T66 Arg2:T24	
+T67	Citation 20783 20787	[86]
+R28	Citation_of Arg1:T67 Arg2:T24	
+T68	AlternativeName 22251 22283	Pedigree Based Analysis Pipeline
+R29	AlternativeName_of Arg1:T68 Arg2:T38	
+T69	Application_Mention 22024 22030	cnvHap
+T70	URL 21960 22023	https://faculty.washington.edu/browning/beagle/b3.html#beaglev4
+R30	URL_of Arg1:T70 Arg2:T35	
+T71	URL 22031 22070	http://www.imperial.ac.uk/people/l.coin
+R31	URL_of Arg1:T71 Arg2:T69	
+T72	URL 22079 22109	http://conifer.sourceforge.net
+R32	URL_of Arg1:T72 Arg2:T25	
+T73	URL 22117 22169	http://faculty.washington.edu/wijsman/software.shtml
+R33	URL_of Arg1:T73 Arg2:T36	
+T74	URL 22177 22244	https://www.stat.washington.edu/thompson/Genepi/MORGAN/Morgan.shtml
+R34	URL_of Arg1:T74 Arg2:T37	
+T75	URL 22285 22337	http://faculty.washington.edu/wijsman/software.shtml
+R35	URL_of Arg1:T75 Arg2:T38	
+T76	URL 22347 22399	http://csg.sph.umich.edu/abecasis/Pedstats/download/
+R36	URL_of Arg1:T76 Arg2:T26	
+T77	URL 22408 22456	http://penncnv.openbioinformatics.org/en/latest/
+R37	URL_of Arg1:T77 Arg2:T39	
+T78	URL 22463 22520	http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml
+R38	URL_of Arg1:T78 Arg2:T27	
+T79	Version 19321 19324	137
+R39	Version_of Arg1:T79 Arg2:T34	

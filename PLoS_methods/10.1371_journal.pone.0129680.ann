@@ -1,0 +1,5 @@
+T1	Application_Usage 9332 9336	SPSS
+T2	Version 9337 9341	11.5
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Citation 9359 9363	[40]
+R2	Citation_of Arg1:T3 Arg2:T1	

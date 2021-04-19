@@ -1,0 +1,6 @@
+T1	Application_Usage 28 44	EpiData Analysis
+T2	Application_Usage 75 80	Stata
+T3	Version 63 69	3.1.80
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Version 90 92	12
+R2	Version_of Arg1:T4 Arg2:T2	

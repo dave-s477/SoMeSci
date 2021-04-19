@@ -1,0 +1,12 @@
+T1	Application_Usage 5002 5006	Pong
+T2	Application_Mention 5142 5146	Pong
+T3	Application_Mention 5155 5159	Pong
+T4	Application_Mention 5219 5223	Pong
+T5	Application_Mention 5303 5307	Pong
+T6	Application_Usage 6172 6176	Pong
+T7	Application_Mention 6704 6708	Pong
+T8	Application_Usage 9424 9428	Pong
+T9	Application_Usage 9563 9569	Stella
+T10	Application_Mention 9937 9941	Pong
+T11	Citation 9570 9574	[16]
+R1	Citation_of Arg1:T11 Arg2:T9	

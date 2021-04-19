@@ -1,0 +1,8 @@
+T1	Application_Usage 67 71	SPSS
+T2	Application_Usage 27 35	Epi Info
+T3	Version 44 45	6
+R1	Version_of Arg1:T3 Arg2:T2	
+T4	Version 80 82	17
+R2	Version_of Arg1:T4 Arg2:T1	
+T5	Developer 84 92	SPSS Inc
+R3	Developer_of Arg1:T5 Arg2:T1	

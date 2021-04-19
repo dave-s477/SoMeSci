@@ -1,0 +1,4 @@
+We present VisANT, an application for integrating biomolecular interaction data into a cohesive, graphical interface.
+VisANT is a freely available, open-source tool for researchers, and offers an online interface for a large range of published data sets on biomolecular interactions, including those entered by users.
+VisANT has been developed to provide interactive visual mining of biological interaction data sets.
+VisANT is available at http://visant.bu.edu.

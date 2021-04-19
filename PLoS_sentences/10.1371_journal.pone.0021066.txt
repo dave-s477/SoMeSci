@@ -1,0 +1,2 @@
+SPSS version 16 for Mac OS 10.5 was used to run the linear mixed effect models, significance levels were set at 0.05, and two-tailed probability values are quoted.
+

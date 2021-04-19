@@ -1,0 +1,6 @@
+T3	Application_Creation 33 41	BEDTools
+T4	ProgrammingEnvironment_Usage 57 60	C++
+T1	SoftwareCoreference_Deposition 62 73	Source code
+T2	URL 130 163	http://code.google.com/p/bedtools
+R1	URL_of Arg1:T2 Arg2:T1	
+T5	Application_Creation 219 227	BEDTools

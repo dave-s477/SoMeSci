@@ -1,0 +1,7 @@
+T1	Application_Deposition 51 61	RankProdIt
+T2	URL 169 222	http://strep-microarray.sbs.surrey.ac.uk/RankProducts
+R1	URL_of Arg1:T2 Arg2:T1	
+T3	Application_Creation 296 306	RankProdIt
+T4	Application_Deposition 323 333	RankProdIt
+T5	URL 353 407	http://strep-microarray.sbs.surrey.ac.uk/RankProducts/
+R2	URL_of Arg1:T5 Arg2:T4	

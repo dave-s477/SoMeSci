@@ -1,0 +1,5 @@
+T1	Application_Usage 32 35	SAS
+T2	Version 66 69	9.2
+R1	Version_of Arg1:T2 Arg2:T1	
+T3	Developer 71 88	SAS Institute Inc
+R2	Developer_of Arg1:T3 Arg2:T1	

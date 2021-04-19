@@ -1,0 +1,4 @@
+Here we report a comprehensive suite for the well-known Poisson-Boltzmann solver, DelPhi, enriched with additional features to facilitate DelPhi usage.
+The resource is available free of charge for academic users from URL: http://compbio.clemson.edu/DelPhi.php.
+In this work, we described the DelPhi package and associated resources.
+"Project name: DelPhi Project home page: e.g. http://compbio.clemson.edu/delphi.php Operating system(s): Linux, Mac, Windows Programming language: Fortran and C Other requirements: no License: free of charge license is required Any restrictions to use by non-academics: Commercial users should contact Accelrys Inc."

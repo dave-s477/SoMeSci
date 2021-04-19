@@ -1,0 +1,15 @@
+T1	ProgrammingEnvironment_Usage 4501 4507	MATLAB
+T2	Application_Usage 7996 8001	Praat
+T3	Application_Usage 8012 8017	Praat
+T4	Application_Mention 8889 8894	Praat
+T5	Application_Usage 22968 22973	Praat
+T6	Application_Usage 22787 22792	IVICT
+T7	PlugIn_Usage 7933 7957	articulatory synthesizer
+T8	Developer 7971 7978	Boersma
+R1	Developer_of Arg1:T8 Arg2:T7	
+R2	PlugIn_of Arg1:T7 Arg2:T2	
+T9	Citation 8002 8010	[61, 66]
+R3	Citation_of Arg1:T9 Arg2:T2	
+R4	Citation_of Arg1:T9 Arg2:T7	
+T10	Version 8026 8032	5.3.32
+R5	Version_of Arg1:T10 Arg2:T3	

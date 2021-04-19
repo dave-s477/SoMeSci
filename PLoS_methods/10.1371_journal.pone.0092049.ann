@@ -1,0 +1,17 @@
+T1	Application_Usage 8921 8924	SPM
+T2	ProgrammingEnvironment_Usage 9023 9029	MATLAB
+T3	PlugIn_Usage 9192 9200	Fieldmap
+T4	Application_Usage 9226 9229	SPM
+T5	Version 8924 8925	8
+R1	Version_of Arg1:T5 Arg2:T1	
+T6	Developer 8936 8979	Wellcome Department of Imaging Neuroscience
+R2	Developer_of Arg1:T6 Arg2:T1	
+T7	URL 8981 9006	www.fil.ion.ucl.ac.uk/spm
+R3	URL_of Arg1:T7 Arg2:T1	
+T8	Developer 9031 9040	Mathworks
+R4	Developer_of Arg1:T8 Arg2:T2	
+T9	Citation 9209 9213	[32]
+T10	Version 9229 9230	8
+R6	Version_of Arg1:T10 Arg2:T4	
+R7	PlugIn_of Arg1:T3 Arg2:T4	
+R5	Citation_of Arg1:T9 Arg2:T3	

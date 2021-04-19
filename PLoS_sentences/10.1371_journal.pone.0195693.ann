@@ -1,0 +1,8 @@
+T1	Application_Usage 45 48	SAS
+T2	OperatingSystem_Usage 64 67	Win
+T3	Version 52 57	9.1.3
+R1	Version_of Arg1:T3 Arg2:T1	
+T4	Release 70 76	64 bit
+R2	Release_of Arg1:T4 Arg2:T2	
+T5	Version 67 68	7
+R3	Version_of Arg1:T5 Arg2:T2	

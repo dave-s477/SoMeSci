@@ -1,0 +1,7 @@
+T1	ProgrammingEnvironment_Usage 3532 3533	R
+T2	Version 3537 3542	3.2.1
+T3	Developer 3544 3567	R Development Core Team
+R1	Developer_of Arg1:T3 Arg2:T1	
+R2	Version_of Arg1:T2 Arg2:T1	
+T4	Release 3569 3573	2013
+R3	Release_of Arg1:T4 Arg2:T1	

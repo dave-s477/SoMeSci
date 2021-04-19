@@ -1,0 +1,30 @@
+T1	Application_Usage 4594 4609	Bioplex Manager
+T2	Application_Usage 4700 4715	Bioplex Manager
+T3	Application_Usage 5106 5112	BLASTp
+T4	Application_Usage 5273 5280	Skyline
+T5	Application_Usage 7115 7122	Analyst
+T6	Application_Usage 8841 8848	Skyline
+T7	PlugIn_Usage 9178 9185	MSstats
+T8	ProgrammingEnvironment_Usage 9186 9187	R
+T9	PlugIn_Usage 10133 10136	Epi
+T10	ProgrammingEnvironment_Usage 10137 10138	R
+T14	Version 4610 4613	4.0
+R1	Version_of Arg1:T14 Arg2:T1	
+T16	URL 5123 5152	http://blast.ncbi.nlm.nih.gov
+R3	URL_of Arg1:T16 Arg2:T3	
+T18	Citation 5290 5294	[18]
+R5	Citation_of Arg1:T18 Arg2:T4	
+T19	URL 5296 5330	www.brendanx-uw1.gs.washington.edu
+R6	URL_of Arg1:T19 Arg2:T4	
+T20	Version 7123 7128	1.4.2
+R7	Version_of Arg1:T20 Arg2:T5	
+T21	Developer 7139 7146	ABSciex
+R8	Developer_of Arg1:T21 Arg2:T5	
+T22	Citation 8858 8862	[18]
+R9	Citation_of Arg1:T22 Arg2:T6	
+T25	Citation 9196 9203	[21–23]
+R12	PlugIn_of Arg1:T7 Arg2:T8	
+R13	Citation_of Arg1:T25 Arg2:T7	
+T26	Citation 10147 10151	[27]
+R14	PlugIn_of Arg1:T9 Arg2:T10	
+R15	Citation_of Arg1:T26 Arg2:T9	

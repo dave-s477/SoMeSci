@@ -1,0 +1,15 @@
+T1	Application_Usage 12515 12519	Stan
+T2	Application_Usage 13265 13270	Rstan
+T3	ProgrammingEnvironment_Usage 13479 13480	R
+T4	Version 12520 12525	2.3.0
+R1	Version_of Arg1:T4 Arg2:T1	
+T5	Citation 12526 12530	[78]
+R2	Citation_of Arg1:T5 Arg2:T1	
+T6	PlugIn_Usage 13280 13288	map2stan
+T7	Citation 13289 13293	[79]
+R3	Citation_of Arg1:T7 Arg2:T6	
+R4	PlugIn_of Arg1:T6 Arg2:T2	
+T8	Version 13481 13486	3.1.0
+T9	URL 13488 13512	http://www.r-project.org
+R5	URL_of Arg1:T9 Arg2:T3	
+R6	Version_of Arg1:T8 Arg2:T3	

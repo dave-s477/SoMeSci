@@ -1,0 +1,2 @@
+All statistical analyses used Stata v14 (StataCorp 2015) or R v3.2.2 (www.R-project.org).
+

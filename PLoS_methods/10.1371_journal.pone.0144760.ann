@@ -1,0 +1,6 @@
+T1	PlugIn_Usage 3177 3185	PsychoPy
+T2	ProgrammingEnvironment_Usage 3264 3270	Python
+T3	ProgrammingEnvironment_Usage 4827 4833	Python
+T4	PlugIn_Usage 5151 5156	SciPy
+T5	ProgrammingEnvironment_Usage 5144 5150	Python
+R1	PlugIn_of Arg1:T4 Arg2:T5	

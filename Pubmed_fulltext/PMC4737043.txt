@@ -1,0 +1,4 @@
+Corrections to article “”, by Takashi Iizuka et al, published in Vol. 8, No. 2, 2016, p116-125, doi: http://dx.doi.org/10.14740/jocmr2417w
+There were some errors in Table 2, the authors would like to make the following corrections.
+The baseline postprandial blood glucose level (mg/dL) should read 199.1 ± 85.2, instead of 199.1 ± 1.49.
+The 12 weeks postprandial blood glucose level (mg/dL) should read 154.9 ± 60.5, instead of 54.9 ± 60.5.
