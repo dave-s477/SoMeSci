@@ -1,6 +1,13 @@
 # **SoMeSci**: **So**ftware **Me**ntions in **Sci**entific Articles
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+SoMeSci is a labelled corpus of Software Mentions in scientific articles.
+Overall, it contains 3756 software annotations in 1367 articles.
+Moreover, additional information (version, extension, release, developer, url, license, citation, abbreviation, alternative name) associated with the software is annotated and linked to the software by relations. 
+For an exact configuration of the annotation take a look in the `conf` folder. 
+Annotated texts are given as BRAT standoff-format in `PLoS_methods`, `PLoS_sentences`, `Pubmed_fulltext`, and `Creation_sentences`. 
+All annotations of software, citations, developers, and licenses are also linked through provided unique identifiers in the folder `Linking`. 
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
