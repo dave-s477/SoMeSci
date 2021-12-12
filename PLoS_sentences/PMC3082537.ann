@@ -1,3 +1,4 @@
 T1	Application_Usage 298 302	SPSS
 T2	Version 312 318	14.0.1
 R1	Version_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 233 241	analyzed
