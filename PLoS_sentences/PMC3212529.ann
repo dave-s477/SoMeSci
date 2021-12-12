@@ -6,3 +6,4 @@ T4	Version 73 77	5.03
 R2	Version_of Arg1:T4 Arg2:T1	
 T5	Developer 91 108	GraphPad Software
 R3	Developer_of Arg1:T5 Arg2:T1	
+T6	Purpose_Calculation 16 28	calculations
