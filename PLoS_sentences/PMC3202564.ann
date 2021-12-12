@@ -3,4 +3,4 @@ T2	Developer 42 50	GraphPad
 R1	Developer_of Arg1:T2 Arg2:T1	
 T3	Version 58 59	4
 R2	Version_of Arg1:T3 Arg2:T1	
-T4	Purpose_MOdelling 4 21	statistical tests
+T4	Purpose_Modelling 4 21	statistical tests

@@ -9,5 +9,5 @@ R3	Developer_of Arg1:T4 Arg2:T1
 R4	URL_of Arg1:T5 Arg2:T1	
 T6	Release 115 119	2009
 R5	Release_of Arg1:T6 Arg2:T1	
-T7	Purpose_MOdelling 4 24	statistical modeling
+T7	Purpose_Modelling 4 24	statistical modeling
 T8	Purpose_Analysis 29 37	analyses

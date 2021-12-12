@@ -4,5 +4,5 @@ T3	Version 137 141	15.0
 R1	Version_of Arg1:T3 Arg2:T1	
 T4	Version 314 318	15.0
 R2	Version_of Arg1:T4 Arg2:T2	
-T5	Purpose_MOdelling 3 10	modeled
-T6	Purpose_MOdelling 266 273	modeled
+T5	Purpose_Modelling 3 10	modeled
+T6	Purpose_Modelling 266 273	modeled
