@@ -43,7 +43,7 @@ aa(lp10
 I3
 aI1
 aI0
-aI0
+aI1
 aa(lp11
 I5
 aI3
@@ -180,7 +180,7 @@ aI3
 aI0
 aI0
 aa(lp38
-I4
+I5
 aI2
 aI0
 aI0
@@ -423,7 +423,7 @@ aa(lp86
 I4
 aI1
 aI0
-aI0
+aI1
 aa(lp87
 I8
 aI6
@@ -485,7 +485,7 @@ aI1
 aI0
 aI0
 aa(lp99
-I2
+I3
 aI1
 aI0
 aI0
@@ -883,7 +883,7 @@ aa(lp178
 I6
 aI2
 aI0
-aI0
+aI2
 aa(lp179
 I3
 aI2
@@ -955,7 +955,7 @@ aI3
 aI0
 aI0
 aa(lp193
-I6
+I7
 aI4
 aI0
 aI0
@@ -1393,7 +1393,7 @@ aa(lp280
 I5
 aI2
 aI0
-aI0
+aI1
 aa(lp281
 I5
 aI3
@@ -1448,7 +1448,7 @@ aa(lp291
 I4
 aI2
 aI0
-aI0
+aI1
 aa(lp292
 I2
 aI1
@@ -1568,7 +1568,7 @@ aa(lp315
 I3
 aI1
 aI0
-aI0
+aI1
 aa(lp316
 I2
 aI1
@@ -1690,10 +1690,10 @@ aI2
 aI0
 aI0
 aa(lp340
-I5
+I7
 aI3
 aI0
-aI0
+aI1
 aa(lp341
 I5
 aI4
@@ -2460,7 +2460,7 @@ aI1
 aI0
 aI0
 aa(lp494
-I5
+I6
 aI4
 aI0
 aI0
@@ -2613,7 +2613,7 @@ aa(lp524
 I3
 aI1
 aI0
-aI0
+aI1
 aa(lp525
 I5
 aI3
@@ -2668,7 +2668,7 @@ aa(lp535
 I4
 aI2
 aI0
-aI0
+aI1
 aa(lp536
 I2
 aI1
@@ -2973,9 +2973,9 @@ aa(lp596
 I4
 aI2
 aI0
-aI0
+aI1
 aa(lp597
-I3
+I4
 aI2
 aI0
 aI0
@@ -3065,10 +3065,10 @@ aI2
 aI0
 aI0
 aa(lp615
-I6
+I8
 aI5
 aI0
-aI0
+aI1
 aa(lp616
 I2
 aI1
