@@ -6,3 +6,5 @@ R1	Developer_of Arg1:T4 Arg2:T1
 R2	PlugIn_of Arg1:T3 Arg2:T2	
 T5	Citation 135 139	[44]
 R3	Citation_of Arg1:T5 Arg2:T3	
+T6	Purpose_DataCollection 0 15	Data extraction
+T7	Purpose_MOdelling 63 79	meta-regressions
