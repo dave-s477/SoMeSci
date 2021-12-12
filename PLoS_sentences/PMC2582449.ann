@@ -18,3 +18,4 @@ T11	Developer 225 247	Cochrane Collaboration
 R7	Developer_of Arg1:T11 Arg2:T1	
 T12	Extension 38 42	STAT
 R8	Extension_of Arg1:T12 Arg2:T4	
+T13	Purpose_Analysis 4 12	analyses

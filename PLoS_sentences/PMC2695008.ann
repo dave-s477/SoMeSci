@@ -12,3 +12,5 @@ T7	Developer 223 238	Mathworks, Inc.
 R5	Developer_of Arg1:T7 Arg2:T1	
 T8	Release 264 266	14
 R6	Release_of Arg1:T8 Arg2:T1	
+T9	Purpose_DataCleaning 8 22	pre-processing
+T10	Purpose_Analysis 27 47	statistical analyses

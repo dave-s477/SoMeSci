@@ -1,3 +1,4 @@
 T1	Application_Usage 34 42	Statview
 T2	Developer 53 56	SAS
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 4 12	analyses

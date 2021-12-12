@@ -1,3 +1,4 @@
 T1	Application_Usage 29 32	JMP
 T2	Developer 34 52	SAS Institute Inc.
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 0 8	Analyses
