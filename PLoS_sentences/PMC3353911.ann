@@ -8,3 +8,4 @@ T5	Release 105 109	2007
 T6	Developer 111 132	Microsoft Corporation
 R3	Release_of Arg1:T5 Arg2:T2	
 R4	Developer_of Arg1:T6 Arg2:T2	
+T7	Purpose_Analysis 4 12	analyses
