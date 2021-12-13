@@ -4,3 +4,5 @@ T3	Version 52 55	3.1
 R1	Version_of Arg1:T3 Arg2:T2	
 T4	Version 111 115	10.0
 R2	Version_of Arg1:T4 Arg2:T1	
+T5	Purpose_DataCollection 10 24	double-entered
+T6	Purpose_DataCollection 93 101	exported

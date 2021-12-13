@@ -3,3 +3,6 @@ T2	Version 95 99	19.0
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Developer 101 104	IBM
 R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Purpose_Analysis 4 26	descriptive statistics
+T5	Purpose_Analysis 28 34	ANCOVA
+T6	Purpose_Analysis 40 68	multiple regression analyses

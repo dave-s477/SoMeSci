@@ -1,3 +1,5 @@
 T1	Application_Usage 62 66	SPSS
 T2	Version 69 71	19
 R1	Version_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 5 15	processing
+T4	Purpose_Analysis 20 40	statistical analyses

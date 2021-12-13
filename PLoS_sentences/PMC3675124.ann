@@ -5,3 +5,5 @@ R1	Developer_of Arg1:T3 Arg2:T1
 T4	URL 125 145	www.psychtoolbox.org
 R2	URL_of Arg1:T4 Arg2:T2	
 R3	PlugIn_of Arg1:T2 Arg2:T1	
+T5	Purpose_Simulation 0 21	Stimulus presentation
+T6	Purpose_Modelling 26 47	timing of all stimuli

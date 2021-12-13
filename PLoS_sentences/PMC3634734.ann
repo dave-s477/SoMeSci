@@ -3,3 +3,4 @@ T2	Version 206 210	11.5
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Developer 220 224	SPSS
 R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Purpose_Analysis 91 99	analyzed

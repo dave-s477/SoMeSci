@@ -6,3 +6,4 @@ T4	Developer 63 72	SPSS Inc.
 R2	Developer_of Arg1:T4 Arg2:T1	
 T5	Release 57 61	2012
 R3	Release_of Arg1:T5 Arg2:T1	
+T6	Purpose_Analysis 0 18	Data were analyzed

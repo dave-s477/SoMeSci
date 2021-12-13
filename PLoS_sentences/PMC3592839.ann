@@ -6,3 +6,4 @@ T4	Version 77 80	7.5
 R2	Version_of Arg1:T4 Arg2:T2	
 T5	Developer 82 91	OriginLab
 R3	Developer_of Arg1:T5 Arg2:T2	
+T6	Purpose_Analysis 0 20	Statistical analysis

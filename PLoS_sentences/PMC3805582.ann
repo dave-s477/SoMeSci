@@ -3,3 +3,5 @@ T2	Version 73 75	11
 T3	Developer 77 89	StataCorp LP
 R1	Version_of Arg1:T2 Arg2:T1	
 R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Purpose_DataCollection 0 15	Data management
+T5	Purpose_Analysis 20 40	univariable analyses

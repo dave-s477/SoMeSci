@@ -1,3 +1,7 @@
 T1	ProgrammingEnvironment_Usage 178 184	MATLAB
 T2	Developer 191 200	MathWorks
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_DataCleaning 21 31	grayscaled
+T4	Purpose_DataCleaning 36 43	cropped
+T5	Purpose_DataCleaning 62 84	background was removed
+T6	Purpose_DataCleaning 135 144	equalized
