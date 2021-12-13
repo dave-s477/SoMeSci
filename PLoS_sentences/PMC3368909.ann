@@ -8,3 +8,4 @@ T5	Version 112 114	10
 T6	Developer 116 128	StataCorp LP
 R3	Version_of Arg1:T5 Arg2:T2	
 R4	Developer_of Arg1:T6 Arg2:T2	
+T7	Purpose_Analysis 0 20	Statistical analyses

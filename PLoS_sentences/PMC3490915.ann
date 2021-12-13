@@ -8,3 +8,4 @@ T5	Developer 89 106	GraphPad Software
 R3	Developer_of Arg1:T5 Arg2:T1	
 T6	URL 123 139	www.graphpad.com
 R4	URL_of Arg1:T6 Arg2:T5	
+T7	Purpose_Analysis 4 24	statistical analyses

@@ -3,4 +3,4 @@ T2	Version 45 49	17.0
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Developer 51 60	SPSS Inc.
 R2	Developer_of Arg1:T3 Arg2:T1	
-T4	Purpose_Modelling 15 20	tests
+T4	Purpose_Analysis 0 20	Non-parametric tests

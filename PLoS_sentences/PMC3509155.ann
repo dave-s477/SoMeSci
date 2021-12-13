@@ -4,3 +4,4 @@ T3	Version 13 17	20.0
 T4	Developer 31 40	SPSS Inc.
 R1	Version_of Arg1:T3 Arg2:T1	
 R2	Developer_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 63 71	analyses

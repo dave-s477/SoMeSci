@@ -4,3 +4,5 @@ T3	Developer 44 53	Microsoft
 R1	Developer_of Arg1:T3 Arg2:T2	
 T4	Release 60 64	2010
 R2	Release_of Arg1:T4 Arg2:T2	
+T5	Purpose_MiSC 4 14	resampling
+T6	Purpose_DataCleaning 4 14	resampling
