@@ -5,3 +5,4 @@ T3	Version 89 91	21
 R2	Version_of Arg1:T3 Arg2:T1	
 T4	Developer 93 108	IBM Corporation
 R3	Developer_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 4 22	data were analyzed

@@ -7,3 +7,5 @@ T5	Developer 97 106	SPSS Inc.
 R2	Developer_of Arg1:T5 Arg2:T1	
 T6	Version 177 180	8.5
 R3	Version_of Arg1:T6 Arg2:T2	
+T7	Purpose_Analysis 0 20	Reliability analysis
+T8	Purpose_Analysis 37 56	univariate analyses

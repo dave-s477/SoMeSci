@@ -3,3 +3,5 @@ T2	Version 287 291	16.2
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Developer 293 305	Minitab Inc.
 R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Purpose_Analysis 0 8	Analysis
+T5	Purpose_Modelling 121 148	general regression analysis

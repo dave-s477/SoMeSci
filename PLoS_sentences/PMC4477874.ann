@@ -3,3 +3,4 @@ T2	Version 64 69	21.0J
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Developer 71 85	IBM SPSS Japan
 R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Purpose_Analysis 4 22	data were analyzed

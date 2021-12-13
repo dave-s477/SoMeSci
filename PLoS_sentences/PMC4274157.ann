@@ -4,3 +4,5 @@ T3	Version 69 74	3.5.2
 R1	Version_of Arg1:T3 Arg2:T1	
 T4	Version 92 94	19
 R2	Version_of Arg1:T4 Arg2:T2	
+T5	Purpose_DataCleaning 14 23	tabulated
+T6	Purpose_Analysis 28 36	analyzed
