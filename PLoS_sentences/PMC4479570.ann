@@ -3,4 +3,3 @@ T2	Version 62 64	22
 T3	Developer 66 76	Dynelytics
 R1	Developer_of Arg1:T3 Arg2:T1	
 R2	Version_of Arg1:T2 Arg2:T1	
-T4	Purpose_Analysis 4 24	statistical analyses

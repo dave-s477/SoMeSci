@@ -3,4 +3,3 @@ T2	Version 16 21	9.1.3
 T3	Developer 65 84	SAS Institute, Inc.
 R1	Version_of Arg1:T2 Arg2:T1	
 R2	Developer_of Arg1:T3 Arg2:T1	
-T4	Purpose_Analysis 55 63	analyses

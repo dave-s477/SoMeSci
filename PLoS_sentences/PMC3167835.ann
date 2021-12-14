@@ -1,4 +1,3 @@
 T1	Application_Usage 0 5	Stata
 T2	Version 6 10	11.1
 R1	Version_of Arg1:T2 Arg2:T1	
-T3	Purpose_Analysis 24 44	statistical analysis

@@ -3,4 +3,3 @@ T2	Version 61 63	19
 T3	Citation 64 68	[37]
 R1	Version_of Arg1:T2 Arg2:T1	
 R2	Citation_of Arg1:T3 Arg2:T1	
-T4	Purpose_Analysis 4 23	regression analyses

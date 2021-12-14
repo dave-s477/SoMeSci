@@ -3,4 +3,3 @@ T2	Application_Usage 77 82	Excel
 T3	Developer 58 67	Microsoft
 R1	Developer_of Arg1:T3 Arg2:T1	
 R2	Developer_of Arg1:T3 Arg2:T2	
-T4	Purpose_DataCollection 16 27	transcribed

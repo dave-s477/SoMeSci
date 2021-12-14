@@ -5,4 +5,3 @@ T4	Version 44 47	3.5
 R1	Version_of Arg1:T4 Arg2:T1	
 T5	Version 69 73	11.5
 R2	Version_of Arg1:T5 Arg2:T2	
-T6	Purpose_Analysis 0 13	Data analysis

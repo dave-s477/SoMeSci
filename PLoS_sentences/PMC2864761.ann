@@ -4,5 +4,3 @@ T3	Version 55 59	17.0
 T4	Release 70 74	2007
 R1	Release_of Arg1:T4 Arg2:T2	
 R2	Version_of Arg1:T3 Arg2:T1	
-T5	Purpose_Analysis 11 31	statistical analysis
-T6	Purpose_Analysis 0 6	Graphs

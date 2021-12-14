@@ -6,4 +6,3 @@ T4	Version 88 90	20
 R2	Version_of Arg1:T4 Arg2:T1	
 T5	Developer 41 49	GraphPad
 R3	Developer_of Arg1:T5 Arg2:T2	
-T6	Purpose_Analysis 0 20	Statistical analysis

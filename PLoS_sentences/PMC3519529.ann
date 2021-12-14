@@ -6,6 +6,3 @@ T4	Developer 69 87	SAS Institute Inc.
 R2	Developer_of Arg1:T4 Arg2:T1	
 T5	Developer 146 164	SAS Institute Inc.
 R3	Developer_of Arg1:T5 Arg2:T2	
-T6	Purpose_Analysis 4 10	ANOVAs
-T7	Purpose_Analysis 15 31	linear contrasts
-T8	Purpose_Analysis 100 120	correlation analyses

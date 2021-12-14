@@ -1,5 +1,3 @@
 T1	Application_Usage 615 618	SAS
 T2	Developer 620 633	SAS Institute
 R1	Developer_of Arg1:T2 Arg2:T1	
-T3	Purpose_Modelling 489 494	refit
-T4	Purpose_DataCleaning 38 59	data are standardized

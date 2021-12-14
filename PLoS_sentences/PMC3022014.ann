@@ -10,5 +10,3 @@ T7	Version 141 146	8.02.
 R3	Version_of Arg1:T7 Arg2:T2	
 T8	Developer 147 167	Systat Software Inc.
 R4	Developer_of Arg1:T8 Arg2:T2	
-T9	Purpose_Analysis 4 12	analyses
-T10	Purpose_Analysis 102 107	drawn

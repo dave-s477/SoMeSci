@@ -7,4 +7,3 @@ R1	Version_of Arg1:T2 Arg2:T1
 R2	Developer_of Arg1:T3 Arg2:T4	
 R3	Version_of Arg1:T5 Arg2:T4	
 R4	Specification_of Arg1:T4 Arg2:T1	
-T6	Purpose_Analysis 4 12	analyses

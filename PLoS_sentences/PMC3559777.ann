@@ -4,4 +4,3 @@ T3	Version 30 34	15.1
 R1	Version_of Arg1:T3 Arg2:T1	
 T4	Version 45 49	11.1
 R2	Version_of Arg1:T4 Arg2:T2	
-T5	Purpose_Analysis 77 85	analyses

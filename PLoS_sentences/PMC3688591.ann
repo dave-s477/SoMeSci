@@ -4,4 +4,3 @@ T3	Developer 83 87	SPSS
 R1	Developer_of Arg1:T3 Arg2:T1	
 T4	Version 130 134	19.0
 R2	Version_of Arg1:T4 Arg2:T1	
-T5	Purpose_Analysis 4 22	statistic analyses

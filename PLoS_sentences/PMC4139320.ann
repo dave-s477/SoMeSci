@@ -6,4 +6,3 @@ T4	URL 50 84	http://www.mrc-bsu.cam.ac.uk/bugs/
 R2	URL_of Arg1:T4 Arg2:T1	
 T5	Version 121 127	2.1–16
 R3	Version_of Arg1:T5 Arg2:T2	
-T6	Purpose_Analysis 4 15	HB analyses

@@ -1,5 +1,3 @@
 T1	Application_Usage 37 42	Stata
 T3	Version 43 47	11.2
 R2	Version_of Arg1:T3 Arg2:T1	
-T2	Purpose_MiSC 16 19	run
-T4	Purpose_Modelling 16 19	run

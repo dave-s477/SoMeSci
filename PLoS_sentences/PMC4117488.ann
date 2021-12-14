@@ -6,5 +6,3 @@ T4	Developer 79 82	CDC
 R2	Developer_of Arg1:T4 Arg2:T1	
 T5	Developer 111 120	Microsoft
 R3	Developer_of Arg1:T5 Arg2:T2	
-T6	Purpose_DataCollection 44 52	recorded
-T7	Purpose_DataCollection 97 105	imported

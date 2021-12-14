@@ -3,4 +3,3 @@ T2	Abbreviation 59 62	SAS
 R1	Abbreviation_of Arg1:T2 Arg2:T1	
 T3	Version 72 75	9.2
 R2	Version_of Arg1:T3 Arg2:T1	
-T4	Purpose_Analysis 14 22	analysed

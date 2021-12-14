@@ -3,4 +3,3 @@ T2	Version 76 77	9
 R1	Version_of Arg1:T2 Arg2:T1	
 T5	URL 112 149	http://support.sas.com/kb/24/982.html
 R4	URL_of Arg1:T5 Arg2:T1	
-T3	Purpose_Calculation 30 40	calculated

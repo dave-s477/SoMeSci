@@ -12,8 +12,3 @@ T7	Version 255 258	9.2
 R5	Version_of Arg1:T7 Arg2:T2	
 T8	Developer 260 273	SAS Institute
 R6	Developer_of Arg1:T8 Arg2:T2	
-T9	Purpose_Analysis 4 19	normality tests
-T10	Purpose_Analysis 43 62	multivariate ANOVAs
-T11	Purpose_Analysis 96 117	Mann-Withney analysis
-T12	Purpose_Analysis 64 78	Student t-test
-T13	Purpose_Analysis 161 187	Linear regression analyses

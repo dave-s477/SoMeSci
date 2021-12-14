@@ -1,5 +1,3 @@
 T1	Application_Usage 29 32	SAS
 T2	Citation 33 37	[45]
 R1	Citation_of Arg1:T2 Arg2:T1	
-T3	Purpose_Analysis 17 25	analyses
-T4	Purpose_Analysis 48 65	residual analyses
