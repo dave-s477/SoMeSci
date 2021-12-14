@@ -2,6 +2,5 @@ T1	Application_Usage 139 142	SAS
 T2	Application_Usage 333 336	SAS
 T3	Release 144 148	2001
 R1	Release_of Arg1:T3 Arg2:T1	
-T4	Purpose_Modelling 62 68	fitted
-T5	Purpose_Modelling 42 57	log-transformed
-T6	Purpose_MiSC 179 187	measured
+T4	Purpose_Analysis 139 142	SAS
+T5	Purpose_Analysis 333 336	SAS

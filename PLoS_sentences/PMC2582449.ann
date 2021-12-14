@@ -18,4 +18,7 @@ T11	Developer 225 247	Cochrane Collaboration
 R7	Developer_of Arg1:T11 Arg2:T1	
 T12	Extension 38 42	STAT
 R8	Extension_of Arg1:T12 Arg2:T4	
-T13	Purpose_Analysis 4 12	analyses
+T13	Purpose_Analysis 34 37	SAS
+T15	Purpose_Analysis 156 160	SPSS
+T16	Purpose_Analysis 205 211	RevMan
+T17	Purpose_Analysis 97 140	Statistical Package for the Social Sciences

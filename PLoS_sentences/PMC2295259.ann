@@ -1,4 +1,4 @@
 T1	Application_Usage 78 82	SPSS
 T2	Version 83 87	11.5
 R1	Version_of Arg1:T2 Arg2:T1	
-T3	Purpose_Analysis 71 76	ANOVA
+T4	Purpose_Analysis 78 82	SPSS

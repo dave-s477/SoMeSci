@@ -52,3 +52,14 @@ T34	Version 27636 27638	95
 R18	Version_of Arg1:T34 Arg2:T33	
 T35	Developer 27640 27659	Analytical Software
 R19	Developer_of Arg1:T35 Arg2:T31	
+T36	Purpose_Analysis 15525 15534	SigmaStat
+T37	Purpose_DataCollection 23622 23636	Image-Pro Plus
+T38	Purpose_DataCollection 23735 23744	Scope-Pro
+T39	Purpose_DataPreProcs 24827 24830	IPP
+T40	Purpose_Visualization 24913 24922	Photoshop
+T41	Purpose_DataPreProcs 25136 25139	IPP
+T42	Purpose_DataPreProcs 25842 25854	Office Excel
+T43	Purpose_Visualization 25983 25992	SigmaPlot
+T44	Purpose_Analysis 26915 26924	Photoshop
+T45	Purpose_Analysis 26968 26971	IPP
+T46	Purpose_Analysis 27910 27918	pressure
