@@ -9,3 +9,5 @@ T9	Citation 5841 5845	[45]
 R4	Citation_of Arg1:T9 Arg2:T5	
 T10	Citation 6052 6056	[46]
 R5	Citation_of Arg1:T10 Arg2:T2	
+T3	Purpose_DataCollection 5758 5768	determined
+T4	Purpose_DataCollection 6018 6028	determined

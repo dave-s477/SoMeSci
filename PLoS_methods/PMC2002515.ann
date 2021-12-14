@@ -4,3 +4,5 @@ T3	Version 12598 12604	9.1.3.
 T4	Developer 12605 12623	SAS Institute Inc.
 R1	Developer_of Arg1:T4 Arg2:T1	
 R2	Version_of Arg1:T3 Arg2:T1	
+T5	Purpose_Analysis 12560 12568	analyses
+T6	Purpose_Modelling 13503 13515	calculations
