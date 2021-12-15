@@ -44,3 +44,14 @@ T34	Application_Usage 20692 20703	Immunoratio
 T35	Application_Usage 20786 20797	Immunoratio
 T36	URL 13304 13341	https://github.com/gilbertbigras/Ki67
 R10	URL_of Arg1:T36 Arg2:T16	
+T37	Purpose_Analysis 1311 1317	ImageJ
+T38	Purpose_DataPreProcss 10420 10426	ImageJ
+T39	Purpose_Analysis 10677 10683	ImageJ
+T40	Purpose_Simulation 11235 11241	ImageJ
+T41	Purpose_Programming 12324 12330	ImageJ
+T42	Purpose_Analysis 13615 13626	Immunoratio
+T43	Purpose_DataCollection 14591 14602	Immunoratio
+T44	Purpose_DataPreProcss 16102 16108	ImageJ
+T45	Purpose_Analysis 17101 17102	R
+T46	Purpose_Analysis 17431 17435	ROCR
+T47	Purpose_Visualization 17570 17577	FigureJ

@@ -1,3 +1,4 @@
 T1	Application_Usage 7650 7693	Statistical Package for the Social Sciences
 T2	Developer 7695 7704	SPSS Inc.
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 7650 7693	Statistical Package for the Social Sciences

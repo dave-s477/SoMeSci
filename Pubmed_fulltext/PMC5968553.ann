@@ -16,3 +16,7 @@ T10	Citation 15246 15250	[23]
 R6	Citation_of Arg1:T10 Arg2:T9	
 T11	URL 15252 15309	http://ibl.mdanderson.org/tanric/_design/basic/index.html
 R7	URL_of Arg1:T11 Arg2:T9	
+T12	Purpose_Analysis 11381 11393	Quantity One
+T13	Purpose_Analysis 12296 12300	SPSS
+T14	Purpose_Analysis 12374 12379	Prism
+T15	Purpose_Analysis 15239 15245	TANRIC

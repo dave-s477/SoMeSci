@@ -6,3 +6,4 @@ R2	Version_of Arg1:T3 Arg2:T2
 T4	Developer 8776 8794	SAS Institute Inc.
 R3	Developer_of Arg1:T4 Arg2:T2	
 T5	Application_Usage 8951 8954	SAS
+T6	Purpose_Analysis 8761 8764	SAS

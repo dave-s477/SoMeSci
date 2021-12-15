@@ -48,3 +48,9 @@ R16	PlugIn_of Arg1:T3 Arg2:T4
 R17	PlugIn_of Arg1:T13 Arg2:T16	
 R18	PlugIn_of Arg1:T22 Arg2:T26	
 R19	PlugIn_of Arg1:T24 Arg2:T26	
+T32	Purpose_Analysis 33808 33814	ClueGO
+T33	Purpose_Analysis 33830 33839	Cytoscape
+T34	Purpose_Visualization 34448 34460	clusterMaker
+T35	Purpose_Analysis 34471 34476	BiNGO
+T36	Purpose_Analysis 34484 34493	cytoscape
+T37	Purpose_Analysis 38174 38179	Prism

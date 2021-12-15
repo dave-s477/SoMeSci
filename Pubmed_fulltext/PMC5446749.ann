@@ -16,3 +16,7 @@ T10	Version 10883 10887	4.03
 R6	Version_of Arg1:T10 Arg2:T9	
 T11	Developer 10889 10897	GraphPad
 R7	Developer_of Arg1:T11 Arg2:T9	
+T12	Purpose_Analysis 8856 8862	IMARIS
+T13	Purpose_DataCollection 10311 10322	Axio Vision
+T14	Purpose_Analysis 10401 10407	ImageJ
+T15	Purpose_Analysis 10874 10882	GraphPad

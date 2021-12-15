@@ -1,3 +1,4 @@
 T1	Application_Usage 11198 11203	STATA
 T2	Version 11205 11206	9
 R1	Version_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 11198 11203	STATA

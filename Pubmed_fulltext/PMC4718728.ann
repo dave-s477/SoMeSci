@@ -13,3 +13,7 @@ R3	Developer_of Arg1:T9 Arg2:T8
 T10	Version 49532 49535	5.0
 R4	Version_of Arg1:T10 Arg2:T8	
 T11	OperatingSystem_Usage 49540 49548	Mac OS X
+T12	Purpose_Analysis 11688 11714	Ingenuity Pathway Analysis
+T13	Purpose_DataPreProcss 45733 45747	Genomics Suite
+T14	Purpose_Analysis 45988 45994	Partek
+T15	Purpose_Analysis 49518 49523	Prism

@@ -29,3 +29,12 @@ T20	Application_Usage 23700 23705	ORTEP
 T21	AlternativeName 23707 23746	Oak Ride Thermal Ellipsoid Plot Program
 R9	AlternativeName_of Arg1:T21 Arg2:T20	
 R10	PlugIn_of Arg1:T11 Arg2:T12	
+T22	Purpose_Analysis 8311 8315	PASS
+T23	Purpose_Analysis 11996 12041	Prediction of Activity Spectra for Substances
+T24	Purpose_Simulation 12453 12456	MOE
+T25	Purpose_Visualization 12788 12791	MOE
+T26	Purpose_Visualization 12796 12803	Chimera
+T27	Purpose_Analysis 13023 13033	AMBERTOOLS
+T28	Purpose_DataPreProcss 23153 23158	SAINT
+T29	Purpose_DataPreProcss 23163 23169	SADABS
+T30	Purpose_Analysis 23298 23305	SHELXTL
