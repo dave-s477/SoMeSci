@@ -22,3 +22,9 @@ T18	ProgrammingEnvironment_Usage 5986 5989	C++
 T19	PlugIn_Mention 6737 6743	glmnet
 T20	URL 412 508	http://bioinformatics.oxfordjournals.org/content/early/2012/01/10/bioinformatics.bts015.abstract
 R4	URL_of Arg1:T20 Arg2:T3	
+T21	Purpose_Programming 230 233	C++
+T22	Purpose_Programming 238 244	OpenCL
+T23	Purpose_Programming 1700 1703	C++
+T24	Purpose_Programming 3708 3709	R
+T25	Purpose_Programming 3777 3780	C++
+T26	Purpose_Programming 5986 5989	C++

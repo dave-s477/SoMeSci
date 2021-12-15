@@ -30,3 +30,14 @@ T24	Developer 34617 34623	BioRad
 R8	Developer_of Arg1:T24 Arg2:T23	
 T25	Release 27533 27537	2007
 R9	Release_of Arg1:T25 Arg2:T4	
+T22	Purpose_Analysis 27306 27311	Prism
+T26	Purpose_Analysis 28066 28075	CellQuest
+T27	Purpose_Analysis 28833 28842	CellQuest
+T28	Purpose_Analysis 29511 29520	CellQuest
+T29	Purpose_Analysis 29646 29655	CellQuest
+T30	Purpose_Analysis 30270 30279	CellQuest
+T31	Purpose_Analysis 30485 30498	Autodock Vina
+T32	Purpose_Analysis 30508 30517	InsightII
+T33	Purpose_Modelling 31064 31073	InsightII
+T34	Purpose_Visualization 31397 31402	PyMOL
+T35	Purpose_Analysis 34594 34606	Quantity One

@@ -43,3 +43,15 @@ R15	Developer_of Arg1:T27 Arg2:T25
 T28	Application_Usage 30989 30995	ImageJ
 T29	Developer 30997 31000	NIH
 R16	Developer_of Arg1:T29 Arg2:T28	
+T30	Purpose_DataPreProcss 19784 19793	Novoalign
+T31	Purpose_Analysis 19886 19909	Genome Analysis Toolkit
+T32	Purpose_DataPreProcss 20559 20562	VAX
+T33	Purpose_Analysis 20628 20636	Polyphen
+T34	Purpose_Analysis 20643 20647	Sift
+T35	Purpose_Analysis 20654 20660	Condel
+T36	Purpose_Analysis 20671 20675	CADD
+T37	Purpose_Analysis 21129 21137	Geneious
+T38	Purpose_DataCollection 27854 27860	ImageJ
+T39	Purpose_Analysis 28674 28680	ImageJ
+T40	Purpose_Analysis 29165 29170	Prism
+T41	Purpose_Analysis 30989 30995	ImageJ

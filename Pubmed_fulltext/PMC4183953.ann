@@ -35,3 +35,18 @@ T27	URL 29199 29249	http://afni.nimh.nih.gov/sscc/gangc/CD-CorrAna.htm
 R8	URL_of Arg1:T27 Arg2:T14	
 R9	PlugIn_of Arg1:T18 Arg2:T17	
 R10	PlugIn_of Arg1:T23 Arg2:T22	
+T28	Purpose_DataCollection 21779 21785	Matlab
+T29	Purpose_DataCollection 21802 21808	Cogent
+T30	Purpose_DataPreProcss 23394 23398	AFNI
+T31	Purpose_Modelling 25509 25521	3dDeconvolve
+T32	Purpose_DataCollection 26621 26630	3dmaskave
+T33	Purpose_Analysis 27985 27989	SPSS
+T34	Purpose_Analysis 29178 29182	AFNI
+T35	Purpose_DataCollection 29734 29743	3dmaskave
+T36	Purpose_Analysis 29789 29798	3dDetrend
+T37	Purpose_Analysis 30051 30055	AFNI
+T38	Purpose_DataCollection 31095 31099	AFNI
+T39	Purpose_DataPreProcss 31188 31216	Advanced Normalization Tools
+T40	Purpose_Analysis 31812 31822	3dttest+ +
+T41	Purpose_Analysis 32555 32562	3dFWHMx
+T42	Purpose_Analysis 32577 32587	3dClustsim

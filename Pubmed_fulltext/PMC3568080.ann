@@ -19,3 +19,5 @@ R7	Abbreviation_of Arg1:T11 Arg2:T10
 T12	Application_Usage 12551 12556	STATA
 T13	Version 12565 12569	10.0
 R8	Version_of Arg1:T13 Arg2:T12	
+T14	Purpose_Analysis 12453 12479	Ingenuity Pathway Analysis
+T15	Purpose_Analysis 12551 12556	STATA
