@@ -8,3 +8,5 @@ T5	Citation 11579 11583	[53]
 R3	Citation_of Arg1:T5 Arg2:T3	
 T6	Version 11439 11443	32.0
 R4	Version_of Arg1:T6 Arg2:T1	
+T7	Purpose_DataCollection 11569 11575	Bowtie
+T8	Purpose_DataPreProcss 11418 11429	Trimmomatic
