@@ -75,3 +75,27 @@ T51	Citation 37652 37656	[30]
 R24	Citation_of Arg1:T51 Arg2:T31	
 T52	Developer 37606 37619	Newman et al.
 R25	Developer_of Arg1:T52 Arg2:T31	
+T53	Purpose_Analysis 9676 9685	CIBERSORT
+T54	Purpose_DataPreProcss 28578 28582	STAR
+T55	Purpose_DataCollection 28681 28688	Subread
+T56	Purpose_DataCollection 28752 28760	Sailfish
+T57	Purpose_Analysis 29015 29020	RSeQC
+T58	Purpose_Visualization 34964 34975	Bioanalyzer
+T59	Purpose_Analysis 35324 35327	RTA
+T60	Purpose_DataPreProcss 35423 35429	CASAVA
+T61	Purpose_DataPreProcss 35501 35505	STAR
+T62	Purpose_DataPreProcss 35648 35652	STAR
+T63	Purpose_Analysis 35870 35882	Gene Cluster
+T64	Purpose_Visualization 35917 35925	Treeview
+T65	Purpose_Analysis 36297 36308	Genepix Pro
+T66	Purpose_Analysis 37393 37400	ToppFun
+T67	Purpose_Analysis 37515 37524	CIBERSORT
+T68	Purpose_Analysis 37962 37980	immunoSEQ Analyzer
+T69	Purpose_Analysis 38117 38122	PIVOT
+T70	Purpose_Analysis 38332 38333	R
+T71	Purpose_Analysis 38315 38320	Rtsne
+T72	Purpose_Analysis 38381 38386	PIVOT
+T73	Purpose_Analysis 38398 38405	Cluster
+T74	Purpose_Visualization 38438 38446	TreeView
+T75	Purpose_Visualization 38544 38549	Prism
+T76	Purpose_Analysis 38582 38588	FlowJo

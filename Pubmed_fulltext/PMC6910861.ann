@@ -44,3 +44,18 @@ T28	Application_Usage 12662 12667	miRDB
 T29	Application_Usage 12637 12645	microRNA
 T30	PlugIn_Usage 13012 13017	MCODE
 T31	Application_Usage 14543 14554	PPI Network
+T32	Purpose_Modelling 5418 5426	microRNA
+T33	Purpose_Modelling 5471 5481	TargetScan
+T34	Purpose_Modelling 5515 5520	miRDB
+T35	Purpose_Analysis 5577 5582	Venny
+T36	Purpose_Analysis 5665 5676	PPI Network
+T37	Purpose_Analysis 5769 5774	MCODE
+T38	Purpose_Analysis 6245 6249	Xena
+T39	Purpose_Analysis 10649 10658	Image lab
+T40	Purpose_Analysis 11807 11813	ModFit
+T41	Purpose_Analysis 11932 11936	SPSS
+T42	Purpose_Modelling 12637 12645	microRNA
+T43	Purpose_Modelling 12647 12657	TargetScan
+T44	Purpose_Modelling 12662 12667	miRDB
+T45	Purpose_Analysis 13012 13017	MCODE
+T46	Purpose_Analysis 14543 14554	PPI Network

@@ -32,3 +32,17 @@ T23	Application_Usage 20749 20757	ClustalW
 T24	Application_Usage 28599 28609	Datamonkey
 T25	Application_Usage 28635 28640	HyPhy
 T26	Application_Usage 36545 36550	BLAST
+T27	Purpose_DataPreProcss 12284 12292	ClustalW
+T28	Purpose_DataPreProcss 12297 12305	Geneious
+T29	Purpose_Modelling 12796 12804	Geneious
+T30	Purpose_Analysis 13007 13014	MrBayes
+T31	Purpose_Analysis 14030 14034	MEGA
+T32	Purpose_Analysis 14430 14434	MEGA
+T33	Purpose_Analysis 15301 15311	Datamonkey
+T34	Purpose_Analysis 15327 15332	HyPhy
+T35	Purpose_DataCollection 15685 15695	Datamonkey
+T36	Purpose_Analysis 20176 20181	BLAST
+T37	Purpose_DataPreProcss 20749 20757	ClustalW
+T38	Purpose_Analysis 28635 28640	HyPhy
+T39	Purpose_DataCollection 28599 28609	Datamonkey
+T40	Purpose_Analysis 36545 36550	BLAST

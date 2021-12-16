@@ -4,3 +4,4 @@ T3	Version 5943 5946	9.4
 R2	Version_of Arg1:T3 Arg2:T1	
 T4	Developer 5948 5961	SAS Institute
 R3	Developer_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 5894 5921	Statistical Analysis System

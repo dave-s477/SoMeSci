@@ -56,3 +56,14 @@ R2	Developer_of Arg1:T3 Arg2:T1
 T4	Application_Usage 2031 2034	CAD
 T5	Developer 2049 2059	SolidWorks
 R3	Developer_of Arg1:T5 Arg2:T4	
+T37	Purpose_Modelling 2031 2034	CAD
+T38	Purpose_DataCollection 14849 14854	LAS X
+T39	Purpose_DataPreProcss 15155 15160	LAS X
+T40	Purpose_DataPreProcss 15296 15302	Imaris
+T41	Purpose_Visualization 15342 15348	Imaris
+T42	Purpose_Visualization 15478 15482	Fiji
+T43	Purpose_Visualization 15509 15518	Photoshop
+T44	Purpose_Visualization 15536 15545	Quicktime
+T45	Purpose_Analysis 15868 15877	Photoshop
+T46	Purpose_Analysis 15894 15905	Illustrator
+T47	Purpose_Visualization 17144 17149	Prism

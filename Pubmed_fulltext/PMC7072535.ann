@@ -38,3 +38,11 @@ R14	Developer_of Arg1:T23 Arg2:T22
 T24	Application_Usage 13567 13570	LAS
 T25	Application_Usage 16735 16738	LAS
 R15	PlugIn_of Arg1:T7 Arg2:T4	
+T26	Purpose_DataPreProcss 7317 7326	J-Express
+T27	Purpose_Analysis 7420 7421	R
+T28	Purpose_Analysis 7558 7562	GSEA
+T29	Purpose_Analysis 8685 8692	Cluster
+T30	Purpose_Analysis 8701 8709	TreeView
+T31	Purpose_Analysis 8835 8861	Large Average Submatricies
+T32	Purpose_Analysis 12378 12392	Image-Pro Plus
+T33	Purpose_Analysis 13226 13229	SAS

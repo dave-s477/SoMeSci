@@ -24,3 +24,8 @@ T15	Version 23521 23525	7.01
 R9	Version_of Arg1:T15 Arg2:T13	
 T16	Developer 23536 23552	Graphad Software
 R10	Developer_of Arg1:T16 Arg2:T13	
+T17	Purpose_Analysis 19210 19216	Qbase+
+T18	Purpose_Analysis 21229 21242	ImageQuant TL
+T19	Purpose_DataPreProcss 22793 22799	ImageJ
+T20	Purpose_Analysis 22931 22943	NIS-Elements
+T21	Purpose_Analysis 23515 23520	prism

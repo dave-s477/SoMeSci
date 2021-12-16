@@ -36,3 +36,15 @@ R12	Version_of Arg1:T23 Arg2:T20
 T24	Developer 20764 20772	Umetrics
 R13	Developer_of Arg1:T24 Arg2:T20	
 T25	Application_Usage 27954 27961	Chenomx
+T26	Purpose_Analysis 9834 9842	Cytobank
+T27	Purpose_Analysis 12123 12129	ImageJ
+T28	Purpose_Analysis 13612 13624	Rotor-Gene Q
+T29	Purpose_Analysis 15600 15612	Quantity One
+T30	Purpose_Analysis 16056 16061	Prism
+T31	Purpose_Analysis 19185 19192	TopSpin
+T32	Purpose_Analysis 19471 19475	AMIX
+T33	Purpose_Analysis 19615 19632	Chenomx NMR Suite
+T34	Purpose_Modelling 19957 19964	Chenomx
+T35	Purpose_Analysis 20321 20328	TopSpin
+T36	Purpose_Analysis 20752 20759	SIMCA-P
+T37	Purpose_Analysis 27954 27961	Chenomx

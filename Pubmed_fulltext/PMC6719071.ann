@@ -32,3 +32,12 @@ R13	Version_of Arg1:T25 Arg2:T24
 T26	Citation 13725 13729	[21]
 R14	Citation_of Arg1:T26 Arg2:T24	
 R16	PlugIn_of Arg1:T7 Arg2:T8	
+T14	Purpose_DataPreProcss 9330 9334	Perl
+T15	Purpose_DataPreProcss 9509 9515	TopHat
+T16	Purpose_Analysis 9527 9532	HTSeq
+T17	Purpose_Analysis 10366 10371	GOseq
+T27	Purpose_Analysis 10394 10399	KOBAS
+T28	Purpose_DataCollection 12005 12009	FIMO
+T29	Purpose_DataPreProcss 13516 13522	skewer
+T30	Purpose_DataPreProcss 13615 13618	BWA
+T31	Purpose_Analysis 13719 13723	MACS

@@ -5,3 +5,4 @@ T3	Version 12538 12542	19.0
 R2	Version_of Arg1:T3 Arg2:T1	
 T4	Developer 12544 12553	IBM Corp.
 R3	Developer_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 12525 12529	SPSS

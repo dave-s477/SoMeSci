@@ -113,3 +113,8 @@ T76	PlugIn_Usage 49377 49386	survminer
 T77	PlugIn_Usage 49391 49399	survival
 R39	PlugIn_of Arg1:T76 Arg2:T75	
 R40	PlugIn_of Arg1:T77 Arg2:T75	
+T4	Purpose_DataCollection 32729 32735	REDCap
+T78	Purpose_DataPreProcss 34534 34544	bcl2fastq2
+T79	Purpose_DataPreProcss 34549 34560	Trim Galore
+T80	Purpose_DataPreProcss 34719 34723	GATK
+T81	Purpose_Analysis 34761 34767	Picard
