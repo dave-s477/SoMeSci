@@ -11,3 +11,6 @@ R5	Version_of Arg1:T11 Arg2:T1
 T12	Developer 5622 5636	Mathworks Inc.
 R6	Developer_of Arg1:T12 Arg2:T2	
 R7	PlugIn_of Arg1:T4 Arg2:T3	
+T5	Purpose_Analysis 3114 3115	o
+T6	Purpose_Modelling 5727 5748	Curve Fitting Toolbox
+T7	Purpose_Modelling 5614 5620	MATLAB

@@ -13,3 +13,5 @@ T8	Developer 11035 11056	GraphPad Software Inc
 R5	Developer_of Arg1:T8 Arg2:T2	
 T9	Developer 6956 6959	NIH
 R6	Developer_of Arg1:T9 Arg2:T1	
+T10	Purpose_DataCollection 6933 6939	ImageJ
+T11	Purpose_Analysis 11012 11017	Prism
