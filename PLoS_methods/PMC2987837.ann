@@ -33,3 +33,16 @@ T14	AlternativeName 7067 7091	Markov Chain Haplotyping
 R4	AlternativeName_of Arg1:T14 Arg2:T2	
 T13	AlternativeName 2650 2674	Markov Chain Haplotyping
 R1	AlternativeName_of Arg1:T13 Arg2:T1	
+T16	Purpose_DataPreProcss 2640 2644	Mach
+T17	Purpose_Analysis 6387 6397	BeadStudio
+T27	Purpose_DataPreProcss 7057 7061	Mach
+T28	Purpose_Analysis 10053 10061	Mach2QTL
+T29	Purpose_Analysis 10094 10099	GRIMP
+T30	Purpose_Analysis 10359 10364	METAL
+T31	Purpose_Analysis 11425 11430	PLINK
+T32	Purpose_Analysis 11451 11466	SPSS Statistics
+T33	Purpose_Analysis 11603 11608	METAL
+T34	Purpose_Analysis 12213 12218	PLINK
+T35	Purpose_Analysis 12237 12252	SPSS Statistics
+T36	Purpose_Analysis 12641 12646	PLINK
+T37	Purpose_Analysis 12846 12851	METAL

@@ -12,3 +12,5 @@ T7	Developer 8529 8538	StataCorp
 R5	Developer_of Arg1:T7 Arg2:T2	
 T8	URL 8540 8560	http://www.stata.com
 R6	URL_of Arg1:T8 Arg2:T2	
+T9	Purpose_DataCollection 1447 1450	RIU
+T10	Purpose_Analysis 8512 8517	Stata

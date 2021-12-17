@@ -1,3 +1,4 @@
 T1	Application_Usage 13186 13196	Statistica
 T2	Version 13197 13200	8.0
 R1	Version_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 13186 13196	Statistica

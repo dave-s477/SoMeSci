@@ -17,3 +17,9 @@ T11	Developer 6474 6483	MathWorks
 R6	Developer_of Arg1:T11 Arg2:T3	
 T12	Version 11298 11299	5
 R7	Version_of Arg1:T12 Arg2:T5	
+T13	Purpose_Simulation 4901 4907	MATLAB
+T14	Purpose_Stimulation 5955 5962	E-prime
+T15	Purpose_Analysis 6366 6396	statistical parametric mapping
+T16	Purpose_Analysis 6398 6401	SPM
+T17	Purpose_Analysis 6455 6461	MATLAB
+T18	Purpose_Modelling 11295 11298	SPM

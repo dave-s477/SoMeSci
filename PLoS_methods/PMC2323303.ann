@@ -6,3 +6,5 @@ T12	Developer 8913 8917	ESRI
 R6	Developer_of Arg1:T12 Arg2:T2	
 T13	Version 8933 8936	9.2
 R7	Version_of Arg1:T13 Arg2:T2	
+T3	Purpose_Analysis 8891 8896	Stata
+T4	Purpose_Analysis 8918 8924	ArcGIS

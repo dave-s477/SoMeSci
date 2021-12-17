@@ -5,3 +5,4 @@ R1	Developer_of Arg1:T3 Arg2:T1
 R2	Version_of Arg1:T2 Arg2:T1	
 T4	Release 4836 4840	2007
 R3	Release_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 4798 4802	SPSS

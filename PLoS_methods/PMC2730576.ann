@@ -8,3 +8,5 @@ T13	Version 5857 5860	5.1
 T14	Developer 5862 5875	SAS Institute
 R4	Developer_of Arg1:T14 Arg2:T2	
 R5	Version_of Arg1:T13 Arg2:T2	
+T3	Purpose_Analysis 5733 5737	SPSS
+T4	Purpose_Analysis 5845 5848	JMP

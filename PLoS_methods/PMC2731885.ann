@@ -8,3 +8,5 @@ T5	Citation 2015 2019	[72]
 R3	Citation_of Arg1:T5 Arg2:T2	
 T6	Application_Mention 2229 2238	Structure
 T7	Application_Mention 2243 2251	ADMIXMAP
+T8	Purpose_Modelling 1983 1992	Structure
+T9	Purpose_Modelling 2006 2014	ADMIXMAP

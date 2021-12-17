@@ -13,3 +13,6 @@ T10	Version 5683 5684	9
 R6	Version_of Arg1:T10 Arg2:T2	
 T11	Developer 5686 5702	Axon Instruments
 R7	Developer_of Arg1:T11 Arg2:T2	
+T4	Purpose_Analysis 1203 1211	ENSEMBLE
+T6	Purpose_Modelling 3670 3681	DS modeling
+T12	Purpose_DataCollection 5677 5683	pCLAMP
