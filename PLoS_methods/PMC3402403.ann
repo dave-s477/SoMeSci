@@ -16,3 +16,7 @@ R5	Developer_of Arg1:T11 Arg2:T3
 R6	Version_of Arg1:T10 Arg2:T3	
 T12	Version 8610 8612	10
 R7	Version_of Arg1:T12 Arg2:T4	
+T5	Purpose_DataCollection 7860 7868	Epi Info
+T13	Purpose_Analysis 7960 7963	SAS
+T14	Purpose_DataCollection 8409 8415	MAXQDA
+T15	Purpose_DataCollection 8603 8609	MAXQDA

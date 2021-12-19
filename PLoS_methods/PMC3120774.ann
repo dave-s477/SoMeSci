@@ -11,3 +11,5 @@ T10	Developer 8183 8195	StataCorp LP
 R8	Developer_of Arg1:T10 Arg2:T8	
 T2	Release 8116 8120	2009
 R1	Release_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 8074 8079	STATA
+T4	Purpose_Analysis 8122 8127	Stata

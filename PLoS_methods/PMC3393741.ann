@@ -3,3 +3,4 @@ T2	Version 7255 7257	.9
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Extension 7253 7255	SE
 R2	Extension_of Arg1:T3 Arg2:T1	
+T4	Purpose_Analysis 7247 7252	STATA

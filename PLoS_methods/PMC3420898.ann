@@ -17,3 +17,9 @@ T13	Version 8770 8771	8
 T14	Version 8923 8924	8
 R4	Version_of Arg1:T13 Arg2:T5	
 R5	Version_of Arg1:T14 Arg2:T6	
+T15	Purpose_Stimulation 4520 4529	Cyberball
+T16	Purpose_Stimulation 3459 3468	Cyberball
+T17	Purpose_Analysis 7482 7485	SPM
+T18	Purpose_DataPreProcss 7893 7896	SPM
+T19	Purpose_Analysis 8767 8770	SPM
+T20	Purpose_Analysis 8920 8923	SPM

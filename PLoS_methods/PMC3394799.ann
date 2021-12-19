@@ -16,3 +16,7 @@ T10	Version 8332 8337	2.9.2
 T11	Developer 8339 8377	R Foundation for Statistical Computing
 R6	Developer_of Arg1:T11 Arg2:T4	
 R7	Version_of Arg1:T10 Arg2:T4	
+T12	Purpose_Analysis 6680 6689	Haploview
+T14	Purpose_Analysis 8242 8285	Statistical Package for the Social Sciences
+T13	Purpose_DataCollection 8206 8212	Access
+T15	Purpose_Analysis 8322 8323	R

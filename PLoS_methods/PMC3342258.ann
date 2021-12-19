@@ -1,3 +1,4 @@
 T1	Application_Usage 3234 3241	ImpaxEE
 T2	Developer 3243 3258	Agfa HealthCare
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 3234 3241	ImpaxEE

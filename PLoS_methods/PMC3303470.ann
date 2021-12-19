@@ -8,3 +8,7 @@ T4	Application_Usage 3714 3721	Strand7
 T6	Version 3728 3731	2.4
 R3	Version_of Arg1:T6 Arg2:T4	
 T7	Application_Usage 3794 3801	Strand7
+T8	Purpose_DataPreProcss 1801 1806	CALIB
+T9	Purpose_DataCollection 3178 3184	Mimics
+T10	Purpose_DataCollection 3714 3721	Strand7
+T11	Purpose_Visualization 3794 3801	Strand7

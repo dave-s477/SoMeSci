@@ -41,3 +41,20 @@ T41	Citation 11815 11819	[29]
 R15	Citation_of Arg1:T41 Arg2:T17	
 T42	Citation 12472 12476	[28]
 R16	Citation_of Arg1:T42 Arg2:T18	
+T20	Purpose_Analysis 3588 3598	PyroTagger
+T21	Purpose_Analysis 3673 3679	blastn
+T22	Purpose_Analysis 4676 4682	blastn
+T23	Purpose_Modelling 5466 5475	EstimateS
+T24	Purpose_Modelling 5084 5090	blastn
+T25	Purpose_Analysis 6385 6391	blastn
+T26	Purpose_DataPreProcss 6776 6780	Perl
+T28	Purpose_Analysis 6823 6828	PCORD
+T29	Purpose_DataPreProcss 10152 10166	RDP Classifier
+T38	Purpose_DataPreProcss 10313 10321	Geneious
+T39	Purpose_DataPreProcss 10567 10579	Bellerpheron
+T43	Purpose_Analysis 10755 10761	MUSCLE
+T44	Purpose_Analysis 10769 10777	Geneious
+T45	Purpose_DataCollection 11474 11480	Blastn
+T46	Purpose_Analysis 11801 11806	DNAsp
+T47	Purpose_Modelling 12467 12471	MEGA
+T48	Purpose_Analysis 14605 14611	Blastn

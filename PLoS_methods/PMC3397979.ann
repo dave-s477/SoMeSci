@@ -17,3 +17,7 @@ R6	Abbreviation_of Arg1:T10 Arg2:T9
 T11	Citation 12472 12476	[31]
 R7	Citation_of Arg1:T11 Arg2:T4	
 R8	PlugIn_of Arg1:T4 Arg2:T3	
+T12	Purpose_Analysis 7429 7432	SPM
+T13	Purpose_Modelling 9372 9379	Marsbar
+T14	Purpose_DataPreProcss 12462 12471	Pickatlas
+T15	Purpose_DataPreProcss 12489 12492	SPM

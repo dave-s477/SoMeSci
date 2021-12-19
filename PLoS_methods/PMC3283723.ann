@@ -28,3 +28,9 @@ T20	Version 3587 3594	2.8.0.0
 R12	Version_of Arg1:T20 Arg2:T6	
 T21	URL 3605 3622	http://eltsov.org
 R13	URL_of Arg1:T21 Arg2:T6	
+T7	Purpose_Analysis 1987 1995	SeqScape
+T8	Purpose_Analysis 2240 2248	Arlequin
+T17	Purpose_Analysis 2381 2391	STATISTICA
+T22	Purpose_Analysis 2562 2572	STATISTICA
+T23	Purpose_Analysis 3539 3546	Network
+T24	Purpose_Analysis 3580 3586	mtPhyl

@@ -17,3 +17,9 @@ T14	Developer 17162 17182	Agilent Technologies
 R4	Developer_of Arg1:T14 Arg2:T5	
 R5	Version_of Arg1:T13 Arg2:T5	
 R7	Developer_of Arg1:T12 Arg2:T4	
+T6	Purpose_Analysis 7316 7324	Videomot
+T15	Purpose_DataPreProcss 10101 10107	ImageJ
+T16	Purpose_Analysis 10156 10161	Prism
+T17	Purpose_Analysis 12723 12734	Patchmaster
+T18	Purpose_DataPreProcss 17120 17133	Spectrum Mill
+T19	Purpose_Analysis 20872 20885	Spectrum Mill
