@@ -6,3 +6,7 @@ T6	Citation 880 884	[20]
 R1	Citation_of Arg1:T6 Arg2:T1	
 T7	Citation 1283 1287	[21]
 R2	Citation_of Arg1:T7 Arg2:T4	
+T5	Purpose_DataPreProcss 1112 1116	MACH
+T8	Purpose_DataPreProcss 874 879	PLINK
+T9	Purpose_Modelling 1274 1282	Birdseye
+T10	Purpose_Analysis 1735 1740	PLINK

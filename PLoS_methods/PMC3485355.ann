@@ -9,3 +9,4 @@ T5	Extension 6631 6633	32
 R4	Extension_of Arg1:T5 Arg2:T1	
 T6	Release 6682 6686	2002
 R5	Release_of Arg1:T6 Arg2:T1	
+T7	Purpose_DataCollection 6623 6630	OOIBase

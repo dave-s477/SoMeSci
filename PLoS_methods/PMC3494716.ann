@@ -31,3 +31,10 @@ T19	Version 10078 10082	8.05
 R12	Version_of Arg1:T19 Arg2:T6	
 T20	Developer 10084 10099	Golden Software
 R13	Developer_of Arg1:T20 Arg2:T6	
+T21	Purpose_Analysis 8127 8143	Sequence Scanner
+T22	Purpose_DataPreProcss 8223 8230	BioEdit
+T23	Purpose_Modelling 9399 9407	Arlequín
+T24	Purpose_Analysis 9543 9551	Arlequin
+T25	Purpose_Visualization 9668 9672	SPSS
+T26	Purpose_Visualization 9775 9782	Network
+T27	Purpose_Visualization 10063 10069	Surfer
