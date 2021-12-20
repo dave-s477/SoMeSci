@@ -10,3 +10,7 @@ R3	Version_of Arg1:T6 Arg2:T2
 T7	Application_Usage 2769 2820	Cambridge Neuropsychological Test Automated Battery
 T8	Abbreviation 2822 2828	CANTAB
 R4	Abbreviation_of Arg1:T8 Arg2:T7	
+T9	Purpose_Analysis 10835 10840	STATA
+T10	Purpose_Stimulation 9975 9981	CANTAB
+T11	Purpose_DataCollection 7964 7969	Chart
+T12	Purpose_Analysis 2769 2820	Cambridge Neuropsychological Test Automated Battery
