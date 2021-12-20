@@ -15,3 +15,7 @@ R5	Developer_of Arg1:T9 Arg2:T1
 R6	PlugIn_of Arg1:T4 Arg2:T3	
 T10	Citation 8861 8865	[51]
 R7	Citation_of Arg1:T10 Arg2:T4	
+T11	Purpose_Analysis 4886 4916	Statistical Parametric Mapping
+T12	Purpose_Analysis 4917 4920	SPM
+T13	Purpose_Modelling 8835 8838	SPM
+T14	Purpose_Modelling 8847 8860	Anatomy atlas
