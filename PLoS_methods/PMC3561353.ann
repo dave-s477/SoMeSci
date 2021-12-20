@@ -27,3 +27,9 @@ T18	Citation 15306 15310	[72]
 R10	Citation_of Arg1:T18 Arg2:T7	
 T8	AlternativeName 7683 7708	Family Assignment Program
 R11	AlternativeName_of Arg1:T8 Arg2:T2	
+T19	Purpose_Analysis 14763 14764	R
+T20	Purpose_Modelling 15016 15020	lme4
+T21	Purpose_Analysis 15106 15109	car
+T22	Purpose_Modelling 15192 15200	MCMCglmm
+T23	Purpose_Analysis 15293 15297	lme4
+T24	Purpose_Analysis 7585 7595	GeneMapper

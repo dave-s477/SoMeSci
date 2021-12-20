@@ -8,3 +8,5 @@ T9	Version 16207 16214	07.1.15
 R3	Version_of Arg1:T9 Arg2:T2	
 T10	Release 16172 16176	2007
 R4	Release_of Arg1:T10 Arg2:T2	
+T3	Purpose_Analysis 16167 16171	NCSS
+T4	Purpose_Analysis 4427 4438	WinEpiscope

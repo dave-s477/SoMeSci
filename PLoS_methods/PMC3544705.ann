@@ -31,3 +31,12 @@ T31	Version 20415 20418	6.3
 R11	Version_of Arg1:T31 Arg2:T7	
 T32	Developer 20420 20426	Noesis
 R12	Developer_of Arg1:T32 Arg2:T7	
+T10	Purpose_DataCollection 9121 9131	Videotrack
+T11	Purpose_Analysis 9809 9819	VideoTrack
+T12	Purpose_Analysis 10652 10662	VideoTrack
+T13	Purpose_Analysis 19615 19621	pClamp
+T14	Purpose_Analysis 19629 19637	Igor pro
+T15	Purpose_DataPreProcss 16837 16846	Photoshop
+T16	Purpose_Analysis 18524 18530	pClamp
+T17	Purpose_DataCollection 19856 19863	Visilog
+T18	Purpose_Analysis 20407 20414	Visilog
