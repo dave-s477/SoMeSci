@@ -6,3 +6,5 @@ T4	Developer 12139 12197	Research Imaging Center, University of Texas Health Cen
 R2	Developer_of Arg1:T4 Arg2:T2	
 T5	Extension 10220 10222	QX
 R3	Extension_of Arg1:T5 Arg2:T1	
+T6	Purpose_Analysis 10207 10219	BrainVoyager
+T7	Purpose_DataPreProcss 12121 12137	Tailarach Daemon

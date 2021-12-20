@@ -5,3 +5,6 @@ T23	Version 4721 4726	4.0.2
 R9	Version_of Arg1:T23 Arg2:T2	
 T24	Citation 5194 5198	[16]
 R10	Citation_of Arg1:T24 Arg2:T3	
+T1	Purpose_Visualization 4713 4720	Protégé
+T5	Purpose_Visualization 5251 5258	Protégé
+T6	Purpose_Analysis 5178 5185	OntoFox
