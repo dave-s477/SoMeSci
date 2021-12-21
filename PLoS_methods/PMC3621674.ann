@@ -5,3 +5,6 @@ T4	Version 4931 4934	6.0
 R1	Version_of Arg1:T4 Arg2:T1	
 T5	Version 5513 5517	15.0
 R2	Version_of Arg1:T5 Arg2:T2	
+T6	Purpose_DataPreProcss 4921 4929	ATLAS.ti
+T7	Purpose_DataCollection 5429 5435	Access
+T8	Purpose_Analysis 5507 5511	SPSS

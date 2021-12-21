@@ -25,3 +25,8 @@ T20	Version 7379 7380	5
 T21	Developer 7382 7399	GraphPad software
 R10	Developer_of Arg1:T21 Arg2:T5	
 R11	Version_of Arg1:T20 Arg2:T5	
+T6	Purpose_DataCollection 4535 4557	MassHunter Acquisition
+T7	Purpose_DataPreProcss 4751 4782	MassHunter Qualitative Analysis
+T8	Purpose_Analysis 5854 5880	Mass Profiler Professional
+T9	Purpose_Analysis 6532 6558	Mass Profiler Professional
+T10	Purpose_Analysis 7365 7370	Prism

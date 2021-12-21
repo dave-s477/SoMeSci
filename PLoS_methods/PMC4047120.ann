@@ -23,3 +23,9 @@ T14	Application_Usage 1772 1780	Volume 1
 R9	PlugIn_of Arg1:T1 Arg2:T14	
 T15	URL 1791 1817	http://www.volume-one.org/
 R10	URL_of Arg1:T15 Arg2:T14	
+T16	Purpose_Analysis 1619 1628	DTV.II SR
+T17	Purpose_Analysis 13971 14014	Statistical Package for the Social Sciences
+T18	Purpose_Analysis 2197 2205	Virtuoso
+T19	Purpose_Analysis 9305 9311	Primer
+T20	Purpose_DataPreProcss 11872 11881	MetaMorph
+T21	Purpose_Analysis 14016 14020	SPSS

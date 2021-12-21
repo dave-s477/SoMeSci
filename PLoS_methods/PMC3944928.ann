@@ -19,3 +19,8 @@ T23	Citation 4195 4199	[11]
 R8	Version_of Arg1:T22 Arg2:T4	
 R9	Citation_of Arg1:T23 Arg2:T4	
 R10	PlugIn_of Arg1:T6 Arg2:T5	
+T7	Purpose_Modelling 5398 5399	R
+T8	Purpose_Visualization 808 814	ArcGIS
+T9	Purpose_Visualization 836 847	Photofiltre
+T10	Purpose_Analysis 1438 1439	R
+T11	Purpose_Modelling 4177 4186	EstimateS

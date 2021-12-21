@@ -25,3 +25,10 @@ T16	Developer 5130 5151	Brain Innovation B.V.
 R9	Developer_of Arg1:T16 Arg2:T5	
 T17	Extension 5113 5115	QX
 R10	Extension_of Arg1:T17 Arg2:T5	
+T18	Purpose_Stimulation 948 960	Presentation
+T19	Purpose_DataCollection 2260 2272	Presentation
+T20	Purpose_Analysis 3614 3620	MATLAB
+T21	Purpose_Analysis 3671 3686	SPSS Statistics
+T22	Purpose_Analysis 5100 5112	BrainVoyager
+T23	Purpose_Analysis 5198 5204	MATLAB
+T24	Purpose_Analysis 5210 5225	SPSS Statistics

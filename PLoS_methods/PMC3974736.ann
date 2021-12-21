@@ -15,3 +15,8 @@ T10	Version 5087 5092	3.0.1
 R5	Version_of Arg1:T10 Arg2:T5	
 T11	Developer 5094 5136	The R Foundation for Statistical Computing
 R6	Developer_of Arg1:T11 Arg2:T5	
+T12	Purpose_DataCollection 4934 4940	Access
+T13	Purpose_DataCollection 4947 4954	EpiInfo
+T14	Purpose_Analysis 4988 4992	SPSS
+T15	Purpose_Analysis 4994 5009	SPSS Statistics
+T16	Purpose_Analysis 5076 5077	R
