@@ -14,3 +14,7 @@ R4	Version_of Arg1:T9 Arg2:T3
 T10	URL 4448 4487	http://www.restfmri.net/forum/REST_V1.8
 R5	URL_of Arg1:T10 Arg2:T4	
 R6	PlugIn_of Arg1:T5 Arg2:T4	
+T11	Purpose_Analysis 2872 2875	SPM
+T12	Purpose_Analysis 3917 3920	SPM
+T13	Purpose_DataPreProcss 4398 4406	AlphaSim
+T14	Purpose_DataPreProcss 4433 4437	REST

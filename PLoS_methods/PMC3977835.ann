@@ -14,3 +14,7 @@ R5	Citation_of Arg1:T11 Arg2:T2
 R6	PlugIn_of Arg1:T3 Arg2:T4	
 T12	Version 5388 5391	9.3
 R7	Version_of Arg1:T12 Arg2:T4	
+T6	Purpose_Modelling 1367 1373	Maxent
+T10	Purpose_Modelling 4547 4580	Hawth's analysis tools for ArcGis
+T13	Purpose_Modelling 5364 5379	Spatial Analyst
+T14	Purpose_Modelling 5381 5387	ArcGis

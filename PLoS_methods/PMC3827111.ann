@@ -20,3 +20,9 @@ T22	PlugIn_Usage 2399 2407	dcm4chee
 R1	PlugIn_of Arg1:T22 Arg2:T3	
 T4	Application_Creation 2257 2262	ReMIT
 T5	Application_Usage 2910 2915	ReMIT
+T10	Purpose_Programming 2291 2298	dcm4che
+T23	Purpose_Programming 3643 3649	OsiriX
+T24	Purpose_Programming 3958 3969	Objective-C
+T25	Purpose_Programming 4005 4006	C
+T26	Purpose_Programming 4007 4010	C++
+T27	Purpose_Programming 4011 4022	Objective-C

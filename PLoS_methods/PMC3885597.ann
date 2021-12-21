@@ -27,3 +27,8 @@ T16	Release 5016 5020	2011
 R11	Release_of Arg1:T16 Arg2:T1	
 T17	Extension 8261 8263	SE
 R12	Extension_of Arg1:T17 Arg2:T4	
+T18	Purpose_Analysis 4960 4964	ENVI
+T19	Purpose_Analysis 6228 6259	eo-spatial modeling environment
+T20	Purpose_Analysis 6303 6312	Fragstats
+T21	Purpose_Modelling 8255 8260	STATA
+T22	Purpose_Analysis 10601 10607	ArcGIS

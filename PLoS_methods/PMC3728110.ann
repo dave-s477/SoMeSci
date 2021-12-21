@@ -10,3 +10,5 @@ T6	Developer 6125 6134	StataCorp
 R4	Developer_of Arg1:T6 Arg2:T2	
 T7	Extension 6098 6100	SE
 R5	Extension_of Arg1:T7 Arg2:T2	
+T8	Purpose_Analysis 6022 6025	SAS
+T9	Purpose_Analysis 6092 6097	Stata

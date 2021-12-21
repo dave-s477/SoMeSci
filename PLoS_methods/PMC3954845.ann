@@ -15,3 +15,7 @@ T10	Version 9229 9230	8
 R6	Version_of Arg1:T10 Arg2:T4	
 R7	PlugIn_of Arg1:T3 Arg2:T4	
 R5	Citation_of Arg1:T9 Arg2:T3	
+T11	Purpose_Analysis 8921 8924	SPM
+T12	Purpose_Analysis 9023 9029	MATLAB
+T13	Purpose_DataPreProcss 9226 9229	SPM
+T14	Purpose_DataPreProcss 9192 9200	Fieldmap

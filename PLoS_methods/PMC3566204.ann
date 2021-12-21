@@ -140,3 +140,34 @@ T91	Version 14099 14104	3.3.2
 R54	Version_of Arg1:T91 Arg2:T33	
 T92	Citation 14105 14109	[78]
 R55	Citation_of Arg1:T92 Arg2:T33	
+T34	Purpose_DataCollection 4482 4487	BLAST
+T35	Purpose_DataPreProcss 4654 4658	MEGA
+T36	Purpose_Analysis 5196 5206	genemapper
+T41	Purpose_DataPreProcss 5844 5853	Clustal W
+T93	Purpose_DataCollection 5875 5879	MEGA
+T94	Purpose_DataPreProcss 6005 6009	MEGA
+T95	Purpose_DataPreProcss 6090 6094	MEGA
+T96	Purpose_DataPreProcss 6229 6234	DnaSP
+T97	Purpose_Analysis 6998 7003	PAUP*
+T98	Purpose_Visualization 7365 7372	Network
+T99	Purpose_Modelling 7535 7542	MrBayes
+T100	Purpose_Modelling 7735 7744	Modeltest
+T101	Purpose_DataCollection 8448 8460	Google Earth
+T102	Purpose_Analysis 8735 8743	Arlequin
+T103	Purpose_Analysis 9834 9842	Arlequin
+T104	Purpose_Modelling 10312 10317	beast
+T105	Purpose_Modelling 10842 10851	Modeltest
+T106	Purpose_Analysis 11454 11460	Tracer
+T107	Purpose_DataPreProcss 11579 11590	LogCombiner
+T108	Purpose_Visualization 11676 11689	TreeAnnotator
+T109	Purpose_Visualization 11707 11715	Fig Tree
+T110	Purpose_DataCollection 11759 11764	EXCEL
+T111	Purpose_DataPreProcss 11822 11829	convert
+T112	Purpose_Analysis 11844 11852	Arlequin
+T113	Purpose_Analysis 11998 12005	GenePop
+T114	Purpose_Analysis 12136 12141	Fstat
+T115	Purpose_Analysis 12267 12277	Bottleneck
+T116	Purpose_Analysis 12704 12712	Arlequin
+T117	Purpose_Analysis 12772 12781	Structure
+T118	Purpose_Modelling 14089 14096	migrate
+T119	Purpose_Analysis 13407 13415	Geneland

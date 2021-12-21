@@ -11,3 +11,7 @@ T8	Version 8612 8615	9.2
 R3	Version_of Arg1:T8 Arg2:T5	
 T9	Developer 8617 8630	SAS Institute
 R4	Developer_of Arg1:T9 Arg2:T5	
+T10	Purpose_Stimulation 243 267	EASY RA1 Easy Randomizer
+T11	Purpose_Visualization 2160 2170	PowerPoint
+T12	Purpose_DataPreProcss 8541 8546	Excel
+T13	Purpose_Analysis 8590 8593	SAS

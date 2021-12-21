@@ -10,3 +10,7 @@ T7	Citation 8134 8138	[38]
 R3	Citation_of Arg1:T7 Arg2:T3	
 T8	Version 7770 7771	3
 R4	Version_of Arg1:T8 Arg2:T2	
+T9	Purpose_DataPreProcss 3272 3281	Dataquest
+T10	Purpose_Modelling 7764 7770	Primer
+T11	Purpose_Analysis 8104 8110	GeNorm
+T12	Purpose_Analysis 8659 8665	GeNorm

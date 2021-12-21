@@ -30,3 +30,14 @@ T22	Version 4040 4044	13.0
 R10	Version_of Arg1:T22 Arg2:T21	
 T23	URL 9545 9566	www.matrixscience.com
 R11	URL_of Arg1:T23 Arg2:T9	
+T11	Purpose_DataPreProcss 1772 1780	ClustalW
+T12	Purpose_Analysis 1674 1679	BLAST
+T24	Purpose_Modelling 1858 1863	SMART
+T25	Purpose_Modelling 1902 1909	SignalP
+T26	Purpose_DataPreProcss 2057 2063	Muscle
+T27	Purpose_Visualization 2171 2176	PhyML
+T28	Purpose_Modelling 2405 2413	I-TASSER
+T29	Purpose_Analysis 3973 4016	Statistical Package for the Social Sciences
+T30	Purpose_Analysis 4027 4031	SPSS
+T31	Purpose_Analysis 9529 9535	MASCOT
+T32	Purpose_Stimulation 10053 10064	GlobalWorks
