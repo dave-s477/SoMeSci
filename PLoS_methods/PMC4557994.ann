@@ -39,3 +39,12 @@ T28	Purpose_DataCollection 1009 1019	FreeSurfer
 T30	Purpose_Analysis 1629 1639	FreeSurfer
 T31	Purpose_DataPreProcss 1887 1891	AFNI
 T32	Purpose_DataPreProcss 1896 1899	FSL
+T33	Purpose_DataCollection 2252 2258	DTIFit
+T34	Purpose_Analysis 2459 2530	Statistical Analysis of Minimum cost path based Structural Connectivity
+T35	Purpose_DataPreProcss 3222 3228	SAMSCo
+T36	Purpose_DataPreProcss 3666 3670	ANFI
+T37	Purpose_DataPreProcss 3675 3678	FSL
+T38	Purpose_DataPreProcss 3761 3765	AFNI
+T39	Purpose_DataPreProcss 4801 4811	FreeSurfer
+T40	Purpose_DataPreProcss 13176 13186	FreeSurfer
+T41	Purpose_DataPreProcss 13585 13595	FreeSurfer

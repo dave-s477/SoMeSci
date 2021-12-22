@@ -18,3 +18,9 @@ T12	Developer 12003 12008	Nikon
 R6	Developer_of Arg1:T12 Arg2:T5	
 T13	Developer 12195 12207	IBM software
 R7	Developer_of Arg1:T13 Arg2:T6	
+T14	Purpose_Analysis 5445 5452	Image J
+T15	Purpose_Analysis 5978 5981	NIS
+T16	Purpose_Analysis 12180 12184	SPSS
+T17	Purpose_Analysis 12009 12012	NIS
+T18	Purpose_Analysis 9929 9938	HVS Image
+T19	Purpose_Analysis 7967 7974	Image J

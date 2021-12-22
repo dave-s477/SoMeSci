@@ -1,3 +1,4 @@
 T1	Application_Usage 2052 2060	EventIDE
 T2	Developer 2062 2074	Okazolab Ltd
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_Stimulation 2052 2060	EventIDE

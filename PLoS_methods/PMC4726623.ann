@@ -13,3 +13,8 @@ R3	Citation_of Arg1:T9 Arg2:T2
 R4	Citation_of Arg1:T9 Arg2:T7	
 T10	Version 8026 8032	5.3.32
 R5	Version_of Arg1:T10 Arg2:T3	
+T11	Purpose_Analysis 22968 22973	Praat
+T12	Purpose_Simulation 4501 4507	MATLAB
+T13	Purpose_Simulation 7933 7957	articulatory synthesizer
+T14	Purpose_Simulation 7996 8001	Praat
+T15	Purpose_Simulation 8012 8017	Praat

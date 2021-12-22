@@ -8,3 +8,5 @@ T5	Version 2995 2999	19.0
 R3	Version_of Arg1:T5 Arg2:T2	
 T6	Developer 3001 3010	SPSS Inc.
 R4	Developer_of Arg1:T6 Arg2:T2	
+T7	Purpose_Analysis 2882 2885	SAS
+T8	Purpose_Analysis 2942 2985	Statistical Package for the Social Sciences

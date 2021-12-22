@@ -15,3 +15,8 @@ T24	Version 6020 6023	6.0
 R12	Version_of Arg1:T24 Arg2:T5	
 T25	Citation 6024 6028	[18]
 R13	Citation_of Arg1:T25 Arg2:T5	
+T6	Purpose_Analysis 2692 2698	Mothur
+T7	Purpose_Visualization 3833 3839	Mothur
+T8	Purpose_Visualization 3845 3850	Venny
+T10	Purpose_DataPreProcss 5737 5747	SILVA SINA
+T11	Purpose_Modelling 6013 6017	MEGA
