@@ -15,3 +15,9 @@ R2	Citation_of Arg1:T17 Arg2:T4
 R3	PlugIn_of Arg1:T3 Arg2:T4	
 T18	Citation 39119 39123	[70]
 R4	Citation_of Arg1:T18 Arg2:T7	
+T11	Purpose_Modelling 232 241	BioNetGen
+T12	Purpose_Simulation 38291 38300	BioNetGen
+T13	Purpose_Analysis 38836 38845	BioNetGen
+T14	Purpose_Analysis 38884 38892	SUNDIALS
+T15	Purpose_Analysis 38869 38874	CVODE
+T19	Purpose_Analysis 39038 39047	BioNetGen

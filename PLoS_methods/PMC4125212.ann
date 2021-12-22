@@ -32,3 +32,10 @@ T24	Version 8210 8213	2.0
 R12	Version_of Arg1:T24 Arg2:T9	
 T25	Citation 8214 8218	[45]
 R13	Citation_of Arg1:T25 Arg2:T9	
+T10	Purpose_Analysis 8205 8208	PGA
+T12	Purpose_Analysis 7230 7269	Statistical Package for Social Sciences
+T13	Purpose_Simulation 6913 6918	CLUMP
+T26	Purpose_Analysis 6838 6845	GENEPOP
+T27	Purpose_DataCollection 6497 6512	MassARRAY Typer
+T28	Purpose_Modelling 5970 5992	MassARRAY Assay Design
+T29	Purpose_DataCollection 4914 4923	Haploview

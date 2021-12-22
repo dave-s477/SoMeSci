@@ -6,3 +6,4 @@ R1	Version_of Arg1:T6 Arg2:T2
 T7	Developer 6829 6838	SPSS Inc.
 R2	Developer_of Arg1:T7 Arg2:T1	
 R3	Version_of Arg1:T5 Arg2:T1	
+T3	Purpose_Analysis 6803 6807	SPSS

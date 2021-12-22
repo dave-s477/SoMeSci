@@ -18,3 +18,9 @@ R7	URL_of Arg1:T15 Arg2:T5
 T16	Version 17951 17952	8
 R8	Version_of Arg1:T16 Arg2:T6	
 R9	Version_of Arg1:T14 Arg2:T4	
+T7	Purpose_Visualization 9581 9593	Presentation
+T10	Purpose_Analysis 14855 14869	WFU-pick atlas
+T11	Purpose_Analysis 15695 15698	SPM
+T17	Purpose_Modelling 16754 16757	SPM
+T18	Purpose_DataCollection 17545 17552	MarsBar
+T19	Purpose_Analysis 17948 17951	SPM

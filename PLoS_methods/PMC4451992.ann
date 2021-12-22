@@ -5,3 +5,4 @@ T3	Version 6577 6580	8.2
 R2	Version_of Arg1:T3 Arg2:T1	
 T4	Developer 6591 6609	SAS Institute Inc.
 R3	Developer_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 6543 6570	Statistical Analysis System

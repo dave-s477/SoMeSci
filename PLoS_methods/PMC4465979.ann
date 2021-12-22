@@ -21,3 +21,7 @@ T30	Version 8632 8635	3.5
 R13	Version_of Arg1:T30 Arg2:T5	
 T31	Developer 8871 8880	Microsoft
 R14	Developer_of Arg1:T31 Arg2:T11	
+T12	Purpose_Programming 8539 8541	C#
+T13	Purpose_Programming 8565 8578	Visual Studio
+T14	Purpose_Programming 8609 8612	NET
+T15	Purpose_Programming 8667 8669	C#

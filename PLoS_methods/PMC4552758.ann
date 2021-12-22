@@ -12,3 +12,7 @@ T11	Citation 3952 3956	[51]
 R6	Citation_of Arg1:T11 Arg2:T2	
 T12	Version 7293 7297	10.1
 R7	Version_of Arg1:T12 Arg2:T3	
+T5	Purpose_Analysis 3904 3917	LiDAR Analyst
+T6	Purpose_Analysis 3940 3946	ArcGIS
+T7	Purpose_DataCollection 7286 7292	ArcGIS
+T13	Purpose_Analysis 7509 7522	LiDAR Analyst
