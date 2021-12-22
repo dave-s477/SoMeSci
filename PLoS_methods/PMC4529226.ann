@@ -36,3 +36,12 @@ R12	Citation_of Arg1:T24 Arg2:T10
 T25	Citation 9008 9016	[50, 51]
 R13	Citation_of Arg1:T25 Arg2:T11	
 R14	Version_of Arg1:T18 Arg2:T5	
+T1	Purpose_DataPreProcss 5100 5103	FSL
+T26	Purpose_Modelling 5930 5956	Artifact Rejection Toolbox
+T27	Purpose_Analysis 6802 6806	CONN
+T28	Purpose_Analysis 6831 6834	SPM
+T29	Purpose_DataPreProcss 7000 7003	SPM
+T30	Purpose_Analysis 7057 7061	CONN
+T31	Purpose_Modelling 7452 7455	ART
+T32	Purpose_Analysis 8142 8146	conn
+T33	Purpose_Modelling 8975 9007	Wake Forest University PickAtlas

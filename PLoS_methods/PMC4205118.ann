@@ -14,3 +14,6 @@ T19	Version 8547 8550	2.1
 R7	Version_of Arg1:T19 Arg2:T2	
 T20	Citation 8551 8555	[35]
 R8	Citation_of Arg1:T20 Arg2:T2	
+T3	Purpose_Programming 4582 4615	Clinical Classifications Software
+T4	Purpose_DataCollection 8260 8263	SAS
+T5	Purpose_Modelling 8533 8538	MLwiN

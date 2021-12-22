@@ -36,3 +36,12 @@ T24	Citation 3135 3139	[18]
 R12	Citation_of Arg1:T24 Arg2:T8	
 T25	Citation 4150 4154	[19]
 R13	Citation_of Arg1:T25 Arg2:T12	
+T26	Purpose_Analysis 2175 2183	Genescan
+T27	Purpose_Analysis 2229 2240	Peakscanner
+T28	Purpose_Analysis 3093 3101	MLRELATE
+T29	Purpose_Analysis 3108 3114	COLONY
+T30	Purpose_Analysis 3124 3134	COANCESTRY
+T31	Purpose_Analysis 2444 2451	GENEPOP
+T32	Purpose_Analysis 2648 2660	MICROCHECKER
+T33	Purpose_Analysis 4130 4140	BOTTLENECK
+T34	Purpose_Analysis 3009 3016	GenAlEx

@@ -9,3 +9,6 @@ T21	Developer 3314 3356	The R Foundation for Statistical Computing
 R6	Developer_of Arg1:T21 Arg2:T2	
 T22	Version 5199 5203	11.0
 R7	Version_of Arg1:T22 Arg2:T3	
+T4	Purpose_Visualization 2816 2822	Revman
+T5	Purpose_Analysis 3296 3297	R
+T6	Purpose_Visualization 5178 5198	MapInfo Professional

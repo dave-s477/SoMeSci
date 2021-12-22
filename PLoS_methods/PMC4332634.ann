@@ -18,3 +18,7 @@ T11	Version 14694 14699	3.0.2
 R7	Version_of Arg1:T11 Arg2:T6	
 T12	Citation 14700 14704	[48]
 R8	Citation_of Arg1:T12 Arg2:T6	
+T13	Purpose_Analysis 11117 11118	R
+T14	Purpose_Modelling 11195 11200	dismo
+T15	Purpose_Programming 11202 11203	R
+T16	Purpose_Analysis 14663 14664	R

@@ -21,3 +21,9 @@ T14	Citation 14380 14384	[27]
 R7	Citation_of Arg1:T14 Arg2:T5	
 T15	Citation 14408 14412	[28]
 R8	Citation_of Arg1:T15 Arg2:T6	
+T16	Purpose_DataCollection 4783 4787	Scan
+T17	Purpose_DataPreProcss 5322 5326	Scan
+T18	Purpose_Analysis 14156 14157	R
+T19	Purpose_Modelling 14369 14379	BrainStorm
+T20	Purpose_Modelling 14389 14397	openMEEG
+T21	Purpose_Programming 14204 14210	MATLAB

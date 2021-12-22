@@ -34,3 +34,8 @@ R7	Citation_of Arg1:T27 Arg2:T11
 R8	Citation_of Arg1:T27 Arg2:T10	
 T29	PlugIn_Usage 1835 1840	FLIRT
 R10	PlugIn_of Arg1:T29 Arg2:T4	
+T20	Purpose_DataCollection 246 256	FreeSurfer
+T28	Purpose_DataCollection 1009 1019	FreeSurfer
+T30	Purpose_Analysis 1629 1639	FreeSurfer
+T31	Purpose_DataPreProcss 1887 1891	AFNI
+T32	Purpose_DataPreProcss 1896 1899	FSL

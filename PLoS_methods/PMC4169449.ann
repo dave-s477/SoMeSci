@@ -19,3 +19,9 @@ T12	Citation 8644 8648	[39]
 R7	Citation_of Arg1:T12 Arg2:T4	
 T13	Version 12115 12119	20.0
 R8	Version_of Arg1:T13 Arg2:T6	
+T14	Purpose_DataPreProcss 5451 5455	MEGA
+T15	Purpose_DataCollection 5340 5345	BLAST
+T16	Purpose_DataCollection 8560 8567	ArcView
+T17	Purpose_DataCollection 8636 8643	ArcView
+T18	Purpose_DataCollection 8604 8617	Patch Analyst
+T19	Purpose_Analysis 12102 12106	SPSS

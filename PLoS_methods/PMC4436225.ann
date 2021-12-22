@@ -18,3 +18,10 @@ T11	URL 5471 5497	http://cran.r-project.org/
 R7	URL_of Arg1:T11 Arg2:T6	
 R8	URL_of Arg1:T11 Arg2:T5	
 R9	URL_of Arg1:T11 Arg2:T4	
+T12	Purpose_Modelling 3349 3381	Land Cover Classification System
+T13	Purpose_Modelling 3473 3477	GDAL
+T14	Purpose_Programming 5380 5381	R
+T15	Purpose_Programming 5406 5407	R
+T16	Purpose_Programming 5426 5431	rgdal
+T17	Purpose_Programming 5433 5439	raster
+T18	Purpose_Programming 5444 5448	mgcv
