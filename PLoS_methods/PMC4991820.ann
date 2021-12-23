@@ -4,3 +4,9 @@ T3	Application_Usage 8673 8677	SNAP
 T4	Application_Usage 8719 8724	Excel
 T5	Application_Usage 8888 8893	Excel
 T7	Application_Usage 8590 8600	Globalpark
+T6	Purpose_DataPreProcss 5297 5307	Globalpark
+T8	Purpose_DataCollection 6940 6955	SPSS Dimensions
+T9	Purpose_DataCollection 8590 8600	Globalpark
+T10	Purpose_DataCollection 8673 8677	SNAP
+T11	Purpose_DataPreProcss 8719 8724	Excel
+T12	Purpose_DataPreProcss 8888 8893	Excel

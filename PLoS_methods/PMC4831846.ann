@@ -14,3 +14,8 @@ R5	Developer_of Arg1:T8 Arg2:T7
 T10	Version 13258 13262	22.0
 R6	Version_of Arg1:T10 Arg2:T7	
 T9	OperatingSystem_Usage 13239 13248	Macintosh
+T11	Purpose_Modelling 11355 11359	NLME
+T12	Purpose_Modelling 11387 11388	R
+T13	Purpose_Analysis 13178 13186	R Studio
+T14	Purpose_Analysis 13209 13213	SPSS
+T15	Purpose_Analysis 13219 13234	SPSS Statistics

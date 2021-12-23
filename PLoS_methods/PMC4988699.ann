@@ -31,3 +31,15 @@ T11	Application_Usage 6709 6711	C2
 T12	Citation 6712 6716	[64]
 R8	Citation_of Arg1:T12 Arg2:T11	
 T13	Application_Usage 6718 6720	C2
+T19	Purpose_DataPreProcss 2235 2240	CALIB
+T21	Purpose_DataPreProcss 2705 2710	Calib
+T23	Purpose_Modelling 4068 4069	R
+T24	Purpose_Modelling 4051 4055	clam
+T25	Purpose_Visualization 4997 5001	clam
+T26	Purpose_Visualization 5006 5007	R
+T27	Purpose_Analysis 6613 6618	rioja
+T28	Purpose_Analysis 6630 6631	R
+T29	Purpose_Visualization 6709 6711	C2
+T30	Purpose_Visualization 6718 6720	C2
+T31	Purpose_Modelling 7245 7249	clam
+T32	Purpose_Modelling 7262 7263	R

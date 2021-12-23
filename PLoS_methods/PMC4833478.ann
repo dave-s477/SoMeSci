@@ -9,3 +9,8 @@ T7	Citation 5636 5640	[47]
 R2	Citation_of Arg1:T7 Arg2:T3	
 T8	Citation 6215 6219	[50]
 R3	Citation_of Arg1:T8 Arg2:T4	
+T9	Purpose_DataPreProcss 4663 4669	EEGLAB
+T10	Purpose_DataPreProcss 4917 4923	EEGLAB
+T11	Purpose_Analysis 5629 5635	EEGLAB
+T12	Purpose_Modelling 6210 6214	Stan
+T13	Purpose_Analysis 8748 8752	Stan

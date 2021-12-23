@@ -48,3 +48,16 @@ T14	Application_Usage 7787 7826	Expression Analysis Systematic Explorer
 T15	Abbreviation 7828 7832	EASE
 R10	Abbreviation_of Arg1:T15 Arg2:T14	
 R11	PlugIn_of Arg1:T10 Arg2:T9	
+T7	Purpose_Analysis 4169 4180	BD FACSDiva
+T17	Purpose_Programming 5001 5007	FastQC
+T18	Purpose_DataPreProcss 5259 5265	Tophat
+T20	Purpose_DataPreProcss 5300 5308	iGenomes
+T21	Purpose_Analysis 5480 5489	Cufflinks
+T30	Purpose_Analysis 7508 7571	Database for Annotation, Visualization and Integrated Discovery
+T31	Purpose_Visualization 8757 8766	BisoGenet
+T32	Purpose_Visualization 8797 8806	Cytoscape
+T35	Purpose_Analysis 8313 8319	GSEA-P
+T39	Purpose_Analysis 7787 7826	Expression Analysis Systematic Explorer
+T42	Purpose_DataCollection 7671 7676	DAVID
+T43	Purpose_DataCollection 7677 7703	Functional Annotation Tool
+T44	Purpose_Visualization 8828 8837	BisoGenet

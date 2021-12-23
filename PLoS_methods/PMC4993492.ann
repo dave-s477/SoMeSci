@@ -12,3 +12,7 @@ T8	Developer 8780 8800	Scientific Computing
 R4	Developer_of Arg1:T8 Arg2:T4	
 T9	Extension 2890 2893	Pro
 R5	Extension_of Arg1:T9 Arg2:T1	
+T10	Purpose_DataCollection 2882 2889	Acrobat
+T11	Purpose_Analysis 7067 7073	FlowJo
+T12	Purpose_DataCollection 8365 8373	ToupView
+T13	Purpose_Analysis 8747 8755	Statview

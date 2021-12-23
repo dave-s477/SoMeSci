@@ -4,3 +4,4 @@ T3	Abbreviation 2159 2163	SPSS
 R1	Abbreviation_of Arg1:T3 Arg2:T1	
 T4	Version 2185 2189	19.0
 R2	Version_of Arg1:T4 Arg2:T1	
+T5	Purpose_Analysis 2114 2157	Statistical Package for the Social Sciences
