@@ -7,3 +7,5 @@ T4	Citation 7591 7595	[57]
 R3	Citation_of Arg1:T4 Arg2:T1	
 T5	Citation 7625 7629	[58]
 R4	Citation_of Arg1:T5 Arg2:T2	
+T6	Purpose_Analysis 7575 7576	R
+T7	Purpose_Analysis 7619 7623	nlme

@@ -26,3 +26,10 @@ T17	Developer 16017 16030	The MathWorks
 R9	Developer_of Arg1:T17 Arg2:T6	
 T18	Developer 16064 16080	Nex Technologies
 R10	Developer_of Arg1:T18 Arg2:T7	
+T19	Purpose_Analysis 5727 5733	MATLAB
+T20	Purpose_Analysis 6388 6429	principal component analysis spike sorter
+T21	Purpose_Analysis 6554 6565	Open sorter
+T22	Purpose_Analysis 6797 6810	NeuroExplorer
+T23	Purpose_Analysis 15948 15956	GraphPad
+T24	Purpose_Analysis 16001 16007	MATLAB
+T25	Purpose_Analysis 16049 16062	NeuroExplorer

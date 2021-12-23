@@ -103,3 +103,25 @@ T78	URL 22463 22520	http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml
 R38	URL_of Arg1:T78 Arg2:T27	
 T79	Version 19321 19324	137
 R39	Version_of Arg1:T79 Arg2:T34	
+T28	Purpose_Analysis 12395 12400	SLINK
+T30	Purpose_Analysis 13876 13881	PLINK
+T31	Purpose_Analysis 13891 13899	PEDSTATS
+T32	Purpose_Analysis 14089 14121	Pedigree-Based Analysis Pipeline
+T33	Purpose_Analysis 14876 14882	MORGAN
+T40	Purpose_DataCollection 15643 15681	Copy Number Inference from Exome Reads
+T41	Purpose_Modelling 15846 15853	mrsFAST
+T47	Purpose_DataCollection 15710 15717	CoNIFER
+T59	Purpose_Analysis 16572 16579	PennCNV
+T80	Purpose_Analysis 16589 16595	cnvHap
+T81	Purpose_Analysis 17368 17374	BEAGLE
+T82	Purpose_DataPreProcss 17505 17510	PLINK
+T83	Purpose_DataPreProcss 17645 17650	PLINK
+T84	Purpose_Modelling 17893 17899	BEAGLE
+T85	Purpose_Analysis 18916 18922	MERLIN
+T86	Purpose_DataPreProcss 19309 19320	Seattle Seq
+T87	Purpose_Modelling 19398 19422	Variant Effect Predictor
+T88	Purpose_Analysis 19463 19469	GEMINI
+T89	Purpose_DataPreProcss 20405 20409	GATK
+T90	Purpose_Analysis 20608 20631	Genome Variation Server
+T91	Purpose_Analysis 20707 20715	PolyPhen
+T92	Purpose_Analysis 20729 20768	Combined Annotation Dependent Depletion

@@ -26,3 +26,12 @@ R8	Version_of Arg1:T17 Arg2:T5
 R9	PlugIn_of Arg1:T7 Arg2:T8	
 T18	Citation 25714 25719	[114]
 R10	Citation_of Arg1:T18 Arg2:T8	
+T19	Purpose_Analysis 8952 8953	R
+T20	Purpose_Analysis 9022 9029	T-LoCoH
+T21	Purpose_Analysis 14187 14194	T-LoCoH
+T22	Purpose_Simulation 15434 15441	T-LoCoH
+T23	Purpose_Analysis 18713 18720	SOCPROG
+T24	Purpose_Visualization 23426 23433	SOCPROG
+T25	Purpose_Modelling 25695 25699	boot
+T26	Purpose_Programming 25712 25713	R
+T27	Purpose_Programming 24373 24380	SOCPROG

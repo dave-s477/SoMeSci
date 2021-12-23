@@ -34,3 +34,12 @@ R10	Citation_of Arg1:T29 Arg2:T6
 T30	Citation 6132 6139	[41,42]
 R11	Citation_of Arg1:T30 Arg2:T10	
 R13	Developer_of Arg1:T23 Arg2:T4	
+T12	Purpose_Analysis 6198 6203	GARLI
+T13	Purpose_Modelling 6126 6131	GARLI
+T14	Purpose_Analysis 4817 4823	Python
+T16	Purpose_Analysis 3817 3838	CLC Genomic Workbench
+T17	Purpose_Analysis 3850 3863	SMRT analysis
+T18	Purpose_Analysis 3791 3798	Newbler
+T31	Purpose_DataPreProcss 3982 4031	Prokaryotic Genomes Automatic Annotation Pipeline
+T32	Purpose_Visualization 4294 4299	GARLI
+T33	Purpose_Visualization 4402 4407	GARLI
