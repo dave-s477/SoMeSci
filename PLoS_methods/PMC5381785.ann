@@ -10,3 +10,5 @@ T9	Application_Usage 9563 9569	Stella
 T10	Application_Mention 9937 9941	Pong
 T11	Citation 9570 9574	[16]
 R1	Citation_of Arg1:T11 Arg2:T9	
+T12	Purpose_Stimulation 5002 5006	Pong
+T13	Purpose_Programming 9563 9569	Stella

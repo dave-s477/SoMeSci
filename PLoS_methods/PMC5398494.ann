@@ -2,3 +2,5 @@ T1	Application_Usage 9707 9712	excel
 T2	Application_Usage 9908 9924	EQ-5D calculator
 T3	Citation 9925 9929	[40]
 R1	Citation_of Arg1:T3 Arg2:T2	
+T4	Purpose_DataCollection 9707 9712	excel
+T5	Purpose_Analysis 9908 9924	EQ-5D calculator

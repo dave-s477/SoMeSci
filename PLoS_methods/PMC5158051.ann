@@ -1,3 +1,4 @@
 T1	Application_Usage 10480 10523	Statistical Package for the Social Sciences
 T2	Developer 10525 10529	SPSS
 R1	Developer_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 10480 10523	Statistical Package for the Social Sciences

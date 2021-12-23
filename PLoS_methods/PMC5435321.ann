@@ -7,3 +7,5 @@ T7	Version 6668 6672	23.0
 R3	Version_of Arg1:T7 Arg2:T1	
 T8	Developer 6697 6706	SPSS Inc.
 R4	Developer_of Arg1:T8 Arg2:T1	
+T4	Purpose_Analysis 6663 6667	SPSS
+T5	Purpose_Analysis 6729 6737	GraphPad

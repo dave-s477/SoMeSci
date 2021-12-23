@@ -4,3 +4,5 @@ T3	Citation 2206 2213	[26,27]
 R1	Citation_of Arg1:T3 Arg2:T1	
 T4	Developer 9511 9520	Microsoft
 R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Purpose_Analysis 2188 2196	CompuSyn
+T6	Purpose_Analysis 9504 9509	Excel

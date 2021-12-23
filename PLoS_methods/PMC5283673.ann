@@ -5,3 +5,4 @@ T6	Developer 5838 5847	StataCorp
 R4	Developer_of Arg1:T6 Arg2:T1	
 T7	Extension 5820 5822	MP
 R5	Extension_of Arg1:T7 Arg2:T1	
+T2	Purpose_Analysis 5814 5819	Stata

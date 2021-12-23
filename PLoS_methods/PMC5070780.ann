@@ -63,3 +63,24 @@ R25	Version_of Arg1:T42 Arg2:T18
 T43	Citation 9615 9620	[102]
 R26	Citation_of Arg1:T43 Arg2:T18	
 R7	Specification_of Arg1:T38 Arg2:T16	
+T20	Purpose_DataCollection 3756 3762	FastQC
+T21	Purpose_DataPreProcss 3828 3839	Trimmomatic
+T28	Purpose_DataPreProcss 4181 4185	STAR
+T44	Purpose_DataPreProcss 4274 4282	Samtools
+T45	Purpose_Analysis 4737 4745	Mirdeep2
+T46	Purpose_DataCollection 4994 4999	BLAST
+T47	Purpose_DataCollection 5113 5121	Mirdeep2
+T48	Purpose_Analysis 5429 5430	R
+T49	Purpose_Analysis 5456 5461	edgeR
+T50	Purpose_Analysis 5468 5473	vegan
+T51	Purpose_Analysis 5483 5489	gplots
+T52	Purpose_Modelling 5659 5663	edge
+T53	Purpose_Modelling 5664 5665	R
+T54	Purpose_Modelling 7248 7260	Primer-BLAST
+T55	Purpose_Analysis 7658 7697	Statistical Package for Social Sciences
+T56	Purpose_Analysis 7708 7712	SPSS
+T57	Purpose_Analysis 9590 9600	TargetScan
+T58	Purpose_Analysis 8156 8182	Ingenuity Pathway Analysis
+T59	Purpose_Analysis 8184 8187	IPA
+T60	Purpose_Modelling 9791 9796	miRDB
+T61	Purpose_Analysis 9212 9217	miRDB

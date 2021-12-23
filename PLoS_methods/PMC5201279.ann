@@ -6,3 +6,5 @@ T6	Developer 7831 7844	SAS Institute
 R4	Developer_of Arg1:T6 Arg2:T1	
 T2	Application_Usage 5064 5101	VA Computerized Patient Record System
 R1	Abbreviation_of Arg1:T4 Arg2:T2	
+T3	Purpose_DataCollection 5064 5101	VA Computerized Patient Record System
+T7	Purpose_Analysis 7814 7817	SAS

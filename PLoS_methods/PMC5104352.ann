@@ -40,3 +40,10 @@ T42	Version 8883 8886	1.3
 R17	Version_of Arg1:T42 Arg2:T16	
 T43	Citation 8887 8891	[31]
 R18	Citation_of Arg1:T43 Arg2:T16	
+T19	Purpose_DataCollection 372 384	Google Earth
+T20	Purpose_DataCollection 667 679	Google Earth
+T21	Purpose_Programming 2772 2778	MaxEnt
+T22	Purpose_DataPreProcss 1169 1179	SDMtoolbox
+T23	Purpose_Analysis 4472 4482	SDMtoolbox
+T24	Purpose_Analysis 7982 7988	MaxEnt
+T25	Purpose_Analysis 8873 8881	ENMtools

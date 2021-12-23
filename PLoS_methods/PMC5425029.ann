@@ -15,3 +15,9 @@ R4	Citation_of Arg1:T10 Arg2:T5
 R5	PlugIn_of Arg1:T6 Arg2:T5	
 T11	Citation 15904 15908	[51]
 R6	Citation_of Arg1:T11 Arg2:T6	
+T12	Purpose_DataCollection 1836 1842	ImageJ
+T13	Purpose_Analysis 2348 2351	JMP
+T14	Purpose_Analysis 10569 10572	JMP
+T15	Purpose_Analysis 10782 10786	SPSS
+T16	Purpose_Modelling 15862 15863	R
+T17	Purpose_Modelling 15891 15895	nlme

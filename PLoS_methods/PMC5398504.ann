@@ -10,3 +10,8 @@ R3	Citation_of Arg1:T11 Arg2:T3
 R4	PlugIn_of Arg1:T5 Arg2:T4	
 T12	Citation 1599 1603	[25]
 R5	Citation_of Arg1:T12 Arg2:T5	
+T6	Purpose_Analysis 561 567	Blastp
+T7	Purpose_DataPreProcss 980 988	ClustalW
+T8	Purpose_Analysis 1101 1105	MEGA
+T9	Purpose_Visualization 1574 1575	R
+T13	Purpose_Visualization 1585 1590	Vegan
