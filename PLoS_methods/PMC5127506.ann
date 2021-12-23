@@ -4,3 +4,5 @@ T3	Version 7713 7721	2014.1.0
 R1	Version_of Arg1:T3 Arg2:T1	
 T4	Developer 7792 7796	SPSS
 R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Purpose_DataCollection 7684 7692	iDataFax
+T6	Purpose_Analysis 7747 7790	Statistical Package for the Social Sciences

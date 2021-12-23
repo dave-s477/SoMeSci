@@ -28,3 +28,13 @@ R13	Citation_of Arg1:T25 Arg2:T7
 T26	Citation 10147 10151	[27]
 R14	PlugIn_of Arg1:T9 Arg2:T10	
 R15	Citation_of Arg1:T26 Arg2:T9	
+T11	Purpose_DataCollection 4594 4609	Bioplex Manager
+T12	Purpose_Analysis 4700 4715	Bioplex Manager
+T13	Purpose_Analysis 5106 5112	BLASTp
+T15	Purpose_Analysis 7115 7122	Analyst
+T17	Purpose_Analysis 8841 8848	Skyline
+T23	Purpose_DataPreProcss 9178 9185	MSstats
+T24	Purpose_DataPreProcss 9186 9187	R
+T27	Purpose_Visualization 10133 10136	Epi
+T28	Purpose_Visualization 10137 10138	R
+T29	Purpose_Modelling 5273 5280	Skyline

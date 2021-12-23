@@ -6,3 +6,5 @@ T4	Version 5025 5029	22.0
 R2	Version_of Arg1:T4 Arg2:T1	
 T5	Developer 5120 5129	Microsoft
 R3	Developer_of Arg1:T5 Arg2:T2	
+T6	Purpose_Analysis 5001 5016	SPSS Statistics
+T7	Purpose_Analysis 5130 5135	Excel

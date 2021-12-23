@@ -28,3 +28,10 @@ T17	Version 7413 7417	0.42
 R11	Version_of Arg1:T17 Arg2:T5	
 T18	Version 8463 8465	16
 R12	Version_of Arg1:T18 Arg2:T6	
+T19	Purpose_DataPreProcss 1305 1313	GoldWave
+T20	Purpose_Analysis 8459 8463	SPSS
+T21	Purpose_Analysis 5882 5912	statistical parametric mapping
+T22	Purpose_Analysis 5914 5917	SPM
+T23	Purpose_DataPreProcss 6145 6148	SPM
+T24	Purpose_DataCollection 7396 7403	Marsbar
+T25	Purpose_Stimulation 3489 3496	E-Prime

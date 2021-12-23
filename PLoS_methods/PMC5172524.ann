@@ -8,3 +8,5 @@ T7	Version 1997 2000	9.4
 R4	Version_of Arg1:T7 Arg2:T2	
 T8	Developer 2002 2019	SAS Institute Inc
 R5	Developer_of Arg1:T8 Arg2:T2	
+T3	Purpose_DataCollection 1884 1891	Epidata
+T4	Purpose_Analysis 1992 1995	SAS

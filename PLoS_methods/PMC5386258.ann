@@ -22,3 +22,8 @@ T13	Citation 15291 15295	[38]
 R9	Citation_of Arg1:T13 Arg2:T6	
 T14	Extension 14883 14895	Professional
 R10	Extension_of Arg1:T14 Arg2:T4	
+T15	Purpose_Modelling 14445 14446	R
+T16	Purpose_Modelling 14589 14600	h2oEnsemble
+T17	Purpose_Analysis 14481 14496	H2O R interface
+T18	Purpose_Analysis 15276 15277	R
+T19	Purpose_Modelling 15286 15290	pROC
