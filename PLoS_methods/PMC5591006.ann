@@ -36,3 +36,15 @@ T30	URL 8182 8211	http://www.matrixscience.com/
 R15	URL_of Arg1:T30 Arg2:T12	
 T8	Release 8176 8180	2016
 R3	Release_of Arg1:T8 Arg2:T12	
+T13	Purpose_Analysis 1774 1783	SigmaPlot
+T16	Purpose_Analysis 1784 1793	SigmaStat
+T18	Purpose_Analysis 4484 4496	PhylopythiaS
+T19	Purpose_DataPreProcss 4937 4980	Rapid Annotation using Subsystem Technology
+T25	Purpose_Analysis 5092 5099	FGENESB
+T31	Purpose_DataPreProcss 5185 5192	Artemis
+T32	Purpose_Analysis 5330 5336	BLASTp
+T33	Purpose_Analysis 7552 7566	ProteomeWeaver
+T34	Purpose_Visualization 8076 8089	Flex Analysis
+T35	Purpose_Visualization 8141 8147	MASCOT
+T36	Purpose_Visualization 8103 8111	BioTools
+T37	Purpose_Analysis 5475 5483	InterPro

@@ -4,3 +4,6 @@ T3	Application_Usage 5400 5405	STATA
 R1	PlugIn_of Arg1:T2 Arg2:T1	
 T4	Version 5407 5409	11
 R2	Version_of Arg1:T4 Arg2:T3	
+T5	Purpose_Analysis 3279 3280	R
+T6	Purpose_Analysis 3290 3295	rpart
+T7	Purpose_Analysis 5400 5405	STATA

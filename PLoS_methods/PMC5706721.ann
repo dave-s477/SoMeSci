@@ -14,3 +14,8 @@ R6	Citation_of Arg1:T12 Arg2:T5
 T13	Citation 3067 3071	[74]
 R7	Citation_of Arg1:T13 Arg2:T6	
 R2	PlugIn_of Arg1:T5 Arg2:T4	
+T7	Purpose_Analysis 690 700	Brainsight
+T8	Purpose_Analysis 1816 1826	Brainsight
+T10	Purpose_Stimulation 3005 3011	Matlab
+T14	Purpose_Stimulation 3029 3041	Psychtoolbox
+T15	Purpose_Stimulation 3051 3066	Eyelink Toolbox

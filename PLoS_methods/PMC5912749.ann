@@ -40,3 +40,9 @@ T33	Citation 5317 5321	[75]
 R13	Citation_of Arg1:T33 Arg2:T18	
 T34	Citation 8792 8796	[77]
 R14	Citation_of Arg1:T34 Arg2:T17	
+T19	Purpose_Programming 4837 4843	Python
+T29	Purpose_Programming 4857 4862	GNU R
+T30	Purpose_Analysis 5293 5301	vcftools
+T31	Purpose_DataPreProcss 6464 6468	READ
+T35	Purpose_Modelling 8144 8148	READ
+T36	Purpose_Analysis 8783 8791	samtools

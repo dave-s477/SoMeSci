@@ -15,3 +15,6 @@ T9	Version 6372 6375	5.0
 R6	Version_of Arg1:T9 Arg2:T3	
 T10	Developer 6377 6399	GraphPad Software Inc.
 R7	Developer_of Arg1:T10 Arg2:T3	
+T11	Purpose_Analysis 5375 5381	FlowJo
+T12	Purpose_Analysis 6270 6276	FlowJo
+T13	Purpose_Analysis 6366 6371	Prism

@@ -6,3 +6,6 @@ R1	Version_of Arg1:T4 Arg2:T1
 R2	PlugIn_of Arg1:T3 Arg2:T2	
 T5	Citation 6215 6219	[28]
 R3	Citation_of Arg1:T5 Arg2:T3	
+T6	Purpose_Analysis 6057 6061	SPSS
+T7	Purpose_Analysis 6070 6074	SPSS
+T8	Purpose_Analysis 6075 6082	PROCESS

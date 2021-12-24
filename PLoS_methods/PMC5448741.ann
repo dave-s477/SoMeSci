@@ -16,3 +16,8 @@ R5	Version_of Arg1:T9 Arg2:T5
 R6	Developer_of Arg1:T10 Arg2:T5	
 T11	Extension 9896 9898	SE
 R7	Extension_of Arg1:T11 Arg2:T5	
+T12	Purpose_Analysis 9890 9895	Stata
+T13	Purpose_Modelling 8067 8109	Waikato Environment for Knowledge Analysis
+T14	Purpose_Modelling 5915 5918	FDT
+T15	Purpose_Modelling 5931 5934	FSL
+T16	Purpose_Modelling 5311 5319	TrackVis
