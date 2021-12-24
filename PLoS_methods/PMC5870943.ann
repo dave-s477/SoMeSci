@@ -11,3 +11,9 @@ R3	PlugIn_of Arg1:T3 Arg2:T1
 R4	PlugIn_of Arg1:T4 Arg2:T1	
 R5	PlugIn_of Arg1:T5 Arg2:T1	
 R6	PlugIn_of Arg1:T6 Arg2:T1	
+T8	Purpose_Analysis 8221 8222	R
+T9	Purpose_Analysis 8253 8257	Mice
+T10	Purpose_Analysis 8261 8268	lattice
+T11	Purpose_Analysis 8272 8280	Survival
+T12	Purpose_Analysis 8283 8288	mitml
+T13	Purpose_Analysis 8296 8302	survC1

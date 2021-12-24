@@ -74,3 +74,28 @@ T49	URL 10551 10586	http://www.oege.org/software/cubex/
 R25	URL_of Arg1:T49 Arg2:T14	
 R26	Abbreviation_of Arg1:T35 Arg2:T9	
 R27	Citation_of Arg1:T36 Arg2:T9	
+T50	Purpose_DataPreProcss 5667 5689	FMRIB Software Library
+T51	Purpose_Analysis 7857 7860	FSL
+T52	Purpose_Analysis 10031 10035	SPSS
+T53	Purpose_Analysis 8636 8639	FSL
+T54	Purpose_DataPreProcss 6022 6027	FLIRT
+T55	Purpose_DataPreProcss 6045 6050	FNIRT
+T56	Purpose_DataPreProcss 6128 6163	FMRIB's Automated Segmentation Tool
+T57	Purpose_Modelling 6847 6853	DTIFit
+T58	Purpose_Modelling 6863 6888	FMRIB’s Diffusion Toolbox
+T59	Purpose_DataPreProcss 7139 7142	FSL
+T60	Purpose_DataPreProcss 7143 7226	Multivariate Exploratory Linear Optimized Decomposition into Independent Components
+T61	Purpose_Analysis 7463 7493	FMRIB's ICA-based X-noiseifier
+T62	Purpose_Analysis 8055 8062	FSL-VBM
+T63	Purpose_DataPreProcss 7641 7646	FNIRT
+T64	Purpose_Analysis 8351 8355	SPSS
+T65	Purpose_Analysis 8452 8477	FMRIB’s Diffusion Toolbox
+T66	Purpose_Analysis 8482 8512	tract-based spatial statistics
+T67	Purpose_Analysis 8748 8755	MELODIC
+T68	Purpose_Analysis 8093 8146	FMRIB’s Integrated Registration and Segmentation Tool
+T69	Purpose_Analysis 8640 8655	dual regression
+T70	Purpose_Analysis 8964 8967	VBM
+T71	Purpose_Analysis 8969 8973	TBSS
+T72	Purpose_Analysis 8975 8990	dual regression
+T73	Purpose_Analysis 10539 10544	CubeX
+T74	Purpose_DataPreProcss 9171 9205	threshold-free cluster enhancement

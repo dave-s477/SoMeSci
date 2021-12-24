@@ -17,3 +17,8 @@ T13	Version 2011 2016	1.8.0
 R6	Version_of Arg1:T13 Arg2:T3	
 T14	Version 2029 2032	3.2
 R7	Version_of Arg1:T14 Arg2:T4	
+T6	Purpose_DataCollection 1687 1692	Excel
+T7	Purpose_Analysis 1750 1765	SPSS Statistics
+T15	Purpose_Visualization 1966 1974	DIVA-GIS
+T16	Purpose_Visualization 2006 2010	QGIS
+T17	Purpose_Visualization 2021 2028	ArcView

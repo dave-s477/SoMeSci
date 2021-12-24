@@ -8,3 +8,5 @@ T6	Version 9196 9197	6
 R3	Version_of Arg1:T6 Arg2:T2	
 T7	Developer 9199 9207	GraphPad
 R4	Developer_of Arg1:T7 Arg2:T2	
+T3	Purpose_Analysis 1961 1967	FlowJo
+T8	Purpose_Analysis 9182 9187	Prism

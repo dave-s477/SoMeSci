@@ -15,3 +15,7 @@ T9	Version 7396 7398	10
 T10	Developer 7400 7417	QSR international
 R6	Developer_of Arg1:T10 Arg2:T3	
 R7	Version_of Arg1:T9 Arg2:T3	
+T11	Purpose_Analysis 4254 4258	SPSS
+T12	Purpose_Analysis 4275 4290	SPSS Statistics
+T13	Purpose_DataCollection 4333 4338	CSPRO
+T14	Purpose_Analysis 7390 7395	Nvivo

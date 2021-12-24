@@ -16,3 +16,10 @@ T11	Version 10786 10790	2.14
 R6	Version_of Arg1:T11 Arg2:T7	
 T12	Citation 10797 10801	[44]
 R7	Citation_of Arg1:T12 Arg2:T7	
+T8	Purpose_DataPreProcss 8443 8450	BioEdit
+T13	Purpose_Visualization 8712 8716	MEGA
+T14	Purpose_Analysis 10533 10537	EpiR
+T15	Purpose_Visualization 10586 10593	ggplot2
+T16	Purpose_Analysis 10641 10645	mgcv
+T17	Purpose_Programming 10681 10682	R
+T18	Purpose_Analysis 10781 10785	QGIS

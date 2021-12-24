@@ -12,3 +12,8 @@ T5	PlugIn_Usage 25938 25946	ZSCORE06
 R4	PlugIn_of Arg1:T5 Arg2:T2	
 T9	Citation 25961 25965	[51]
 R5	Citation_of Arg1:T9 Arg2:T5	
+T10	Purpose_DataCollection 23927 23934	Epidata
+T11	Purpose_Analysis 25938 25946	ZSCORE06
+T12	Purpose_Analysis 25947 25952	Stata
+T13	Purpose_Modelling 29231 29236	Stata
+T14	Purpose_Analysis 30845 30850	Stata

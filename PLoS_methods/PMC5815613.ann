@@ -10,3 +10,7 @@ T12	Version 2119 2120	7
 R6	Version_of Arg1:T12 Arg2:T9	
 T13	Version 2127 2128	7
 R7	Version_of Arg1:T13 Arg2:T2	
+T4	Purpose_DataPreProcss 2107 2113	MUSCLE
+T5	Purpose_DataPreProcss 2115 2119	MEGA
+T6	Purpose_DataPreProcss 2123 2127	MEGA
+T7	Purpose_Analysis 15757 15762	Prism

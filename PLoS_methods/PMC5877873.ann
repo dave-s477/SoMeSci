@@ -8,3 +8,5 @@ T12	Version 7544 7550	11.0.1
 R5	Version_of Arg1:T12 Arg2:T2	
 T13	Developer 7552 7579	Research Triangle Institute
 R6	Developer_of Arg1:T13 Arg2:T2	
+T3	Purpose_Analysis 7482 7485	SAS
+T4	Purpose_Analysis 7528 7534	SUDAAN
