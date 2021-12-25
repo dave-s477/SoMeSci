@@ -25,3 +25,9 @@ T16	Citation 10803 10807	[23]
 R11	Citation_of Arg1:T16 Arg2:T5	
 T17	Citation 10785 10789	[22]
 R12	Citation_of Arg1:T17 Arg2:T4	
+T7	Purpose_DataCollection 10120 10128	Promasys
+T18	Purpose_Visualization 10502 10503	R
+T8	Purpose_Analysis 10732 10733	R
+T19	Purpose_Analysis 10772 10777	dplyr
+T20	Purpose_Analysis 10790 10795	psych
+T21	Purpose_Analysis 10808 10813	tidyr

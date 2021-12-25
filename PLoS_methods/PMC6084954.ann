@@ -3,3 +3,4 @@ T2	Version 6120 6128	24.0.0.0
 R1	Version_of Arg1:T2 Arg2:T1	
 T3	Developer 6130 6139	IBM Corp.
 R2	Developer_of Arg1:T3 Arg2:T1	
+T4	Purpose_Analysis 6104 6119	SPSS Statistics

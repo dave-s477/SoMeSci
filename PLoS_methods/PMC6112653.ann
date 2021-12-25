@@ -7,3 +7,6 @@ R1	URL_of Arg1:T5 Arg2:T1
 T6	Citation 10594 10598	[36]
 R2	Citation_of Arg1:T6 Arg2:T3	
 R3	PlugIn_of Arg1:T3 Arg2:T4	
+T7	Purpose_Analysis 1086 1097	Soscisurvey
+T8	Purpose_DataCollection 6215 6226	Soscisurvey
+T9	Purpose_DataPreProcss 10581 10585	mice

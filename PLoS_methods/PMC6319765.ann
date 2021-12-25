@@ -16,3 +16,7 @@ T10	Version 13585 13589	13.3
 R6	Version_of Arg1:T10 Arg2:T4	
 T11	Developer 13591 13610	TIBCO Software Inc.
 R7	Developer_of Arg1:T11 Arg2:T4	
+T12	Purpose_Analysis 7083 7103	Sperm Class Analyzer
+T13	Purpose_Analysis 11079 11089	Statistica
+T14	Purpose_Analysis 11313 11323	Statistica
+T15	Purpose_Analysis 13563 13573	Statistica

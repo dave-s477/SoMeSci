@@ -8,3 +8,5 @@ T7	Version 8376 8380	12.0
 R3	Version_of Arg1:T7 Arg2:T2	
 T8	Developer 8384 8397	StataCorp LLC
 R4	Developer_of Arg1:T8 Arg2:T2	
+T3	Purpose_Analysis 8295 8309	NQuery Advisor
+T4	Purpose_Analysis 8370 8375	STATA

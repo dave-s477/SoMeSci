@@ -3,3 +3,5 @@ T3	PlugIn_Usage 5848 5855	bnlearn
 R1	PlugIn_of Arg1:T3 Arg2:T1	
 T4	Citation 5856 5860	[32]
 R2	Citation_of Arg1:T4 Arg2:T1	
+T2	Purpose_Modelling 5838 5839	R
+T5	Purpose_Modelling 5848 5855	bnlearn

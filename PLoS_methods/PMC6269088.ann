@@ -22,3 +22,11 @@ T17	Citation 10242 10246	[46]
 R8	Citation_of Arg1:T17 Arg2:T5	
 T19	Version 12007 12008	3
 R10	Version_of Arg1:T19 Arg2:T6	
+T9	Purpose_Analysis 7195 7205	TensorFlow
+T14	Purpose_Analysis 8199 8210	PyRadiomics
+T18	Purpose_Analysis 12253 12257	GSEA
+T20	Purpose_Analysis 8346 8349	irr
+T21	Purpose_Analysis 8592 8597	mRMRe
+T22	Purpose_Analysis 9064 9069	caret
+T23	Purpose_Analysis 10225 10233	survcomp
+T24	Purpose_Analysis 11985 11989	GSEA

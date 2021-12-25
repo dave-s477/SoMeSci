@@ -3,3 +3,5 @@ T2	PlugIn_Usage 5486 5500	quantregForest
 R3	PlugIn_of Arg1:T2 Arg2:T1	
 T9	Version 5511 5516	0.2–3
 R4	Version_of Arg1:T9 Arg2:T2	
+T3	Purpose_Analysis 5475 5476	R
+T4	Purpose_Analysis 5486 5500	quantregForest

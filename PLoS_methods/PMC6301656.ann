@@ -4,3 +4,5 @@ T3	Version 6999 7001	11
 R1	Version_of Arg1:T3 Arg2:T2	
 T4	Developer 7024 7037	StataCorp LP.
 R2	Developer_of Arg1:T4 Arg2:T2	
+T5	Purpose_DataCollection 5157 5162	Excel
+T6	Purpose_Analysis 6985 6990	Stata
