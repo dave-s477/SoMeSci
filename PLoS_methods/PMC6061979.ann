@@ -6,3 +6,5 @@ T5	Citation 8820 8824	[25]
 R1	Citation_of Arg1:T5 Arg2:T1	
 T6	Citation 8938 8942	[25]
 R2	Citation_of Arg1:T6 Arg2:T2	
+T7	Purpose_Simulation 8813 8819	NEURON
+T8	Purpose_Simulation 8931 8937	NEURON

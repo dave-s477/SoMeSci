@@ -16,3 +16,9 @@ R5	Developer_of Arg1:T10 Arg2:T8
 T11	Developer 6272 6293	Microsoft Corporation
 R6	Developer_of Arg1:T11 Arg2:T8	
 R7	Specification_of Arg1:T8 Arg2:T4	
+T12	Purpose_Analysis 4660 4666	MATLAB
+T13	Purpose_Analysis 4668 4674	MATLAB
+T14	Purpose_Analysis 5100 5106	MATLAB
+T15	Purpose_Analysis 6092 6098	MATLAB
+T16	Purpose_Analysis 6243 6248	Excel
+T17	Purpose_Analysis 6260 6265	Excel

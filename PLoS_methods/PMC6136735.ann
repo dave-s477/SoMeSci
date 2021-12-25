@@ -8,3 +8,6 @@ T11	Version 3542 3546	13.1
 R5	Version_of Arg1:T11 Arg2:T2	
 T12	Extension 3539 3541	SE
 R6	Extension_of Arg1:T12 Arg2:T10	
+T3	Purpose_Analysis 3485 3507	Microsoft Office Excel
+T4	Purpose_Analysis 3517 3522	Stata
+T5	Purpose_Analysis 3533 3538	Stata

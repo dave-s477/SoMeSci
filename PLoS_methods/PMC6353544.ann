@@ -11,3 +11,7 @@ T8	Citation 8442 8446	[48]
 R3	Citation_of Arg1:T8 Arg2:T3	
 T9	Citation 11464 11468	[54]
 R4	Citation_of Arg1:T9 Arg2:T5	
+T10	Purpose_Analysis 11462 11463	R
+T11	Purpose_DataCollection 8487 8493	Enketo
+T12	Purpose_DataCollection 8352 8358	Enketo
+T13	Purpose_Programming 8419 8432	Open Data Kit

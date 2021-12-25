@@ -71,3 +71,26 @@ R33	Citation_of Arg1:T68 Arg2:T20
 R35	PlugIn_of Arg1:T22 Arg2:T21	
 T70	URL 10250 10318	https://bioconductor.org/packages/release/bioc/html/GeneOverlap.html
 R36	URL_of Arg1:T70 Arg2:T22	
+T15	Purpose_DataPreProcss 2136 2144	cutadapt
+T16	Purpose_DataPreProcss 2154 2160	sickle
+T17	Purpose_DataPreProcss 2167 2171	GATK
+T24	Purpose_DataPreProcss 2336 2343	BWA-MEM
+T25	Purpose_DataPreProcss 2419 2427	SAMtools
+T26	Purpose_DataPreProcss 2563 2569	Picard
+T27	Purpose_DataPreProcss 2730 2734	GATK
+T30	Purpose_Analysis 2883 2887	GATK
+T33	Purpose_Analysis 10227 10228	R
+T35	Purpose_Analysis 10229 10240	GeneOverlap
+T36	Purpose_Analysis 9558 9584	Ingenuity Pathway Analyser
+T37	Purpose_Analysis 2970 2974	GATK
+T54	Purpose_Analysis 3911 3920	PLINK/SEQ
+T55	Purpose_Analysis 4084 4089	PLINK
+T56	Purpose_Analysis 4146 4151	PLINK
+T57	Purpose_DataPreProcss 5207 5215	BCFtools
+T58	Purpose_DataPreProcss 5312 5320	BCFtools
+T59	Purpose_DataPreProcss 5376 5383	ANNOVAR
+T60	Purpose_Analysis 6542 6546	XHMM
+T64	Purpose_DataPreProcss 6748 6756	bedtools
+T67	Purpose_DataPreProcss 6987 6991	XHMM
+T69	Purpose_Analysis 7228 7233	PLINK
+T71	Purpose_Analysis 7617 7623	CNVmap

@@ -74,3 +74,29 @@ R30	Citation_of Arg1:T67 Arg2:T6
 R1	Abbreviation_of Arg1:T55 Arg2:T54	
 T23	Citation 4591 4595	[54]
 R2	Citation_of Arg1:T23 Arg2:T54	
+T24	Purpose_DataPreProcss 4548 4578	Haplotype Reference Consortium
+T25	Purpose_Analysis 8101 8108	GenCall
+T26	Purpose_Analysis 8704 8709	PLINK
+T27	Purpose_Analysis 8895 8903	SMARTPCA
+T29	Purpose_DataPreProcss 9592 9596	KING
+T31	Purpose_Analysis 21279 21284	METAL
+T32	Purpose_Analysis 21366 21371	METAL
+T33	Purpose_Analysis 21200 21209	METACARPA
+T34	Purpose_Analysis 19114 19121	SNPTEST
+T36	Purpose_Analysis 18790 18797	SNPTEST
+T37	Purpose_Analysis 18495 18500	PLINK
+T38	Purpose_Analysis 16319 16326	ordinal
+T39	Purpose_Analysis 16327 16328	R
+T40	Purpose_Analysis 15882 15885	GTX
+T41	Purpose_Analysis 15872 15873	R
+T42	Purpose_Simulation 15186 15193	DISSECT
+T43	Purpose_Simulation 15118 15119	R
+T44	Purpose_Analysis 14691 14698	SNPTEST
+T45	Purpose_Analysis 14586 14592	Quanto
+T46	Purpose_Analysis 14479 14482	rms
+T47	Purpose_Analysis 14506 14507	R
+T48	Purpose_Analysis 12183 12191	BOLT-LMM
+T49	Purpose_Analysis 12007 12014	SNPTEST
+T50	Purpose_DataPreProcss 11342 11348	IMPUTE
+T51	Purpose_DataPreProcss 11296 11303	SHAPEIT
+T52	Purpose_Analysis 10187 10191	KING

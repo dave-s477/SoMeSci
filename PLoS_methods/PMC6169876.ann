@@ -22,3 +22,8 @@ R8	Citation_of Arg1:T14 Arg2:T4
 R9	PlugIn_of Arg1:T5 Arg2:T4	
 T15	Citation 6660 6664	[38]
 R10	Citation_of Arg1:T15 Arg2:T5	
+T6	Purpose_Programming 2347 2359	Visual Basic
+T16	Purpose_Analysis 3582 3591	Photoshop
+T17	Purpose_Analysis 3640 3650	Pixelmator
+T18	Purpose_Analysis 6624 6625	R
+T19	Purpose_Analysis 6647 6651	lme4

@@ -1,3 +1,6 @@
 T1	Application_Usage 2506 2510	SPSS
 T2	Application_Usage 2496 2501	Stata
 T3	Application_Usage 2807 2812	Stata
+T4	Purpose_Modelling 2807 2812	Stata
+T5	Purpose_Analysis 2506 2510	SPSS
+T6	Purpose_Analysis 2496 2501	Stata

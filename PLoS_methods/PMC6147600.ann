@@ -32,3 +32,16 @@ T26	Version 8895 8899	0.17
 R12	Version_of Arg1:T26 Arg2:T6	
 T27	Citation 8900 8904	[34]
 R13	Citation_of Arg1:T27 Arg2:T6	
+T8	Purpose_DataPreProcss 3554 3557	SPM
+T9	Purpose_DataPreProcss 4156 4163	Nilearn
+T16	Purpose_Programming 4178 4184	Python
+T22	Purpose_Analysis 6468 6475	Mricron
+T28	Purpose_Analysis 6479 6486	FSLView
+T29	Purpose_Analysis 6682 6692	NeuroSynth
+T30	Purpose_Analysis 6729 6739	NeuroSynth
+T31	Purpose_DataCollection 8523 8533	NeuroSynth
+T32	Purpose_DataCollection 8582 8592	NeuroSynth
+T33	Purpose_Analysis 8882 8894	Scikit-learn
+T34	Purpose_Visualization 9870 9882	Scikit-learn
+T35	Purpose_Analysis 11332 11342	NeuroSynth
+T36	Purpose_DataCollection 10182 10192	NeuroSynth

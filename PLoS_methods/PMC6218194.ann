@@ -1,3 +1,4 @@
 T1	Application_Usage 3233 3239	ArcGIS
 T2	Version 3240 3244	10.3
 R1	Version_of Arg1:T2 Arg2:T1	
+T3	Purpose_Analysis 3233 3239	ArcGIS
