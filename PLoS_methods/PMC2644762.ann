@@ -24,8 +24,8 @@ T40	Version 3935 3936	3
 R19	Version_of Arg1:T40 Arg2:T4	
 T9	Purpose_Analysis 2627 2632	PLINK
 T10	Purpose_Analysis 3504 3509	PLINK
-T11	Purpose_DataPreProcss 3929 3935	Primer
-T12	Purpose_Analysis 5146 5163	Mutation Surveyor
+T11	Purpose_Modelling 3929 3935	Primer
+T12	Purpose_DataCollection 5146 5163	Mutation Surveyor
 T13	Purpose_Analysis 6653 6658	BLAST
 T14	Purpose_Analysis 7535 7543	PolyPhen
 T15	Purpose_Analysis 7396 7410	Genome browser
