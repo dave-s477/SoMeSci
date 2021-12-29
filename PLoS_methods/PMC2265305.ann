@@ -5,4 +5,4 @@ R3	Version_of Arg1:T7 Arg2:T1
 T8	Developer 3581 3598	Stata Corporation
 R4	Developer_of Arg1:T8 Arg2:T1	
 T3	Purpose_Analysis 3540 3545	Stata
-T4	Purpose_DataCollection 4256 4261	Stata
+T4	Purpose_Modelling 4256 4261	Stata
