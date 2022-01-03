@@ -54,3 +54,7 @@ T34	Purpose_Visualization 34448 34460	clusterMaker
 T35	Purpose_Analysis 34471 34476	BiNGO
 T36	Purpose_Analysis 34484 34493	cytoscape
 T37	Purpose_Analysis 38174 38179	Prism
+T38	Purpose_Analysis 30867 30873	MASCOT
+T39	Purpose_Analysis 34059 34066	FunRich
+T40	Purpose_Visualization 34275 34284	Cytoscape
+T41	Purpose_Analysis 38206 38218	Office Excel
