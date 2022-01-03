@@ -25,3 +25,6 @@ R8	Citation_of Arg1:T16 Arg2:T15
 T17	Application_Usage 2571 2577	SHELXL
 T18	Version 2577 2579	97
 R9	Version_of Arg1:T18 Arg2:T17	
+T19	Purpose_DataPreProcss 2287 2299	CrystalClear
+T20	Purpose_DataPreProcss 2257 2269	CrystalClear
+T21	Purpose_DataCollection 2209 2221	CrystalClear
