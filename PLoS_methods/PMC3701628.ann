@@ -12,3 +12,4 @@ R4	Developer_of Arg1:T2 Arg2:T4
 T8	Purpose_DataCollection 1765 1782	Experiment Center
 T9	Purpose_DataCollection 1788 1795	iView X
 T10	Purpose_Stimulation 9502 9508	BeGaze
+T11	Purpose_Analysis 583 590	G*Power

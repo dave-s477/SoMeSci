@@ -125,3 +125,4 @@ T89	Purpose_DataPreProcss 20405 20409	GATK
 T90	Purpose_Analysis 20608 20631	Genome Variation Server
 T91	Purpose_Analysis 20707 20715	PolyPhen
 T92	Purpose_Analysis 20729 20768	Combined Annotation Dependent Depletion
+T93	Purpose_Analysis 17862 17868	BEAGLE
