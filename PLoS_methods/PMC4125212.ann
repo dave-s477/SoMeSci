@@ -39,3 +39,5 @@ T26	Purpose_Analysis 6838 6845	GENEPOP
 T27	Purpose_DataCollection 6497 6512	MassARRAY Typer
 T28	Purpose_Modelling 5970 5992	MassARRAY Assay Design
 T29	Purpose_DataCollection 4914 4923	Haploview
+T30	Purpose_Analysis 7409 7412	2LD
+T31	Purpose_Modelling 7462 7474	GENECOUNTING

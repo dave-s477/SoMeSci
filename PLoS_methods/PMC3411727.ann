@@ -35,9 +35,9 @@ R13	Developer_of Arg1:T21 Arg2:T8
 T22	Developer 12959 12968	Microsoft
 R14	Developer_of Arg1:T22 Arg2:T12	
 T23	Purpose_DataCollection 11717 11723	Med-PC
-T24	Purpose_DataCollection 12870 12875	MedPC
 T25	Purpose_DataCollection 12952 12957	Excel
 T26	Purpose_Visualization 12983 12988	Excel
 T27	Purpose_Visualization 12990 12995	Prism
 T28	Purpose_Visualization 13034 13045	Illustrator
 T29	Purpose_Modelling 13149 13164	SPSS Statistics
+T24	Purpose_DataCollection 12969 12975	Office
