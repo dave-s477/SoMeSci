@@ -21,8 +21,9 @@ R1	URL_of Arg1:T7 Arg2:T6
 T8	Application_Usage 4813 4823	Yahoo-BOSS
 T9	Purpose_DataCollection 1615 1660	Entrez Utilities Entrez Programming Utilities
 T10	Purpose_Programming 2242 2248	Python
-T11	Purpose_DataCollection 2255 2259	NLTK
 T12	Purpose_DataCollection 2377 2381	NLTK
 T13	Purpose_DataCollection 2558 2565	Attivio
 T14	Purpose_DataCollection 2663 2670	Inxight
 T15	Purpose_DataPreProcss 4479 4493	Yahoo-BOSS API
+T17	Purpose_DataPreProcss 2255 2259	NLTK
+T11	Purpose_DataPreProcss 4813 4823	Yahoo-BOSS
