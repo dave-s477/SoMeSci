@@ -4,5 +4,5 @@ T3	Application_Usage 9824 9834	Chromeleon
 T4	Developer 6953 6964	Improvision
 R1	Developer_of Arg1:T4 Arg2:T2	
 T5	Purpose_DataCollection 6965 6972	Openlab
-T6	Purpose_Analysis 2948 2959	LSM imaging
+T6	Purpose_Visualization 2948 2959	LSM imaging
 T7	Purpose_Analysis 9824 9834	Chromeleon
