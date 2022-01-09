@@ -143,7 +143,7 @@ T103	Purpose_Analysis 40916 40922	Salmon
 T104	Purpose_Analysis 41049 41050	R
 T105	Purpose_Analysis 41061 41069	tximport
 T106	Purpose_Analysis 41079 41084	edgeR
-T107	Purpose_Analysis 41261 41263	R-
+T107	Purpose_Modelling 41261 41263	R-
 T108	Purpose_Analysis 41616 41617	R
 T109	Purpose_Analysis 41626 41629	RTN
 T110	Purpose_Analysis 42240 42245	xCell
@@ -154,6 +154,3 @@ T114	Purpose_Analysis 49366 49367	R
 T115	Purpose_Analysis 49377 49386	survminer
 T116	Purpose_Analysis 49391 49399	survival
 T117	Purpose_Analysis 10254 10260	SnpEff
-T118	Purpose_DataPreProcss 34686 34692	Picard
-T119	Purpose_Analysis 41269 41283	consensus MIBC
-T120	Purpose_DataPreProcss 43088 43089	R
