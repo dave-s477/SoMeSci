@@ -41,3 +41,5 @@ T28	Purpose_DataCollection 12005 12009	FIMO
 T29	Purpose_DataPreProcss 13516 13522	skewer
 T30	Purpose_DataPreProcss 13615 13618	BWA
 T31	Purpose_Analysis 13719 13723	MACS
+T32	Purpose_Analysis 9872 9877	DESeq
+T33	Purpose_Analysis 9881 9882	R
