@@ -1,0 +1,21 @@
+Rambaut A (2006) FigTree: tree figure drawing tool, version 1.0. Institute of Evolutionary Biology, University of Edinburgh. Available: http://tree.bio.ed.ac.uk/software/figtree/. Accessed 2013 Jan 14.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Rambaut A (2006) FigTree: tree figure drawing tool, version 1.0. Institute of Evolutionary Biology, University of Edinburgh. Available: <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/figtree/">http://tree.bio.ed.ac.uk/software/figtree/</ext-link>. Accessed 2013 Jan 14.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'FigTree: tree figure drawing tool, version 1.0. Institute of Evolutionary Biology', 'venue': '', 'year': 2006, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'FigTree: tree figure drawing tool, version 1.0. Institute of Evolutionary Biology, University of Edinburgh. Available: http://tree.bio.ed.ac. uk/software/figtree', 'venue': '', 'year': 2006, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref60', 'unstructured': 'Rambaut A (2006) FigTree: tree figure drawing tool, version 1.0. Institute of Evolutionary Biology, University of Edinburgh. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/figtree/" xlink:type="simple">http://tree.bio.ed.ac.uk/software/figtree/</ext-link>. Accessed 2013 Jan 14.'}

@@ -1,0 +1,17 @@
+NetOGlyc 3.1 Server. Available online: http://www.cbs.dtu.dk/services/NetOGlyc (accessed on 5 December 2012).
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="webpage">
+<article-title>NetOGlyc 3.1 Server</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://www.cbs.dtu.dk/services/NetOGlyc">http://www.cbs.dtu.dk/services/NetOGlyc</ext-link></comment>
+<date-in-citation>(accessed on 5 December 2012)</date-in-citation>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'NetOGlyc 3.1 Server Available online: http://www.cbs.dtu.dk/services/NetOGlyc', 'venue': 'NetOGlyc 3.1 Server Available online: http://www.cbs.dtu.dk/services/NetOGlyc', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref70', 'unstructured': 'NetOGlyc 3.1 Serverhttp://www.cbs.dtu.dk/services/NetOGlyc'}

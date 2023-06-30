@@ -1,0 +1,15 @@
+Landini G. Colour deconvolution. Available at: http://www.dentistry.bham.ac.uk/landinig/software/cdeconv/cdeconv.html. Accessed December 4, 2011.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other"><person-group person-group-type="author"><name><surname>Landini</surname><given-names>G</given-names></name></person-group>
+<comment>Colour deconvolution. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.dentistry.bham.ac.uk/landinig/software/cdeconv/cdeconv.html">http://www.dentistry.bham.ac.uk/landinig/software/cdeconv/cdeconv.html</ext-link>. Accessed December 4, 2011</comment>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Colour deconvolution', 'venue': 'Available at: http://www.dentistry. bham.ac.uk/landinig/software/cdeconv/cdeconv.html. Accessed December', 'year': 2011, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<reference missing>>
+

@@ -1,0 +1,14 @@
+Heston A, Summers R, Aten B (2002) Penn World Table, Version 6.1 [computer program]. Philadelphia: Center for International Comparisons at the University of Pennsylvania.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><name><surname>Heston</surname><given-names>A</given-names></name><name><surname>Summers</surname><given-names>R</given-names></name><name><surname>Aten</surname><given-names>B</given-names></name></person-group><source>Penn World Table, Version 6.1 [computer program]</source><year>2002</year><publisher-loc>Philadelphia</publisher-loc><publisher-name>Center for International Comparisons at the University of Pennsylvania</publisher-name></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Penn World Table, Version 6.1 [computer program]. Philadelphia: Center for International Comparisons at the University of Pennsylvania', 'venue': '', 'year': 2002, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<reference missing>>
+

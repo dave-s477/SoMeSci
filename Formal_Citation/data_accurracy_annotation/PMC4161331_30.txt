@@ -1,0 +1,11 @@
+Leckie G, Charlton C (2011) runmlwin: Stata module for fitting multilevel models in the MLwiN software package.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Leckie G, Charlton C (2011) runmlwin: Stata module for fitting multilevel models in the MLwiN software package.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '69480d7b857b1a0b48c0309da64c86db75f5a661', 'externalIds': {'MAG': '1547239440', 'CorpusId': 60454238}, 'url': 'https://www.semanticscholar.org/paper/69480d7b857b1a0b48c0309da64c86db75f5a661', 'title': 'runmlwin: Stata module for fitting multilevel models in the MLwiN software package', 'venue': '', 'year': 2011, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '47330840', 'name': 'G. Leckie'}, {'authorId': '145266382', 'name': 'C. Charlton'}]}<<<crossref>>>
+
+{'key': 'ref30', 'unstructured': 'Leckie G, Charlton C (2011) runmlwin: Stata module for fitting multilevel models in the MLwiN software package.'}

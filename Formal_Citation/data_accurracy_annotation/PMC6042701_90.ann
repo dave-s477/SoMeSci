@@ -1,0 +1,33 @@
+T0	Creator 0 9	StataCorp
+T1	PubDate_year 11 15	2017
+T2	Name 17 22	Stata
+T3	Description 23 43	Statistical Software
+T4	Version 53 55	15
+T5	Creator 78 92	StataCorp LLC.
+T6	Creator 249 258	StataCorp
+T7	PubDate_year 275 279	2017
+T8	Name 295 300	Stata
+T9	Description 301 321	Statistical Software
+T10	Version 331 333	15
+T11	unstructured 331 333	15
+T12	unstructured 295 300	Stata
+T13	unstructured 301 321	Statistical Software
+T14	Creator 412 425	StataCorp LLC
+T15	Name 702 707	Stata
+T16	Description 708 728	Statistical Software
+T17	unstructured 708 728	Statistical Software
+T18	Version 738 739	7
+T19	unstructured 738 739	7
+T20	wrong_content 738 739	7
+T21	PubDate_year 764 768	2001
+T22	wrong_content 764 768	2001
+T23	Creator 846 893	{'authorId': '114603988', 'name': 'Tx Station'}
+T24	wrong_content 846 893	{'authorId': '114603988', 'name': 'Tx Station'}
+T25	Name 946 951	Stata
+T26	Description 952 972	Statistical Software
+T27	Version 982 984	15
+T28	PubDate_year 996 1000	2017
+T29	unstructured 946 951	Stata
+T30	unstructured 952 972	Statistical Software
+T31	unstructured 982 984	15
+T32	unstructured 702 707	Stata

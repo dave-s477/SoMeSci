@@ -1,0 +1,11 @@
+QGIS Development Team. QGIS Geogaphic Information System [Internet]. Open Source Geospatial Foundation Project. 2016. http://qgis.osgeo.org
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">QGIS Development Team. QGIS Geogaphic Information System [Internet]. Open Source Geospatial Foundation Project. 2016. <ext-link ext-link-type="uri" xlink:href="http://qgis.osgeo.org">http://qgis.osgeo.org</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'QGIS Geogaphic Information System [Internet', 'venue': 'Open Source Geospatial Foundation Project.', 'year': 2016, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref44', 'unstructured': 'QGIS Development Team. QGIS Geogaphic Information System [Internet]. Open Source Geospatial Foundation Project. 2016. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://qgis.osgeo.org" xlink:type="simple">http://qgis.osgeo.org</ext-link>'}

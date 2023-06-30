@@ -1,0 +1,11 @@
+Nakazawa M. fmsb: Functions for Medical Statistics Book with some Demographic Data. 2015.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Nakazawa M. fmsb: Functions for Medical Statistics Book with some Demographic Data. 2015.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'fmsb: Functions for Medical Statistics Book with some Demographic Data', 'venue': '', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref31', 'unstructured': 'Nakazawa M. fmsb: Functions for Medical Statistics Book with some Demographic Data. 2015.'}

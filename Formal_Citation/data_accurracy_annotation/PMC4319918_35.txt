@@ -1,0 +1,12 @@
+Cohen LB, Atkinson DJ, Chaput HH (2000) Habit 2000: A new program for testing infant perception and cognition ( Version 1.0) Austin: University of Texas.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<name><surname>Cohen</surname><given-names>LB</given-names></name>, <name><surname>Atkinson</surname><given-names>DJ</given-names></name>, <name><surname>Chaput</surname><given-names>HH</given-names></name> (<year>2000</year>) <source>Habit 2000: A new program for testing infant perception and cognition</source> (<edition>Version 1.0</edition>) <publisher-loc>Austin</publisher-loc>: <publisher-name>University of Texas</publisher-name>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Habit 2000: A new program for testing infant perception and cognition ( Version 1.0) Austin: University of Texas', 'venue': '', 'year': 2000, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref35', 'article-title': 'Habit 2000: A new program for testing infant perception and cognition', 'author': 'LB Cohen', 'year': '2000'}

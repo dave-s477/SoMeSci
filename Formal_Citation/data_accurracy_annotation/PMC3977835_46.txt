@@ -1,0 +1,13 @@
+Beyer HL (2004) Hawth’s analysis tools for arcgis. http://www.spatialecology.com/htools. Accessed 12 April 2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Beyer HL (2004) Hawth's analysis tools for arcgis. <ext-link ext-link-type="uri" xlink:href="http://www.spatialecology.com/htools">http://www.spatialecology.com/htools</ext-link>. Accessed 12 April 2012.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Hawth’s analysis tools for arcgis', 'venue': 'http://www.spatialecology. com/htools. Accessed', 'year': 2004, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref46', 'unstructured': 'Beyer HL (2004) Hawth&apos;s analysis tools for arcgis. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.spatialecology.com/htools" xlink:type="simple">http://www.spatialecology.com/htools</ext-link>. Accessed 12 April 2012.'}

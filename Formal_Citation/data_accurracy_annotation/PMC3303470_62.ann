@@ -1,0 +1,33 @@
+T0	Creator 0 30	Stuiver M, Reimer PJ, Reimer R
+T1	PubDate_year 32 36	2005
+T2	Name 38 43	CALIB
+T3	Version 44 47	6.0
+T4	URL 91 129	http://radiocarbon.pa.qub.ac.uk/calib/
+T5	Type_of_citation 49 78	WWW program and documentation
+T6	Creator 324 524	<name><surname>Stuiver</surname><given-names>M</given-names></name><name><surname>Reimer</surname><given-names>PJ</given-names></name><name><surname>Reimer</surname><given-names>R</given-names></name>
+T7	PubDate_year 546 550	2005
+T8	Name 573 578	CALIB
+T9	Version 579 582	6.0
+T10	Type_of_citation 584 613	WWW program and documentation
+T11	unstructured 584 613	WWW program and documentation
+T12	unstructured 573 578	CALIB
+T13	unstructured 579 582	6.0
+T14	URL 733 771	http://radiocarbon.pa.qub.ac.uk/calib/
+T15	Name 1054 1059	CALIB
+T16	Version 1060 1065	5.0.2
+T17	wrong_content 1060 1065	5.0.2
+T18	unstructured 1054 1059	CALIB
+T19	unstructured 1060 1065	5.0.2
+T20	Type_of_citation 1067 1096	WWW program and documentation
+T21	unstructured 1067 1096	WWW program and documentation
+T22	PubDate_year 1121 1125	2005
+T23	Creator 1202 1343	[{'authorId': '4248650', 'name': 'M. Stuiver'}, {'authorId': '40438943', 'name': 'P. Reimer'}, {'authorId': '46244360', 'name': 'R. Reimer'}]
+T24	Name 1397 1402	CALIB
+T25	Version 1403 1406	6.0
+T26	Type_of_citation 1408 1437	WWW program and documentation
+T27	unstructured 1397 1402	CALIB
+T28	unstructured 1403 1406	6.0
+T29	unstructured 1408 1437	WWW program and documentation
+T30	Creator 1452 1461	M Stuiver
+T31	incomplete_content 1452 1461	M Stuiver
+T32	PubDate_year 1473 1477	2005

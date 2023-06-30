@@ -1,0 +1,28 @@
+SAS Institute Inc. (1997) SAS/STAT Software: Changes and Enhancements through Release 6.12. Cary, NC: SAS Institute Inc. 1167 p.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>SAS Institute Inc.</collab>
+<year>1997</year>
+<source>SAS/STAT Software: Changes and Enhancements through Release 6.12</source>
+<publisher-loc>Cary, NC</publisher-loc>
+<publisher-name>SAS Institute Inc</publisher-name>
+<size units="page">1167</size>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SAS/STAT Software: Changes and Enhancements through Release 6.12', 'venue': 'SAS Institute Inc', 'year': 1997, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SAS/STAT Software: Changes and Enhancements through Release 6', 'venue': 'SAS/STAT Software: Changes and Enhancements through Release 6', 'year': 1167, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref70', 'article-title': 'SAS/STAT Software: Changes and Enhancements through Release 6.12', 'year': '1997'}

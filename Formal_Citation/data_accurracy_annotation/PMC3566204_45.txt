@@ -1,0 +1,13 @@
+Swofford DL (2002) PAUP*: Phylogenetic Analysis Using Parsimony (and Other Methods). 4.0 Beta ed. Sunderland, MA: Sinauer Associates.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Swofford DL (2002) PAUP*: Phylogenetic Analysis Using Parsimony (and Other Methods). 4.0 Beta ed. Sunderland, MA: Sinauer Associates.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '0ad5733eafb41274895bf1dce6b92ae8f3d68c60', 'externalIds': {'MAG': '2164789250', 'DOI': '10.1002/9780471650126.DOB0522.PUB2', 'CorpusId': 201191751}, 'url': 'https://www.semanticscholar.org/paper/0ad5733eafb41274895bf1dce6b92ae8f3d68c60', 'title': 'PAUP* [Phylogenetic Analysis Using Parsimony (and Other Methods)]', 'venue': '', 'year': 2004, 'publicationDate': '2004-10-15', 'journal': {'volume': '', 'name': 'Dictionary of Bioinformatics and Computational Biology'}, 'authors': [{'authorId': '2453924', 'name': 'M. P. Cummings'}]}
+
+<<<crossref>>>
+
+{'key': 'ref45', 'unstructured': 'Swofford DL (2002) PAUP*: Phylogenetic Analysis Using Parsimony (and Other Methods). 4.0 Beta ed. Sunderland, MA: Sinauer Associates.'}

@@ -1,0 +1,30 @@
+T0	Name 0 8	NetOGlyc
+T1	Version 9 12	3.1
+T2	URL 39 78	http://www.cbs.dtu.dk/services/NetOGlyc
+T3	Date_of_access 92 107	5 December 2012
+T4	Type_of_citation 31 37	online
+T5	Name 279 287	NetOGlyc
+T6	Version 288 291	3.1
+T7	Type_of_citation 334 340	online
+T8	URL 424 463	http://www.cbs.dtu.dk/services/NetOGlyc
+T9	Date_of_access 516 531	5 December 2012
+T10	unstructured 516 531	5 December 2012
+T11	unstructured 334 340	online
+T13	unstructured 288 291	3.1
+T14	unstructured 279 287	NetOGlyc
+T15	Name 659 667	NetOGlyc
+T16	Version 668 671	3.1
+T17	unstructured 659 667	NetOGlyc
+T18	unstructured 668 671	3.1
+T19	URL 697 736	http://www.cbs.dtu.dk/services/NetOGlyc
+T20	unstructured 697 736	http://www.cbs.dtu.dk/services/NetOGlyc
+T21	Type_of_citation 689 695	online
+T22	unstructured 689 695	online
+T23	duplicate 749 826	NetOGlyc 3.1 Server Available online: http://www.cbs.dtu.dk/services/NetOGlyc
+T24	wrong_content 837 841	2012
+T25	Name 951 959	NetOGlyc
+T26	Version 960 963	3.1
+T27	URL 970 1009	http://www.cbs.dtu.dk/services/NetOGlyc
+T28	unstructured 970 1009	http://www.cbs.dtu.dk/services/NetOGlyc
+T29	unstructured 960 963	3.1
+T30	unstructured 951 959	NetOGlyc

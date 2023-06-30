@@ -1,0 +1,21 @@
+Rempel R, Elkie P (1999) Patch Analyst 2.2. Center for Northern Forest Ecosystem Research. Available: http://flash.lakeheadu.ca/~rrempel/ecology/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Rempel R, Elkie P (1999) Patch Analyst 2.2. Center for Northern Forest Ecosystem Research. Available: <ext-link ext-link-type="uri" xlink:href="http://flash.lakeheadu.ca/~rrempel/ecology/">http://flash.lakeheadu.ca/~rrempel/ecology/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Patch Analyst 2.2. Center for Northern Forest Ecosystem Research', 'venue': '', 'year': 1999, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Patch Analyst 2.2', 'venue': '', 'year': 1999, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref39', 'unstructured': 'Rempel R, Elkie P (1999) Patch Analyst 2.2. Center for Northern Forest Ecosystem Research. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://flash.lakeheadu.ca/~rrempel/ecology/" xlink:type="simple">http://flash.lakeheadu.ca/~rrempel/ecology/</ext-link>.'}

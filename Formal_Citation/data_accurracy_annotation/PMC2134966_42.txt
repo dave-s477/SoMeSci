@@ -1,0 +1,18 @@
+Accelrys Software (2005) DS Viewer Pro 6.0 [computer program]. Available: http://www.accelrys.com/dstudio/ds_viewer/index.html. Accessed 3 November 2007.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<collab>Accelrys Software</collab>
+<year>2005</year>
+<source>DS Viewer Pro 6.0 [computer program]</source>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.accelrys.com/dstudio/ds_viewer/index.html">http://www.accelrys.com/dstudio/ds_viewer/index.html</ext-link>. Accessed 3 November 2007.</comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'DS Viewer Pro 6.0 [computer program]', 'venue': 'Accelrys Software', 'year': 2005, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'pcbi-0030239-b042', 'unstructured': 'Accelrys Software 2005 DS Viewer Pro 6.0 [computer program] Available: http://www.accelrys.com/dstudio/ds_viewer/index.html. Accessed 3 November 2007.'}

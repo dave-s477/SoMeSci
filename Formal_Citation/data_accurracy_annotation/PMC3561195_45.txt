@@ -1,0 +1,13 @@
+SAS (2009) SAS for Windows. In: Institute S, editor.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">SAS (2009) SAS for Windows. In: Institute S, editor.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SAS (2009) SAS for Windows. In: Institute S, editor', 'venue': 'SAS (2009) SAS for Windows. In: Institute S, editor', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref45', 'unstructured': 'SAS (2009) SAS for Windows. In: Institute S, editor.'}

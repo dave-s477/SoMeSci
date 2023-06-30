@@ -1,0 +1,13 @@
+UK Data Service Census Support. GeoConvert: Frequently Asked Questions [Internet]. 2015 [cited 2018 Jan 18]. Available from: http://geoconvert.mimas.ac.uk/help/faq.html
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">UK Data Service Census Support. GeoConvert: Frequently Asked Questions [Internet]. 2015 [cited 2018 Jan 18]. Available from: <ext-link ext-link-type="uri" xlink:href="http://geoconvert.mimas.ac.uk/help/faq.html">http://geoconvert.mimas.ac.uk/help/faq.html</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'GeoConvert: Frequently Asked Questions', 'venue': 'UK Data Service Census Support', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref19', 'unstructured': 'UK Data Service Census Support. GeoConvert: Frequently Asked Questions [Internet]. 2015 [cited 2018 Jan 18]. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://geoconvert.mimas.ac.uk/help/faq.html" xlink:type="simple">http://geoconvert.mimas.ac.uk/help/faq.html</ext-link>'}

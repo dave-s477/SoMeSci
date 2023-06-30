@@ -1,0 +1,35 @@
+T0	Creator 0 12	Joshi NA FJ.
+T1	Name 13 19	Sickle
+T2	Description 21 92	A sliding-window, adaptive, quality-based trimming tool for FastQ files
+T3	Version 102 106	1.33
+T4	Type_of_citation 108 118	[Software]
+T5	Type_of_citation 119 129	[Internet]
+T6	PubDate_year 131 135	2011
+T7	URL 148 181	https://github.com/najoshi/sickle
+T8	Creator 333 402	<name><surname>Joshi NA</surname><given-names>FJ</given-names></name>
+T9	Name 419 425	Sickle
+T10	Description 427 498	A sliding-window, adaptive, quality-based trimming tool for FastQ files
+T11	Version 524 528	1.33
+T12	Type_of_citation 530 540	[Software]
+T13	Type_of_citation 541 551	[Internet]
+T14	PubDate_year 559 563	2011
+T15	URL 659 692	https://github.com/najoshi/sickle
+T18	unstructured 524 528	1.33
+T19	unstructured 530 540	[Software]
+T20	unstructured 541 551	[Internet]
+T21	Name 827 833	Sickle
+T22	unstructured 827 833	Sickle
+T23	Description 835 906	A sliding-window, adaptive, quality-based trimming tool for FastQ files
+T24	unstructured 835 906	A sliding-window, adaptive, quality-based trimming tool for FastQ files
+T25	Version 916 920	1.33
+T26	unstructured 916 920	1.33
+T27	Type_of_citation 922 931	[Software
+T28	unstructured 922 931	[Software
+T30	PubDate_year 955 959	2011
+T31	Name 1100 1106	Sickle
+T33	Description 1108 1179	A sliding-window, adaptive, quality-based trimming tool for FastQ files
+T35	PubDate_year 1203 1207	2011
+T36	Name 1320 1326	Sickle
+T37	Description 1328 1399	A sliding-window, adaptive, quality-based trimming tool for FastQ files
+T40	Creator 1413 1424	FJ Joshi NA
+T41	PubDate_year 1436 1440	2011

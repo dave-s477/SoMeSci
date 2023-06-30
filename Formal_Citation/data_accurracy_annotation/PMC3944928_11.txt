@@ -1,0 +1,13 @@
+Colwell RK (2006) EstimateS: Statistical estimation of species richness and shared species from samples. Available: http://purl.oclc.org/estimates. Accessed 10 February 2014.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Colwell RK (2006) EstimateS: Statistical estimation of species richness and shared species from samples. Available: <ext-link ext-link-type="uri" xlink:href="http://purl.oclc.org/estimates">http://purl.oclc.org/estimates</ext-link>. Accessed 10 February 2014.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref11', 'unstructured': 'Colwell RK (2006) EstimateS: Statistical estimation of species richness and shared species from samples. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://purl.oclc.org/estimates" xlink:type="simple">http://purl.oclc.org/estimates</ext-link>. Accessed 10 February 2014.'}

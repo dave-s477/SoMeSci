@@ -1,0 +1,21 @@
+D’Argenio DZ, Schumitzky A (1997) ADAPT II User’s Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software. Los Angeles: Biomedical Simulations Resource.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<person-group person-group-type="author"><name><surname>D'Argenio</surname><given-names>DZ</given-names></name><name><surname>Schumitzky</surname><given-names>A</given-names></name></person-group>
+<year>1997</year>
+<source>ADAPT II User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software</source>
+<publisher-loc>Los Angeles</publisher-loc>
+<publisher-name>Biomedical Simulations Resource</publisher-name>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref44', 'article-title': 'ADAPT II User&apos;s Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software', 'author': "DZ D'Argenio", 'year': '1997'}

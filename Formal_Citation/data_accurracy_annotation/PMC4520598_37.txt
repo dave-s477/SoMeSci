@@ -1,0 +1,14 @@
+http://www.lorentz.leidenuniv.nl/ garlaschelli/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<ext-link ext-link-type="uri" xlink:href="http://www.lorentz.leidenuniv.nl/garlaschelli/">http://www.lorentz.leidenuniv.nl/ garlaschelli/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref37', 'unstructured': '<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.lorentz.leidenuniv.nl/ garlaschelli/" xlink:type="simple">http://www.lorentz.leidenuniv.nl/ garlaschelli/</ext-link>.'}

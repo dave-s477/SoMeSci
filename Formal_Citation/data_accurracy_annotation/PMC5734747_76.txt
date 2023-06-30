@@ -1,0 +1,15 @@
+McFee B, McVicar M, Raffel C, Liang D, Nieto O, Battenberg E, et al. librosa: 0.4.1; 2015. Available from: http://dx.doi.org/10.5281/zenodo.32193.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">McFee B, McVicar M, Raffel C, Liang D, Nieto O, Battenberg E, et al. librosa: 0.4.1; 2015. Available from: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5281/zenodo.32193">http://dx.doi.org/10.5281/zenodo.32193</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref76', 'unstructured': 'McFee B, McVicar M, Raffel C, Liang D, Nieto O, Battenberg E, et al. librosa: 0.4.1; 2015. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.5281/zenodo.32193" xlink:type="simple">http://dx.doi.org/10.5281/zenodo.32193</ext-link>.'}

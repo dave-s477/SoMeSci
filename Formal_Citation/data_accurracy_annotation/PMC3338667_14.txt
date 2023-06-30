@@ -1,0 +1,24 @@
+Colwell RK (2006) EstimateS: Statistical estimation of species richness and shared species from samples. Version 8. Available: http://www.purl.oclc.org/estimates.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<person-group person-group-type="author"><name><surname>Colwell</surname><given-names>RK</given-names></name></person-group>
+<year>2006</year>
+<article-title>EstimateS: Statistical estimation of species richness and shared species from samples.</article-title>
+<comment>Version 8. Available: <ext-link ext-link-type="uri" xlink:href="http://www.purl.oclc.org/estimates">http://www.purl.oclc.org/estimates</ext-link></comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'EstimateS: Statistical estimation of species richness and shared species from samples. Version 8', 'venue': 'EstimateS: Statistical estimation of species richness and shared species from samples. Version 8', 'year': 2006, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': '168ef2a077a4ad9dcc3525a6dbb8f2a392ffaebb', 'externalIds': {'MAG': '3169871075', 'CorpusId': 237118107}, 'url': 'https://www.semanticscholar.org/paper/168ef2a077a4ad9dcc3525a6dbb8f2a392ffaebb', 'title': "EstimateS : Statistical estimation of species richness and shared species from samples, v. 8.0. User's guide and application", 'venue': '', 'year': 2005, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '2123403376', 'name': 'Rk Colwell'}]}
+
+<<<crossref>>>
+
+{'key': 'ref14', 'article-title': 'EstimateS: Statistical estimation of species richness and shared species from samples.', 'author': 'RK Colwell', 'year': '2006'}

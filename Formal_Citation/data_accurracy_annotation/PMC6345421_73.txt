@@ -1,0 +1,11 @@
+Gauderman W, Morrison J (2006) QUANTO 1.1: A computer program for power and sample size calculations for genetic-epidemiology studies, http://hydra.usc.edu/gxe.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Gauderman W, Morrison J (2006) QUANTO 1.1: A computer program for power and sample size calculations for genetic-epidemiology studies, <ext-link ext-link-type="uri" xlink:href="http://hydra.usc.edu/gxe">http://hydra.usc.edu/gxe</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '09a1e2267f90d8ddc9a05400807ec4feccc832fa', 'externalIds': {'MAG': '2599911490', 'CorpusId': 63689906}, 'url': 'https://www.semanticscholar.org/paper/09a1e2267f90d8ddc9a05400807ec4feccc832fa', 'title': 'QUANTO 1.1: A computer program for power and sample size calculations for genetic-epidemiology studies', 'venue': '', 'year': 2006, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '73412911', 'name': 'W. Gauderman'}, {'authorId': '73157798', 'name': 'Jm Morrison'}, {'authorId': '2056282409', 'name': 'Wgj Morrison'}]}<<<crossref>>>
+
+{'key': 'ref73', 'unstructured': 'Gauderman W, Morrison J (2006) QUANTO 1.1: A computer program for power and sample size calculations for genetic-epidemiology studies, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://hydra.usc.edu/gxe" xlink:type="simple">http://hydra.usc.edu/gxe</ext-link>.'}

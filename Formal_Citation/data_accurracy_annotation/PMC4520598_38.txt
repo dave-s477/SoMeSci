@@ -1,0 +1,16 @@
+MacMahon M., http://www.mathworks.com/matlabcentral/fileexchange/49011.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<name><surname>MacMahon</surname><given-names>M.</given-names></name>, <ext-link ext-link-type="uri" xlink:href="http://www.mathworks.com/matlabcentral/fileexchange/49011">http://www.mathworks.com/matlabcentral/fileexchange/49011</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref38', 'author': 'M. MacMahon', 'unstructured': '<name name-style="western"><surname>MacMahon</surname> <given-names>M.</given-names></name>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.mathworks.com/matlabcentral/fileexchange/49011" xlink:type="simple">http://www.mathworks.com/matlabcentral/fileexchange/49011</ext-link>.'}

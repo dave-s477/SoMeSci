@@ -1,0 +1,19 @@
+Stuiver MP, Reimer PJ, Reimer RW. CALIB 6.0. Belfast: Queen's University, Belfast; 2013.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><name><surname>Stuiver</surname><given-names>MP</given-names></name>, <name><surname>Reimer</surname><given-names>PJ</given-names></name>, <name><surname>Reimer</surname><given-names>RW</given-names></name>. <source>CALIB 6.0</source>. <publisher-loc>Belfast</publisher-loc>: <publisher-name>Queen's University, Belfast</publisher-name>; <year>2013</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "CALIB 6.0. Belfast: Queen's University", 'venue': '', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "CALIB 6.0. Belfast: Queen's University, Belfast", 'venue': '', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref47', 'article-title': 'CALIB 6.0', 'author': 'MP Stuiver', 'year': '2013'}

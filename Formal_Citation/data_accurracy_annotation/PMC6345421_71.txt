@@ -1,0 +1,16 @@
+Harrell FE rms: R functions for biostatistical/epidemiologic modeling, testing, estimation, validation, graphics, prediction, and typesetting by storing enhanced model design attributes in the fit, 2013. Implements methods in Regression Modeling Strategies, New York: Springer, 2001.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><name><surname>Harrell</surname><given-names>FE</given-names></name>
+<chapter-title>rms: R functions for biostatistical/epidemiologic modeling, testing, estimation, validation, graphics, prediction, and typesetting by storing enhanced model design attributes in the fit, 2013</chapter-title>
+<source>Implements methods in <italic toggle="yes">Regression Modeling Strategies</italic></source>, <publisher-loc>New York</publisher-loc>:<publisher-name>Springer</publisher-name>, <year>2001</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+<<reference missing>>
+

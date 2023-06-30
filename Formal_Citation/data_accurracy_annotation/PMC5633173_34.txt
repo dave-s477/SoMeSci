@@ -1,0 +1,15 @@
+MATLAB and Statistics Toolbox Release version 7.10.0 (2010) The MathWorks Inc, Natick, Massachusetts, United States.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">MATLAB and Statistics Toolbox Release version 7.10.0 (2010) The MathWorks Inc, Natick, Massachusetts, United States.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref34', 'unstructured': 'MATLAB and Statistics Toolbox Release version 7.10.0 (2010) The MathWorks Inc, Natick, Massachusetts, United States.'}

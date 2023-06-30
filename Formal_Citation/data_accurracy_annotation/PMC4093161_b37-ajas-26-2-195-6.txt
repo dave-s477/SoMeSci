@@ -1,0 +1,14 @@
+Minitab Inc. 2010. Minitab Statistical Software, version 16.1.0. State College, Pennsylvania, USA.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><collab>Minitab Inc</collab></person-group><year>2010</year><source>Minitab Statistical Software, version 16.1.0</source><publisher-name>State College</publisher-name><publisher-loc>Pennsylvania, USA</publisher-loc></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Minitab Statistical Software, version 16.1.0. State College', 'venue': 'Minitab Statistical Software, version 16.1.0. State College', 'year': 2010, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<reference missing>>
+

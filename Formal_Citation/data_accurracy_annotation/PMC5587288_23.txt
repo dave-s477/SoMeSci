@@ -1,0 +1,13 @@
+Loonen W, Koomen E (2009) Calibration and validation of the Land Use Scanner allocation algorithms. PBL Report. Netherlands Environmental Assessment Agency, Bilthoven.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Loonen W, Koomen E (2009) Calibration and validation of the Land Use Scanner allocation algorithms. PBL Report. Netherlands Environmental Assessment Agency, Bilthoven.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '81dee4172b55a5de8fded6ac2cba6732524960c7', 'externalIds': {'MAG': '2114675034', 'CorpusId': 17033713}, 'url': 'https://www.semanticscholar.org/paper/81dee4172b55a5de8fded6ac2cba6732524960c7', 'title': 'Calibration and validation of the Land Use Scanner allocation algorithms', 'venue': '', 'year': 2007, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '2588999', 'name': 'W. Loonen'}, {'authorId': '2438519', 'name': 'E. Koomen'}]}
+
+<<<crossref>>>
+
+{'key': 'ref23', 'unstructured': 'Loonen W, Koomen E (2009) Calibration and validation of the Land Use Scanner allocation algorithms. PBL Report. Netherlands Environmental Assessment Agency, Bilthoven.'}

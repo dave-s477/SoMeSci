@@ -1,0 +1,13 @@
+SPSS (Statistical Package for the Social Sciences Version 17.0 for Windows) (2001) SPSS for Windows, Rel. 11.0.1. 2001. Chicago: SPSS Inc.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">SPSS (Statistical Package for the Social Sciences Version 17.0 for Windows) (2001) SPSS for Windows, Rel. 11.0.1. 2001. Chicago: SPSS Inc.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '495273bfd7aee082694558a19344a490ea4fa7ca', 'externalIds': {'MAG': '64096637', 'DOI': '10.1201/b17560-22', 'CorpusId': 59826930}, 'url': 'https://www.semanticscholar.org/paper/495273bfd7aee082694558a19344a490ea4fa7ca', 'title': 'Statistical Package for the Social Sciences', 'venue': '', 'year': 1970, 'publicationDate': '1970-12-01', 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '52107085', 'name': 'S. Edition'}, {'authorId': '3187615', 'name': 'N. Nie'}, {'authorId': '68999802', 'name': 'K. Steinbrenner'}]}
+
+<<<crossref>>>
+
+{'key': 'ref42', 'unstructured': 'SPSS (Statistical Package for the Social Sciences Version 17.0 for Windows) (2001) SPSS for Windows, Rel. 11.0.1. 2001. Chicago: SPSS Inc.'}

@@ -1,0 +1,13 @@
+Bader BW, Kolda TG. Matlab tensor toolbox version 2.6. 2015. Available from: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Bader BW, Kolda TG. Matlab tensor toolbox version 2.6. 2015. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html">http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Matlab tensor toolbox version 2.6', 'venue': '', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref18', 'unstructured': 'Bader BW, Kolda TG. Matlab tensor toolbox version 2.6. 2015. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html" xlink:type="simple">http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html</ext-link>.'}

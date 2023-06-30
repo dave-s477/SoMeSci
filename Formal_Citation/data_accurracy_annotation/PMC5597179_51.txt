@@ -1,0 +1,16 @@
+Muthen LK, Muthén BO. Mplus User’s Guide. Seventh ed. Los Angeles, CA: Muthén & Muthén; 1998–2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><name><surname>Muthen</surname><given-names>LK</given-names></name>, <name><surname>Muth&#233;n</surname><given-names>BO</given-names></name>. <source>Mplus User's Guide</source>. <edition>Seventh ed.</edition>
+<publisher-loc>Los Angeles, CA</publisher-loc>: <publisher-name>Muth&#233;n &amp; Muth&#233;n</publisher-name>; <fpage>1998</fpage>&#8211;<lpage>2012</lpage>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref51', 'first-page': '1998', 'article-title': 'Mplus User&apos;s Guide', 'author': 'LK Muthen'}

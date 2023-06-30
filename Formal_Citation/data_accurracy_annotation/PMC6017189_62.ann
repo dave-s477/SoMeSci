@@ -1,0 +1,34 @@
+T0	Creator 0 9	Bruker, S
+T1	Name 11 15	APEX
+T2	Version 15 16	2
+T3	Name 21 26	SAINT
+T4	Creator 28 42	Bruker AXS Inc
+T5	PubDate_year 63 67	2009
+T6	Creator 260 327	<name><surname>Bruker</surname><given-names>S.</given-names></name>
+T7	Name 350 354	APEX
+T8	Version 354 355	2
+T9	Name 360 365	SAINT
+T10	Creator 390 405	Bruker AXS Inc.
+T11	PubDate_year 475 479	2009
+T12	Name 593 597	APEX
+T13	Name 603 608	SAINT
+T14	Creator 610 616	Bruker
+T15	incomplete_content 610 616	Bruker
+T16	PubDate_year 662 666	2009
+T17	unstructured 610 616	Bruker
+T18	unstructured 603 608	SAINT
+T19	Version 597 598	2
+T20	unstructured 593 597	APEX
+T21	unstructured 597 598	2
+T22	unstructured 350 354	APEX
+T23	unstructured 354 355	2
+T24	unstructured 360 365	SAINT
+T25	Name 774 778	APEX
+T26	Version 778 779	2
+T27	Name 784 789	SAINT
+T28	unstructured 784 789	SAINT
+T29	unstructured 778 779	2
+T30	unstructured 774 778	APEX
+T31	Creator 803 809	Bruker
+T32	incomplete_content 803 809	Bruker
+T33	PubDate_year 821 825	2009

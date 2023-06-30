@@ -1,0 +1,13 @@
+StataCorp LP. STATA 13/SE. College Station, TX. USA; 2013.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">StataCorp LP. STATA 13/SE. College Station, TX. USA; 2013.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'STATA 13/SE', 'venue': '', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref28', 'unstructured': 'StataCorp LP. STATA 13/SE. College Station, TX. USA; 2013.'}

@@ -1,0 +1,33 @@
+paper,software,citation,software_citation_type,outside,reason
+PMC4161331,,26,Manual,False,somesci error
+PMC4574966,,17,Direct,False,somesci error
+PMC6269088,,47,Direct,False,not mentioned
+PMC6312286,,19,Direct,False,non specific
+PMC5587288,,23,Manual,True,not_missing
+PMC4270440,,51,Direct,False,generic
+PMC5070780,,44,Direct,True,not_missing
+PMC4824409,,41,Direct,True,not_missing
+PMC3338667,,18,Direct,False,not mentioned
+PMC5574543,,64,Manual,True,not_missing
+PMC5574543,,66,Direct,True,not_missing
+PMC5626515,,31,Manual,True,not_missing
+PMC2740825,,42,Manual,False,not mentioned
+PMC5665509,,35,Direct,True,not_missing
+PMC5665509,,36,Direct,True,not_missing
+PMC4726623,,75,Direct,False,generic
+PMC3303470,,62,Direct,False,error
+PMC4126730,,29,Direct,True,not_missing
+PMC4520598,,36,Website,False,not mentioned
+PMC4520598,,37,Website,False,not mentioned
+PMC4520598,,38,Website,False,not mentioned
+PMC5858755,,2,Direct,True,not_missing
+PMC4254512,,46,Manual,False,not mentioned
+PMC1088287,,pmed-0020133-b60,Direct,True,not_missing
+PMC7143136,,19.,Manual,False,generic
+PMC3705362,,70.,Direct,False,non specific
+PMC5690316,,27,Direct,False,generic
+PMC4093161,,b37-ajas-26-2-195-6,Direct,False,error
+PMC6017189,,43.,Direct,False,error
+PMC6017189,,48.,Manual,False,error
+PMC6017189,,62.,Direct,False,error
+PMC7519650,,39.,Manual,False,non specific

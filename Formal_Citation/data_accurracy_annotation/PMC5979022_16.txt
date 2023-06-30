@@ -1,0 +1,15 @@
+StataCorp. Stata Statistical Software: Release 15. College Station, TX: StataCorp LLC; 2017.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">StataCorp. Stata Statistical Software: Release 15. College Station, TX: StataCorp LLC; 2017.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref16', 'unstructured': 'StataCorp. Stata Statistical Software: Release 15. College Station, TX: StataCorp LLC; 2017.'}

@@ -1,0 +1,11 @@
+Hayden N, Morgan M. Rhtslib: HTSlib high-throughput sequencing library as an R package; 2017. Available from: https://bioconductor.org/packages/Rhtslib.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Hayden N, Morgan M. Rhtslib: HTSlib high-throughput sequencing library as an R package; 2017. Available from: <ext-link ext-link-type="uri" xlink:href="https://bioconductor.org/packages/Rhtslib">https://bioconductor.org/packages/Rhtslib</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Rhtslib: HTSlib high-throughput sequencing library as an R package; 2017', 'venue': '', 'year': 2017, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref18', 'unstructured': 'Hayden N, Morgan M. Rhtslib: HTSlib high-throughput sequencing library as an R package; 2017. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://bioconductor.org/packages/Rhtslib" xlink:type="simple">https://bioconductor.org/packages/Rhtslib</ext-link>.'}

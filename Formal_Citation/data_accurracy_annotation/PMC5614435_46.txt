@@ -1,0 +1,13 @@
+StataCorp (2015) Stata 14 Base Reference Manual. College Station, TX: Stata Press.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>StataCorp</collab> (<year>2015</year>) <source>Stata 14 Base Reference Manual</source>. <publisher-loc>College Station, TX</publisher-loc>: <publisher-name>Stata Press</publisher-name>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stata 14 Base Reference Manual. College Station, TX: Stata Press. Gender inequality in self-reported health among the elderly', 'venue': 'PLOS ONE', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref46', 'article-title': 'Stata 14 Base Reference Manual', 'year': '2015'}

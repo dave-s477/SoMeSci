@@ -1,0 +1,51 @@
+T0	Creator 0 9	StataCorp
+T1	PubDate_year 11 15	2009
+T2	Name 17 22	Stata
+T3	Description 23 43	Statistical Software
+T4	Version 53 55	11
+T5	Creator 78 90	StataCorp LP
+T6	Creator 241 250	StataCorp
+T7	PubDate_year 252 256	2009
+T8	Name 258 263	Stata
+T9	Description 264 284	Statistical Software
+T10	Version 294 296	11
+T11	Creator 319 331	StataCorp LP
+T12	unstructured 241 250	StataCorp
+T13	unstructured 252 256	2009
+T14	unstructured 258 263	Stata
+T15	unstructured 264 284	Statistical Software
+T16	unstructured 294 296	11
+T17	unstructured 319 331	StataCorp LP
+T18	Name 456 461	Stata
+T19	Description 462 482	Statistical Software
+T20	Version 492 494	11
+T21	duplicate 542 615	Stata Statistical Software: Release 11. College Station, TX: StataCorp LP
+T22	PubDate_year 626 630	2009
+T23	Creator 517 529	StataCorp LP
+T24	unstructured 456 461	Stata
+T25	unstructured 462 482	Statistical Software
+T26	unstructured 492 494	11
+T27	unstructured 517 529	StataCorp LP
+T28	Name 925 930	Stata
+T29	Description 931 951	Statistical Software
+T30	Version 961 962	7
+T31	PubDate_year 987 991	2001
+T32	wrong_content 987 991	2001
+T33	Creator 1068 1117	[{'authorId': '114603988', 'name': 'Tx Station'}]
+T34	wrong_content 1068 1117	[{'authorId': '114603988', 'name': 'Tx Station'}]
+T35	unstructured 925 930	Stata
+T36	unstructured 931 951	Statistical Software
+T37	wrong_content 961 962	7
+T38	unstructured 961 962	7
+T39	unstructured 1172 1181	StataCorp
+T40	Creator 1172 1181	StataCorp
+T41	PubDate_year 1183 1187	2009
+T42	unstructured 1183 1187	2009
+T43	Name 1189 1194	Stata
+T44	unstructured 1189 1194	Stata
+T45	Description 1195 1215	Statistical Software
+T46	unstructured 1195 1215	Statistical Software
+T47	Version 1225 1227	11
+T48	unstructured 1225 1227	11
+T49	Creator 1250 1262	StataCorp LP
+T50	unstructured 1250 1262	StataCorp LP

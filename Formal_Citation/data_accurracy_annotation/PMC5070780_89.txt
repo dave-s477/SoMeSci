@@ -1,0 +1,11 @@
+FastQC software. Babraham Institute—Babraham Bioinformatics. Available: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">FastQC software. Babraham Institute&#8212;Babraham Bioinformatics. Available: <ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Babraham Institute—Babraham Bioinformatics. Available', 'venue': 'Babraham Institute—Babraham Bioinformatics. Available', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref89', 'unstructured': 'FastQC software. Babraham Institute—Babraham Bioinformatics. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/" xlink:type="simple">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>.'}

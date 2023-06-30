@@ -1,0 +1,13 @@
+IBM SPSS Statistics. 19 ed.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">IBM SPSS Statistics. 19 ed.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '27c44ae0accdcef5a6cc464f8eb54f72ca4ac5c9', 'externalIds': {'MAG': '2736903653', 'DOI': '10.21686/2500-3925-2014-6', 'CorpusId': 116641240}, 'url': 'https://www.semanticscholar.org/paper/27c44ae0accdcef5a6cc464f8eb54f72ca4ac5c9', 'title': 'МОДЕЛИРОВАНИЕ ПОТРЕБИТЕЛЬСКОГО ВЫБОРА НА РЫНКЕ ЭЛЕКТРОЩИТОВОГО ОБОРУДОВАНИЯ С ПОМОЩЬЮ IBM SPSS STATISTICS', 'venue': '', 'year': 2014, 'publicationDate': None, 'journal': {'volume': '', 'pages': '442-445', 'name': ''}, 'authors': [{'authorId': '2097281370', 'name': 'Сергей Владимирович Мхитарян'}]}
+
+<<<crossref>>>
+
+{'key': 'ref37', 'unstructured': 'IBM SPSS Statistics. 19 ed.'}

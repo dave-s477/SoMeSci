@@ -1,0 +1,19 @@
+Stan Development Team. Stan: A C++ library for probability and sampling, version 2.3.0. R package; 2014.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Stan Development Team. Stan: A C++ library for probability and sampling, version 2.3.0. R package; 2014.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stan: A C++ library for probability and sampling, version 2.3.0. R package', 'venue': '', 'year': 2014, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stan: A C++ library for probability and sampling, version 2.3.0. R package', 'venue': 'Stan: A C++ library for probability and sampling, version 2.3.0. R package', 'year': 2014, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref78', 'unstructured': 'Stan Development Team. Stan: A C++ library for probability and sampling, version 2.3.0. R package; 2014.'}

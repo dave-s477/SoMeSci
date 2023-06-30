@@ -1,0 +1,16 @@
+T0	Creator 0 21	Anders, S.; Huber, W.
+T1	Name 84 89	DESeq
+T2	Creator 99 136	European Molecular Biology Laboratory
+T3	PubDate_year 159 163	2012
+T4	Creator 356 489	<name><surname>Anders</surname><given-names>S.</given-names></name><name><surname>Huber</surname><given-names>W.</given-names></name>
+T5	Name 580 585	DESeq
+T6	PubDate_year 728 732	2012
+T7	Creator 618 655	European Molecular Biology Laboratory
+T8	Name 1041 1046	DESeq
+T9	PubDate_year 1078 1082	2012
+T10	Creator 1137 1229	[{'authorId': '1922254', 'name': 'S. Anders'}, {'authorId': '144493753', 'name': 'W. Huber'}
+T11	incomplete_content 1231 1278	{'authorId': '1391348879', 'name': 'European'}]
+T12	Name 1393 1398	DESeq
+T13	Creator 1420 1426	Anders
+T14	incomplete_content 1420 1426	Anders
+T15	PubDate_year 1438 1442	2012

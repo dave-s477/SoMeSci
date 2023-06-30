@@ -1,0 +1,13 @@
+Kuznetsova A, Brockhoff PB, Christensen RH. Package ‘lmerTest’. R package version 2.0–33. 2015; 2.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="journal"><name><surname>Kuznetsova</surname><given-names>A</given-names></name>, <name><surname>Brockhoff</surname><given-names>PB</given-names></name>, <name><surname>Christensen</surname><given-names>RH</given-names></name>. <article-title>Package &#8216;lmerTest&#8217;</article-title>. <source>R package version 2.0&#8211;33</source>. <year>2015</year>;<volume>2</volume>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "Package 'lmerTest'. R package version 2.0-33", 'venue': '', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref66', 'article-title': 'Package ‘lmerTest’', 'volume': '2', 'author': 'A Kuznetsova', 'year': '2015', 'journal-title': 'R package version 2.0–33'}

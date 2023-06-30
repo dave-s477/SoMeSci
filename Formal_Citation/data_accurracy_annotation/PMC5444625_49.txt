@@ -1,0 +1,13 @@
+Lauritsen J BM. EpiData (version 3) The EpiData Association. 2003–2004;Odense, Denmark.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Lauritsen J BM. EpiData (version 3) The EpiData Association. 2003&#8211;2004;Odense, Denmark.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'EpiData (version 3) The EpiData Association', 'venue': '', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref49', 'unstructured': 'Lauritsen J BM. EpiData (version 3) The EpiData Association. 2003–2004;Odense, Denmark.'}

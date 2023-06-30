@@ -1,0 +1,29 @@
+T0	Creator 0 18	Loonen W, Koomen E
+T1	PubDate_year 20 24	2009
+T2	Name 60 76	Land Use Scanner
+T3	Creator 317 335	Loonen W, Koomen E
+T4	PubDate_year 337 341	2009
+T5	Name 377 393	Land Use Scanner
+T6	Creator 112 155	Netherlands Environmental Assessment Agency
+T7	Creator 429 472	Netherlands Environmental Assessment Agency
+T8	unstructured 317 335	Loonen W, Koomen E
+T9	unstructured 337 341	2009
+T10	unstructured 377 393	Land Use Scanner
+T11	unstructured 429 472	Netherlands Environmental Assessment Agency
+T12	Name 776 792	Land Use Scanner
+T14	PubDate_year 838 842	2007
+T15	Creator 919 1011	[{'authorId': '2588999', 'name': 'W. Loonen'}, {'authorId': '2438519', 'name': 'E. Koomen'}]
+T13	Creator 1064 1082	Loonen W, Koomen E
+T16	wrong_content 838 842	2007
+T17	PubDate_year 1084 1088	2009
+T18	Name 1124 1140	Land Use Scanner
+T19	Creator 1176 1219	Netherlands Environmental Assessment Agency
+T20	unstructured 1064 1082	Loonen W, Koomen E
+T21	unstructured 1084 1088	2009
+T22	unstructured 1124 1140	Land Use Scanner
+T23	unstructured 1176 1219	Netherlands Environmental Assessment Agency
+T24	Type_of_citation 104 110	Report
+T25	Type_of_citation 421 427	Report
+T26	unstructured 421 427	Report
+T27	Type_of_citation 1168 1174	Report
+T28	unstructured 1168 1174	Report

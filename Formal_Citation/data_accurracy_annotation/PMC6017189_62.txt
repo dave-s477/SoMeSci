@@ -1,0 +1,11 @@
+Bruker, S. APEX2 and SAINT; Bruker AXS Inc.: Madison, WI, USA, 2009.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><name><surname>Bruker</surname><given-names>S.</given-names></name></person-group><source>APEX2 and SAINT</source><publisher-name>Bruker AXS Inc.</publisher-name><publisher-loc>Madison, WI, USA</publisher-loc><year>2009</year></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'APEX2 and SAINT; Bruker', 'venue': 'AXS Inc.: Madison, WI,', 'year': 2009, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref62', 'series-title': 'APEX2 and SAINT', 'author': 'Bruker', 'year': '2009'}

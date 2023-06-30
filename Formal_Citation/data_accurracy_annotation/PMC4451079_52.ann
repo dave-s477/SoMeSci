@@ -1,0 +1,33 @@
+T0	Creator 0 9	StataCorp
+T1	Name 11 16	Stata
+T2	Description 17 37	Statistical Software
+T3	Version 47 49	13
+T4	PubDate_year 51 55	2013
+T5	Creator 57 70	StataCorp LP.
+T6	Creator 250 259	StataCorp
+T7	Name 278 283	Stata
+T8	Description 284 304	Statistical Software
+T9	Version 314 316	13
+T10	unstructured 314 316	13
+T11	unstructured 284 304	Statistical Software
+T12	unstructured 278 283	Stata
+T13	PubDate_year 333 337	2013
+T14	Creator 362 374	StataCorp LP
+T15	Name 549 554	Stata
+T16	Description 555 575	Statistical Software
+T17	Version 585 587	13
+T18	PubDate_year 589 593	2013
+T19	Creator 595 608	StataCorp LP.
+T20	duplicate 642 722	Stata Statistical Software: Release 13. 2013, StataCorp LP.: College Station, TX
+T21	unstructured 589 593	2013
+T22	unstructured 595 608	StataCorp LP.
+T23	unstructured 549 554	Stata
+T24	unstructured 585 587	13
+T25	unstructured 555 575	Statistical Software
+T26	Name 848 853	Stata
+T27	Description 854 874	Statistical Software
+T28	Version 884 886	13
+T29	PubDate_year 898 902	2013
+T30	unstructured 848 853	Stata
+T31	unstructured 884 886	13
+T32	unstructured 854 874	Statistical Software

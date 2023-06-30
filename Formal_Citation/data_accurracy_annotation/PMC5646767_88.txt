@@ -1,0 +1,15 @@
+MAXQDA. Software for qualitative data analysis. VERBI Software – Consult – Sozialforschung GmbH, Berlin, Germany. 1989–2014;.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">MAXQDA. Software for qualitative data analysis. VERBI Software &#8211; Consult &#8211; Sozialforschung GmbH, Berlin, Germany. 1989&#8211;2014;.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref88', 'unstructured': 'MAXQDA. Software for qualitative data analysis. VERBI Software – Consult – Sozialforschung GmbH, Berlin, Germany. 1989–2014;.'}

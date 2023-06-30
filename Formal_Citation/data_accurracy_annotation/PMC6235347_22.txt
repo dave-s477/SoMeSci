@@ -1,0 +1,11 @@
+Hadley Wickham RF, Lionel Henry, Kirill Mu ̈ ller. dplyr: A Grammar of Data Manipulation dplyr: A Grammar of Data Manipulation2017 [https://cran.r-project.org/web/packages/dplyr/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Hadley Wickham RF, Lionel Henry, Kirill M&#252;ller. dplyr: A Grammar of Data Manipulation dplyr: A Grammar of Data Manipulation2017 [<ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/dplyr/">https://cran.r-project.org/web/packages/dplyr/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Kirill Mü ller. dplyr: A Grammar of Data Manipulation dplyr: A Grammar of Data Manipulation2017', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref22', 'unstructured': 'Hadley Wickham RF, Lionel Henry, Kirill Müller. dplyr: A Grammar of Data Manipulation dplyr: A Grammar of Data Manipulation2017 [<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/dplyr/" xlink:type="simple">https://cran.r-project.org/web/packages/dplyr/</ext-link>.'}

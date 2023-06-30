@@ -1,0 +1,23 @@
+Swofford DL (1998) PAUP*. Phylogenetic analysis using parsimony, (*and other methods), version 4. 4. Sunderland: Sinauer Associates.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Swofford DL (1998) PAUP*. Phylogenetic analysis using parsimony, (*and other methods), version 4. 4. Sunderland: Sinauer Associates.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': '5b9323609d9cf97ae1eb737440f76d1809b1cccd', 'externalIds': {'MAG': '58951143', 'DOI': '10.1007/978-1-4020-6754-9_12413', 'CorpusId': 81732861}, 'url': 'https://www.semanticscholar.org/paper/5b9323609d9cf97ae1eb737440f76d1809b1cccd', 'title': 'PAUP:Phylogenetic analysis using parsi-mony', 'venue': '', 'year': 1993, 'publicationDate': None, 'journal': None, 'authors': [{'authorId': '145387169', 'name': 'D. Ord'}, {'authorId': '86924157', 'name': 'D. P. Begle'}]}
+
+<<<sem_entry_1>>>
+
+{'paperId': '215579acece24b34f6ab91fab62bac8ba7ccfe03', 'externalIds': {'MAG': '2748384280', 'CorpusId': 90795438}, 'url': 'https://www.semanticscholar.org/paper/215579acece24b34f6ab91fab62bac8ba7ccfe03', 'title': 'PAUP*: Phylogenetic analysis using parsimony (*and other methods), Version 4.0b10', 'venue': '', 'year': 2002, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '1473361290', 'name': 'D. Swofford'}, {'authorId': '1473361290', 'name': 'D. Swofford'}, {'authorId': '1473361290', 'name': 'D. Swofford'}]}
+
+<<<sem_entry_2>>>
+
+{'paperId': '90ebba3ccdcd60982aa54b5ff201c0ed63c5cb32', 'externalIds': {'MAG': '61385762', 'DOI': '10.1002/0471650129.dob0522', 'CorpusId': 81396715}, 'url': 'https://www.semanticscholar.org/paper/90ebba3ccdcd60982aa54b5ff201c0ed63c5cb32', 'title': 'PAUP* Phylogenetic analysis using parsimony (*and other methods) Version 4', 'venue': '', 'year': 2000, 'publicationDate': None, 'journal': None, 'authors': [{'authorId': '145387169', 'name': 'D. Ord'}]}
+
+<<<crossref>>>
+
+{'key': 'ref41', 'unstructured': 'Swofford DL (1998) PAUP*. Phylogenetic analysis using parsimony, (*and other methods), version 4. 4. Sunderland: Sinauer Associates.'}

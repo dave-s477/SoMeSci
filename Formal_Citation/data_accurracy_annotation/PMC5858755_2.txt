@@ -1,0 +1,15 @@
+Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Seattle, WA: IHME, University of Washington; 2016 [cited 2016 November 18]. http://vizhub.healthdata.org/gbd-compare/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>Institute for Health Metrics and Evaluation (IHME)</collab>. <source>GBD Compare Data Visualization</source>. <publisher-loc>Seattle, WA</publisher-loc>: <publisher-name>IHME, University of Washington</publisher-name>; <year>2016</year> [cited 2016 November 18]. <ext-link ext-link-type="uri" xlink:href="http://vizhub.healthdata.org/gbd-compare/">http://vizhub.healthdata.org/gbd-compare/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref2', 'article-title': 'GBD Compare Data Visualization', 'year': '2016'}

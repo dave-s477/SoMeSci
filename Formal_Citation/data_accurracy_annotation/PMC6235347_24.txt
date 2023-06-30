@@ -1,0 +1,11 @@
+Hadley Wickham LH. tidyr: Easily Tidy Data with ’spread()’ and ’gather()’ Functions tidyr: Easily Tidy Data with ’spread()’ and ’gather()’ Functions2017 [https://cran.r-project.org/web/packages/tidyr/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Hadley Wickham LH. tidyr: Easily Tidy Data with &#8217;spread()&#8217; and &#8217;gather()&#8217; Functions tidyr: Easily Tidy Data with &#8217;spread()&#8217; and &#8217;gather()&#8217; Functions2017 [<ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/tidyr/">https://cran.r-project.org/web/packages/tidyr/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "Functions tidyr: Easily Tidy Data with 'spread()' and 'gather(", 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref24', 'unstructured': 'Hadley Wickham LH. tidyr: Easily Tidy Data with ’spread()’ and ’gather()’ Functions tidyr: Easily Tidy Data with ’spread()’ and ’gather()’ Functions2017 [<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/tidyr/" xlink:type="simple">https://cran.r-project.org/web/packages/tidyr/</ext-link>.'}

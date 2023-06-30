@@ -1,0 +1,13 @@
+IIT 3.0 Code (2013). Available: https://github.com/Albantakis/iit/tree/IIT-3.0-Program.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">IIT 3.0 Code (2013). Available: <ext-link ext-link-type="uri" xlink:href="https://github.com/Albantakis/iit/tree/IIT-3.0-Program">https://github.com/Albantakis/iit/tree/IIT-3.0-Program</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Available: https://github.com/Albantakis/iit/tree/IIT-3. 0-Program', 'venue': 'IIT 3.0 Code', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref51', 'unstructured': 'IIT 3.0 Code (2013). Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://github.com/Albantakis/iit/tree/IIT-3.0-Program" xlink:type="simple">https://github.com/Albantakis/iit/tree/IIT-3.0-Program</ext-link>.'}

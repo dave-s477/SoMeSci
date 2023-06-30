@@ -1,0 +1,13 @@
+R project (2010) Available: http://www.r-project.org/. Accessed 07/01/10, last updated 16/12/10.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">R project (2010) Available: <ext-link ext-link-type="uri" xlink:href="http://www.r-project.org/">http://www.r-project.org/</ext-link>. Accessed 07/01/10, last updated 16/12/10.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Available: http://www.r-project.org', 'venue': 'Accessed', 'year': 2010, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref20', 'unstructured': 'R project (2010) Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.r-project.org/" xlink:type="simple">http://www.r-project.org/</ext-link>. Accessed 07/01/10, last updated 16/12/10.'}

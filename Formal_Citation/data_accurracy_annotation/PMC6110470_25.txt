@@ -1,0 +1,21 @@
+Joshi NA FJ. Sickle: A sliding-window, adaptive, quality-based trimming tool for FastQ files (Version 1.33) [Software] [Internet]. 2011. Available: https://github.com/najoshi/sickle
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="journal"><name><surname>Joshi NA</surname><given-names>FJ</given-names></name>. <article-title>Sickle: A sliding-window, adaptive, quality-based trimming tool for FastQ files</article-title> (Version 1.33) [Software] [Internet]. <year>2011</year> Available: <ext-link ext-link-type="uri" xlink:href="https://github.com/najoshi/sickle">https://github.com/najoshi/sickle</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Sickle: A sliding-window, adaptive, quality-based trimming tool for FastQ files (Version 1.33) [Software', 'venue': '', 'year': 2011, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Sickle: A sliding-window, adaptive, quality-based trimming tool for FastQ files', 'venue': '', 'year': 2011, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref25', 'article-title': 'Sickle: A sliding-window, adaptive, quality-based trimming tool for FastQ files', 'author': 'FJ Joshi NA', 'year': '2011'}

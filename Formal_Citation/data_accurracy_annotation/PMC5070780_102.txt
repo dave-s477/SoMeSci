@@ -1,0 +1,11 @@
+Target Scan Human—Search for predicted microRNA targets in mammals. Available: http://www.targetscan.org/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Target Scan Human&#8212;Search for predicted microRNA targets in mammals. Available: <ext-link ext-link-type="uri" xlink:href="http://www.targetscan.org/">http://www.targetscan.org/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Target Scan Human-Search for predicted microRNA targets in mammals', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref102', 'unstructured': 'Target Scan Human—Search for predicted microRNA targets in mammals. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.targetscan.org/" xlink:type="simple">http://www.targetscan.org/</ext-link>.'}

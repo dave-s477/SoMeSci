@@ -1,0 +1,14 @@
+Stan Development Team. Stan: A C++ Library for Probability and Sampling [Internet]. 2013 [cited 2013 Dec 11]. Available from: http://mc-stan.org/
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Stan Development Team.
+Stan: A C++ Library for Probability and Sampling [Internet]. 2013 [cited 2013 Dec 11]. Available from: <ext-link ext-link-type="uri" xlink:href="http://mc-stan.org/">http://mc-stan.org/</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stan: A C++ Library for Probability and Sampling', 'venue': '', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref50', 'unstructured': 'Stan Development Team. Stan: A C++ Library for Probability and Sampling [Internet]. 2013 [cited 2013 Dec 11]. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://mc-stan.org/" xlink:type="simple">http://mc-stan.org/</ext-link>'}

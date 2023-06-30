@@ -1,0 +1,24 @@
+Juggins S. C2: software for ecological and paleoecological data analysis and visualisation. 1.6.6 ed. University of Newcastle: Department of Geography; 2003.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><name><surname>Juggins</surname><given-names>S</given-names></name>. <source>C2: software for ecological and paleoecological data analysis and visualisation</source>. <edition>1.6.6 ed</edition>
+<publisher-name>University of Newcastle: Department of Geography</publisher-name>; <year>2003</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'C2: software for ecological and paleoecological data analysis and visualisation. 1.6.6 ed. University of Newcastle: Department of Geography', 'venue': '', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'C2: software for ecological and paleoecological data analysis and visualisation', 'venue': 'ed. University of Newcastle: Department of Geography;', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_2>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': '10.1371/journal.pone.0159937 August 17, 2016 64. Juggins S. C2: software for ecological and paleoecological data analysis and visualisation. 1.6', 'venue': '10.1371/journal.pone.0159937 August 17, 2016 64. Juggins S. C2: software for ecological and paleoecological data analysis and visualisation. 1.6', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref64', 'article-title': 'C2: software for ecological and paleoecological data analysis and visualisation', 'author': 'S Juggins', 'year': '2003'}

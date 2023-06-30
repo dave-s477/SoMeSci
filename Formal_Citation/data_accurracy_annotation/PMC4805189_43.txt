@@ -1,0 +1,13 @@
+SAS. The GLIMMIX Procedure—SAS/STAT(R) 9.2 User's Guide, Second Edition. 2006. Available: http://support.sas.com/rnd/app/papers/glimmix.pdf. Accessed 8 February 2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">SAS. The GLIMMIX Procedure&#8212;SAS/STAT(R) 9.2 User's Guide, Second Edition. 2006. Available: <ext-link ext-link-type="uri" xlink:href="http://support.sas.com/rnd/app/papers/glimmix.pdf">http://support.sas.com/rnd/app/papers/glimmix.pdf</ext-link>. Accessed 8 February 2012.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "User's Guide, Second Edition", 'venue': 'SAS. The GLIMMIX Procedure-SAS/STAT(R) 9', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref43', 'unstructured': 'SAS. The GLIMMIX Procedure—SAS/STAT(R) 9.2 User&apos;s Guide, Second Edition. 2006. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://support.sas.com/rnd/app/papers/glimmix.pdf" xlink:type="simple">http://support.sas.com/rnd/app/papers/glimmix.pdf</ext-link>. Accessed 8 February 2012.'}

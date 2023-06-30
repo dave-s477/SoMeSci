@@ -1,0 +1,20 @@
+Littell RC, Milliken GA, Stroup WW, Wolfinger RD (1996) SAS system for mixed models. SAS Institute Inc, Cary, NC.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<person-group person-group-type="author"><name><surname>Littell</surname><given-names>RC</given-names></name><name><surname>Milliken</surname><given-names>GA</given-names></name><name><surname>Stroup</surname><given-names>WW</given-names></name><name><surname>Wolfinger</surname><given-names>RD</given-names></name></person-group>
+<year>1996</year>
+<article-title>SAS system for mixed models.</article-title>
+<publisher-name>SAS Institute Inc, Cary, NC</publisher-name>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref42', 'article-title': 'SAS system for mixed models.', 'author': 'RC Littell', 'year': '1996'}

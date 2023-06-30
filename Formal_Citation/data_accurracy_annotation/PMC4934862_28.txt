@@ -1,0 +1,13 @@
+R Core Team. R: A Language and Environment for Statistical Computing. 2015. Available: http://www.R-project.org/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">R Core Team. R: A Language and Environment for Statistical Computing. 2015. Available: <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org/">http://www.R-project.org/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '659408b243cec55de8d0a3bc51b81173007aa89b', 'externalIds': {'MAG': '2582743722', 'CorpusId': 215755663}, 'url': 'https://www.semanticscholar.org/paper/659408b243cec55de8d0a3bc51b81173007aa89b', 'title': 'R: A language and environment for statistical computing.', 'venue': '', 'year': 2014, 'publicationDate': None, 'journal': {'volume': '1', 'name': 'MSOR connections'}, 'authors': [{'authorId': '68986511', 'name': 'R. Team'}]}
+
+<<<crossref>>>
+
+{'key': 'ref28', 'unstructured': 'R Core Team. R: A Language and Environment for Statistical Computing. 2015. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.R-project.org/" xlink:type="simple">http://www.R-project.org/</ext-link>.'}

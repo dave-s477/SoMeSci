@@ -1,0 +1,29 @@
+T0	Creator 0 3	SAS
+T1	PubDate_year 5 9	2009
+T2	Name 11 14	SAS
+T3	Creator 32 43	Institute S
+T4	Creator 202 205	SAS
+T5	PubDate_year 207 211	2009
+T6	Name 213 216	SAS
+T7	unstructured 202 205	SAS
+T8	unstructured 207 211	2009
+T9	unstructured 213 216	SAS
+T10	Creator 234 245	Institute S
+T11	unstructured 234 245	Institute S
+T12	Creator 359 362	SAS
+T13	PubDate_year 364 368	2009
+T14	Name 370 373	SAS
+T15	unstructured 359 362	SAS
+T16	unstructured 364 368	2009
+T17	unstructured 370 373	SAS
+T18	duplicate 423 474	SAS (2009) SAS for Windows. In: Institute S, editor
+T19	Creator 391 402	Institute S
+T20	unstructured 391 402	Institute S
+T21	Creator 599 602	SAS
+T22	PubDate_year 604 608	2009
+T23	Name 610 613	SAS
+T24	unstructured 599 602	SAS
+T25	unstructured 604 608	2009
+T26	unstructured 610 613	SAS
+T27	Creator 631 642	Institute S
+T28	unstructured 631 642	Institute S

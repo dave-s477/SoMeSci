@@ -1,0 +1,14 @@
+MAXQDA (2007) VERBI software. Marburg, Germany: Consult. GmbH.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>MAXQDA</collab> (<year>2007</year>) <source>VERBI software</source>. <publisher-loc>Marburg, Germany</publisher-loc>: <publisher-name>Consult. GmbH</publisher-name>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'MAXQDA (2007) VERBI software', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref37', 'article-title': 'VERBI software', 'year': '2007'}

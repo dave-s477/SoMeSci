@@ -1,0 +1,13 @@
+Institute B. FastQC A Quality Control tool for High Throughput Sequence Data. 2013. Available: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Institute B. FastQC A Quality Control tool for High Throughput Sequence Data. 2013. Available: <ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'FastQC A Quality Control tool for High Throughput Sequence Data', 'venue': '', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref16', 'unstructured': 'Institute B. FastQC A Quality Control tool for High Throughput Sequence Data. 2013. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/" xlink:type="simple">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>.'}

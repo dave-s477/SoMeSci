@@ -1,0 +1,15 @@
+http://investexcel.net/multiple-stock-quote-downloader-for-excel
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<ext-link ext-link-type="uri" xlink:href="http://investexcel.net/multiple-stock-quote-downloader-for-excel/">http://investexcel.net/multiple-stock-quote-downloader-for-excel/</ext-link>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref36', 'unstructured': '<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://investexcel.net/multiple-stock-quote-downloader-for-excel/" xlink:type="simple">http://investexcel.net/multiple-stock-quote-downloader-for-excel/</ext-link>'}

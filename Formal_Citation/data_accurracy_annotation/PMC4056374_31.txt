@@ -1,0 +1,22 @@
+DriverNet algorithm. [http://bioconductor.org/packages/2.12/bioc/html/DriverNet.html].
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other"><article-title>DriverNet algorithm</article-title><ext-link ext-link-type="uri" xlink:href="http://bioconductor.org/packages/2.12/bioc/html/DriverNet.html">http://bioconductor.org/packages/2.12/bioc/html/DriverNet.html</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'DriverNet: uncovering the impact of somatic driver mutations on transcriptional networks in cancer', 'venue': 'Genome Biology', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'DriverNet algorithm', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+<<reference missing>>
+

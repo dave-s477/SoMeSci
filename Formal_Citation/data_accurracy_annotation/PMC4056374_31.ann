@@ -1,0 +1,16 @@
+T0	Name 0 9	DriverNet
+T1	Type_of_citation 10 19	algorithm
+T2	URL 22 84	http://bioconductor.org/packages/2.12/bioc/html/DriverNet.html
+T3	Name 251 260	DriverNet
+T4	Type_of_citation 261 270	algorithm
+T7	URL 392 454	http://bioconductor.org/packages/2.12/bioc/html/DriverNet.html
+T8	Name 589 598	DriverNet
+T9	wrong_content 600 688	uncovering the impact of somatic driver mutations on transcriptional networks in cancer'
+T10	wrong_content 700 714	Genome Biology
+T11	wrong_content 725 729	2012
+T12	Name 870 879	DriverNet
+T14	Type_of_citation 880 889	algorithm
+T5	unstructured 251 260	DriverNet
+T6	unstructured 261 270	algorithm
+T13	unstructured 870 879	DriverNet
+T15	unstructured 880 889	algorithm

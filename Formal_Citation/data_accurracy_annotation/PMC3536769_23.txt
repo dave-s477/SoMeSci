@@ -1,0 +1,13 @@
+MATLAB R2012a website. Available: http://www.mathworks.ch/products/matlab/. Accessed 2012 Nov 30.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">MATLAB R2012a website. Available: <ext-link ext-link-type="uri" xlink:href="http://www.mathworks.ch/products/matlab/">http://www.mathworks.ch/products/matlab/</ext-link>. Accessed 2012 Nov 30.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Available: http://www.mathworks.ch/products/ matlab', 'venue': 'Accessed', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref23', 'unstructured': 'MATLAB R2012a website. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.mathworks.ch/products/matlab/" xlink:type="simple">http://www.mathworks.ch/products/matlab/</ext-link>. Accessed 2012 Nov 30.'}

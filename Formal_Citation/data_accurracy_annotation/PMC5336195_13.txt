@@ -1,0 +1,21 @@
+StataCorp. Stata Statistical Software: Release 13. College Station, TX. 2013;(Release 13).
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">StataCorp. Stata Statistical Software: Release 13. College Station, TX. 2013;(Release 13).</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stata Statistical Software: Release 13. College Station', 'venue': 'TX', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': '6f369d5f0852753a708a67b189e5bf2ef531c06f', 'externalIds': {'MAG': '1201749067', 'CorpusId': 141625323}, 'url': 'https://www.semanticscholar.org/paper/6f369d5f0852753a708a67b189e5bf2ef531c06f', 'title': 'Stata Statistical Software: Release 7.', 'venue': '', 'year': 2001, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '114603988', 'name': 'Tx Station'}]}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref13', 'unstructured': 'StataCorp. Stata Statistical Software: Release 13. College Station, TX. 2013;(Release 13).'}

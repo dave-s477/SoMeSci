@@ -1,0 +1,21 @@
+STATA (2011) STATA, Statistics/Data Analysis,. In: LP . S, editor. http://wwwstatacom. USA: 4905 Lakeway Drive College Station. Texas 77845 USA 800-STATA-PC.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">STATA (2011) STATA, Statistics/Data Analysis,. In: LP S, editor. <ext-link ext-link-type="uri" xlink:href="http://wwwstatacom">http://wwwstatacom</ext-link>. USA: 4905 Lakeway Drive College Station. Texas 77845 USA 800-STATA-PC.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'USA: 4905 Lakeway Drive College Station', 'venue': 'STATA', 'year': 2011, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'STATA, Statistics/Data Analysis USA: 4905 Lakeway Drive College Station', 'venue': 'STATA', 'year': 2011, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref44', 'unstructured': 'STATA (2011) STATA, Statistics/Data Analysis,. In: LP S, editor. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://wwwstatacom" xlink:type="simple">http://wwwstatacom</ext-link>. USA: 4905 Lakeway Drive College Station. Texas 77845 USA 800-STATA-PC.'}

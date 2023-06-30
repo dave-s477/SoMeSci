@@ -1,0 +1,48 @@
+T0	Creator 0 9	StataCorp
+T1	Name 11 16	Stata
+T2	Description 17 37	Statistical Software
+T3	Version 47 49	13
+T4	PubDate_year 72 76	2013
+T5	Version 86 88	13
+T6	Creator 240 249	StataCorp
+T7	Name 251 256	Stata
+T8	Description 257 277	Statistical Software
+T9	Version 287 289	13
+T10	PubDate_year 312 316	2013
+T11	Version 326 328	13
+T12	unstructured 240 249	StataCorp
+T13	unstructured 251 256	Stata
+T14	unstructured 257 277	Statistical Software
+T15	unstructured 287 289	13
+T16	unstructured 312 316	2013
+T17	unstructured 326 328	13
+T18	Name 454 459	Stata
+T19	Description 460 480	Statistical Software
+T20	Version 490 492	13
+T21	PubDate_year 535 539	2013
+T22	unstructured 454 459	Stata
+T23	unstructured 460 480	Statistical Software
+T24	unstructured 490 492	13
+T25	Name 834 839	Stata
+T26	Description 840 860	Statistical Software
+T27	Version 870 871	7
+T28	wrong_content 870 871	7
+T29	unstructured 870 871	7
+T30	unstructured 840 860	Statistical Software
+T31	unstructured 834 839	Stata
+T32	PubDate_year 896 900	2001
+T33	wrong_content 896 900	2001
+T34	Creator 977 1026	[{'authorId': '114603988', 'name': 'Tx Station'}]
+T35	wrong_content 977 1026	[{'authorId': '114603988', 'name': 'Tx Station'}]
+T36	Creator 1081 1090	StataCorp
+T37	Name 1092 1097	Stata
+T38	Description 1098 1118	Statistical Software
+T39	Version 1128 1130	13
+T40	PubDate_year 1153 1157	2013
+T41	Version 1167 1169	13
+T42	unstructured 1081 1090	StataCorp
+T43	unstructured 1092 1097	Stata
+T44	unstructured 1098 1118	Statistical Software
+T45	unstructured 1128 1130	13
+T46	unstructured 1153 1157	2013
+T47	unstructured 1167 1169	13

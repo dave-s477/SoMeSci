@@ -1,0 +1,14 @@
+StataCorp. Stata Statistical Software: Release 13. 2013, StataCorp LP.: College Station, TX.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>StataCorp</collab>. <source>Stata Statistical Software: Release 13</source>. <year>2013</year>, <publisher-name>StataCorp LP</publisher-name>: <publisher-loc>College Station, TX</publisher-loc>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stata Statistical Software: Release 13. 2013, StataCorp LP.: College Station, TX', 'venue': 'Stata Statistical Software: Release 13. 2013, StataCorp LP.: College Station, TX', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref52', 'article-title': 'Stata Statistical Software: Release 13', 'year': '2013'}

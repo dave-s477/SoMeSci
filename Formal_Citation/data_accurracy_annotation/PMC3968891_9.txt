@@ -1,0 +1,17 @@
+R Core Team. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria, 2013. http://www.eea.europa.eu/data-and-maps/indicators/oxygen-consuming-substances-in-rivers/r-development-core-team-2006
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">R Core Team.
+<article-title>R: A Language and Environment for Statistical Computing</article-title>. R Foundation for Statistical Computing, Vienna, Austria,<year>2013</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.eea.europa.eu/data-and-maps/indicators/oxygen-consuming-substances-in-rivers/r-development-core-team-2006">Reference Source</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<article_missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref-9', 'article-title': 'R: A Language and Environment for Statistical Computing', 'year': '2013'}

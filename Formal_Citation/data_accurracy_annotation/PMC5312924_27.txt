@@ -1,0 +1,13 @@
+Chou TC, Martin N. CompuSyn for Drug Combinations: PC Software and Users Guide: A Computer Program for Quantitation of Synergism and Antagonism in Drug Combinations and the Determination of IC50, ED50, and LD50 Values. ComboSyn. 2005. www.combosyn.com.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Chou TC, Martin N. CompuSyn for Drug Combinations: PC Software and Users Guide: A Computer Program for Quantitation of Synergism and Antagonism in Drug Combinations and the Determination of IC50, ED50, and LD50 Values. ComboSyn. 2005. <ext-link ext-link-type="uri" xlink:href="http://www.combosyn.com">www.combosyn.com</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'CompuSyn for Drug Combinations: PC Software and Users Guide: A Computer Program for Quantitation of Synergism and Antagonism in Drug Combinations and the Determination of IC50, ED50, and LD50 Values', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref27', 'unstructured': 'Chou TC, Martin N. CompuSyn for Drug Combinations: PC Software and Users Guide: A Computer Program for Quantitation of Synergism and Antagonism in Drug Combinations and the Determination of IC50, ED50, and LD50 Values. ComboSyn. 2005. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.combosyn.com" xlink:type="simple">www.combosyn.com</ext-link>.'}

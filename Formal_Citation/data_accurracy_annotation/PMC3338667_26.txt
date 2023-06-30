@@ -1,0 +1,18 @@
+Drummond AJ, Ashton B, Buxton S, Cheung M, Cooper A, et al. (2011) Geneious v5.4 website. Available: http://www.geneious.com. Accessed 2012 Jan 5.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<person-group person-group-type="author"><name><surname>Drummond</surname><given-names>AJ</given-names></name><name><surname>Ashton</surname><given-names>B</given-names></name><name><surname>Buxton</surname><given-names>S</given-names></name><name><surname>Cheung</surname><given-names>M</given-names></name><name><surname>Cooper</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Geneious v5.4 website.</article-title>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.geneious.com">http://www.geneious.com</ext-link>. Accessed 2012 Jan 5</comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref26', 'article-title': 'Geneious v5.4 website.', 'author': 'AJ Drummond', 'year': '2011'}

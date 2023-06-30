@@ -1,0 +1,25 @@
+Browne WJ (2009) MCMC estimation in MLwiN. Brsitol (UK): Centre for Multilevel Modelling, University of Bristol.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Browne WJ (2009) MCMC estimation in MLwiN. Brsitol (UK): Centre for Multilevel Modelling, University of Bristol.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': '4a7e2dff75a6761b8754085420a0d356e91ff724', 'externalIds': {'MAG': '2602158221', 'CorpusId': 151621495}, 'url': 'https://www.semanticscholar.org/paper/4a7e2dff75a6761b8754085420a0d356e91ff724', 'title': 'MCMC Estimation in MLwiN (Version 2.13) Centre for Multilevel Modelling, University of Bristol', 'venue': '', 'year': 2009, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '34741029', 'name': 'W. Browne'}]}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'MCMC estimation in MLwiN. Brsitol (UK): Centre for Multilevel Modelling, University of Bristol', 'venue': '', 'year': 2009, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_2>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'MCMC estimation in MLwiN. Brsitol (UK): Centre for Multilevel Modelling', 'venue': '', 'year': 2009, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref26', 'unstructured': 'Browne WJ (2009) MCMC estimation in MLwiN. Brsitol (UK): Centre for Multilevel Modelling, University of Bristol.'}

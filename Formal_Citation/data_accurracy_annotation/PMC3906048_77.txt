@@ -1,0 +1,13 @@
+Ridgway G (n.d.) Get_totals. Available: http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Ridgway G (n.d.) Get_totals. Available: <ext-link ext-link-type="uri" xlink:href="http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m">http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'VBM Tutorial Ridgway G ( n . d . ) Get _ totals', 'venue': '', 'year': 2010, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref77', 'unstructured': 'Ridgway G (n.d.) Get_totals. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m" xlink:type="simple">http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m</ext-link>.'}

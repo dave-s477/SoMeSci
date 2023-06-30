@@ -1,0 +1,14 @@
+ImageJ [http://rsb.info.nih.gov/ij/]
+
+<<<publisher>>>
+
+<citation xmlns:xlink="http://www.w3.org/1999/xlink" citation-type="other"><article-title>ImageJ</article-title><ext-link ext-link-type="uri" xlink:href="http://rsb.info.nih.gov/ij/"/></citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'ImageJ', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<article_missing>>
+

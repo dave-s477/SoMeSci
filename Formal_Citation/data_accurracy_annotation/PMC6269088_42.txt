@@ -1,0 +1,19 @@
+Gamer M, Lemon J, Fellows I, Singh P. irr: various coefficients of interrater reliability and agreement. Version 0.84. Vienna: R Foundation for Statistical Computing; 2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Gamer M, Lemon J, Fellows I, Singh P. irr: various coefficients of interrater reliability and agreement. Version 0.84. Vienna: R Foundation for Statistical Computing; 2012.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'irr: various coefficients of interrater reliability and agreement. Version 0.84. Vienna: R Foundation for Statistical Computing', 'venue': '', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'irr: various coefficients of interrater reliability and agreement. Version 0.84', 'venue': 'Vienna: R Foundation for Statistical Computing;', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref42', 'unstructured': 'Gamer M, Lemon J, Fellows I, Singh P. irr: various coefficients of interrater reliability and agreement. Version 0.84. Vienna: R Foundation for Statistical Computing; 2012.'}

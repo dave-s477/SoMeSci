@@ -1,0 +1,24 @@
+SAS Institute Inc. SAS 9.2 user's guide. Cary, NC: SAS Institute Inc; 2009.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<chapter-title>SAS Institute Inc. SAS 9.2 user's guide</chapter-title>
+<publisher-loc>Cary, NC</publisher-loc>: <publisher-name>SAS Institute Inc</publisher-name>; <year>2009</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "2 user's guide", 'venue': 'SAS Institute Inc. SAS 9', 'year': 2009, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "SAS 9.2 user's guide", 'venue': "SAS 9.2 user's guide", 'year': 2009, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+<<reference missing>>
+

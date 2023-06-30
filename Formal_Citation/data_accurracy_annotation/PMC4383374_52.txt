@@ -1,0 +1,16 @@
+SAS Institute Inc. SAS/STAT user's guide. Cary, NC, USA: SAS Institute Inc; 2001.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>SAS Institute Inc</collab>. <chapter-title>SAS/STAT user's guide</chapter-title>
+<publisher-loc>Cary, NC, USA</publisher-loc>: <publisher-name>SAS Institute Inc</publisher-name>; <year>2001</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "SAS/STAT user's guide", 'venue': "SAS/STAT user's guide", 'year': 2001, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<reference missing>>
+

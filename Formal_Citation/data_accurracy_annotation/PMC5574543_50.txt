@@ -1,0 +1,19 @@
+Boersma P, Weenink D. Praat: Doing phonetics by computer [Version 6.0.05, Computer program]. Retrieved Nov 8 2015.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Boersma P, Weenink D. Praat: Doing phonetics by computer [Version 6.0.05, Computer program]. Retrieved Nov 8 2015.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': '5b204b3605431938d9a8ecf03435cb3894222b65', 'externalIds': {'MAG': '2981666567', 'CorpusId': 59634844}, 'url': 'https://www.semanticscholar.org/paper/5b204b3605431938d9a8ecf03435cb3894222b65', 'title': 'Praat : doing phonetics by computer (version 4.4.24)', 'venue': '', 'year': 2006, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '145317765', 'name': 'P. Boersma'}]}
+
+<<<sem_entry_1>>>
+
+{'paperId': 'c14e252be12cee9338f3bbfe18de83ba19948af8', 'externalIds': {'MAG': '1525711547', 'DOI': '10.1097/aud.0b013e31821473f7', 'CorpusId': 60594797}, 'url': 'https://www.semanticscholar.org/paper/c14e252be12cee9338f3bbfe18de83ba19948af8', 'title': 'Praat: doing phonetics by computer', 'venue': '', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': [{'authorId': '145317765', 'name': 'P. Boersma'}, {'authorId': '2561007', 'name': 'D. Weenink'}]}
+
+<<<crossref>>>
+
+{'key': 'ref50', 'unstructured': 'Boersma P, Weenink D. Praat: Doing phonetics by computer [Version 6.0.05, Computer program]. Retrieved Nov 8 2015.'}

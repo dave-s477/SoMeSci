@@ -1,0 +1,25 @@
+Bate D, Maechler M, Bolker B (2012) lme4: Linear mixed-effects models using S4 classes. R package version 0.999999–0.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Bate D, Maechler M, Bolker B (2012) lme4: Linear mixed-effects models using S4 classes. R package version 0.999999&#8211;0.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': '2012) lme4: Linear mixed-effects models using S4 classes', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'lme4: Linear mixed-effects models using S4 classes. R package version 0', 'venue': 'lme4: Linear mixed-effects models using S4 classes. R package version 0', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_2>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'lme4: Linear mixed-effects models using S4 classes. R package version 0.999999–0', 'venue': '', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref72', 'unstructured': 'Bate D, Maechler M, Bolker B (2012) lme4: Linear mixed-effects models using S4 classes. R package version 0.999999–0.'}

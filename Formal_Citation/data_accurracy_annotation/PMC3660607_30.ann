@@ -1,0 +1,35 @@
+T0	Name 0 3	SAS
+T1	Version 13 16	9.2
+T2	Creator 35 53	SAS Institute Inc.
+T3	PubDate_year 30 34	2008
+T4	Name 345 348	SAS
+T5	unstructured 345 348	SAS
+T6	Version 358 361	9.2
+T7	PubDate_year 380 384	2008
+T8	Creator 385 402	SAS Institute Inc
+T9	unstructured 380 384	2008
+T10	unstructured 358 361	9.2
+T11	unstructured 385 402	SAS Institute Inc
+T12	Version 675 678	9.2
+T13	unstructured 675 678	9.2
+T15	duplicate 851 1022	Version 9.2. Copyright ß 2008 SAS Institute Inc. SAS and all other SAS Institute Inc. product or service names are registered trademarks or trademarks of SAS Institute Inc
+T16	Creator 697 714	SAS Institute Inc
+T17	unstructured 697 714	SAS Institute Inc
+T18	Version 1186 1189	9.2
+T19	unstructured 1186 1189	9.2
+T20	Creator 1208 1225	SAS Institute Inc
+T21	unstructured 1208 1225	SAS Institute Inc
+T22	PubDate_year 1203 1207	2008
+T23	unstructured 1203 1207	2008
+T24	PubDate_year 692 696	2008
+T25	unstructured 692 696	2008
+T26	Name 1490 1493	SAS
+T27	Version 1503 1506	9.2
+T28	PubDate_year 1520 1524	2008
+T29	unstructured 1520 1524	2008
+T30	Creator 1525 1542	SAS Institute Inc
+T31	unstructured 1525 1542	SAS Institute Inc
+T32	unstructured 1503 1506	9.2
+T33	unstructured 1490 1493	SAS
+T14	Name 1362 1365	SAS
+T34	wrong_place 1362 1365	SAS

@@ -1,0 +1,42 @@
+T0	Creator 0 10	StataCorp.
+T1	Name 11 16	Stata
+T2	Description 17 37	Statistical Software
+T3	Version 46 48	12
+T4	Creator 111 124	StataCorp LP.
+T5	PubDate_year 126 130	2011
+T6	Name 324 329	Stata
+T7	Description 330 350	Statistical Software
+T8	Version 359 361	12
+T9	Creator 503 516	StataCorp LP.
+T10	PubDate_year 541 545	2011
+T11	Creator 289 299	StataCorp.
+T12	unstructured 324 329	Stata
+T13	unstructured 330 350	Statistical Software
+T14	unstructured 359 361	12
+T15	Name 677 682	Stata
+T16	Description 683 703	Statistical Software
+T17	Version 712 714	12
+T18	Creator 776 788	StataCorp LP
+T19	duplicate 801 912	Stata Statistical Software:Release 12 In: Stata Statistical Edited by LP. S. College Station, TX:: StataCorp LP
+T20	PubDate_year 923 927	2011
+T21	unstructured 677 682	Stata
+T22	unstructured 683 703	Statistical Software
+T23	unstructured 712 714	12
+T24	unstructured 776 788	StataCorp LP
+T25	Name 1222 1227	Stata
+T26	Description 1228 1248	Statistical Software
+T27	Version 1258 1259	7
+T28	wrong_content 1258 1259	7
+T29	unstructured 1258 1259	7
+T30	unstructured 1228 1248	Statistical Software
+T31	unstructured 1222 1227	Stata
+T32	PubDate_year 1284 1288	2001
+T33	unstructured 1284 1288	2001
+T34	Creator 1365 1414	[{'authorId': '114603988', 'name': 'Tx Station'}]
+T35	wrong_content 1365 1414	[{'authorId': '114603988', 'name': 'Tx Station'}]
+T36	PubDate_year 1512 1516	2011
+T37	Creator 1470 1475	Stata
+T38	Description 1476 1487	Statistical
+T39	incomplete_content 1476 1487	Statistical
+T40	unstructured 1476 1487	Statistical
+T41	unstructured 1470 1475	Stata

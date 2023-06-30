@@ -1,0 +1,15 @@
+Euroqol. EQ-5D-5L. http://www.euroqol.org/eq-5d-products/eq-5d-5l.html.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Euroqol. EQ-5D-5L. <ext-link ext-link-type="uri" xlink:href="http://www.euroqol.org/eq-5d-products/eq-5d-5l.html">http://www.euroqol.org/eq-5d-products/eq-5d-5l.html</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref40', 'unstructured': 'Euroqol. EQ-5D-5L. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.euroqol.org/eq-5d-products/eq-5d-5l.html" xlink:type="simple">http://www.euroqol.org/eq-5d-products/eq-5d-5l.html</ext-link>.'}

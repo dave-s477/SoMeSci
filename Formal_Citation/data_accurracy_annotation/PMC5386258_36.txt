@@ -1,0 +1,15 @@
+LeDell EE. h2oEnsemble: H2O Ensemble Learning. R package version 0.1.8. 2016.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">LeDell EE. h2oEnsemble: H2O Ensemble Learning. R package version 0.1.8. 2016.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref36', 'unstructured': 'LeDell EE. h2oEnsemble: H2O Ensemble Learning. R package version 0.1.8. 2016.'}

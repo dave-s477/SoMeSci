@@ -1,0 +1,13 @@
+SAS Institute. SAS/STAT®Users Guide, Version 9.3; SAS Inst. Inc.: Cary, NC, USA, 2017.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><collab>SAS Institute</collab></person-group><source>SAS/STAT&#174; Users Guide, Version 9.3</source><publisher-name>SAS Inst. Inc.</publisher-name><publisher-loc>Cary, NC, USA</publisher-loc><year>2017</year></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SAS/STAT®Users Guide, Version 9', 'venue': 'SAS Inst. Inc', 'year': 2017, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref19', 'series-title': 'SAS/STAT® Users Guide, Version 9.3', 'year': '2017'}

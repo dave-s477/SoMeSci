@@ -1,0 +1,18 @@
+Schneider S, Roessli D, Excoffier L (2000) Arlequin ver 2.0: a software for population genetics data analysis. Genetics and Biometry Laboratory, University of Geneva, Geneva, Switzerland.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<person-group person-group-type="author"><name><surname>Schneider</surname><given-names>S</given-names></name><name><surname>Roessli</surname><given-names>D</given-names></name><name><surname>Excoffier</surname><given-names>L</given-names></name></person-group>
+<year>2000</year>
+<article-title>Arlequin ver 2.0: a software for population genetics data analysis.</article-title>
+<comment>Genetics and Biometry Laboratory, University of Geneva, Geneva, Switzerland</comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Arlequin ver 2.0: a software for population genetics data analysis', 'venue': 'Genetics and Biometry Laboratory,', 'year': 2000, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref72', 'article-title': 'Arlequin ver 2.0: a software for population genetics data analysis.', 'author': 'S Schneider', 'year': '2000'}

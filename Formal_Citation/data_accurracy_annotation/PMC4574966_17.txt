@@ -1,0 +1,14 @@
+Andrich D, Sheridan B, Lyne A, Luo G (2000) Rumm: A windows-based item analysis program employing rasch unidimensional measurement models. Perth, Australia: Murdoch University.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<name><surname>Andrich</surname><given-names>D</given-names></name>, <name><surname>Sheridan</surname><given-names>B</given-names></name>, <name><surname>Lyne</surname><given-names>A</given-names></name>, <name><surname>Luo</surname><given-names>G</given-names></name> (<year>2000</year>) <source>Rumm: A windows-based item analysis program employing rasch unidimensional measurement models</source>. <publisher-loc>Perth, Australia</publisher-loc>: <publisher-name>Murdoch University</publisher-name>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Rumm: A windows-based item analysis program employing rasch unidimensional measurement models', 'venue': '', 'year': 2000, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref17', 'article-title': 'Rumm: A windows-based item analysis program employing rasch unidimensional measurement models', 'author': 'D Andrich', 'year': '2000'}

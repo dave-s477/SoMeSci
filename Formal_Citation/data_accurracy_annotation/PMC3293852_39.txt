@@ -1,0 +1,33 @@
+Boersma P, Weenink D (2009) Praat: doing phonetics by computer (Version 5.1.04). .
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boersma</surname><given-names>P</given-names></name><name><surname>Weenink</surname><given-names>D</given-names></name></person-group>
+<year>2009</year>
+<article-title>Praat: doing phonetics by computer (Version 5.1.04).</article-title>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': 'a3223f1fa1718bf3913753cabda44d854392287b', 'externalIds': {'MAG': '1875231349', 'CorpusId': 60531168}, 'url': 'https://www.semanticscholar.org/paper/a3223f1fa1718bf3913753cabda44d854392287b', 'title': 'Praat, a system for doing phonetics by computer', 'venue': '', 'year': 2002, 'publicationDate': None, 'journal': {'volume': '5', 'pages': '341-345', 'name': ''}, 'authors': [{'authorId': '145317765', 'name': 'P. Boersma'}]}
+
+<<<sem_entry_1>>>
+
+{'paperId': '54255c8fc463b9d067b8370d79f0c5ec0f939f09', 'externalIds': {'MAG': '2978847058', 'CorpusId': 210586153}, 'url': 'https://www.semanticscholar.org/paper/54255c8fc463b9d067b8370d79f0c5ec0f939f09', 'title': 'Praat : doing phonetics by computer (version 5.1.05)', 'venue': '', 'year': 2009, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '145317765', 'name': 'P. Boersma'}]}
+
+
+
+<<<crossref>>>
+
+<<<cro_entry_0>>>
+
+{
+    "key": "ref39",
+    "article-title": "Praat: doing phonetics by computer (Version 5.1.04).",
+    "author": "P Boersma",
+    "year": "2009"
+}
+

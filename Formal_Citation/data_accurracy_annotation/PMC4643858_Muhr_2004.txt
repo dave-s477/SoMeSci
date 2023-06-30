@@ -1,0 +1,13 @@
+Muhr, T. 2004. User’s manual for ATLAS.ti 5.0. Berlin: ATLAS.ti Scientific Software Development GmbH.
+
+<<<publisher>>>
+
+<element-citation xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><name><surname>Muhr</surname><given-names>T</given-names></name></person-group><source>User's manual for ATLAS.ti 5.0</source><year>2004</year><publisher-loc>Berlin</publisher-loc><publisher-name>ATLAS.ti Scientific Software Development GmbH</publisher-name></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'User’s manual for ATLAS.ti 5.0. Berlin: ATLAS.ti Scientific Software Development GmbH', 'venue': '', 'year': 2004, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'CIT0025', 'volume-title': "User's manual for ATLAS.ti 5.0", 'author': 'Muhr T.', 'year': '2004'}

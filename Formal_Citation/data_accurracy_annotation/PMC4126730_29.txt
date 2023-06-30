@@ -1,0 +1,16 @@
+Arbuckle JL (2006) Amos 7.0. Amos Development Corporation, Spring House.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="journal">
+<name><surname>Arbuckle</surname><given-names>JL</given-names></name> (<year>2006</year>) <article-title>Amos 7.0. Amos Development Corporation, Spring House</article-title>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref29', 'article-title': 'Amos 7.0. Amos Development Corporation, Spring House', 'author': 'JL Arbuckle', 'year': '2006'}

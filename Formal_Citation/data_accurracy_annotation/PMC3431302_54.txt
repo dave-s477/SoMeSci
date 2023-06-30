@@ -1,0 +1,14 @@
+Green P, Falls K, Crooks S (1990) Cri-Map. 2.4 ed. St Louis: Washington University School of Medicine.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Green P, Falls K, Crooks S (1990) Cri-Map. 2.4 ed. St Louis: Washington University School of Medicine.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Cri-Map. 2.4 ed', 'venue': 'St Louis: Washington University School of Medicine', 'year': 1990, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<article_missing>>
+

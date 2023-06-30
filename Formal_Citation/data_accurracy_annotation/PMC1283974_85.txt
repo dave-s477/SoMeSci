@@ -1,0 +1,15 @@
+Klein A: Mindboggle. [http://www.binarybottle.com/mindboggle.html].
+
+<<<publisher>>>
+
+<citation xmlns:xlink="http://www.w3.org/1999/xlink" citation-type="other"><person-group person-group-type="author"><name><surname>Klein</surname><given-names>A</given-names></name></person-group><article-title>Mindboggle</article-title><ext-link ext-link-type="uri" xlink:href="http://www.binarybottle.com/mindboggle.html"/></citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': '17_CR85', 'unstructured': 'Klein A: Mindboggle. [http://www.binarybottle.com/mindboggle.html]'}

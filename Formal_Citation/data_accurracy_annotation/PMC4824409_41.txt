@@ -1,0 +1,13 @@
+Borenstein M., Hedges L. V., Higgins J. P. T., & Rothstein H. R. (2014). Comprehensive Meta-Analysis Version 3.3.070. Englewood, NJ: Biostat.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><name><surname>Borenstein</surname><given-names>M.</given-names></name>, <name><surname>Hedges</surname><given-names>L. V.</given-names></name>, <name><surname>Higgins</surname><given-names>J. P. T.</given-names></name>, &amp; <name><surname>Rothstein</surname><given-names>H. R.</given-names></name> (<year>2014</year>). <source>Comprehensive Meta-Analysis Version 3.3.070</source>. <publisher-loc>Englewood, NJ</publisher-loc>: <publisher-name>Biostat</publisher-name>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Comprehensive Meta-Analysis Version 3.3.070', 'venue': '', 'year': 2014, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref41', 'article-title': 'Comprehensive Meta-Analysis Version 3.3.070', 'author': 'M. Borenstein', 'year': '2014'}

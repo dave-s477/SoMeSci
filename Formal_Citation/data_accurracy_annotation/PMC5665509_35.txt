@@ -1,0 +1,11 @@
+Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2015). lmerTest: Tests in Linear Mixed Effects Models, 2015. U RL http://CRAN.R-project.org/package=lmerTest. R package version, 2–0.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Kuznetsova, A., Brockhoff, P. B., &amp; Christensen, R. H. B. (2015). lmerTest: Tests in Linear Mixed Effects Models, 2015. U RL <ext-link ext-link-type="uri" xlink:href="http://CRAN.R-project.org/package=lmerTest">http://CRAN.R-project.org/package=lmerTest</ext-link>. R package version, 2&#8211;0.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '87a775279bdd43847ca692d4258e306052250088', 'externalIds': {'MAG': '2774486220', 'DOI': '10.18637/JSS.V082.I13', 'CorpusId': 55130898}, 'url': 'https://www.semanticscholar.org/paper/87a775279bdd43847ca692d4258e306052250088', 'title': 'lmerTest Package: Tests in Linear Mixed Effects Models', 'venue': '', 'year': 2017, 'publicationDate': '2017-12-06', 'journal': {'volume': '82', 'pages': '1-26', 'name': 'Journal of Statistical Software'}, 'authors': [{'authorId': '49679769', 'name': 'Alexandra Kuznetsova'}, {'authorId': '3068546', 'name': 'P. Brockhoff'}, {'authorId': '50500281', 'name': 'R. Christensen'}]}<<<crossref>>>
+
+{'key': 'ref35', 'unstructured': 'Kuznetsova, A., Brockhoff, P. B., &amp; Christensen, R. H. B. (2015). lmerTest: Tests in Linear Mixed Effects Models, 2015. U RL <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://CRAN.R-project.org/package=lmerTest" xlink:type="simple">http://CRAN.R-project.org/package=lmerTest</ext-link>. R package version, 2–0.'}

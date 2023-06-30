@@ -1,0 +1,13 @@
+Anders, S.; Huber, W. Differential Expression of RNA-Seq Data at the Gene Level—The DESeq Package; European Molecular Biology Laboratory: Heidelberg, Germany, 2012.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><name><surname>Anders</surname><given-names>S.</given-names></name><name><surname>Huber</surname><given-names>W.</given-names></name></person-group><source>Differential Expression of RNA-Seq Data at the Gene Level&#8212;The DESeq Package</source><publisher-name>European Molecular Biology Laboratory</publisher-name><publisher-loc>Heidelberg, Germany</publisher-loc><year>2012</year></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '81c42bdf29edd0035b237375e2270f5a31762147', 'externalIds': {'CorpusId': 1084010}, 'url': 'https://www.semanticscholar.org/paper/81c42bdf29edd0035b237375e2270f5a31762147', 'title': 'Differential expression of RNA-Seq data at the gene level – the DESeq package', 'venue': '', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': [{'authorId': '1922254', 'name': 'S. Anders'}, {'authorId': '144493753', 'name': 'W. Huber'}, {'authorId': '1391348879', 'name': 'European'}]}
+
+<<<crossref>>>
+
+{'key': 'ref13', 'series-title': 'Differential Expression of RNA-Seq Data at the Gene Level—The DESeq Package', 'author': 'Anders', 'year': '2012'}

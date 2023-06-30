@@ -1,0 +1,23 @@
+Juggins S. rioja: an R package for the analysis of Quaternary science data, Version 0.7–32012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Juggins S. rioja: an R package for the analysis of Quaternary science data, Version 0.7&#8211;32012.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'rioja: an R package for the analysis of Quaternary science data, Version 0.7–32012', 'venue': '', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'rioja: an R package for the analysis of Quaternary science data', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_2>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'rioja: an R package for the analysis of Quaternary science data, Version 0', 'venue': 'rioja: an R package for the analysis of Quaternary science data, Version 0', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref62', 'unstructured': 'Juggins S. rioja: an R package for the analysis of Quaternary science data, Version 0.7–32012.'}

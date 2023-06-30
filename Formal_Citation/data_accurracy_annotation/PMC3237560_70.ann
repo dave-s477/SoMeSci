@@ -1,0 +1,41 @@
+T0	Creator 0 18	SAS Institute Inc.
+T1	PubDate_year 20 24	1997
+T2	Creator 102 120	SAS Institute Inc.
+T4	PubDate_year 1060 1064	1167
+T5	wrong_content 1060 1064	1167
+T6	PubDate_year 769 773	1997
+T7	Name 664 672	SAS/STAT
+T8	Creator 741 758	SAS Institute Inc
+T9	wrong_place 741 758	SAS Institute Inc
+T10	Name 914 922	SAS/STAT
+T11	incomplete_content 974 975	6
+T13	duplicate 988 1049	SAS/STAT Software: Changes and Enhancements through Release 6
+T14	Creator 472 489	SAS Institute Inc
+T15	Name 1177 1185	SAS/STAT
+T16	PubDate_year 1253 1257	1997
+T17	Creator 288 306	SAS Institute Inc.
+T18	PubDate_year 322 326	1997
+T19	Type_of_citation 351 359	Software
+T12	Version 86 90	6.12
+T20	Name 26 34	SAS/STAT
+T3	Type_of_citation 35 43	Software
+T21	Name 342 350	SAS/STAT
+T22	Version 402 406	6.12
+T23	unstructured 402 406	6.12
+T24	unstructured 342 350	SAS/STAT
+T25	unstructured 351 359	Software
+T26	Type_of_citation 673 681	Software
+T27	Version 724 728	6.12
+T28	unstructured 664 672	SAS/STAT
+T29	unstructured 673 681	Software
+T30	unstructured 724 728	6.12
+T31	Version 974 975	6
+T32	unstructured 974 975	6
+T33	Type_of_citation 923 931	Software
+T34	unstructured 923 931	Software
+T35	unstructured 914 922	SAS/STAT
+T36	unstructured 1177 1185	SAS/STAT
+T37	Type_of_citation 1186 1194	Software
+T38	unstructured 1186 1194	Software
+T39	Version 1237 1241	6.12
+T40	unstructured 1237 1241	6.12

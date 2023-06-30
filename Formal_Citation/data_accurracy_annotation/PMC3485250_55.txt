@@ -1,0 +1,16 @@
+Goudet J (2001) FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3). Updated from Goudet (1995). Available: http://www2.unil.ch/popgen/softwares/fstat.htm. Accessed 2012 Oct 4.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Goudet J (2001) FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3). Updated from Goudet (1995). Available: <ext-link ext-link-type="uri" xlink:href="http://www2.unil.ch/popgen/softwares/fstat.htm">http://www2.unil.ch/popgen/softwares/fstat.htm</ext-link>. Accessed 2012 Oct 4.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': '5dc6a83189eb3f49d3887d2d28ada3bf1ebabd57', 'externalIds': {'MAG': '2562291360', 'CorpusId': 90348083}, 'url': 'https://www.semanticscholar.org/paper/5dc6a83189eb3f49d3887d2d28ada3bf1ebabd57', 'title': 'FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3). Updated from Goudet (1995)', 'venue': '', 'year': 2001, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '1401614634', 'name': 'J. Goudet'}]}
+
+
+<<<crossref>>>
+
+{'key': 'ref55', 'unstructured': 'Goudet J (2001) FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3). Updated from Goudet (1995). Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www2.unil.ch/popgen/softwares/fstat.htm" xlink:type="simple">http://www2.unil.ch/popgen/softwares/fstat.htm</ext-link>. Accessed 2012 Oct 4.'}

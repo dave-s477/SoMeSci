@@ -1,0 +1,11 @@
+gplots—Rpackage. Available: http://www.rdocumentation.org/packages/gplots/versions/3.0.1
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">gplots&#8212;Rpackage. Available: <ext-link ext-link-type="uri" xlink:href="http://www.rdocumentation.org/packages/gplots/versions/3.0.1">http://www.rdocumentation.org/packages/gplots/versions/3.0.1</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Available: http://vegan.r-forge.r-project.org 98. gplots—Rpackage. Available: http://www.rdocumentation.org/packages/gplots/versions/3', 'venue': 'Available: http://vegan.r-forge.r-project.org 98. gplots—Rpackage. Available: http://www.rdocumentation.org/packages/gplots/versions/3', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref98', 'unstructured': 'gplots—Rpackage. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rdocumentation.org/packages/gplots/versions/3.0.1" xlink:type="simple">http://www.rdocumentation.org/packages/gplots/versions/3.0.1</ext-link>'}

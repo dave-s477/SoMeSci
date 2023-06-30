@@ -1,0 +1,23 @@
+T0	Name 0 6	Fragit
+T1	URL 24 45	http://www.fragit.org
+T2	Date_of_access 56 69	2012 August 7
+T3	Description 7 18	web service
+T4	Name 220 226	Fragit
+T6	Description 227 238	web service
+T8	URL 309 330	http://www.fragit.org
+T9	Date_of_access 352 365	2012 August 7
+T10	unstructured 352 365	2012 August 7
+T11	Name 490 496	Fragit
+T12	unstructured 490 496	Fragit
+T13	Description 497 508	web service
+T14	unstructured 497 508	web service
+T15	URL 514 535	http://www.fragit.org
+T16	unstructured 514 535	http://www.fragit.org
+T17	wrong_content 537 551	Figure Legends
+T18	duplicate 564 625	Fragit web service. URL http://www.fragit.org. Figure Legends
+T19	Name 781 787	FragIt
+T20	unstructured 781 787	FragIt
+T21	wrong_content 789 853	Preparing Fragmentation Method Inputfiles PLOS ONE | www.plosone
+T22	duplicate 866 938	FragIt: Preparing Fragmentation Method Inputfiles PLOS ONE | www.plosone
+T5	unstructured 220 226	Fragit
+T7	unstructured 227 238	web service

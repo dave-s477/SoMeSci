@@ -1,0 +1,16 @@
+VPixx Technologies Inc. ( St-Bruno-de-Montarville, Québec).
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<source>VPixx Technologies Inc.</source> (<publisher-name>St-Bruno-de-Montarville</publisher-name>, <publisher-loc>Qu&#233;bec</publisher-loc>).</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref34', 'article-title': 'VPixx Technologies Inc.'}

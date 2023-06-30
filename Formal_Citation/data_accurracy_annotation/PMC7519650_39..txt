@@ -1,0 +1,15 @@
+MuTect2 Pitfalls—Best Practices for Processing HTS Data 0.0 documentation. https://best-practices-for-processing-hts-data.readthedocs.io/en/latest/mutect2_pitfalls.html.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" publication-type="other">MuTect2 Pitfalls&#8212;Best Practices for Processing HTS Data 0.0 documentation. <ext-link ext-link-type="uri" xlink:href="https://best-practices-for-processing-hts-data.readthedocs.io/en/latest/mutect2_pitfalls.html">https://best-practices-for-processing-hts-data.readthedocs.io/en/latest/mutect2_pitfalls.html</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': '18640_CR39', 'unstructured': 'MuTect2 Pitfalls—Best Practices for Processing HTS Data 0.0 documentation. https://best-practices-for-processing-hts-data.readthedocs.io/en/latest/mutect2_pitfalls.html.'}

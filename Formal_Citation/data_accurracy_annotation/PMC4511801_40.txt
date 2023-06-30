@@ -1,0 +1,22 @@
+SPSS. Statistical product and service solution, version 11.5. Chicago, IL, USA: SPSS Inc.; 2002.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>SPSS</collab>. <source>Statistical product and service solution, version 11.5</source>. <publisher-loc>Chicago, IL, USA</publisher-loc>: <publisher-name>SPSS Inc</publisher-name>; <year>2002</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Statistical product and service solution, version 11', 'venue': 'Statistical product and service solution, version 11', 'year': 2002, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Statistical product and service solution, version 11.5', 'venue': '', 'year': 2002, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref40', 'article-title': 'Statistical product and service solution, version 11.5', 'year': '2002'}

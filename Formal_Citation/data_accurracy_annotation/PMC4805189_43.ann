@@ -1,0 +1,44 @@
+T0	Creator 0 3	SAS
+T1	PubDate_year 73 77	2006
+T2	URL 90 139	http://support.sas.com/rnd/app/papers/glimmix.pdf
+T3	Date_of_access 150 165	8 February 2012
+T4	Name 27 30	SAS
+T5	Creator 316 319	SAS
+T6	Name 349 352	SAS
+T7	PubDate_year 395 399	2006
+T8	unstructured 316 319	SAS
+T9	unstructured 395 399	2006
+T10	unstructured 349 352	SAS
+T11	URL 505 554	http://support.sas.com/rnd/app/papers/glimmix.pdf
+T12	Date_of_access 576 591	8 February 2012
+T13	unstructured 576 591	8 February 2012
+T14	Type_of_citation 697 709	User's Guide
+T16	Creator 738 741	SAS
+T17	wrong_place 738 741	SAS
+T18	Name 765 768	SAS
+T19	wrong_place 765 768	SAS
+T20	Creator 903 906	SAS
+T21	Manual 930 933	SAS
+T22	PubDate_year 981 985	2006
+T23	URL 1154 1203	http://support.sas.com/rnd/app/papers/glimmix.pdf
+T24	Date_of_access 1225 1240	8 February 2012
+T25	unstructured 1225 1240	8 February 2012
+T26	unstructured 981 985	2006
+T27	unstructured 930 933	SAS
+T28	unstructured 903 906	SAS
+T29	Version 39 42	9.2
+T30	Type_of_citation 43 55	User's Guide
+T31	Version 361 364	9.2
+T32	Type_of_citation 365 377	User's Guide
+T33	unstructured 361 364	9.2
+T34	unstructured 365 377	User's Guide
+T15	Version 777 778	9
+T35	incomplete_content 777 778	9
+T36	unstructured 738 741	SAS
+T37	wrong_place 777 778	9
+T38	unstructured 765 768	SAS
+T39	Version 942 945	9.2
+T40	unstructured 942 945	9.2
+T41	Type_of_citation 946 963	User&apos;s Guide
+T42	unstructured 946 963	User&apos;s Guide
+T43	unstructured 697 709	User's Guide

@@ -1,0 +1,11 @@
+Therneau TM. A Package for Survival Analysis in S. R package version 2.37–7. 2014.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Therneau TM. A Package for Survival Analysis in S. R package version 2.37&#8211;7. 2014.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': 'aba73f6957bce1648f066935f7ea85a99119be5d', 'externalIds': {'CorpusId': 6196398}, 'url': 'https://www.semanticscholar.org/paper/aba73f6957bce1648f066935f7ea85a99119be5d', 'title': 'A Package for Survival Analysis in S', 'venue': '', 'year': 1994, 'publicationDate': None, 'journal': None, 'authors': [{'authorId': '3149653', 'name': 'T. Therneau'}, {'authorId': '46390017', 'name': 'P. Grambsch'}, {'authorId': '2054978057', 'name': 'Tom Fleming'}]}<<<crossref>>>
+
+{'key': 'ref27', 'unstructured': 'Therneau TM. A Package for Survival Analysis in S. R package version 2.37–7. 2014.'}

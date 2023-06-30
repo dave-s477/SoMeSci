@@ -1,0 +1,13 @@
+Rigaku (2005). CrystalClear. Rigaku Corporation, Tokyo, Japan.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Rigaku (2005). <italic>CrystalClear</italic> Rigaku Corporation, Tokyo, Japan.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Rigaku CrystalClear. Rigaku Corporation', 'venue': 'Rigaku CrystalClear. Rigaku Corporation', 'year': 2005, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'pv2411_bb4', 'unstructured': 'Rigaku (2005). CrystalClear. Rigaku Corporation, Tokyo, Japan.'}

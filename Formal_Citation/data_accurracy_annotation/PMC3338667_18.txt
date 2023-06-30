@@ -1,0 +1,18 @@
+SPSS, Inc (2007) SPSS for Windows, standard version 16.0. SPSS, Inc: Chicago.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<collab>SPSS, Inc</collab>
+<year>2007</year>
+<article-title>SPSS for Windows, standard version 16.0.</article-title>
+<comment>SPSS, Inc: Chicago</comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SPSS for Windows, standard version 16.0. SPSS, Inc: Chicago', 'venue': 'SPSS for Windows, standard version 16.0. SPSS, Inc: Chicago', 'year': 2007, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref18', 'article-title': 'SPSS for Windows, standard version 16.0.', 'year': '2007'}

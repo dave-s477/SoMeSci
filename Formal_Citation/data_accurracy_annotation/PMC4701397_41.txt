@@ -1,0 +1,13 @@
+StataCorp (2009) Stata Statistical Software: Release 11. College Station, TX: StataCorp LP.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>StataCorp</collab> (<year>2009</year>) <source>Stata Statistical Software: Release 11</source>. <publisher-loc>College Station, TX</publisher-loc>: <publisher-name>StataCorp LP</publisher-name>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stata Statistical Software: Release 11. College Station, TX: StataCorp LP', 'venue': 'Stata Statistical Software: Release 11. College Station, TX: StataCorp LP', 'year': 2009, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref41', 'article-title': 'Stata Statistical Software: Release 11', 'year': '2009'}

@@ -1,0 +1,15 @@
+Ingenuity Knowledge Base—Qiagen. Available: http://www.ingenuity.com/science/knowledge-base
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Ingenuity Knowledge Base&#8212;Qiagen. Available: <ext-link ext-link-type="uri" xlink:href="http://www.ingenuity.com/science/knowledge-base">http://www.ingenuity.com/science/knowledge-base</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref44', 'unstructured': 'Ingenuity Knowledge Base—Qiagen. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ingenuity.com/science/knowledge-base" xlink:type="simple">http://www.ingenuity.com/science/knowledge-base</ext-link>'}

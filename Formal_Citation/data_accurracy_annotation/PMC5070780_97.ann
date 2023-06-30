@@ -1,0 +1,23 @@
+T0	Name 0 5	vegan
+T1	Type_of_citation 6 14	Rpackage
+T2	URL 27 61	http://vegan.r-forge.r-project.org
+T3	Name 211 216	vegan
+T4	Type_of_citation 223 231	Rpackage
+T5	URL 322 356	http://vegan.r-forge.r-project.org
+T6	unstructured 211 216	vegan
+T7	unstructured 223 231	Rpackage
+T8	URL 483 517	http://vegan.r-forge.r-project.org
+T9	Name 522 528	gplots
+T10	wrong_content 522 528	gplots
+T11	Type_of_citation 529 537	Rpackage
+T12	unstructured 483 517	http://vegan.r-forge.r-project.org
+T13	unstructured 522 528	gplots
+T14	unstructured 529 537	Rpackage
+T15	URL 550 606	http://www.rdocumentation.org/packages/gplots/versions/3
+T16	wrong_content 550 606	http://www.rdocumentation.org/packages/gplots/versions/3
+T17	duplicate 619 753	Available: http://vegan.r-forge.r-project.org 98. gplots—Rpackage. Available: http://www.rdocumentation.org/packages/gplots/versions/3
+T18	Name 876 881	vegan
+T19	Type_of_citation 882 890	Rpackage
+T20	URL 1044 1078	http://vegan.r-forge.r-project.org
+T21	unstructured 876 881	vegan
+T22	unstructured 882 890	Rpackage

@@ -1,0 +1,13 @@
+Van Rossum G, et al. Python Programming Language. In: USENIX Annual Technical Conference. vol. 41; 2007.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Van Rossum G, et al. Python Programming Language. In: USENIX Annual Technical Conference. vol. 41; 2007.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<article_missing>>
+
+<<<crossref>>>
+
+{'key': 'ref73', 'unstructured': 'Van Rossum G, et al. Python Programming Language. In: USENIX Annual Technical Conference. vol. 41; 2007.'}

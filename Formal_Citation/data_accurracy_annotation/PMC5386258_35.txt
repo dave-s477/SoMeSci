@@ -1,0 +1,13 @@
+Aiello SK, Tom; Maj, Petr; with contributions from the H2O.ai team. h2o: R Interface for H2O. R package version 3.8.2.2. 2015.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Aiello SK, Tom; Maj, Petr; with contributions from the H2O.ai team. h2o: R Interface for H2O. R package version 3.8.2.2. 2015.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref35', 'unstructured': 'Aiello SK, Tom; Maj, Petr; with contributions from the H2O.ai team. h2o: R Interface for H2O. R package version 3.8.2.2. 2015.'}

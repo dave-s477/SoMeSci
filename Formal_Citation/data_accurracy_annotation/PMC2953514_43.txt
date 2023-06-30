@@ -1,0 +1,27 @@
+Muthén LK, Muthén BO (1998–2010) Mplus User’s Guide, 6th ed. Los Angeles, CA: Muthén & Muthén.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<person-group person-group-type="author"><name><surname>Muth&#233;n</surname><given-names>LK</given-names></name><name><surname>Muth&#233;n</surname><given-names>BO</given-names></name></person-group>
+<year>1998&#8211;2010</year>
+<source>Mplus User's Guide, 6<sup>th</sup> ed</source>
+<publisher-loc>Los Angeles, CA</publisher-loc>
+<publisher-name>Muth&#233;n &amp; Muth&#233;n</publisher-name>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Mplus User’s Guide, 6 ed', 'venue': '', 'year': 1998, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "Mplus User's Guide, 6 th ed", 'venue': "Mplus User's Guide, 6 th ed", 'year': 1998, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref43', 'article-title': 'Mplus User&apos;s Guide, 6<sup>th</sup> ed', 'author': 'LK Muthén', 'year': '1998'}

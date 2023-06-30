@@ -1,0 +1,11 @@
+Boersma P, Weenink D. Praat: Doing phonetics by computer; 2015. Available from: http://www.praat.org.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Boersma P, Weenink D. Praat: Doing phonetics by computer; 2015. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.praat.org">http://www.praat.org</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': 'c14e252be12cee9338f3bbfe18de83ba19948af8', 'externalIds': {'MAG': '1525711547', 'DOI': '10.1097/aud.0b013e31821473f7', 'CorpusId': 60594797}, 'url': 'https://www.semanticscholar.org/paper/c14e252be12cee9338f3bbfe18de83ba19948af8', 'title': 'Praat: doing phonetics by computer', 'venue': '', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': [{'authorId': '145317765', 'name': 'P. Boersma'}, {'authorId': '2561007', 'name': 'D. Weenink'}]}<<<crossref>>>
+
+{'key': 'ref66', 'unstructured': 'Boersma P, Weenink D. Praat: Doing phonetics by computer; 2015. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.praat.org" xlink:type="simple">http://www.praat.org</ext-link>.'}

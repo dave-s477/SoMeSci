@@ -1,0 +1,22 @@
+Kleiner M, Brainard D, Pelli D. What’s new in Psychtoolbox-3? Perception. 2007; 36: 14–14.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="journal"><name><surname>Kleiner</surname><given-names>M</given-names></name>, <name><surname>Brainard</surname><given-names>D</given-names></name>, <name><surname>Pelli</surname><given-names>D</given-names></name>. <article-title>What&#8217;s new in Psychtoolbox-3?</article-title>
+<source>Perception</source>. <year>2007</year>;<volume>36</volume>: <fpage>14</fpage>&#8211;<lpage>14</lpage>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': '04d47572cec08b7a582a9366e5ac61dcfd633f2a', 'externalIds': {'MAG': '2923742357', 'DOI': '10.1177/03010066070360S101', 'CorpusId': 150482402}, 'url': 'https://www.semanticscholar.org/paper/04d47572cec08b7a582a9366e5ac61dcfd633f2a', 'title': "What's new in Psychtoolbox-3?", 'venue': '', 'year': 2007, 'publicationDate': '2007-08-01', 'journal': {'volume': '36', 'pages': '1-16', 'name': 'Perception'}, 'authors': [{'authorId': '2792277', 'name': 'M. Kleiner'}, {'authorId': '2948968', 'name': 'D. Brainard'}, {'authorId': '5469799', 'name': 'D. Pelli'}]}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'What ’ s new in Psychtoolbox3 ?', 'venue': 'Perception', 'year': 2007, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref51', 'first-page': '14', 'article-title': 'What’s new in Psychtoolbox-3?', 'volume': '36', 'author': 'M Kleiner', 'year': '2007', 'journal-title': 'Perception'}

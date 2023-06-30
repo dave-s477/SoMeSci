@@ -1,0 +1,17 @@
+IBM Corp. Released. IBM SPSS statistics for windosws, version 20.0. Armonk, New York: IBM Corp; 2011
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>IBM Corp</collab>. <chapter-title>Released. IBM SPSS statistics for windosws, version 20.0</chapter-title>
+<publisher-loc>Armonk, New York</publisher-loc>: <publisher-name>IBM Corp</publisher-name>; <year>2011</year></mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+<<reference missing>>
+

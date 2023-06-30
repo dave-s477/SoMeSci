@@ -1,0 +1,13 @@
+Carstensen B, Plummer M. A Package for Statistical Analysis in Epidemiology. 2015; Available: https://cran.r-project.org/web/packages/Epi/index.html
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Carstensen B, Plummer M. A Package for Statistical Analysis in Epidemiology. 2015; Available: <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/Epi/index.html">https://cran.r-project.org/web/packages/Epi/index.html</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': 'ed79caacdacbeb7bf8da015af04390a9e8edd865', 'externalIds': {'MAG': '1955745148', 'CorpusId': 70394253}, 'url': 'https://www.semanticscholar.org/paper/ed79caacdacbeb7bf8da015af04390a9e8edd865', 'title': 'A package for statistical analysis in epidemiology', 'venue': '', 'year': 2016, 'publicationDate': '2016-01-06', 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '4308605', 'name': 'B. Carstensen'}, {'authorId': '2631410', 'name': 'M. Plummer'}]}
+
+<<<crossref>>>
+
+{'key': 'ref27', 'unstructured': 'Carstensen B, Plummer M. A Package for Statistical Analysis in Epidemiology. 2015; Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/Epi/index.html" xlink:type="simple">https://cran.r-project.org/web/packages/Epi/index.html</ext-link>'}

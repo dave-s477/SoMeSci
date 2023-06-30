@@ -1,0 +1,13 @@
+IBM Corp. SPSS Statistics for Windows Version 21.0. In. Armonk, NY; 2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>IBM Corp</collab>. <source>SPSS Statistics for Windows Version 21.0</source>. In. <publisher-loc>Armonk, NY</publisher-loc>; <year>2012</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SPSS Statistics for Windows Version 21.0', 'venue': '', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref34', 'article-title': 'SPSS Statistics for Windows Version 21.0', 'year': '2012'}

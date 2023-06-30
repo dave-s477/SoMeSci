@@ -1,0 +1,15 @@
+IBM. IBM SPSS software [Internet]. 2015 [cited 11 Jun 2015]. http://www-01.ibm.com/software/analytics/spss/
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">IBM. IBM SPSS software [Internet]. 2015 [cited 11 Jun 2015]. <ext-link ext-link-type="uri" xlink:href="http://www-01.ibm.com/software/analytics/spss/">http://www-01.ibm.com/software/analytics/spss/</ext-link></mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref61', 'unstructured': 'IBM. IBM SPSS software [Internet]. 2015 [cited 11 Jun 2015]. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www-01.ibm.com/software/analytics/spss/" xlink:type="simple">http://www-01.ibm.com/software/analytics/spss/</ext-link>'}

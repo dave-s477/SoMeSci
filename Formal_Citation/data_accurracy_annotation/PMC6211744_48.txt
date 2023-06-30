@@ -1,0 +1,13 @@
+IBM C. IBM SPSS Statistics for Windows. 22 ed. Armonk, New York2013.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">IBM C. IBM SPSS Statistics for Windows. 22 ed. Armonk, New York2013.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'IBM SPSS Statistics for Windows', 'venue': 'New York2013', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref48', 'unstructured': 'IBM C. IBM SPSS Statistics for Windows. 22 ed. Armonk, New York2013.'}

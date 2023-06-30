@@ -1,0 +1,18 @@
+Stuiver M, Reimer PJ, Reimer R (2005) CALIB 6.0. WWW program and documentation. Available: http://radiocarbon.pa.qub.ac.uk/calib/.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<person-group person-group-type="author"><name><surname>Stuiver</surname><given-names>M</given-names></name><name><surname>Reimer</surname><given-names>PJ</given-names></name><name><surname>Reimer</surname><given-names>R</given-names></name></person-group>
+<year>2005</year>
+<article-title>CALIB 6.0. WWW program and documentation.</article-title>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://radiocarbon.pa.qub.ac.uk/calib/">http://radiocarbon.pa.qub.ac.uk/calib/</ext-link></comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': '8885c3db2dd0a651f52a47a3e9936d88e5f9c086', 'externalIds': {'MAG': '2599031494', 'CorpusId': 133214235}, 'url': 'https://www.semanticscholar.org/paper/8885c3db2dd0a651f52a47a3e9936d88e5f9c086', 'title': 'CALIB 5.0.2 [WWW program and documentation]', 'venue': '', 'year': 2005, 'publicationDate': None, 'journal': {'volume': '', 'name': ''}, 'authors': [{'authorId': '4248650', 'name': 'M. Stuiver'}, {'authorId': '40438943', 'name': 'P. Reimer'}, {'authorId': '46244360', 'name': 'R. Reimer'}]}
+
+<<<crossref>>>
+
+{'key': 'ref62', 'article-title': 'CALIB 6.0. WWW program and documentation.', 'author': 'M Stuiver', 'year': '2005'}

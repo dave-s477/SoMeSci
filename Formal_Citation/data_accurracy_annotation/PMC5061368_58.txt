@@ -1,0 +1,23 @@
+Pinheiro J, Bates D, DebRoy S, Sarkar D, the R Core team. Nlme: Linear and nonlinear mixed effects models. R package version 3. 2015 1–122. Available: http://CRAN.R-project.org/package=nlme. (2015-20-21).
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Pinheiro J, Bates D, DebRoy S, Sarkar D, the R Core team. Nlme: Linear and nonlinear mixed effects models. R package version 3. 2015 1&#8211;122. Available: <ext-link ext-link-type="uri" xlink:href="http://CRAN.R-project.org/package=nlme">http://CRAN.R-project.org/package=nlme</ext-link>. (2015-20-21).</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Nlme: Linear and nonlinear mixed effects models', 'venue': '', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Nlme: Linear and nonlinear mixed effects models. R package version 3. 2015 1–122. Available: http://CRAN.R-project.org/package=nlme', 'venue': 'Nlme: Linear and nonlinear mixed effects models. R package version 3. 2015 1–122. Available: http://CRAN.R-project.org/package=nlme', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_2>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Core team. Nlme: Linear and nonlinear mixed effects models. R package version 3. 2015 1–122', 'venue': 'http://CRAN.R-project.org/package=nlme', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref58', 'unstructured': 'Pinheiro J, Bates D, DebRoy S, Sarkar D, the R Core team. Nlme: Linear and nonlinear mixed effects models. R package version 3. 2015 1–122. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://CRAN.R-project.org/package=nlme" xlink:type="simple">http://CRAN.R-project.org/package=nlme</ext-link>. (2015-20-21).'}

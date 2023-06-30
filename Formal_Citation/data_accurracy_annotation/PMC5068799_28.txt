@@ -1,0 +1,22 @@
+Muthén LK, Muthén BO. Mplus User’s Guide. Los Angeles: Muthén and Muthén; 1998–2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><name><surname>Muth&#233;n</surname><given-names>LK</given-names></name>, <name><surname>Muth&#233;n</surname><given-names>BO</given-names></name>. <chapter-title>Mplus User&#8217;s Guide</chapter-title>
+<publisher-loc>Los Angeles</publisher-loc>: <publisher-name>Muth&#233;n and Muth&#233;n</publisher-name>; <year>1998&#8211;2012</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<<sem_entry_0>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "Mplus User's Guide. Los Angeles: Muthé n and Muthén", 'venue': "Mplus User's Guide. Los Angeles: Muthé n and Muthén", 'year': 1998, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<sem_entry_1>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': "Mplus User's Guide. Los Angeles: Muthé n and Muthén", 'venue': '', 'year': 1998, 'publicationDate': None, 'journal': None, 'authors': []}
+
+
+
+<<<crossref>>>
+
+{'key': 'ref28', 'author': 'LK Muthén', 'year': '1998'}

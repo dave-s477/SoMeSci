@@ -1,0 +1,13 @@
+Revelle W. psych: Procedures for Psychological, Psychometric, and Personality Research psych: Procedures for Psychological, Psychometric, and Personality Research2017 [https://cran.r-project.org/web/packages/psych/.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Revelle W. psych: Procedures for Psychological, Psychometric, and Personality Research psych: Procedures for Psychological, Psychometric, and Personality Research2017 [<ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/psych/">https://cran.r-project.org/web/packages/psych/</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref23', 'unstructured': 'Revelle W. psych: Procedures for Psychological, Psychometric, and Personality Research psych: Procedures for Psychological, Psychometric, and Personality Research2017 [<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/psych/" xlink:type="simple">https://cran.r-project.org/web/packages/psych/</ext-link>.'}

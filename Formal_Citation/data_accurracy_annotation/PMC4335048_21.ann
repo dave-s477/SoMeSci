@@ -1,0 +1,37 @@
+T0	Creator 0 18	SAS Institute Inc.
+T1	Name 19 22	SAS
+T2	Version 23 26	9.2
+T3	Creator 51 68	SAS Institute Inc
+T4	PubDate_year 70 74	2009
+T5	Type_of_citation 27 39	user's guide
+T6	Creator 240 258	SAS Institute Inc.
+T7	Name 259 262	SAS
+T8	Version 263 266	9.2
+T9	Type_of_citation 267 279	user's guide
+T10	Creator 353 370	SAS Institute Inc
+T11	PubDate_year 395 399	2009
+T12	unstructured 240 258	SAS Institute Inc.
+T13	unstructured 259 262	SAS
+T14	unstructured 263 266	9.2
+T15	unstructured 267 279	user's guide
+T16	Version 581 582	9
+T17	incomplete_content 581 582	9
+T18	Type_of_citation 533 545	user's guide
+T19	unstructured 533 545	user's guide
+T20	unstructured 581 582	9
+T21	Creator 558 576	SAS Institute Inc.
+T22	wrong_place 558 576	SAS Institute Inc.
+T23	unstructured 558 576	SAS Institute Inc.
+T24	Name 577 580	SAS
+T25	wrong_place 577 580	SAS
+T26	unstructured 577 580	SAS
+T27	wrong_place 581 582	9
+T28	PubDate_year 593 597	2009
+T29	Name 738 741	SAS
+T30	Version 742 745	9.2
+T31	Type_of_citation 746 758	user's guide
+T32	duplicate 771 791	SAS 9.2 user's guide
+T33	PubDate_year 802 806	2009
+T34	unstructured 738 741	SAS
+T35	unstructured 742 745	9.2
+T36	unstructured 746 758	user's guide

@@ -1,0 +1,13 @@
+Leroy JL. (2011). ZSCORE06: Stata command for the calculation of anthropometric z-scores using the 2006 WHO child growth standards [computer program]. http://econpapers.repec.org/software/bocbocode/s457279.htm. Accessed 11 September 2015.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Leroy JL. (2011). ZSCORE06: Stata command for the calculation of anthropometric z-scores using the 2006 WHO child growth standards [computer program]. <ext-link ext-link-type="uri" xlink:href="http://econpapers.repec.org/software/bocbocode/s457279.htm">http://econpapers.repec.org/software/bocbocode/s457279.htm</ext-link>. Accessed 11 September 2015.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+<<<crossref>>>
+
+{'key': 'ref51', 'unstructured': 'Leroy JL. (2011). ZSCORE06: Stata command for the calculation of anthropometric z-scores using the 2006 WHO child growth standards [computer program]. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://econpapers.repec.org/software/bocbocode/s457279.htm" xlink:type="simple">http://econpapers.repec.org/software/bocbocode/s457279.htm</ext-link>. Accessed 11 September 2015.'}

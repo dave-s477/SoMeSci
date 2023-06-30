@@ -1,0 +1,14 @@
+SAS, SAS/STAT User’s Guide (version 6), 4th ed. 1990; Statistical Analysis Systems Institute, Cary, NC, USA.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>SAS</collab>, <source>SAS/STAT User&#8217;s Guide (version 6)</source>, <edition>4th ed</edition>
+<year>1990</year>; <publisher-name>Statistical Analysis Systems Institute</publisher-name>, <publisher-loc>Cary, NC, USA</publisher-loc>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SAS/STAT User’s Guide (version 6)', 'venue': '', 'year': 1990, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref17', 'article-title': 'SAS/STAT User’s Guide (version 6)', 'year': '1990'}

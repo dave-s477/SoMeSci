@@ -1,0 +1,15 @@
+Microsoft. Microsoft Excel Computer Software. Washington, Microsoft;2007.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>Microsoft</collab>. <source>Microsoft Excel Computer Software</source>. <publisher-loc>Washington</publisher-loc>, <publisher-name>Microsoft</publisher-name>;<year>2007</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref20', 'article-title': 'Microsoft Excel Computer Software', 'year': '2007'}

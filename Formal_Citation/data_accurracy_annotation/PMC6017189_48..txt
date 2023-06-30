@@ -1,0 +1,15 @@
+Case, D.A.; Betz, R.M.; Cerutti, D.S.; Cheatham III, T.E.; Darden, T.A.; Duke, R.E.; Giese, T.J.; Gohlke, H.; Goetz, A.W.; Homeyer, N.; Izadi, S.; et al. AMBER 2016 Reference Manual; University of California: San Francisco, CA, USA, 2016; pp. 1–923.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><person-group person-group-type="author"><name><surname>Case</surname><given-names>D.A.</given-names></name><name><surname>Betz</surname><given-names>R.M.</given-names></name><name><surname>Cerutti</surname><given-names>D.S.</given-names></name><name><surname>Cheatham III</surname><given-names>T.E.</given-names></name><name><surname>Darden</surname><given-names>T.A.</given-names></name><name><surname>Duke</surname><given-names>R.E.</given-names></name><name><surname>Giese</surname><given-names>T.J.</given-names></name><name><surname>Gohlke</surname><given-names>H.</given-names></name><name><surname>Goetz</surname><given-names>A.W.</given-names></name><name><surname>Homeyer</surname><given-names>N.</given-names></name><name><surname>Izadi</surname><given-names>S.</given-names></name><etal/></person-group><source>AMBER 2016 Reference Manual</source><publisher-name>University of California</publisher-name><publisher-loc>San Francisco, CA, USA</publisher-loc><year>2016</year><fpage>1</fpage><lpage>923</lpage></element-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref48', 'series-title': 'AMBER 2016 Reference Manual', 'first-page': '1', 'author': 'Case', 'year': '2016'}

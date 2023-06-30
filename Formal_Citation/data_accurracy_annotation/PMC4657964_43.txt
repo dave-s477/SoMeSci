@@ -1,0 +1,12 @@
+Sergeant, ESG. Epitools epidemiological calculators. AusVet Animal Health Services and Australian Biosecurity Cooperative Research Centre for Emerging Infectious Disease; 2015.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>Sergeant, ESG</collab>. <source>Epitools epidemiological calculators</source>. <publisher-name>AusVet Animal Health Services and Australian Biosecurity Cooperative Research Centre for Emerging Infectious Disease</publisher-name>; <year>2015</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Epitools epidemiological calculators. AusVet Animal Health Services and Australian Biosecurity Cooperative Research Centre for Emerging Infectious Disease', 'venue': '', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref43', 'article-title': 'Epitools epidemiological calculators', 'year': '2015'}

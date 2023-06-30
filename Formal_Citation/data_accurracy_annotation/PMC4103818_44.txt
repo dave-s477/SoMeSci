@@ -1,0 +1,15 @@
+Boersma P (2001) Praat, a system for doing phonetics by computer. Glot International 5: 341–345.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="journal">
+<name><surname>Boersma</surname><given-names>P</given-names></name> (<year>2001</year>) <article-title>Praat, a system for doing phonetics by computer</article-title>. <source>Glot International</source>
+<volume>5</volume>: <fpage>341</fpage>&#8211;<lpage>345</lpage>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': 'a3223f1fa1718bf3913753cabda44d854392287b', 'externalIds': {'MAG': '1875231349', 'CorpusId': 60531168}, 'url': 'https://www.semanticscholar.org/paper/a3223f1fa1718bf3913753cabda44d854392287b', 'title': 'Praat, a system for doing phonetics by computer', 'venue': '', 'year': 2002, 'publicationDate': None, 'journal': {'volume': '5', 'pages': '341-345', 'name': ''}, 'authors': [{'authorId': '145317765', 'name': 'P. Boersma'}]}
+
+<<<crossref>>>
+
+{'key': 'ref44', 'first-page': '341', 'article-title': 'Praat, a system for doing phonetics by computer', 'volume': '5', 'author': 'P Boersma', 'year': '2001', 'journal-title': 'Glot International'}

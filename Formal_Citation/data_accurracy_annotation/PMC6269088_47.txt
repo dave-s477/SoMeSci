@@ -1,0 +1,15 @@
+Kotikalapudi R. keras-vis. GitHub; 2018 [cited 2018 Nov 9]. https://github.com/raghakot/keras-vis.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Kotikalapudi R. keras-vis. GitHub; 2018 [cited 2018 Nov 9]. <ext-link ext-link-type="uri" xlink:href="https://github.com/raghakot/keras-vis">https://github.com/raghakot/keras-vis</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+<<reference missing>>
+
+
+
+<<<crossref>>>
+
+{'key': 'ref47', 'unstructured': 'Kotikalapudi R. keras-vis. GitHub; 2018 [cited 2018 Nov 9]. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://github.com/raghakot/keras-vis" xlink:type="simple">https://github.com/raghakot/keras-vis</ext-link>.'}

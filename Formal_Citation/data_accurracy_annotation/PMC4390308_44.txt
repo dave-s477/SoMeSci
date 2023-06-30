@@ -1,0 +1,13 @@
+Kalucki J. Streaming API Documentation; 2010. Available from: http://apiwiki.twitter.com/\w/page/22554673/Streaming-API-Documentation?rev = 1268351420.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Kalucki J. Streaming API Documentation; 2010. Available from: <ext-link ext-link-type="uri" xlink:href="http://apiwiki.twitter.com/\w/page/22554673/Streaming-API-Documentation?rev=1268351420">http://apiwiki.twitter.com/\w/page/22554673/Streaming-API-Documentation?rev = 1268351420</ext-link>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Streaming API Documentation', 'venue': '', 'year': 2010, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref44', 'unstructured': 'Kalucki J. Streaming API Documentation; 2010. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://apiwiki.twitter.com/\\w/page/22554673/Streaming-API-Documentation?rev = 1268351420" xlink:type="simple">http://apiwiki.twitter.com/\\w/page/22554673/Streaming-API-Documentation?rev = 1268351420</ext-link>.'}

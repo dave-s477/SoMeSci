@@ -1,0 +1,11 @@
+Rambaut A, Drummond AJ (2007) Tracer v1.4. Available: http://beast.bio.ed.ac.uk/Tracer. Accessed 2012 Oct 4.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Rambaut A, Drummond AJ (2007) Tracer v1.4. Available: <ext-link ext-link-type="uri" xlink:href="http://beast.bio.ed.ac.uk/Tracer">http://beast.bio.ed.ac.uk/Tracer</ext-link>. Accessed 2012 Oct 4.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Tracer v1.4. Available: http://beast.bio.ed. ac.uk/Tracer FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3). Updated from Goudet', 'venue': 'Tracer v1.4. Available: http://beast.bio.ed. ac.uk/Tracer FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3). Updated from Goudet', 'year': 1995, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref54', 'unstructured': 'Rambaut A, Drummond AJ (2007) Tracer v1.4. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://beast.bio.ed.ac.uk/Tracer" xlink:type="simple">http://beast.bio.ed.ac.uk/Tracer</ext-link>. Accessed 2012 Oct 4.'}

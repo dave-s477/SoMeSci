@@ -1,0 +1,14 @@
+SAS. SAS Version 9.2. Cary, NC: SAS Institute Inc; 2012.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book">
+<collab>SAS</collab>. <source>SAS Version 9.2</source>. <publisher-loc>Cary, NC</publisher-loc>: <publisher-name>SAS Institute Inc</publisher-name>; <year>2012</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'SAS. SAS Version 9.2. Cary, NC: SAS Institute Inc', 'venue': 'SAS. SAS Version 9.2. Cary, NC: SAS Institute Inc', 'year': 2012, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref34', 'article-title': 'SAS Version 9.2', 'year': '2012'}

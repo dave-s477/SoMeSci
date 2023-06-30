@@ -1,0 +1,18 @@
+McCune B, Mefford MJ (1999) PC-ORD: Multivariate Analysis of Ecological Data, version 4. MjM Software Design: Gleneden Beach, OR.
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">
+<person-group person-group-type="author"><name><surname>McCune</surname><given-names>B</given-names></name><name><surname>Mefford</surname><given-names>MJ</given-names></name></person-group>
+<year>1999</year>
+<article-title>PC-ORD: Multivariate Analysis of Ecological Data, version 4.</article-title>
+<comment>MjM Software Design: Gleneden Beach, OR</comment>
+</element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': 'efd00e582ee5fe4eb85eb13cf989ef39b6a293cc', 'externalIds': {'MAG': '2163180067', 'DOI': '10.2307/20168234', 'CorpusId': 131686109}, 'url': 'https://www.semanticscholar.org/paper/efd00e582ee5fe4eb85eb13cf989ef39b6a293cc', 'title': 'PC‐ORD: Multivariate Analysis of Ecological Data', 'venue': 'The Bulletin of the Ecological Society of America', 'year': 1998, 'publicationDate': '1998-04-01', 'journal': {'name': 'The Bulletin of the Ecological Society of America'}, 'authors': [{'authorId': '1403287239', 'name': 'Aaron M.Ellison'}]}
+
+<<<crossref>>>
+
+{'key': 'ref19', 'article-title': 'PC-ORD: Multivariate Analysis of Ecological Data, version 4.', 'author': 'B McCune', 'year': '1999'}

@@ -1,0 +1,13 @@
+Mott B, Anthony S. Stella: a multiplatform Atari 2600 VCS emulator; 2003.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Mott B, Anthony S. Stella: a multiplatform Atari 2600 VCS emulator; 2003.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stella: a multiplatform Atari 2600 VCS emulator', 'venue': '', 'year': 2003, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref16', 'unstructured': 'Mott B, Anthony S. Stella: a multiplatform Atari 2600 VCS emulator; 2003.'}

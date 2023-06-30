@@ -1,0 +1,27 @@
+T0	Creator 0 3	SAS
+T1	Name 5 8	SAS
+T2	Version 17 20	9.2
+T3	Creator 32 49	SAS Institute Inc
+T4	PubDate_year 51 55	2012
+T5	Creator 214 217	SAS
+T6	Name 236 239	SAS
+T7	Version 248 251	9.2
+T8	Creator 319 336	SAS Institute Inc
+T9	PubDate_year 361 365	2012
+T10	unstructured 236 239	SAS
+T11	unstructured 248 251	9.2
+T12	Creator 478 481	SAS
+T13	Name 483 486	SAS
+T14	Version 495 498	9.2
+T15	Creator 510 527	SAS Institute Inc
+T16	duplicate 540 589	SAS. SAS Version 9.2. Cary, NC: SAS Institute Inc
+T17	PubDate_year 600 604	2012
+T18	unstructured 478 481	SAS
+T19	unstructured 483 486	SAS
+T20	unstructured 495 498	9.2
+T21	unstructured 510 527	SAS Institute Inc
+T22	Name 715 718	SAS
+T23	Version 727 730	9.2
+T24	unstructured 715 718	SAS
+T25	unstructured 727 730	9.2
+T26	PubDate_year 742 746	2012

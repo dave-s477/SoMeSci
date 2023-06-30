@@ -1,0 +1,11 @@
+Molecular Operating Environment (MOE). Available online: https://www.chemcomp.com/MOE-Molecular_Operating_Environment.htm (accessed on 23 November 2017).
+
+<<<publisher>>>
+
+<element-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="web"><article-title>Molecular Operating Environment (MOE)</article-title><comment>Available online: <ext-link ext-link-type="uri" xlink:href="https://www.chemcomp.com/MOE-Molecular_Operating_Environment.htm">https://www.chemcomp.com/MOE-Molecular_Operating_Environment.htm</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2017-11-23">(accessed on 23 November 2017)</date-in-citation></element-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Molecular Operating Environment (MOE)', 'venue': '', 'year': None, 'publicationDate': None, 'journal': None, 'authors': []}<<<crossref>>>
+
+{'key': 'ref43', 'unstructured': 'Molecular Operating Environment (MOE)https://www.chemcomp.com/MOE-Molecular_Operating_Environment.htm'}

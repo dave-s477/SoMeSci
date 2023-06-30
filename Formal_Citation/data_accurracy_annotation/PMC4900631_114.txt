@@ -1,0 +1,13 @@
+Canty A, Ripley B. boot: Bootstrap R (S-Plus) Functions. 2015.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="other">Canty A, Ripley B. boot: Bootstrap R (S-Plus) Functions. 2015.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'boot: Bootstrap R (S-Plus) Functions', 'venue': '', 'year': 2015, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+{'key': 'ref114', 'unstructured': 'Canty A, Ripley B. boot: Bootstrap R (S-Plus) Functions. 2015.'}

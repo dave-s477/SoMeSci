@@ -1,0 +1,16 @@
+StataCorp. Stata version 13.1. Texas: StataCorp LP; 2013.
+
+<<<publisher>>>
+
+<mixed-citation xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" publication-type="book"><collab>StataCorp.</collab>
+<chapter-title>Stata version 13.1</chapter-title>
+<publisher-loc>Texas</publisher-loc>: <publisher-name>StataCorp LP</publisher-name>; <year>2013</year>.</mixed-citation>
+
+<<<semantic_scholar>>>
+
+{'paperId': None, 'externalIds': None, 'url': None, 'title': 'Stata version 13.1. Texas: StataCorp LP', 'venue': 'Stata version 13.1. Texas: StataCorp LP', 'year': 2013, 'publicationDate': None, 'journal': None, 'authors': []}
+
+<<<crossref>>>
+
+<<reference missing>>
+
